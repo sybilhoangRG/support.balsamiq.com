@@ -9,11 +9,10 @@ draft: ''
 
 ---
 
-Despite being optimized for rough, "sketchy"-looking wireframes, Balsamiq can also be used to create clean, polished wireframes, like the one below.
+Balsamiq is optimized for creating rough, "sketchy"-looking wireframes ([read why here](/resources/whatarewireframes/#why-do-these-wireframes-look-the-way-they-do)), but there are *some* situations where a cleaner, more polished look is more appropriate. These include client presentations, portfolio samples, or Instagramming ;-) 
 
-[![](https://media.balsamiq.com/img/blogs/ux/example-beenstagram-storyboard-2.png)](https://blog.balsamiq.com/creating-polished-wireframes/)
 
-In a blog post called [**"Creating Polished Wireframes"**](https://blog.balsamiq.com/creating-polished-wireframes/), we walk you through the process of using Balsamiq to create neat, aesthetically-pleasing wireframes suited for client presentations, portfolio samples, or Instagramming. 
+In a blog post called [**"Creating Polished Wireframes"**](https://blog.balsamiq.com/creating-polished-wireframes/), we walk you through the process of using Balsamiq to create neat, aesthetically-pleasing wireframes using the ["wireframe" skin](/desktop/wireframeskin/). 
 
 Here's a preview:
 
