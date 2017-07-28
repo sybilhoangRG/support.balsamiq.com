@@ -34,6 +34,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 *   **[How can I purchase, manage or cancel a Mockups for Google Drive subscription?](/sales/gdrivesubscription/)**
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
+*   [Can I buy Balsamiq Mockups for Google Drive for my company or someone else?](/sales/gdrivecompany)
 
 ## Terms of Service
 
