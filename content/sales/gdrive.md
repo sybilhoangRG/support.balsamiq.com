@@ -36,11 +36,11 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 *   **[How can I purchase, manage or cancel a Balsamiq for Google Drive subscription?](/sales/gdrivesubscription/)**
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
-*   [Can I buy Balsamiq Mockups for Google Drive for my company or someone else?](/sales/gdrivecompany)
+*   [Can I buy Balsamiq for Google Drive for my company or someone else?](/sales/gdrivecompany)
 
 ## Terms of Service
 
-*   [Balsamiq Mockups Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
+*   [Balsamiq Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
 *   [Our legal department would like to make some changes to your Terms of Service. Is that ok?](/sales/customeula/)
 *   [The Terms of Service is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
 *   [Are your products Open Source software applications?](/sales/opensource/)
@@ -49,6 +49,6 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 ## Professional Services and Customization
 
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
-*   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
+*   [Is Balsamiq Section 508 compliant?](/sales/508/)
 
 **More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20Balsamiq%20for%20Google%20Drive)
