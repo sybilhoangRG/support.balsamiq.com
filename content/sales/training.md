@@ -11,7 +11,7 @@ draft: ''
 
 Balsamiq does not offer professional services such as on-site training, implementation, or software customizations. If you are looking for Balsamiq experts who can, [try this list of resources](/resources/lookingforhelp/).
 
-We also don't have the resources to do live demonstrations or training, but we do have many demo videos and tutorials available on our web site. Some good places to visit are our **[Tutorials](/tutorials/)**, the [Mockups documentation](https://docs.balsamiq.com/desktop/), and the [myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/).
+We also don't have the resources to do live demonstrations or training, but we do have many demo videos and tutorials available on our web site. Some good places to visit are our **[Tutorials](/tutorials/)**, the [Mockups 3 for Desktop documentation](https://docs.balsamiq.com/desktop/), and the [myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/).
 
 If you are new to Mockups, you might want to start with our **[intro demo video](/tutorials/introvideo/)**, followed by our [tutorial on creating your first mockup](/tutorials/firstmockup/).
 
