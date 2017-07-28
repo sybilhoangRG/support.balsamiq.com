@@ -34,6 +34,8 @@ This page highlights some community tools and websites which might be useful to 
 *   [**Magento Wireframes**](http://www.nublue.co.uk/blog/free-responsive-magento-wireframes/) is a set of templates for desktop and mobile layouts for [Magento](http://magento.com/) created by NuBlue.
 *   [**Sharepoint Templates**](http://sp365.co.uk/2015/01/sharepoint-2013-balsamiq-mockup-template/) by Matthew Hughes from [Flucidity](http://flucidity.co.uk/).
 *   [**Bootstrap Grid Template**](https://github.com/guiltry/bootstrap-balsamiq-grid-template) by [Harry Budianto](http://blog.guiltry.com/bootstrap-grid-for-balsamiq/).
+*   [**Salesforce Lightning Design System Templates**](http://www.creativeatheart.com/free-salesforce-lightning-design-system-wireframe-balsamiq-mockups/) by [Ben Legate](http://www.creativeatheart.com/).
+
 
 * * *
 
