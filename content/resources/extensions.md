@@ -34,6 +34,8 @@ This page highlights some community tools and websites which might be useful to 
 *   [**Magento Wireframes**](http://www.nublue.co.uk/blog/free-responsive-magento-wireframes/) is a set of templates for desktop and mobile layouts for [Magento](http://magento.com/) created by NuBlue.
 *   [**Sharepoint Templates**](http://sp365.co.uk/2015/01/sharepoint-2013-balsamiq-mockup-template/) by Matthew Hughes from [Flucidity](http://flucidity.co.uk/).
 *   [**Bootstrap Grid Template**](https://github.com/guiltry/bootstrap-balsamiq-grid-template) by [Harry Budianto](http://blog.guiltry.com/bootstrap-grid-for-balsamiq/).
+*   [**Salesforce Lightning Design System Templates**](http://www.creativeatheart.com/free-salesforce-lightning-design-system-wireframe-balsamiq-mockups/) by [Ben Legate](http://www.creativeatheart.com/).
+
 
 * * *
 
@@ -102,7 +104,8 @@ _Note that we are not affiliated with any of these tools and can't ensure they w
 *   **[SpeedWapp](http://speedwapp.com/)** imports BMML files to their dynamic web page builder
 *   **[Mobile Phone Gestures](http://blog.eam.mx/?p=332)** is a Balsamiq file that contains images of hands performing gestures to overlay on the iPhone control.
 *   **[Indigo Studio](http://help.indigodesigned.com/designing-with-screens/importing-balsamiq-mockups)** can import BMML files so that you can turn them into interactive prototypes.
-*   **[myBalsamiq Filters](https://chrome.google.com/webstore/detail/mybalsamiq-filters/gagblddckdciigfefkdblepgnbcnbbao)** is a Google Chrome extension to filter your myBalsamiq projects by name or cover style. 
+*   **[myBalsamiq Filters](https://chrome.google.com/webstore/detail/mybalsamiq-filters/gagblddckdciigfefkdblepgnbcnbbao)** is a Google Chrome extension to filter your myBalsamiq projects by name or cover style.
+*   **[JSON Converter for BMPR](https://github.com/waqasilyas/json-converter-bmpr)** is a simple command line utility that converts a Balsamiq Mockups 3 Project file (BMPR) to readable JSON, for quick viewing and creating diffs.
 
 * * *
 

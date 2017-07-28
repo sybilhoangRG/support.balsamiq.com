@@ -36,6 +36,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 *   **[How can I purchase, manage or cancel a Balsamiq for Google Drive subscription?](/sales/gdrivesubscription/)**
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
+*   [Can I buy Balsamiq Mockups for Google Drive for my company or someone else?](/sales/gdrivecompany)
 
 ## Terms of Service
 
@@ -50,4 +51,4 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
 
-​**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20Balsamiq%20for%20Google%20Drive)
+**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20Balsamiq%20for%20Google%20Drive)

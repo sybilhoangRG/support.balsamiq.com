@@ -279,6 +279,8 @@
   var seventhPiece = document.location.href.split("/")[6];
   if (seventhPiece) {
 
+    var articleID = seventhPiece.split("-")[0].split("#")[0];
+
     //Redirect old DBC URLs
     var redirects = {};
     redirects["127377"] = "desktop/";
@@ -326,8 +328,7 @@
     redirects["113839"] = "confluence/";
     redirects["113842"] = "jira/";
     redirects["113844"] = "jira/";
-
-    var articleID = seventhPiece.split("-")[0].split("#")[0];
+    redirects["131430"] = "resources/mockupstogo/";
 
     if (redirects[articleID] != null)
     {

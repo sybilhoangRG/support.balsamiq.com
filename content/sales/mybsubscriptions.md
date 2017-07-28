@@ -25,7 +25,7 @@ To sign up for a paid subscription, simply pick a plan and select the Sign Up bu
 
 ![](https://media.balsamiq.com/img/support/docs/myb/payment-signup.png)
 
-You'll be given the option to pay monthly or yearly when you enter your credit card information in the [secure](/sales/safe/) sign-up form. Choose the site owner or [secondary billing administrator's](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) email for delivery of invoices, and select "Sign Up. You are free to [cancel](#stopping-your-subscription) your subscription at any time.
+You'll be given the option to pay monthly or yearly when you enter your credit card information in the [secure](/sales/safe/) sign-up form. Choose the site owner or [secondary billing administrator's](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) email for delivery of invoices, and select "Sign Up". You are free to [cancel](#stopping-your-subscription) your subscription at any time.
 
 * * *
 
@@ -113,7 +113,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 ## Stopping Your Subscription
 
-The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can stop your subscription at any time in the Site Settings, under Payment Info. Site Settings can be reach by selecting "My Info" from the main site navigation.
+The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can stop your subscription at any time in the Site Settings, under Payment Info. Site Settings can be reached by selecting "My Info" from the main site navigation.
 
 To stop the auto-renew of your subscription select “Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your myBalsamiq site will end at the conclusion of the current billing period.
 
