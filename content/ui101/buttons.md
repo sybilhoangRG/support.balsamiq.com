@@ -5,7 +5,7 @@ menu: menuui101
 weight: 10
 ---
 
-Designing buttons may seem obvious, but they are surprisingly complex and there are a few tricky things to look out for.
+Designing buttons may seem obvious, but they are surprisingly complex and there are a few tricky things to look out for.<!--more--> 
 
 ## When to Use Buttons
 

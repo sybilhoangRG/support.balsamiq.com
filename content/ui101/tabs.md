@@ -5,7 +5,9 @@ menu: menuui101
 weight: 45
 ---
 
-Using tabs to break up content into sections is a double-edged sword. On the one hand, it focuses attention on a subset of content to make the page easier to take in. On the other hand, it buries other content, making users guess where it is, or if it even exists.
+Using tabs to break up content into sections is a double-edged sword.<!--more--> 
+
+On the one hand, it focuses attention on a subset of content to make the page easier to take in. On the other hand, it buries other content, making users guess where it is, or if it even exists. 
 
 In ["About Face 3: The Essentials of Interaction Design"](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111), Alan Cooper says "navigation is excise" - meaning that any time a user is required to jump from one page to another, it adds a cognitive cost to their experience. The authors write: "the work that users are forced to do to get around in software and on Web sites is seldom aligned with their needs, goals, and desires" and urge designers to minimize the amount of navigation required.
 

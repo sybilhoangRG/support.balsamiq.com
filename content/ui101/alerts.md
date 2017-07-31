@@ -5,7 +5,9 @@ menu: menuui101
 weight: 40
 ---
 
-Defining (and designing) an alert is tricky. Any UI control that captures the user's attention can be thought of as an alert. For the purposes of this guide, alerts are characterized by being interruptive and **requiring action to proceed**, unlike notifications or [validation messages](../validation/). 
+Any UI control that captures the user's attention can be thought of as an alert.<!--more-->  
+
+For the purposes of this guide, alerts are characterized by being interruptive and **requiring action to proceed**, unlike notifications or [validation messages](../validation/). 
 
 ## When to Use Alerts
 
