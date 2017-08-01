@@ -5,7 +5,9 @@ menu: menuui101
 weight: 50
 ---
 
-Breadcrumbs are a compact way to show a site or application hierarchy. They not only show users where they are, but provide an easy way to allow them to navigate up multiple levels.
+Breadcrumbs are a compact way to show a site or application hierarchy.<!--more-->  
+
+They not only show users where they are, but provide an easy way to allow them to navigate up multiple levels.
 
 Because they only require a small amount of space, they are unobtrusive and not distracting. The [Nielsen Norman Group writes](https://www.nngroup.com/articles/breadcrumb-navigation-useful/) that "user testing shows **many benefits and no downsides to breadcrumbs** for secondary navigation."
 

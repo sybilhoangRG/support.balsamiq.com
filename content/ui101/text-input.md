@@ -4,7 +4,9 @@ date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 15
 ---
-Text input fields allow keyboard input from the user. They are frequently used in with other types of input controls in a form, but can be used on their own.
+Text input fields allow keyboard input from the user.<!--more--> 
+
+They are frequently used in with other types of input controls in a form, but can be used on their own.
 
 ## When to Use Text Input
 

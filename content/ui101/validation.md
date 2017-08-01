@@ -5,7 +5,9 @@ menu: menuui101
 weight: 35
 ---
 
-Validation is often used as a light-weight alternative to [alerts](../alerts/). It is a great way to present feedback or guidance to users with limited interruption.
+Validation is often used as a light-weight alternative to [alerts](../alerts/).<!--more--> 
+
+It is a great way to present feedback or guidance to users with limited interruption. 
 
 ## When to Use Validation
 
