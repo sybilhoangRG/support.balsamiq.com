@@ -1,5 +1,5 @@
 ---
-title: Managing Your Balsamiq for Google Drive Subscription
+title: Managing Your Mockups 3 for Google Drive Subscription
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 620
 menu:
@@ -9,37 +9,35 @@ draft: ''
 
 ---
 
-{{% alert warning %}}**Note:** We have recently released **Balsamiq Wireframes for Google Drive**. If you have an existing Mockups 3 for Google Drive subscription, please read our [transition guide](http://docs.balsamiq.com/google-drive/wireframes/transition/). Your subscription and billing information will remain the same.{{% /alert %}}
+This page describes how you can purchase a Mockups 3 for Google Drive subscription, cancel your plan, and make changes to your billing information.
 
-This page describes how you can purchase a Balsamiq for Google Drive subscription, cancel your plan, and make changes to your billing information.
+Subscriptions for Mockups 3 for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Mockups for Google Drive.
 
-Subscriptions for Balsamiq for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Balsamiq for Google Drive.
-
-The Balsamiq for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/).
+The Mockups 3 for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/).
 
 * * *
 
 ## Signing up for a Subscription
 
-Before signing up for a subscription, you must first [install](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) Balsamiq for Google Drive.
+Before signing up for a subscription, you must first [install](https://docs.balsamiq.com/google-drive/installing/) Mockups for Google Drive.
 
-As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Balsamiq for Google Drive.
+As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Mockups 3 for Google Drive.
 
-At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you will be able to view existing wireframes, but you will not be able to edit or create new wireframes unless you sign up for a paid plan.
+At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you will be able to view existing mockups, but you will not be able to edit or create new mockups unless you sign up for a paid plan.
 
-Balsamiq for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
+Mockups 3 for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
 
-To sign up for a plan, open Balsamiq for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
+To sign up for a plan, open Mockups for Google Drive by creating a [new project](https://docs.balsamiq.com/google-drive/intro/#creating-a-new-project) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
 
-![](//media.balsamiq.com/img/support/sales/bwgd/help_signup.png)
+![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/help_signup.png)
 
-If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Balsamiq for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the wireframe viewer.
+If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Mockups 3 for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the mockup viewer.
 
-![](https://media.balsamiq.com/img/support/sales/bwgd/gdrive_expired_trial.png)
+![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/expired_signup.png)
 
 You will then be taken to the billing page.
 
-![](https://media.balsamiq.com/img/support/sales/bwgd/billing_signup.png)
+![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_signup.png)
 
 Click on your preferred plan (monthly or yearly), enter your credit card and billing information in the [secure](/sales/safe/) sign-up form, and select "Sign Up". You are free to [cancel your subscription](#stopping-your-subscription) at any time.
 
@@ -49,11 +47,11 @@ That's it!
 
 ## Updating Your Credit Card or Invoice Information
 
-{{% alert info %}}**Note:** If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
-First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
+First select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
 
-![](https://media.balsamiq.com/img/support/sales/bwgd/gdrive_billing_active.png)
+![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_active.png)
 
 Select "Update Credit Card" to update the credit card and billing address for future renewals.   If you only wish to update the billing address on future invoices, select "Update Address." 
 
@@ -75,7 +73,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 ## Changing Your Plan
 
-{{% alert info %}}**Note:** If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 You can switch your billing frequency between a monthly plan and an annual plan at any time.
 
@@ -99,7 +97,7 @@ After you have migrated, any future changes to your billing frequency will work 
 
 ## Finding past Invoices
 
-{{% alert info %}}**Note:** If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 We send invoice notifications to your subscription email address following your automatic credit card payment. A link to your invoice, as well as to your billing page is included in this email.
 
@@ -115,13 +113,13 @@ You must be logged in to view your billing page, however if you need to share in
 
 ## Stopping Your Subscription
 
-You can cancel Balsamiq for Google Drive at any time.
+You can cancel Mockups 3 for Google Drive at any time.
 
-First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page.
+First, select “Manage your Subscription” from the Help menu. This will bring you to your billing page.
 
-Select "Cancel Subscription" and then confirm the cancelation. By selecting "Cancel Subscription", you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
+Select “Cancel Subscription” and then confirm the cancelation. By selecting “Cancel Subscription,” you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
 
-After your subscription ends, you will be able to view existing wireframes in your Google Drive account. However, you will no longer be able to edit or create new wireframes.
+After your subscription ends, you will be able to view existing mockups in your Google Drive account. However, you will no longer be able to edit or create new mockups.
 
 * * *
 
@@ -129,7 +127,7 @@ After your subscription ends, you will be able to view existing wireframes in yo
 
 If you wish to restart your subscription, simply select "Restart Subscription" from your billing page.  
 
-You can access the billing page for your inactive subscription by trying to [create a new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
+You can access the billing page for your inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/intro/#creating-a-new-project), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
 
 You'll need to enter your credit card to complete the re-activation.
 
@@ -137,12 +135,12 @@ You'll need to enter your credit card to complete the re-activation.
 
 ## Changing Your Google ID
 
-Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Balsamiq for Google Drive.
+Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Mockups 3 for Google Drive.
 
-If you wish to change your subscription to use Balsamiq for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](#stopping-your-subscription) and [re-sign up](#signing-up-for-a-subscription) when logged in with the Google ID you prefer to use.
+If you wish to change your subscription to use Mockups 3 for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](#stopping-your-subscription) and [re-sign up](#signing-up-for-a-subscription) when logged in with the Google ID you prefer to use.
 
 If you purchased the subscription for the wrong Google ID or user, not to worry! We have a very generous [refund](/sales/refunds/) policy to get you back on track.
 
 * * *
 
-​**Questions? [Please contact us!](mailto:sales@balsamiq.com?subject=I%20have%20questions%20regarding%20my%20Balsamiq%20for%20Google%20Drive%20Subscription)**
+​**Questions? [Please contact us!](mailto:sales@balsamiq.com?subject=I%20have%20questions%20regarding%20my%20Mockups%20for%20Google%20Drive%20Subscription)**
