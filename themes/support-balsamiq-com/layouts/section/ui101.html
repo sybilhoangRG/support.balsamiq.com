@@ -7,9 +7,6 @@
 {{/* ======================================== */}}
 
 <div class="row">
-  {{ $totalCount := len (where .Site.Pages "Section" "ui101") }} <!-- total number of articles in this section -->
-  {{ $rowCount := (div (add (add $totalCount 1) (mod $totalCount 4)) 4) }} <!-- number of rows at the bottom -->
-
   <div class="col-xs-12 doc-overview">
     <main role="main">
       <div class="doc-list-header">
@@ -21,50 +18,16 @@
             <p>Each article below explains how and when to use the building blocks of UI to create great experiences. Updated regularly.</p>
         </div>
       </div>
-      <!-- <div class="container-fluid fluid-max"> -->
-
       <div id="filterlist" class="row gallery">
-          <div class="col-xs-6 col-sm-4 col-md-3">
-        {{ range first $rowCount (.Data.Pages.ByWeight) }}
+      {{ range .Data.Pages.ByWeight }}
+          <div class="fitem col-xs-6 col-sm-4 col-md-3">
             <div class="gallery-item">
             <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p>{{ .Summary | plainify | htmlUnescape }}</p>
           </div></div>
-        {{ end }}
-        {{/* <div class="list-group">
-        <div class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/coming-soon.png"><br><em>More coming soon...</em></div>
-        </div> */}}
       </div>
-
-          <div class="col-xs-6 col-sm-4 col-md-3">
-            {{ range first $rowCount (after $rowCount .Data.Pages.ByWeight) }}
-            <div class="gallery-item">
-            <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p>{{ .Summary | plainify | htmlUnescape }}</p>
-          </div></div>
-            {{ end }}
-        </div>
-
-          <div class="col-xs-6 col-sm-4 col-md-3">
-            {{ range first $rowCount (after (mul $rowCount 2) .Data.Pages.ByWeight) }}
-            <div class="gallery-item">
-            <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p>{{ .Summary | plainify | htmlUnescape }}</p>
-          </div></div>
-            {{ end }}
-        </div>
-
-        <div class="col-xs-6 col-sm-4 col-md-3">
-          {{ range first $rowCount (after (mul $rowCount 3) .Data.Pages.ByWeight) }}
-          <div class="gallery-item">
-          <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p>{{ .Summary | plainify | htmlUnescape }}</p>
-        </div></div>
-          {{ end }}
-          <!-- <div class="list-group">
-          <div class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/coming-soon.png"><br><em>More coming soon...</em></div>
-          </div> -->
+      {{ end }}
       </div>
-
-      </div>
-    <!-- </div> -->
-      <div class="row mt1">
+  <div class="row mt1">
         <div class="col-xs-12">
           <p>For even more inspiration and references, check out our <em>list of <a href="https://support.balsamiq.com/resources/ui-guidelines/">UI Guidelines</a> and <a href="https://support.balsamiq.com/resources/ui-galleries/">UI Galleries</a></em>.</p>
         </div>
