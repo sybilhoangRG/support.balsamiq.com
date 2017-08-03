@@ -19,7 +19,7 @@ Tabs are one of the most popular navigation patterns. The biggest advantage of t
 
 There are a few considerations to keep in mind when using tabs, however. Such as: 
 
-* Only use tabs when there is a limited number of navigation options available ([up to 5 on mobile](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar), [less than seven  on desktop](https://community.kde.org/KDE_Visual_Design_Group/HIG/TabControl)).
+* Only use tabs when there is a limited number of navigation options available ([up to five on mobile](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar), [less than seven  on desktop](https://community.kde.org/KDE_Visual_Design_Group/HIG/TabControl)).
 * Tab width is usually determined by the text in each tab, so consider the impact of localization and font size adjustments.
 * Only use tabs "to present closely related peer areas of content." Content separated by tabs should be related in some way and exist at the same level in a hierarchy. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/tab-views/))
 * Avoid using tabs for sequential tasks or "wizards" - tabs should be able to be used independently from each other. ([*Microsoft Windows Desktop Guidelines*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx))
