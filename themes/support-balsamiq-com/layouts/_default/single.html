@@ -21,6 +21,8 @@
       {{ partial "sidebar_sales.html" . }}
     {{ else if eq .Section "desktop" }}
       {{ partial "sidebar_desktop.html" . }}
+			{{ else if eq .Section "cloud" }}
+	      {{ partial "sidebar_cloud.html" . }}
     {{ else if eq .Section "mybalsamiq" }}
       {{ partial "sidebar_mybalsamiq.html" . }}
     {{ else if eq .Section "plugins" }}
