@@ -8,7 +8,7 @@ menu:
 draft: ''
 
 ---
-Your Balsamiq Cloud subscription is charged on a [per-project basis](https://linktosalespage?), so managing your project is very important. Here is one of the ways you can do that.
+Your Balsamiq Cloud subscription plan allows for a certain maximum number of projects, so managing them is very important. Here is one of the ways you can do that
 
 ## Download Your Project
 
