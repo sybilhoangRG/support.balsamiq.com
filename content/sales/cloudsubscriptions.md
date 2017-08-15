@@ -80,3 +80,18 @@ After your subscription ends, either due to your trial ending, credit card renew
 [//]: <> (test view of suspended site - looks like it might be a yellow banner "Your site is suspended because the trial period is expired. You cannot create or edit projects. Update your Billing Info or your site will be destroyed in XX days.")
 
 If you choose not to restart the subscription, **after 30 days your site data will be deleted permanently.**
+
+* * *
+
+## Auto-Hibernation
+
+If you need to temporarily walk away from your subscription, but do not wish to cancel outright, you have the option to allow your space to auto-hibernate.
+
+Auto-hibernation will automatically kick in for those paid subscriptions that meet the following criteria:
+
+* Are on the $9/monthly plan
+* The space remains empty for a full billing cycle (learn how to [Manage Your Projects](/cloud/manageprojects))
+
+If these two requirements are met, our system will do its magic behind the scenes and will know not to charge your card for that month. Your space will remain active, along with any staff members or owners you may have invited to join you. You will still receive an invoice for that billing cycle, which will show that you were charged $0.
+
+If your space is currently on a different plan, and you know you won't be making use of it, you can always [change your plan](#changing-your-plan) to the $9/month one. Remember, the space must remain empty for a full billing cycle in order for auto-hibernation to take place.
