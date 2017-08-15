@@ -35,7 +35,7 @@ You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.
 *   [How can I purchase, manage or cancel a Balsamiq Cloud subscription?](/sales/cloudsubscriptions/)
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
-*   [Can I make my space inactive for a while?](sales/cloudsubscriptions/#auto-hibernation)
+*   [Can I make my space inactive for a while?](/sales/cloudsubscriptions/#auto-hibernation)
 
 ## Terms of Service
 
