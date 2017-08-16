@@ -16,7 +16,7 @@ Vertical navigation is used extensively on the web and is becoming much more com
 
 ## When to Use Vertical Navigation
 
-Vertical navigation, like [tabs](http://localhost:1313/ui101/tabs/), is a member of [Master/Detail family of patterns](http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns), which is described as "ideal for creating an efficient user experience by allowing the user to stay in the same screen while navigating between items."
+Vertical navigation, like [tabs](../tabs/), is a member of [Master/Detail family of patterns](http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns), which is described as "ideal for creating an efficient user experience by allowing the user to stay in the same screen while navigating between items."
 
 [![](//media.balsamiq.com/img/support/tutorials/ui101/finder-verticalnavigation.png)](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/sidebars/)
 
