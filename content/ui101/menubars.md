@@ -11,9 +11,9 @@ In a desktop application, menu bars are the items across the top of the applicat
 
 ## When to Use Menu Bars
 
-Menu bars are used exclusively for primary navigation (unlike [vertical navigation](../verticalnavigation/) or [tabs](../tabs/), which can also be secondary navigation).
+Menu bars are used exclusively for **primary navigation** (unlike [vertical navigation](../verticalnavigation/) or [tabs](../tabs/), which can also be secondary navigation).
 
-They should be used for categories of the application or site that are meaningful across its entire use, provided there are not too many categories. If there are too many categories to fit across the page, consider [vertical navigation](../verticalnavigation/) instead.
+They should be used for categories of the application or site that are **meaningful across its entire use**, provided there are not too many categories. If there are too many categories to fit across the page, consider [vertical navigation](../verticalnavigation/) instead.
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/marinelayer-menubar.png)
 
@@ -43,9 +43,9 @@ The [macOS Human Interface Guidelines](https://developer.apple.com/macos/human-i
 
 Other important menu bar guidelines:
 
-* Don’t model your navigation after your agency’s org structure (or your application's architectural model). Instead, structure it according to the tasks and information your users most frequently need to access. [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
+* Don’t model your navigation after your agency’s org structure (or your application's architectural model). Instead, **structure it according to the tasks and information your users most frequently need to access**. [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
 * Include skip navigation links to allow users with screen readers to bypass long navigation lists. [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
-* Consider using a "mega menu" if you have more than six links or menu items within a menu. See the [variations](#variations) below for more on mega menus. [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
+* Consider using a "mega menu" if you have more than six links or menu items within a menu. (See the [variations](#variations) below for more on mega menus.) [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
 * Use nine or fewer top-level categories. ([*KDE Visual Design Group/HIG*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Menu_Bar))
 * For mobile sites and applications, menu bars can be collapsed to a slide-out or expandable "hamburger" menu.
 * Make sure that the menu items look interactive and have enough visual weight. They should invite action. [(*Nielsen Norman Group*)](https://www.nngroup.com/articles/menu-design/)
