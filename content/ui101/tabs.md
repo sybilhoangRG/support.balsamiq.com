@@ -13,7 +13,7 @@ In ["About Face 3: The Essentials of Interaction Design"](https://www.amazon.com
 
 ## When to Use Tabs
 
-Tabs are one of the most popular navigation patterns. The biggest advantage of tabs is that they are familiar and persistent, so that even when a user has navigated around in a site or application, they don't feel lost. 
+Tabs are one of the most popular navigation patterns (along with [menu bars](../menubars/) and [vertical navigation](../verticalnavigation/)). The biggest advantage of tabs is that they are familiar and often persistent, so that even when a user has navigated around in a site or application, they don't feel lost. 
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/bofa-tabs.png)
 
@@ -69,3 +69,4 @@ Tabs often have borders around them, but they aren't required.
 ## Related Controls 
 
 * [Dropdown Menu (Combo Box)](../dropdown/)
+* [Menu Bars](../menubars/)
