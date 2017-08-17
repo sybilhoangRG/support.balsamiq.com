@@ -67,4 +67,4 @@ Like [tabs](../tabs/#types-of-tabs), vertical navigation should have a clear sel
 ## Related Controls 
 
 * [Tabs](../tabs/)
-* Horizontal Navigation
+* [Menu Bars](../menubars/)
