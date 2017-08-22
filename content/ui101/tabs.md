@@ -3,7 +3,6 @@ title: Tabs
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 45
-section: "UI Design 101"
 ---
 
 Using tabs to break up content into sections is a double-edged sword.<!--more--> 

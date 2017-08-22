@@ -3,7 +3,6 @@ title: Dropdown Menu (Combo Box)
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 25
-section: "UI Design 101"
 ---
 
 The control with many names! A dropdown menu gives you a list of items to select from.<!--more--> 
