@@ -3,7 +3,6 @@ title: Validation
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 35
-section: "UI Design 101"
 ---
 
 Validation is often used as a light-weight alternative to [alerts](../alerts/).<!--more--> 
