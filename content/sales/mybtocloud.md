@@ -21,6 +21,8 @@ These steps assume that you already have an existing Balsamiq Cloud account and 
 
 If you have credit accumulated in your myBalsamiq subscription, please make sure to [let us know](mailto:sales@balsamiq.com) as well. We'll be happy to move the credit over once you have signed up for a Balsamiq Cloud subscription. *Note: Credit can only be applied to Cloud spaces that are already on a paid plan.*
 
+One last thing, since myBalsamiq and Balsamiq Cloud are separate, **you will need to invite your staff members again**. Unfortunately, it is not possible to migrate them from one service to the other.
+
 ### My myBalsamiq subscription or free trial already ended but I have some projects I'd like to move to Balsamiq Cloud.
 
 Depending on when your site expired, it's possible your projects are still around (see [no hibernation](https://support.balsamiq.com/sales/hibernate/)). Our Sales Support Team will be able to let you know if your site can be reactivated into a free trial for you to be able to access and download your projects. Your site owner can [send in a request](mailto:sales@balsamiq.com?subject=Please reactivate my myBalsamiq site) to reactivate the site if it's still available; make sure to include the site name, subdomain or the registered site owner's email address.

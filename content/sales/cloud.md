@@ -9,6 +9,8 @@ draft: ''
 
 ---
 
+{{% alert warning %}}**Note:** If you have an existing myBalsamiq subscription, this FAQ might help: [I currently have a myBalsamiq subscription but want to move to Balsamiq Cloud. What should I do?](/sales/mybtocloud).{{% /alert %}}
+
 This section covers the most frequently asked questions related to the licensing and purchasing of Balsamiq Cloud.
 
 **Main article:** [How can I purchase, manage or cancel a Balsamiq Cloud subscription?](/sales/cloudsubscriptions/)
@@ -19,7 +21,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 
 {{% sales_evaluating %}}
 
-You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.com/eulas">here</a>.
+You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://docs.balsamiq.com/cloud/tos/">here</a>.
 
 ## Pricing and Discounts
 
@@ -49,4 +51,4 @@ You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
 
-​**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20Balsamiq%20Cloud)
+​**More Questions?** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20Balsamiq%20Cloud)
