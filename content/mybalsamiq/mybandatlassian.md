@@ -2,11 +2,9 @@
 title: Can I Use myBalsamiq with Atlassian JIRA or Confluence?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 70
-menu:
-  menumybalsamiq:
-    weight: 70
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 We sell plugins for Atlassian [Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview), [Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) and [JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups), however you may already use and like our web application [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq).

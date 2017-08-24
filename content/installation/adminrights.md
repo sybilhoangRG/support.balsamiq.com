@@ -2,11 +2,9 @@
 title: Installing Mockups without Administrator Rights
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 160
-menu:
-  menuinstallation:
-    weight: 160
+menu: "menuinstallation"
+product: "Installation FAQs"
 draft: ''
-
 ---
 See below for instructions on installing Balsamiq Mockups for Desktop *without* Administrator rights.
 

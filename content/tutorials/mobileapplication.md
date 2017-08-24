@@ -2,14 +2,12 @@
 title: Creating a Mobile Application
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 50
-menu:
-  menututorials:
-    weight: 50
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
-## Introduction 
+## Introduction
 
 In a [previous tutorial](/tutorials/firstmockup/) we learned how to create a mockup for a basic web site. In this tutorial, we'll go through the steps of creating a series of mockups for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](/tutorials/controls/).
 
@@ -19,7 +17,7 @@ Here are the mockups we'll be creating in this tutorial:
 
 * * *
 
-## Screen 1: Login 
+## Screen 1: Login
 
 The first mockup is the Login screen.
 
@@ -60,7 +58,7 @@ Finally, for the icons, we'll add an **Icon** control and use the icon search to
 
 * * *
 
-## Screen 2: Accounts 
+## Screen 2: Accounts
 
 Next, the Accounts screen.
 
@@ -245,7 +243,7 @@ Finally, for the camera buttons, we'll start with the rectangle control again. T
 
 * * *
 
-## Linking Them All Together 
+## Linking Them All Together
 
 Finally, we can use the linking feature to link all five mockups together and show them in Full Screen Presentation mode. The [Linking Mockups Together](https://docs.balsamiq.com/desktop/linking/) article describes this feature in more depth. The following video demonstrates the process of locating each button or control that should be connected and linking them to the appropriate mockups.
 

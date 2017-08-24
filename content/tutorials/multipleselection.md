@@ -2,11 +2,9 @@
 title: Multiple Selection in Mockups Controls
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 250
-menu:
-  menututorials:
-    weight: 250
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 If you ever wanted to show more than one line selected in your lists, you've come to the right place.
@@ -17,7 +15,7 @@ Balsamiq Mockups only supports single selection in list controls right now, but 
 
 The tricks below work for any kind of list control: List, Data Grid, Accordions, Combo Boxes, Menus...
 
-## Technique #1: Use a Semi-Opaque Borderless Rectangle 
+## Technique #1: Use a Semi-Opaque Borderless Rectangle
 
 Here's how to simulate multiple selection by using a semi-opaque borderless rectangle:
 
@@ -34,7 +32,7 @@ You can even group the semi-opaque rectangle and transform it to a symbol (call 
 
 * * *
 
-## Technique #2: Duplicate and Crop 
+## Technique #2: Duplicate and Crop
 
 Here's how to simulate multiple selection by using the "duplicate and crop" trick:
 

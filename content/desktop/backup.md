@@ -2,11 +2,9 @@
 title: Does Mockups 3 for Desktop Backup My Files?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
-menu:
-  menudesktop:
-    weight: 40
+menu: "menudesktop"
+product: "Balsamiq Mockups for Desktop FAQs"
 draft: ''
-
 ---
 Mockups 3 for Desktop backs up any file you open to a local folder. These local versions are stored for (around) seven days and should automatically load in case of a corrupted project file.
 
@@ -14,7 +12,7 @@ Versions of [Mockups 3 for Desktop](https://balsamiq.com/download) prior to 3.4 
 
 ## How Do I Find This Backup?
 
-The backups are all stored in Mockups' Local Store, in a folder called LocalProjects. You can get there via the Balsamiq Mockups "About" dialog.  
+The backups are all stored in Mockups' Local Store, in a folder called LocalProjects. You can get there via the Balsamiq Mockups "About" dialog.
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/localstore.png)
 There is more information about finding your Local Store [here](/desktop/localstore/).

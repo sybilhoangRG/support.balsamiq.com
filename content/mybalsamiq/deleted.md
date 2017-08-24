@@ -2,11 +2,9 @@
 title: Oops! I Accidentally Deleted a Mockup From My myBalsamiq Site
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 200
-menu:
-  menumybalsamiq:
-    weight: 200
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 We've all been there. We make a quick decision and regret it the next second.

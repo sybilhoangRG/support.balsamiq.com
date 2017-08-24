@@ -2,11 +2,9 @@
 title: Wireframing Tips for Getting "Unstuck"
 date: '2015-12-16'
 weight: 360
-menu:
-  menututorials:
-    weight: 360
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 Writers refer to it as "writer's block." Unfortunately, it doesn't happen only to writers. As with all creative processes, wireframing can be especially challenging at times, often because we seem to get in our own way. The result in the feeling of being "stuck."

@@ -2,11 +2,9 @@
 title: Site Owner FAQs
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 30
-menu:
-  menumybalsamiq:
-    weight: 30
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 Here are the answers to some of the most commonly-asked questions about myBalsamiq site owners (also called site administrator).

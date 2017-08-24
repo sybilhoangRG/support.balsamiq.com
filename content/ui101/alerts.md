@@ -3,6 +3,7 @@ title: Alerts
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 40
+product: "UI Design 101"
 ---
 
 Any UI control that captures the user's attention can be thought of as an alert.<!--more-->  

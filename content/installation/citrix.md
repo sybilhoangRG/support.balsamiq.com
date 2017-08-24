@@ -2,11 +2,9 @@
 title: Can I Install Mockups 3 for Desktop on Citrix or Other Virtual Environments?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 200
-menu:
-  menuinstallation:
-    weight: 200
+menu: "menuinstallation"
+product: "Installation FAQs"
 draft: ''
-
 ---
 
 From what we know about Citrix, you won't have any trouble installing and registering Mockups 3 for Desktop on it or on any other virtual environment. You may even find [this FAQ on silent installation](https://support.balsamiq.com/installation/silentinstall/) helpful.

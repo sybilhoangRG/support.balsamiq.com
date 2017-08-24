@@ -2,11 +2,9 @@
 title: What Are Wireframes?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
-menu:
-  menuresources:
-    weight: 40
+menu: "menuresources"
 draft: ''
-
+product: "Resources"
 ---
 
 Did you hire a designer or programmer or an information architect / user experience professional? Did they deliver you a set of preliminary designs built using Balsamiq Mockups? If so, this document is for you.
@@ -21,7 +19,7 @@ The designs you received are called [wireframes](http://konigi.com/wiki/wirefram
 
 A wireframe is a schematic, a blueprint, useful to help you and your programmers and designers think and communicate about the **structure** of the software or website you're building.
 
-The same screen can be built in a lot of different ways, but only a few of them will get your message across correctly and result in an easy-to-use software or website. Nailing down a good interface structure is possibly the most important part of designing software. 
+The same screen can be built in a lot of different ways, but only a few of them will get your message across correctly and result in an easy-to-use software or website. Nailing down a good interface structure is possibly the most important part of designing software.
 
 Doing this work now, before any code is written and before the visual design is finalized, will save you lots of time and painful adjustment work later. For more information, check out [this article on **Wireframing for Beginners**](http://uxmastery.com/wireframing-for-beginners/).
 

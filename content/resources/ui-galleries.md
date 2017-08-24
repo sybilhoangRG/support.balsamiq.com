@@ -1,8 +1,8 @@
 ---
 date: 2017-03-01T16:27:09-08:00
-menu:
-  menuresources:
-    parent:
+menu: "menuresources"
+draft: ''
+product: "Resources"
 title: User Interface Galleries
 weight: 55
 ---
@@ -72,7 +72,7 @@ Are you looking for best practices or inspiration while working on your wirefram
                 <h3><a href="http://www.smileycat.com/category/elements-of-design/">Elements of Design on Smiley Cat</a></h3>
             </div>
         </div>
-    </div>    
+    </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="gallery-item">
             <a href="http://inspired-ui.com/"><img src="//media.balsamiq.com/img/support/uigalleries/inspired-ui.jpg" alt="screenshot" /></a>
@@ -129,7 +129,7 @@ Are you looking for best practices or inspiration while working on your wirefram
                 <h3><a href="http://patterntap.com/">Pattern Tap</a></h3>
             </div>
         </div>
-    </div>    
+    </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="gallery-item">
             <a href="https://www.uxpin.com/patterns/"><img src="//media.balsamiq.com/img/support/uigalleries/patterns-uxpin.jpg" alt="screenshot" /></a>
