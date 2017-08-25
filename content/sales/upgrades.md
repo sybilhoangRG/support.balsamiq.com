@@ -24,7 +24,7 @@ Current upgrade pricing information is always available online:
 *   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/pricing) (sold by Atlassian)
 *   [Wireframes for Confluence Server](https://balsamiq.com/buy/#cu)
 *   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
-*   [Mockups for JIRA Server](https://balsamiq.com/buy/#ju)
+*   [Wireframes for JIRA Server](https://balsamiq.com/buy/#ju)
 
 ## How Can I Order an Upgrade?
 
@@ -46,8 +46,8 @@ Mockups 3 for Google Drive is a single user subscription.  There is no volume p
 
 For licenses purchased directly from Balsamiq you will need your current License Key when ordering. After your purchase, replace your old License Information with the upgrade License Information.
 
-Direct links to order: [Wireframes for Confluence Server](https://balsamiq.com/buy/#cu) and [Mockups for JIRA Server](https://balsamiq.com/buy/#ju).
+Direct links to order: [Wireframes for Confluence Server](https://balsamiq.com/buy/#cu) and [Wireframes for JIRA Server](https://balsamiq.com/buy/#ju).
 
 Licenses purchased through [Atlassian Marketplace](/sales/marketplace/) can be upgraded through [my.atlassian.com](https://my.atlassian.com).
 
-Customers who originally purchased from Balsamiq and are using Wireframes for Confluence Server or Mockups for JIRA Server on their own servers have an option to [migrate to Atlassian Marketplace](/sales/atlassianmigrating/) before upgrading.
+Customers who originally purchased from Balsamiq and are using Wireframes for Confluence Server or Wireframes for JIRA Server on their own servers have an option to [migrate to Atlassian Marketplace](/sales/atlassianmigrating/) before upgrading.

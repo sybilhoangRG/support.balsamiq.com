@@ -1,5 +1,5 @@
 ---
-title: Migrating Your Wireframes for Confluence Server or Mockups for JIRA Server Balsamiq License
+title: Migrating Your Wireframes for Confluence Server or Wireframes for JIRA Server Balsamiq License
   to Atlassian Marketplace
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 590
@@ -12,11 +12,11 @@ draft: ''
 
 Currently, customers can purchase plugin licenses for Atlassian Confluence Server and JIRA Server via [Atlassian Marketplace](/sales/marketplace/) or via our website.
 
-This article is designed to help customers who wish to transfer their existing Wireframes for Confluence Server or Mockups for JIRA Server from Balsamiq to their myAtlassian account.
+This article is designed to help customers who wish to transfer their existing Wireframes for Confluence Server or Wireframes for JIRA Server from Balsamiq to their myAtlassian account.
 
 ## Who Is Eligible to Move Licenses to Atlassian Marketplace?
 
-Customers who wish to migrate their Wireframes for Confluence Server or Mockups for JIRA Server license to Atlassian Marketplace must fit two requirements:
+Customers who wish to migrate their Wireframes for Confluence Server or Wireframes for JIRA Server license to Atlassian Marketplace must fit two requirements:
 
 *   You must be using Confluence and/or JIRA Server via **Atlassian Server** (behind-the-firewall). Atlassian Cloud customers, please [see below](#i-m-using-atlassian-cloud-can-i-migrate-to-marketplace-now).
 *   You must have **a matching license or be willing to upgrade to matching** in Marketplace. Currently, plugin licenses purchased directly from Balsamiq do not have to match. For example, you can register a Balsamiq-issued 10-editor Wireframes for Confluence license on a 100-user Confluence installation. However, Marketplace requires that add-on licenses match server levels.

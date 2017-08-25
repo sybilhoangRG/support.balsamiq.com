@@ -22,7 +22,7 @@ Yes. Direct links below:
 *   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)
 *   [Wireframes for Confluence Server](https://plugins.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
 *   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
-*   [Mockups for JIRA Server](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
+*   [Wireframes for JIRA Server](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
 ## Who Should I Buy the Plugin From?
 
@@ -35,7 +35,7 @@ Yes. Direct links below:
 If you chose to purchase directly from Balsamiq, you can do so directly on our website:
 
 *   [Wireframes for Confluence Server](https://balsamiq.com/buy/#c)
-*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
+*   [Wireframes for JIRA Server](https://balsamiq.com/buy/#j)
 
 While pricing and maintenance terms are very similar, each option has its pros and cons.
 
@@ -76,11 +76,11 @@ While we will take steps to encourage customers to migrate to Marketplace as Atl
 
 ## I'm an Existing Customer, Can I Move to Marketplace?
 
-Yes! If you are using Wireframes for Confluence Server or Mockups for JIRA Server on your own server, and you have a matching license, or are willing to upgrade your Balsamiq license to match your server levels, then you can migrate your Balsamiq-issued license to Atlassian Marketplace. Details are [here](/sales/atlassianmigrating/).
+Yes! If you are using Wireframes for Confluence Server or Wireframes for JIRA Server on your own server, and you have a matching license, or are willing to upgrade your Balsamiq license to match your server levels, then you can migrate your Balsamiq-issued license to Atlassian Marketplace. Details are [here](/sales/atlassianmigrating/).
 
 ## How Do I Enter My Marketplace or Balsamiq Plugin License Now?
 
 Please refer to the Admin guides below:
 
-*   [Wireframes for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/)
-*   [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/)
+*   [Wireframes for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/server/wireframes/admin-guide/)
+*   [Wireframes for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/server/wireframes/admin-guide/)

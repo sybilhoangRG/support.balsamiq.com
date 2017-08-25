@@ -15,7 +15,7 @@ For license purchases you can pay by credit card online via our secure online fo
 
 *   [Mockups 3 for Desktop](https://balsamiq.com/buy/)
 *   [Wireframes for Confluence Server](https://balsamiq.com/buy/#c)
-*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
+*   [Wireframes for JIRA Server](https://balsamiq.com/buy/#j)
 
 For subscription purchases, you can sign up for a plan directly in the application:
 
