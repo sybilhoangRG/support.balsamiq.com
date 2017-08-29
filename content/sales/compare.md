@@ -27,7 +27,7 @@ The final editor is the original Mockups Version 2 editor. This powerful editor 
 2. [Balsamiq Wireframes for Confluence Server](https://docs.balsamiq.com/confluence/server/wireframes)
 3. [Balsamiq Wireframes for JIRA Server](https://docs.balsamiq.com/jira/server/wireframes)
 
-Any products based on the Balsamiq Wireframes Editor will be updated simultaneously whenever we release a [new version](https://blog.balsamiq.com/category/release-notes/).
+While most Balsamiq Wireframes products will update automatically, Atlassian Server customers will have to update manually through their installation's UPM.
 
 ### Products Based on the Mockups Version 3 Editor
 
