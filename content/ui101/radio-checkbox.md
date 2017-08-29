@@ -3,9 +3,12 @@ title: Radio Buttons and Checkboxes
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 30
+section: "UI Design 101"
 ---
 
-Radio button and checkbox controls each allow users to select items from a list. Deciding when to use which one can be challenging, so this article explains the differences between them and when and how to use each. 
+Radio button and checkbox controls each allow users to select items from a list. <!--more-->  
+
+Deciding when to use which one can be challenging, so this article explains the differences between them and when and how to use each.
 
 ## When to Use Radio Buttons and Checkboxes
 

@@ -3,9 +3,12 @@ title: Breadcrumbs
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 50
+section: "UI Design 101"
 ---
 
-Breadcrumbs are a compact way to show a site or application hierarchy. They not only show users where they are, but provide an easy way to allow them to navigate up multiple levels.
+Breadcrumbs are a compact way to show a site or application hierarchy.<!--more-->  
+
+They not only show users where they are, but provide an easy way to allow them to navigate up multiple levels.
 
 Because they only require a small amount of space, they are unobtrusive and not distracting. The [Nielsen Norman Group writes](https://www.nngroup.com/articles/breadcrumb-navigation-useful/) that "user testing shows **many benefits and no downsides to breadcrumbs** for secondary navigation."
 
@@ -51,7 +54,7 @@ Breadcrumbs should be constructed from standard links and text, and should inher
 You may use this pattern when the number of items exceeds about 5 or as space requires. Clicking on the "..." can expand the entire list, or only the last few items. 
 
 **Dropdown Breadcrumbs**   
-This is a less common pattern that combines breadcrumbs with a vertical menu to allow users to navigate non-linearly. It is not standard and should be used sparingly.
+This is a less common pattern that combines breadcrumbs with a vertical menu to allow users to navigate non-linearly. It is not standard and should be used sparingly. You can find some [examples and guidelines for this pattern here](http://blog.andybeaumont.com/post/6534021484/scotch-egg-navigation).
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/breadcrumbs-variations.png)
 

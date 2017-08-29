@@ -276,3 +276,9 @@ div.json-example, td.json-example {
         left: 0;
     }
 }
+
+// Additional text styles
+
+blockquote {
+  @include fontsize(16,24);
+}

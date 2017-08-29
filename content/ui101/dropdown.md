@@ -3,11 +3,13 @@ title: Dropdown Menu (Combo Box)
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 25
+section: "UI Design 101"
 ---
 
-The control with many names! Whether you call it a Dropdown menu, Combo Box (or Combobox), Pull Down menu (or Pull-down menu), Picker, Select input, or something else, you use them every day.
+The control with many names! A dropdown menu gives you a list of items to select from.<!--more--> 
 
-A dropdown menu gives you a list of items to select from.
+Whether you call it a Dropdown menu, Combo Box (or Combobox), Pull Down menu (or Pull-down menu), Picker, Select input, or something else, you use them every day. 
+
 
 ## When to Use Dropdown Menus
 
