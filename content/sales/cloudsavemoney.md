@@ -20,6 +20,8 @@ If you're coming from one of our other products, chances are you're already fami
 The easiest way to combine two (or more) projects is to follow these steps:
 
 1. [Download locally the project(s)](https://docs.balsamiq.com/cloud/projects/#cloning-downloading-and-deleting-projects) you want to combine to another one.
+![](//media.balsamiq.com/img/support/sales/cloud/download_project.png)
+
 2. [Import the project(s)](https://docs.balsamiq.com/cloud/importing/#importing-from-other-versions-of-balsamiq) to the desired one using the "Import BMPR" option from the Project menu.
 
 ![](//media.balsamiq.com/img/support/docs/cloud/import-bmpr.png)
