@@ -26,9 +26,11 @@ The easiest way to combine two (or more) projects is to follow these steps:
 
 ![](//media.balsamiq.com/img/support/docs/cloud/import-bmpr.png)
 
-Alternatively, you can also use the [Import/Export Wireframe JSON](https://docs.balsamiq.com/cloud/importing/#importing-wireframes-from-another-cloud-project) if you prefer to move one wireframe at a time.
+Once your projects are combined, you can even organize them nicely using the [hierarchy feature](https://docs.balsamiq.com/cloud/overview/#using-a-hierarchy).
 
-{{% alert warning %}}**Note:** The JSON option won't copy Images and Symbols, however.{{% /alert %}}
+![](//media.balsamiq.com/img/support/sales/cloud/combined_projects.png)
+
+{{% alert info %}}**Note:** Alternatively, you can also use the [Import/Export Wireframe JSON](https://docs.balsamiq.com/cloud/importing/#importing-wireframes-from-another-cloud-project) if you prefer to move one wireframe at a time from a project to another, but this option won't copy Images and Symbols.{{% /alert %}}
 
 ## Having Multiple Spaces
 
