@@ -17,6 +17,17 @@ We've compiled a few tips that might help keep your Balsamiq Cloud costs down.
 
 If you're coming from one of our other products, chances are you're already familiar with our [BMPR files](https://support.balsamiq.com/resources/bmpr-format/). Since Spaces have limits on the number of allowed projects, an option to keep costs down is to combine your projects.
 
+The easiest way to combine two (or more) projects is to follow these steps:
+
+1. [Download locally the project(s)](https://docs.balsamiq.com/cloud/projects/#cloning-downloading-and-deleting-projects) you want to combine to another one.
+2. [Import the project(s)](https://docs.balsamiq.com/cloud/importing/#importing-from-other-versions-of-balsamiq) to the desired one using the "Import BMPR" option from the Project menu.
+
+![](//media.balsamiq.com/img/support/docs/cloud/import-bmpr.png)
+
+Alternatively, you can also use the [Import/Export Wireframe JSON](https://docs.balsamiq.com/cloud/importing/#importing-wireframes-from-another-cloud-project) if you prefer to move one wireframe at a time.
+
+{{% alert warning %}}**Note:** The JSON option won't copy Images and Symbols, however.{{% /alert %}}
+
 ## Having Multiple Spaces
 
 If the 2-project plan is not enough, but the 20-project plan is too much, there are ways of finding middle ground. It is possible to create multiple Spaces, and subscribe each one to the lowest plan available.
