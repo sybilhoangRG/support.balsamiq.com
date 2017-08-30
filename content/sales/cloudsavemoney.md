@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Balsamiq Cloud is offered in three different subscription plans, all available on a monthly or yearly basis. We've settled on the offered plans following a bit of research, but even then, you might struggle finding the plan that best suits your needs.
+Balsamiq Cloud is charged **per Space**, and for each Space, you have three different plans to choose from. We've settled on the offered plans following a bit of research, but even then, you might struggle finding the plan that best suits your needs.
 
 We've compiled a few tips that might help keep your Balsamiq Cloud costs down.
 
@@ -32,6 +32,14 @@ Once your projects are combined, you can even organize them nicely using the [hi
 
 {{% alert info %}}**Note:** Alternatively, you can also use the [Import/Export Wireframe JSON](https://docs.balsamiq.com/cloud/importing/#importing-wireframes-from-another-cloud-project) if you prefer to move one wireframe at a time from a project to another, but this option won't copy Images and Symbols.{{% /alert %}}
 
+## Managing Your Project Count
+
+There might be times when you don't necessarily need to work on multiple projects simultaneously. Since Balsamiq Cloud plans allow for a maximum number of projects, you can play around with this depending on your needs.
+
+For example, let's assume you're on the 2-project plan, and you are working on Project A. You already started Project B, but it won't need to be touched until next month, and you need to get started with Project C. In that case, you can **download** Project B to your computer, then **delete** it from your Space. That frees up a slot for you to get started with Project C.
+
+You can find complete steps here: [What's The Best Way To Manage My Project Count In Balsamiq Cloud?](/cloud/manageprojects/)
+
 ## Having Multiple Spaces
 
 If the 2-project plan is not enough, but the 20-project plan is too much, there are ways of finding middle ground. It is possible to create multiple Spaces, and subscribe each one to the lowest plan available.
@@ -42,14 +50,6 @@ The downside is that you will have two separate Spaces to manage, each with its 
 
 You can subscribe 5 different Spaces to the $9/mo plan each before the savings stop. If you were to subscribe 6 Spaces ($9 x 6 = $54/mo), then you'd already be paying more than what the 20-project costs ($49/mo).
 
-## Managing Your Project Count
-
-There might be times when you don't necessarily need to work on multiple projects simultaneously. Since Balsamiq Cloud plans allow for a maximum number of projects, you can play around with this depending on your needs.
-
-For example, let's assume you're on the 2-project plan, and you are working on Project A. You already started Project B, but it won't need to be touched until next month, and you need to get started with Project C. In that case, you can **download** Project B to your computer, then **delete** it from your Space. That frees up a slot for you to get started with Project C.
-
-You can find complete steps here: [What's The Best Way To Manage My Project Count In Balsamiq Cloud?](/cloud/manageprojects/)
-
 ## Balsamiq Software Donation Program
 
-Although Balsamiq Cloud is not offered through our Software Donation Program, we do offer licenses for some of our other products, like Mockups 3 for Desktop. We are more than happy to donate licenses to those that qualify, such as non-profits, universities, and plain do-gooders. If you'd like to apply, or know someone that should, head over to our [Application form](https://balsamiq.com/free/) and send in your request.
+Although Balsamiq Cloud is not offered through our Software Donation Program, we do offer licenses for some of our other products, like Mockups 3 for Desktop. We are more than happy to donate licenses to those that qualify, such as non-profits, universities (classroom use), and plain do-gooders. If you'd like to apply, or know someone that should, head over to our [Application form](https://balsamiq.com/free/) and send in your request.
