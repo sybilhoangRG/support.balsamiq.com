@@ -32,6 +32,8 @@ Once your projects are combined, you can even organize them nicely using the [hi
 
 {{% alert info %}}**Note:** Alternatively, you can also use the [Import/Export Wireframe JSON](https://docs.balsamiq.com/cloud/importing/#importing-wireframes-from-another-cloud-project) if you prefer to move one wireframe at a time from a project to another, but this option won't copy Images and Symbols.{{% /alert %}}
 
+* * *
+
 ## Managing Your Project Count
 
 There might be times when you don't necessarily need to work on multiple projects simultaneously. Since Balsamiq Cloud plans allow for a maximum number of projects, you can play around with this depending on your needs.
@@ -39,6 +41,8 @@ There might be times when you don't necessarily need to work on multiple project
 For example, let's assume you're on the 2-project plan, and you are working on Project A. You already started Project B, but it won't need to be touched until next month, and you need to get started with Project C. In that case, you can **download** Project B to your computer, then **delete** it from your Space. That frees up a slot for you to get started with Project C.
 
 You can find complete steps here: [What's The Best Way To Manage My Project Count In Balsamiq Cloud?](/cloud/manageprojects/)
+
+* * *
 
 ## Having Multiple Spaces
 
@@ -49,6 +53,8 @@ For example, let's say you really need to work on 4 projects at a time, but do n
 The downside is that you will have two separate Spaces to manage, each with its own subscription (which might be billed on a different date, depending on when you sign up), and its own list of people. That means you will receive a separate invoice for each Space, and if the same staff members need access to different Spaces, they will need to be [invited](https://docs.balsamiq.com/cloud/sites/#managing-users) to each one of them.
 
 You can subscribe 5 different Spaces to the $9/mo plan each before the savings stop. If you were to subscribe 6 Spaces ($9 x 6 = $54/mo), then you'd already be paying more than what the 20-project costs ($49/mo).
+
+* * *
 
 ## Balsamiq Software Donation Program
 
