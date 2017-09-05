@@ -13,12 +13,12 @@ Updating from any version of Mockups for Desktop to Mockups 3 for Desktop is fre
 
 Details about how to update are found [here](/installation/update/). If you are currently using a version older than 3.0, we suggest you check out our [Transition Guide](https://docs.balsamiq.com/desktop/transition/) as the file format we use has changed.
 
-## What Will the Costs Be When You Release Mockups 4 for Desktop?
+## What Will the Costs Be When You Release Balsamiq Wireframes for Desktop?
 
 Major-version updates will have an additional cost. As updates are not required, you will be able to continue to use version 3 if you don't wish to purchase a major version update.
 
-We will continue to offer [support](/sales/support/) for version 3 for at least 12 months after version 4 is released. However, historically we have continued to support versions for much longer than the minimum time noted in our [EULA](https://balsamiq.com/eulas/). We are currently still supporting customers who have chosen to keep using version 2, even though version 3 was released in March 2015.
+We will continue to offer [support](/sales/support/) for version 3 for at least 12 months after Wireframes for Desktop is released. However, historically we have continued to support versions for much longer than the minimum time noted in our [EULA](https://balsamiq.com/eulas/). We are currently still supporting customers who have chosen to keep using version 2, even though version 3 was released in March 2015.
 
-There's no date planned for the release of Mockups 4 for Desktop, however we are actively working on it. Exact costs of the new version will be available when we are closer to the release date.
+There's no exact date available for the release of Balsamiq Wireframes for Desktop, however it's planned for sometime in 2018 as shared on [our blog post](https://blog.balsamiq.com/balsamiq-wireframes/). Exact costs of the new version will be available when we are closer to the release date.
 
-When we ship version 4 (which will be native and may be sold via app stores), we’ll try to give existing customers a discount for updating. As licensing restrictions in app stores are changing quickly, we can’t promise anything at this time.
+When we ship Balsamiq Wireframes for Desktop (which will be native and may be sold via app stores), we’ll try to give existing customers a discount for updating. As licensing restrictions in app stores are changing quickly, we can’t promise anything at this time.
