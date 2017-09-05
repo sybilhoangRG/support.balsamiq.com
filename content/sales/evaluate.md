@@ -17,7 +17,7 @@ You can start a free trial here:
 
 *   [Mockups 3 for Desktop](https://balsamiq.com/download)
 *   [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)
-*   [Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/installing/)
+*   [Balsamiq for Google Drive](https://docs.balsamiq.com/google-drive/wireframes/intro/)
 *   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) (sold by Atlassian)
 *   [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
 *   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) (sold by Atlassian)
@@ -31,4 +31,4 @@ You may also be interested in the [Can I get Mockups for Free?](https://balsamiq
 
 We're happy to provide you with a trial extension for products we sell directly. Just contact our [sales team](mailto:sales@balsamiq.com) and please include details of which product you are evaluating.
 
-Mockups for Google Drive trial extension requests should be made directly [from the app](https://mockups-gdrive-bmpr.appspot.com/billing).
+Balsamiq for Google Drive trial extension requests should be made directly [from the app](https://balsamiq-wireframes.appspot.com/billing).
