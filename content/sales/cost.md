@@ -13,6 +13,6 @@ Current pricing information is always available online:
 
 *   [Mockups 3 for Desktop](https://balsamiq.com/buy/)
 *   [myBalsamiq](https://balsamiq.com/buy/#myb)
-*   [Mockups 3 for Google Drive](https://balsamiq.com/buy/#gd)
+*   [Balsamiq for Google Drive](https://balsamiq.com/buy/#gd)
 *   [Wireframes for Confluence](https://balsamiq.com/buy/#c)
 *   [Wireframes for JIRA](https://balsamiq.com/buy/#j)
