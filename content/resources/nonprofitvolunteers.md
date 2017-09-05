@@ -2,11 +2,9 @@
 title: Looking for UX Volunteers?
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 100
-menu:
-  menuresources:
-    weight: 100
+menu: "menuresources"
 draft: ''
-
+product: "Resources"
 ---
 
 The resources on this page should be of interest to:

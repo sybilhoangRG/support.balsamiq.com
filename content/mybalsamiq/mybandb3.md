@@ -2,11 +2,9 @@
 title: myBalsamiq and Mockups 3
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 50
-menu:
-  menumybalsamiq:
-    weight: 50
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 {{% alert info %}}**Note:** myBalsamiq and Balsamiq Mockups 3 currently use different internal file formats. To use both, you will need to import and export between them.{{% /alert %}}

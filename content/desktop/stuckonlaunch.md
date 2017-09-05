@@ -2,11 +2,9 @@
 title: Mockups for Desktop Stuck on Launch or Opening a BMPR?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 180
-menu:
-  menudesktop:
-    weight: 180
+menu: "menudesktop"
+product: "Balsamiq Mockups for Desktop FAQs"
 draft: ''
-
 ---
 
 {{% alert info %}}**Note:** If you're getting an error opening a specific BMPR file, check out this [Backup FAQ](https://support.balsamiq.com/desktop/backup/) instead. {{% /alert %}}

@@ -2,11 +2,9 @@
 title: Can I Run myBalsamiq on a Server inside My Firewall?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 80
-menu:
-  menumybalsamiq:
-    weight: 80
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 Not at the moment. A behind the firewall version is not in the plans, but maybe a private-cloud one could be a possibility.

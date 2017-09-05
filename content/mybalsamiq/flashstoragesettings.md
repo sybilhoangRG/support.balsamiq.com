@@ -3,11 +3,9 @@ title: myBalsamiq Editor Keeps Asking Me about Storage Settings. How Do I Stop t
   Alert from Appearing?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 120
-menu:
-  menumybalsamiq:
-    weight: 120
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 The Adobe Flash Player may be set to ask you every time a site wants to save more than 10K of local data to your computer's storage. When that happens you'll see a dialog like the one below and have to click the Allow every time.

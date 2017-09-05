@@ -2,11 +2,9 @@
 title: I Run the Installer and Very Little (or Nothing) Happens
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 220
-menu:
-  menuinstallation:
-    weight: 220
+menu: "menuinstallation"
+product: "Installation FAQs"
 draft: ''
-
 ---
 Occasionally, Windows users may run into an error where the Mockups 3 installer fails silently. There may be a message about preparing to install before the application closes, or there may be no message at all. This FAQ should help you get back up and running with Mockups 3.
 

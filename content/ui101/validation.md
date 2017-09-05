@@ -3,12 +3,12 @@ title: Validation
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 35
-section: "UI Design 101"
+product: "UI Design 101"
 ---
 
-Validation is often used as a light-weight alternative to [alerts](../alerts/).<!--more--> 
+Validation is often used as a light-weight alternative to [alerts](../alerts/).<!--more-->
 
-It is a great way to present feedback or guidance to users with limited interruption. 
+It is a great way to present feedback or guidance to users with limited interruption.
 
 ## When to Use Validation
 
@@ -16,7 +16,7 @@ Validation is sometimes used in place of, or in addition to, [alerts](../alerts)
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/shopify-validation.png)
 
-Validation is often used to help users recover from errors. But even better than providing good validation is preventing the need for it in the first place. 
+Validation is often used to help users recover from errors. But even better than providing good validation is preventing the need for it in the first place.
 
 Following [text input guidelines](../text-input/) and implementing [autocomplete](http://ui-patterns.com/patterns/Autocomplete) or [forgiving formats](http://ui-patterns.com/patterns/ForgivingFormat) can minimize the need for validation. The [Nielsen Norman Group](https://www.nngroup.com/) has a good [article on preventing user errors](https://www.nngroup.com/articles/slips/) that goes into more detail.
 
@@ -55,7 +55,7 @@ The primary way in which validation components vary is in their presentation or 
 
 ---
 
-## Related Controls 
+## Related Controls
 
 * [Alerts](../alerts/)
 * [Text Input](../text-input/)

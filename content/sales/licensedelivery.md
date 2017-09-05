@@ -16,5 +16,5 @@ For Mockups 3 for Desktop, select “Register” in the Help menu.
 
 Instructions for registering Atlassian plugins are here:
 
-*   [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/#registration-instructions)
-*   [Mockups for JIRA Server](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#registration-instructions)
+*   [Wireframes for Confluence Server](http://docs.balsamiq.com/confluence/server/wireframes/admin-guide/#registration-instructions)
+*   [Wireframes for JIRA Server](http://docs.balsamiq.com/jira/server/wireframes/admin-guide/#registration-instructions)

@@ -2,11 +2,9 @@
 title: My Mockups Are Stuck On "Generating Image"
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 190
-menu:
-  menumybalsamiq:
-    weight: 190
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 ![](https://media.balsamiq.com/img/support/docs/myb/spinners.png)

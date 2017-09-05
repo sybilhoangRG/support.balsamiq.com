@@ -4,6 +4,7 @@ draft: false
 title: "BMPR File Format Reference"
 menu: "menuresources"
 weight: 120
+product: "Resources"
 ---
 
 ## Overview

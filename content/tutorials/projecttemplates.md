@@ -2,11 +2,9 @@
 title: Creating Project Templates
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 105
-menu:
-  menututorials:
-    weight: 105
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 {{% alert warning %}}**Heads Up!** This tutorial is for Balsamiq Mockups version 2. To learn how to import these templates for use in Balsamiq Mockups 3 see [how to Symbols from a previous version](//docs.balsamiq.com/desktop/symbols/#importing-symbols). [This article on how to reuse templates across projects](/desktop/accountassets/) will also be helpful.{{% /alert %}}
@@ -17,24 +15,24 @@ The general idea is to create project folder, with your common elements stored i
 
 * * *
 
-## How to Create a Project Template 
+## How to Create a Project Template
 
 Your process might look like this:
 
-1.  **Create a new Project Folder**  
+1.  **Create a new Project Folder**
     Open your Balsamiq Mockups directory on your computer and create a new folder there. For instance, you might name it "Project Template - Web Apps," if you had a standard at your company for Web App projects.
-2.  **Add an assets folder**  
+2.  **Add an assets folder**
     Create a sub-folder in the project folder you created above. Then add the elements you commonly use, e.g. your logo, or create a Symbols Libraries for elements you use.
-3.  **Create some default templates**  
+3.  **Create some default templates**
     This is optional, but you can create some templates with the base set of controls you want in each type of page. In the UX and Bootstrap example templates we include examples to give you some ideas. For instance, we have a Desktop wireframe with a grid control, and we might have our header or annotation block placed in the same place in each template.
-4.  **Duplicate the project folder template on new projects**  
+4.  **Duplicate the project folder template on new projects**
     When you want to start a new project, duplicate the project template folder. Then rename the duplicate with your new project name.
 
 We have a few example templates to show how you might get started.
 
 * * *
 
-## Using the UX Template 
+## Using the UX Template
 
 The UX Template ([download here](https://mockupstogo.mybalsamiq.com/projects/template-ux.zip)) is designed for people working on UX Design projects who typically need to present a polished deck to clients. For this reason, this template is made to work with the Wireframe Skin (menu: View > Skin > Wireframe Skin) and System Fonts (View > User System Fonts).
 
@@ -49,7 +47,7 @@ The video below shows you how to set up and use the template.
 
 * * *
 
-## Using the Bootstrap Template 
+## Using the Bootstrap Template
 
 The Bootstrap Template ([download here)](https://mockupstogo.mybalsamiq.com/projects/template-bootstrap.zip) is designed for people who know they're going to be using Bootstrap, and want to use the text elements, and components common to the Bootstrap framework. The screenshots below show some of the elements provided in this template.
 

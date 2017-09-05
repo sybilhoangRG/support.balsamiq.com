@@ -2,11 +2,9 @@
 title: Linux
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 120
-menu:
-  menuinstallation:
-    weight: 120
+menu: "menuinstallation"
+product: "Installation FAQs"
 draft: ''
-
 ---
 Balsamiq Mockups 3 for Desktop is not supported on Linux.  However users report that it runs well using [Wine](https://www.winehq.org/).
 
@@ -27,7 +25,7 @@ Here are the instruction for [installation on Ubuntu 16.10](https://docs.google.
     sudo mv /opt/Balsamiq_Mockups_3 /opt/balsamiq_3_x_y
     sudo rm -f /opt/balsamiq && sudo ln -s /opt/balsamiq_3_x_y /opt/balsamiq
     sudo mv /opt/balsamiq/Balsamiq\ Mockups\ 3.exe /opt/balsamiq/balsamiq.exe
-    
+
     # This Should Now Work
     wine /opt/balsamiq/balsamiq.exe
     ```

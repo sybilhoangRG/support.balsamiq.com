@@ -37,15 +37,23 @@
   <script src="https://docs.balsamiq.com/js/dbc.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
   <script src="{{ .Site.Params.balsamiqcomurl }}/assets/js/balsamiq_search_autocomplete.js"></script>
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ .Site.Title }}">
-  <title>  {{ if .IsNode }}
-  {{ if .Params.section}}
-      {{ .Params.section }}
+  <title>
+  {{/* show a different type of title depending on what kind of page it is */}}
+  {{ if eq $isHomePage false }}
+    {{ if .IsNode }}
+      {{ if .Params.product }}
+        {{title .Params.product }} -
       {{ else }}
-      {{ .Title }}
+        {{title .Section }} -
       {{ end }}
     {{ else }}
-{{ .Title }}
-{{ end }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
+      {{ replace .Title "-" " " | title }} -
+    {{ end }}
+  {{ else }}
+  {{ end }}
+  {{ .Site.Title }}
+  </title>
+  {{/* <title>{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title> */}}
 </head>
 <body class="company-support-portal sbc">
   <!-- GA - Google Tag Manager -->

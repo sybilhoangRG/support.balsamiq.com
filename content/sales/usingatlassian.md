@@ -17,8 +17,8 @@ Perhaps the easiest route for you and your team would be to license one of our A
 
 * [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)
 * [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
-* [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
-* [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
+* [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
+* [Wireframes for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
 These plugins will allow your team to attach mockups directly to your Confluence pages or JIRA issues, without any fuss. Everything is built in, so your team never has to leave your Confluence/JIRA instance. It's the easiest way to mockup in Atlassian.
 
@@ -39,4 +39,4 @@ Mockups 3 for Desktop allows your designers to have complete control of their pr
 
 If you have [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) installed, you can attach the Mockups project file to a page or issue, and the plugin will display it automatically, even if you don't have an active trial or subscription.
 
-If you have [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) or [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) instances, you can use [this guide](https://support.balsamiq.com/plugins/b3andatlassian/) to get your Mockups for Desktop projects into them.
+If you have [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) or [Wireframes for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) instances, you can use [this guide](https://support.balsamiq.com/plugins/b3andatlassian/) to get your Mockups for Desktop projects into them.

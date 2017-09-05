@@ -2,11 +2,9 @@
 title: System Requirements
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 190
-menu:
-  menuinstallation:
-    weight: 190
+menu: "menuinstallation"
+product: "Installation FAQs"
 draft: ''
-
 ---
 Balsamiq Mockups for Desktop requires Adobe Air 2.6 to run, which works fine on most computers and Operating Systems. You can find the most recent [system requirements for Adobe Air here](http://www.adobe.com/products/air/tech-specs.html).
 

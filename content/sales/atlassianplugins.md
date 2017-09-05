@@ -64,7 +64,7 @@ This section covers the most frequently asked questions related to the licensing
 ## Upgrading and Maintenance (Support and Updates)
 
 *   [What is the difference between an ‘upgrade’ and an ‘update’?](/sales/upgrades/)
-*   Upgrade pricing is available on our website for [Mockups for Confluence Server](https://balsamiq.com/buy/#cu) and [Mockups for JIRA Server](https://balsamiq.com/buy/#ju)
+*   Upgrade pricing is available on our website for [Wireframes for Confluence Server](https://balsamiq.com/buy/#cu) and [Wireframes for JIRA Server](https://balsamiq.com/buy/#ju)
 *   [How can I order my license upgrade?](/sales/upgrades/#how-can-i-order-an-upgrade)
 *   Information and FAQs on Software Maintenance are [here](/sales/maintenance/).
 *   [How do I update my software?](/sales/update/)
@@ -78,7 +78,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [The EULA is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
 *   [Are your products Open Source software applications?](/sales/opensource/)
 *   [Can I use wireframes made with Balsamiq in my presentation / book / website?](/sales/ipownership/)
-*   [Mockups for Confluence Server and JIRA Server Support End of Life Policy](/sales/atlassianeol/)
+*   [Wireframes for Confluence Server and JIRA Server Support End of Life Policy](/sales/atlassianeol/)
 
 ## Customization and Professional Services
 
