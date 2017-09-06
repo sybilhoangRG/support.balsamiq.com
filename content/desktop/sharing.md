@@ -34,12 +34,12 @@ You can export all of your mockups to static PNG images, and send those to your 
 
 ## Use myBalsamiq
 
-[myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq) is our web-based wireframing solution designed for large teams. With myBalsamiq, you can invite your collaborators to view, interact with, and even edit your project. [Using Mockups and myBalsamiq together](https://support.balsamiq.com/mybalsamiq/mybandb3/) is easy. Check it out today and see [how to share your work with outside clients in myBalsamiq.](https://docs.balsamiq.com/mybalsamiq/sharing/).
+[myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq) is our web-based wireframing solution designed for large teams. With myBalsamiq, you can invite your collaborators to view, interact with, and even edit your project. [Using Mockups and myBalsamiq together](/mybalsamiq/mybandb3/) is easy. Check it out today and see [how to share your work with outside clients in myBalsamiq.](https://docs.balsamiq.com/mybalsamiq/sharing/).
 
 * * *
 
 ## Real-Time Collaboration
 
-Real-time collaboration is available *now* in three of our apps: [Mockups 3 for Google Drive](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki), [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) and [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview). You can watch a video example of this [here](https://support.balsamiq.com/plugins/introtogoogledrive/).
+Real-time collaboration is available *now* in three of our apps: [Mockups 3 for Google Drive](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki), [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) and [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview). You can watch a video example of this [here](/plugins/introtogoogledrive/).
 
 We plan to bring real-time collaboration to all of our products, and will hopefully have more to share soon!

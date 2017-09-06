@@ -6,7 +6,7 @@ menu: "menututorials"
 draft: ''
 product: "Tutorials & Videos"
 ---
-Balsamiq Mockups 3 should allow you to achieve most of your needs as it is designed (assuming it is [the right tool for you](https://support.balsamiq.com/sales/howtochoose/)). However, some features can be harder than others to implement and sometimes using a workaround is the best way to address an immediate need. We decided to collect those workarounds, and make them available for you here.
+Balsamiq Mockups 3 should allow you to achieve most of your needs as it is designed (assuming it is [the right tool for you](/sales/howtochoose/)). However, some features can be harder than others to implement and sometimes using a workaround is the best way to address an immediate need. We decided to collect those workarounds, and make them available for you here.
 
 Most of these tips and tricks are based on customer requests or questions so, once again, **thank you friends**! If you have any other requests or workarounds you'd like to share, please [reach out](https://balsamiq.com/company/contact/#/t) and tell us all about it. :)
 

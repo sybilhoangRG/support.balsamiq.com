@@ -29,4 +29,4 @@ If your Mockup doesn't show up in your project after following these steps, plea
 
 Also, the **Restore this version** option is not available if you've deleted a full project. In that case, please [reach out](https://balsamiq.com/company/contact/#/t/myb) with as many details as you can think of (site name, project name, date of deletion...) and we'll do our best to help!
 
-{{% alert info %}}**Note:** For easier and faster support, this request should be made by the [site owner](https://support.balsamiq.com/mybalsamiq/siteowner/).{{% /alert %}}
+{{% alert info %}}**Note:** For easier and faster support, this request should be made by the [site owner](/mybalsamiq/siteowner/).{{% /alert %}}

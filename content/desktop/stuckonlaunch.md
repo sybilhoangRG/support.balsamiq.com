@@ -7,7 +7,7 @@ product: "Balsamiq Mockups for Desktop FAQs"
 draft: ''
 ---
 
-{{% alert info %}}**Note:** If you're getting an error opening a specific BMPR file, check out this [Backup FAQ](https://support.balsamiq.com/desktop/backup/) instead. {{% /alert %}}
+{{% alert info %}}**Note:** If you're getting an error opening a specific BMPR file, check out this [Backup FAQ](/desktop/backup/) instead. {{% /alert %}}
 
 In some rare cases, Mockups for Desktop will get stuck on launch, only showing the loading screen and not progressing.
 

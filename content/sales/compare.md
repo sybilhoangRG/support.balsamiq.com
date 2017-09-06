@@ -47,7 +47,7 @@ These three applications will work almost identically, save for one major differ
 
 ## Editor Differences
 
-With the version 3 editor, we introduced our [.bmpr](https://support.balsamiq.com/resources/bmpr-format/) project file format. This allows all of your mockups, assets, and symbols to live in a single file, [making sharing even easier](https://support.balsamiq.com/desktop/sharing/)!
+With the version 3 editor, we introduced our [.bmpr](/resources/bmpr-format/) project file format. This allows all of your mockups, assets, and symbols to live in a single file, [making sharing even easier](/desktop/sharing/)!
 
 The version 3 editor and Balsamiq Wireframes editor look almost identical, but the Balsamiq Wireframes editor is completely native to your OS and Browser, so it should be a lot faster. With the official release of our Balsamiq Wireframes products, the version 3 editor has been moved to maintenance only releases. These will slow over time, as more of our products are moved to the Balsamiq Wireframes editor.
 
