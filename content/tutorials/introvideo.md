@@ -2,11 +2,9 @@
 title: Mockups Intro Video
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 20
-menu:
-  menututorials:
-    weight: 20
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 This introductory video provides overview of how to work with Balsamiq Mockups: Adding and using controls via drag and drop or [Quick Add](https://docs.balsamiq.com/desktop/overview/#the-quick-add-tool), working with images and Symbols, and showing your designs to stakeholders. It’s only 4 minutes long, but it’s packed with information!

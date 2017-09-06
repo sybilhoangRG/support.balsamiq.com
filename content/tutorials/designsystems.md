@@ -2,14 +2,12 @@
 title: Using Balsamiq with Design Systems and Frameworks
 date: '2015-12-16'
 weight: 350
-menu:
-  menututorials:
-    weight: 350
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
-Design Systems, Pattern Libraries, and Frameworks simplify development and relieve pressure on developers to style user interface components. 
+Design Systems, Pattern Libraries, and Frameworks simplify development and relieve pressure on developers to style user interface components.
 
 While wireframes (low fidelity, non-interactive) may seem like an odd pairing with design systems (high fidelity, backed by working code), they can actually work quite well together!
 
@@ -26,4 +24,3 @@ Here is an excerpt from the post and some images showing how Balsamiq components
 [Read the full blog post here.](https://blog.balsamiq.com/using-balsamiq-mockups-with-pattern-libraries-and-frameworks/)
 
 And, if you use Bootstrap as your framework, you can use our [Bootstrap project starter template](https://mockupstogo.mybalsamiq.com/projects/template-bootstrap/grid).
-

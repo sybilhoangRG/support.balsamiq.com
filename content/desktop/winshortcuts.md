@@ -2,11 +2,9 @@
 title: Why Doesn't Zoom to Fit All Work on Windows?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 240
-menu:
-  menudesktop:
-    weight: 240
+menu: "menudesktop"
+product: "Balsamiq Mockups for Desktop FAQs"
 draft: ''
-
 ---
 For users with Windows Vista and above, you may find that the Zoom to Fit All [keyboard shortcut](https://docs.balsamiq.com/desktop/shortcuts/) (CTRL+SHIFT+0) doesn't work. The reason for this is that Windows captures the input before it gets sent to Mockups 3 for Desktop, preventing the app from ever seeing it.
 

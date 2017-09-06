@@ -2,16 +2,14 @@
 title: Using Wireframes in Agile User Stories
 date: '2015-12-16'
 weight: 370
-menu:
-  menututorials:
-    weight: 370
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 The Lean/Agile philosophy of "failing fast," continually testing and validating ideas, and working in incremental steps pairs well with the  quick, iterative style of wireframing with Balsamiq.
 
-Rather than taking weeks to build a fully-interactive prototype, Balsamiq lets you to create concepts and variations in hours, allowing you to test and validate much more rapidly. 
+Rather than taking weeks to build a fully-interactive prototype, Balsamiq lets you to create concepts and variations in hours, allowing you to test and validate much more rapidly.
 
 Balsamiq wireframes also fit nicely into agile user stories, where a rough UI sketch can be supplemented by more detailed acceptance criteria.
 

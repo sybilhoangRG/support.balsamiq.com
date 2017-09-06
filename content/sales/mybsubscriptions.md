@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This page describes how a [site owner](https://support.balsamiq.com/mybalsamiq/siteowner/) or [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can sign up for and make changes to a myBalsamiq subscription.
+This page describes how a [site owner](/mybalsamiq/siteowner/) or [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can sign up for and make changes to a myBalsamiq subscription.
 
 **Note**: we do not support hibernating / deactivating / putting a site on hold: [details here](/sales/hibernate/).
 

@@ -1,12 +1,10 @@
 ---
 title: Total Project Count Doesn't Match Visible Projects
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 200
-menu:
-  menumybalsamiq:
-    weight: 200
+weight: 210
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 ![](https://media.balsamiq.com/img/support/docs/myb/projectcount.png)

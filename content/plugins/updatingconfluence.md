@@ -11,7 +11,7 @@ draft: ''
 
 Due to changes Atassian made to macro handling, updating versions of Confluence prior to 3.5.7 is not a cut-and-dry process (as much as we wish it were!)
 
-{{% alert info %}}**Note:** In order to update to the latest version of Mockups for Confluence Server, you'll need to make sure your license has an [active maintenance period](https://support.balsamiq.com/sales/maintenance/).{{% /alert %}}
+{{% alert info %}}**Note:** In order to update to the latest version of Mockups for Confluence Server, you'll need to make sure your license has an [active maintenance period](/sales/maintenance/).{{% /alert %}}
 
 Here are the steps for updating your Confluence server to ensure that Mockups for Confluence updates smoothly:
 

@@ -2,13 +2,11 @@
 title: Common Workarounds
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 330
-menu:
-  menututorials:
-    weight: 330
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
-Balsamiq Mockups 3 should allow you to achieve most of your needs as it is designed (assuming it is [the right tool for you](https://support.balsamiq.com/sales/howtochoose/)). However, some features can be harder than others to implement and sometimes using a workaround is the best way to address an immediate need. We decided to collect those workarounds, and make them available for you here.
+Balsamiq Mockups 3 should allow you to achieve most of your needs as it is designed (assuming it is [the right tool for you](/sales/howtochoose/)). However, some features can be harder than others to implement and sometimes using a workaround is the best way to address an immediate need. We decided to collect those workarounds, and make them available for you here.
 
 Most of these tips and tricks are based on customer requests or questions so, once again, **thank you friends**! If you have any other requests or workarounds you'd like to share, please [reach out](https://balsamiq.com/company/contact/#/t) and tell us all about it. :)
 
@@ -21,7 +19,7 @@ We will keep this page updated with common workarounds as we uncover them. And w
 
 Sometimes you want to create a [link](https://docs.balsamiq.com/desktop/linking/) from a control that doesn’t natively support it. Here's a quick way to do it:
 
-1. Add a **Rectangle** control  
+1. Add a **Rectangle** control
 2. Make it borderless and transparent
 4. Move and resize the rectangle to overlay your other control (Calendar in this case)
 5. Set up your link

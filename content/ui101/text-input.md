@@ -3,10 +3,10 @@ title: Text Input
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 15
-section: "UI Design 101"
+product: "UI Design 101"
 ---
 
-Text input fields allow keyboard input from the user.<!--more--> 
+Text input fields allow keyboard input from the user.<!--more-->
 
 They are frequently used in with other types of input controls in a form, but can be used on their own.
 
@@ -36,7 +36,7 @@ The [U.S. Web Design Standards](https://standards.usa.gov/components/form-contro
 * Avoid breaking numbers with distinct sections (such as phone numbers, Social Security Numbers, or credit card numbers) into separate input fields. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#text-input)) (Try using [Input masks](https://www.lukew.com/ff/entry.asp?756) or [flexible inputs](https://www.lukew.com/ff/entry.asp?755) instead)
 * For longer text, use a text area control (also called multi-line entry field), rather than a single line control.
 
-For reference, the [Bootstrap](http://getbootstrap.com/) documentation has some good [examples of different layouts and types of text input fields](http://getbootstrap.com/css/#forms-example). 
+For reference, the [Bootstrap](http://getbootstrap.com/) documentation has some good [examples of different layouts and types of text input fields](http://getbootstrap.com/css/#forms-example).
 
 ### Basic Usage
 
@@ -60,11 +60,6 @@ Also see ["forgiving format"](http://ui-patterns.com/patterns/ForgivingFormat).
 
 ---
 
-## Related Controls 
+## Related Controls
 
 * [Dropdown Menu (Combo Box)](../dropdown/)
-
-
-
-
-

@@ -3,10 +3,10 @@ title: Radio Buttons and Checkboxes
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 30
-section: "UI Design 101"
+product: "UI Design 101"
 ---
 
-Radio button and checkbox controls each allow users to select items from a list. <!--more-->  
+Radio button and checkbox controls each allow users to select items from a list. <!--more-->
 
 Deciding when to use which one can be challenging, so this article explains the differences between them and when and how to use each.
 
@@ -72,6 +72,6 @@ On **mobile**, radio buttons and checkboxes can look different in order to be op
 
 ---
 
-## Related Controls 
+## Related Controls
 
 * [Dropdown menus](../dropdown/)

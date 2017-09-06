@@ -2,11 +2,9 @@
 title: Oops! I Accidentally Deleted a Mockup From My myBalsamiq Site
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 200
-menu:
-  menumybalsamiq:
-    weight: 200
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 We've all been there. We make a quick decision and regret it the next second.
@@ -31,4 +29,4 @@ If your Mockup doesn't show up in your project after following these steps, plea
 
 Also, the **Restore this version** option is not available if you've deleted a full project. In that case, please [reach out](https://balsamiq.com/company/contact/#/t/myb) with as many details as you can think of (site name, project name, date of deletion...) and we'll do our best to help!
 
-{{% alert info %}}**Note:** For easier and faster support, this request should be made by the [site owner](https://support.balsamiq.com/mybalsamiq/siteowner/).{{% /alert %}}
+{{% alert info %}}**Note:** For easier and faster support, this request should be made by the [site owner](/mybalsamiq/siteowner/).{{% /alert %}}

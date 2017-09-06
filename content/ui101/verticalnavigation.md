@@ -3,10 +3,10 @@ title: Vertical Navigation
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 60
-section: "UI Design 101"
+product: "UI Design 101"
 ---
 
-Vertical (a.k.a. "Sidebar") navigation is a way of showing a persistent site or application structure along one side of the product.<!--more-->   
+Vertical (a.k.a. "Sidebar") navigation is a way of showing a persistent site or application structure along one side of the product.<!--more-->
 
 The [macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/sidebars/) define it by saying "a sidebar typically consists of a table view or outline view that lets people navigate and select items to act upon in the main portion of the window."
 
@@ -65,7 +65,7 @@ Like [tabs](../tabs/#types-of-tabs), vertical navigation should have a clear sel
 
 ---
 
-## Related Controls 
+## Related Controls
 
 * [Tabs](../tabs/)
 * [Menu Bars](../menubars/)

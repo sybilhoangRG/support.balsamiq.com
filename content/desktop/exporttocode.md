@@ -2,11 +2,9 @@
 title: Can Mockups Export to HTML/CSS/JS, XAML, Ruby, Etc.?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 70
-menu:
-  menudesktop:
-    weight: 70
+menu: "menudesktop"
+product: "Balsamiq Mockups for Desktop FAQs"
 draft: ''
-
 ---
 Not directly, no.
 

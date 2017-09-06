@@ -2,11 +2,9 @@
 title: Can I Make My Project Read Only for Project Members?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
-menu:
-  menumybalsamiq:
-    weight: 40
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 myBalsamiq does not have a read-only permission setting for project members. When you add project members to private projects they have permission to edit Mockups as well as comment and create new Mockups.
