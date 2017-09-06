@@ -40,6 +40,12 @@ You can export all of your mockups to static PNG images, and send those to your 
 
 ## Real-Time Collaboration
 
-Real-time collaboration is available *now* in three of our apps: [Mockups 3 for Google Drive](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki), [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) and [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview). You can watch a video example of this [here](/plugins/introtogoogledrive/).
+Real-time collaboration is available *now* in five of our apps:
+
+- [Balsamiq Wireframes for Google Drive](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki)
+- [Balsamiq Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups/server/overview)
+- [Balsamiq Wireframes for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups/server/overview)
+- [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)
+- [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
 
 We plan to bring real-time collaboration to all of our products, and will hopefully have more to share soon!
