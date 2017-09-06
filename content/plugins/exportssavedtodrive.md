@@ -9,8 +9,8 @@ draft: ''
 
 ---
 
-Due to a change in Google Chrome, we had to alter the way that Mockups 3 for Google Drive saves exported mockups. When you export a mockup, it is now [saved to your Google Drive](https://docs.balsamiq.com/google-drive/exporting/).
+Due to a change in Google Chrome, we had to alter the way that Balsamiq for Google Drive saves exported wireframess. When you export a wireframe, it is now [saved to your Google Drive](https://docs.balsamiq.com/google-drive/exporting/).
 
 You can download the file from your Google Drive by visiting [drive.google.com](https://drive.google.com), locating the file, right clicking it, and selecting "Download".
 
-If you would like to have your mockups saved to your hard drive automatically, you can download and install the [Google Drive App](https://www.google.com/drive/download/). This will keep your hard drive and Google Drive in sync.
+If you would like to have your wireframes saved to your hard drive automatically, you can download and install the [Google Drive App](https://www.google.com/drive/download/). This will keep your hard drive and Google Drive in sync.
