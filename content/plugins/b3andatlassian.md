@@ -10,7 +10,7 @@ draft: ''
 
 ---
 
-{{% alert info %}}**Note:** This FAQ is for older versions of Mockups for Atlassian Server prodcts. If you are using a Balsamiq Wireframes for Atlassian Server add-on, or one of our Atlassian Cloud apps, your .bmpr project files will just work. If you run into any issues, please [get in touch](mailto:support@balsamiq.com)  {{% /alert %}}
+{{% alert info %}}**Note:** This FAQ is for older versions of Mockups for Atlassian Server products. If you are using a Balsamiq Wireframes for Atlassian Server add-on, or one of our Atlassian Cloud apps, your .bmpr project files will just work. If you run into any issues, please [get in touch](mailto:support@balsamiq.com)  {{% /alert %}}
 
 ## Exporting from the Desktop Version
 
