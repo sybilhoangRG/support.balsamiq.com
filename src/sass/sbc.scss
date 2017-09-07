@@ -262,6 +262,9 @@ div.json-example, td.json-example {
     #filter li:last-child {
         margin-right: 0;
     }
+    #ui101 .gallery-item img {
+      padding: 10px;
+    }
 }
 /* EXTRA LARGE */
 @media only screen and (min-width: 1500px) {
@@ -274,6 +277,10 @@ div.json-example, td.json-example {
         position: absolute;
         bottom: 0;
         left: 0;
+    }
+
+    #ui101 .gallery-item img {
+      padding: 30px;
     }
 }
 
