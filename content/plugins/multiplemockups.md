@@ -1,5 +1,5 @@
 ---
-title: How Can I Display Multiple Wireframess or Projects on a Single Confluence Page?
+title: How Can I Display Multiple Wireframes or Projects on a Single Confluence Page?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 190
 menu:
@@ -29,15 +29,13 @@ This will display all the project's wireframes in a grid on your Confluence page
 
 The other option is to add multiple Balsamiq macros to your Confluence page. To try this, add a second Balsamiq Macro to the page.
 
-![](https://media.balsamiq.com/img/support/docs/confluence/userguidecloud/add-balsamiq-project.png)
+![](https://media.balsamiq.com/img/support/docs/confluence/faqs/add-balsamiq-project.png)
 
 When the macro editor loads, it will automatically select the project attached to the Confluence page. From there, you can select which wireframe to show from the **Starting Wireframe** dropdown menu.
 
 ![](https://media.balsamiq.com/img/support/docs/confluence/faqs/starting_mockup.png)
 
 Once you have selected the **Starting Wireframe**, you select the size and position, and then click the **Insert** button. This will add a second macro at the cursor position. Save the page to see both wireframes.
-
-![](https://media.balsamiq.com/img/support/docs/confluence/faqs/two_mockups_displayed.png)
 
 * * *
 
@@ -49,12 +47,10 @@ If you have multiple projects that you want to display on a single Confluence Pa
 
 After you have attached the new project, add a new Balsamiq Macro to the page.
 
-![](https://media.balsamiq.com/img/support/docs/confluence/userguidecloud/add-balsamiq-project.png)
+![](https://media.balsamiq.com/img/support/docs/confluence/faqs/add-balsamiq-project.png)
 
 Once the macro editor loads, you will be able to select the project you want to use from the **Selected Project** dropdown. You can also select which wireframe to display with the **Starting Wireframe** dropdown. Make any size and alignment changes, and then click **Insert**.
 
 ![](https://media.balsamiq.com/img/support/docs/confluence/faqs/selected_project.png)
 
 Save your page and you should see wireframes from both of your projects on the same page. Simply repeat these steps for any additional projects.
-
-![](https://media.balsamiq.com/img/support/docs/confluence/faqs/two_projects.png)
