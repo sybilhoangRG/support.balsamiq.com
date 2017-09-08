@@ -9,14 +9,14 @@ draft: ''
 
 ---
 
-Seeing the following error message while trying to add a Balsamiq Wireframes project to your Confluence page?
+If you're seeing the following error on your Confluence Page, and wanted to know why, this FAQ is for you!
 
 ![](//media.balsamiq.com/img/support/docs/atlassian/no_draft.png)
 
-Since we don't want to restrict access to our plugin only for Confluence 6+ users, we decided to make Balsamiq Wireframes for Confluence Server compatible with Confluence version 5.9.
+While our Balsamiq Wireframes for Confluence Server add-on is compatible with Confluence 5.9 and greater, there is a problem with saving our Balsamiq Macro to draft pages on Confluence 5.x. Unfortunately, this is due to a limitation within the Confluence 5.x server software itself, so we have decided to block saving to a draft page all together (we wish we could fix it!)
 
-The only downside is that Confluence version 5.x (and previous versions) does not allow the Balsamiq Wireframes macro to be bonded correctly to its related BMPR attached to the Confluence page.
+{{% alert info %}}**Note:** Confluence 6 and above customers should not see this error.{{% /alert %}}
 
-This is why we decided to block the creation of a project on a draft page on versions 5.x and below. We've added a warning that asks the user to save the draft before creating a project.
+Luckily, the workaround is super easy! All you need to do is create your draft page and save it first. Once that is done, you can edit it and [insert a new Balsamiq Wireframes project](https://docs.balsamiq.com/confluence/server/wireframes/intro/#adding-a-new-project-to-a-confluence-page).
 
-{{% alert info %}}**Note:** There is no such limitation in Confluence version 6 (and older versions) so creating projects on a draft page won't be an issue there.{{% /alert %}}
+We apologize to our Confluence 5.x customers for this extra step, but we felt that bringing you this update was worth it!
