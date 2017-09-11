@@ -84,12 +84,7 @@ Details on how are here:
 
 There is no discounted pricing on the follow product combinations:
 
-<<<<<<< HEAD
 *   Balsamiq for Google Drive and Mockups 3 for Desktop
-*   Mockups for Confluence and Mockups for JIRA
-=======
-*   Mockups for 3 Google Drive and Mockups 3 for Desktop
 *   Wireframes for Confluence and Wireframes for JIRA
->>>>>>> bwjs-bwcs
 *   Mockups 3 for Confluence or JIRA Cloud and Mockups 3 for Desktop
 *   myBalsamiq and a plugin (Balsamiq for Google Drive or an Atlassian plugin)
