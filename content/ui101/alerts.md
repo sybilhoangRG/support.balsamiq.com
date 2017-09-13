@@ -39,7 +39,7 @@ The [macOS Human Interface Guidelines](https://developer.apple.com/macos/human-i
 
 More specifically:
 
-* Create specific, actionable, user-centered error messages. Users should either perform an action or change their behavior as the result of the message. ([*KDE Visual Design Group/HIG*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Messages))
+* Create specific, actionable, user-centered error messages. Users should either perform an action or change their behavior as the result of the message. ([*KDE Human Interface Guidelines*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Messages))
 * Use pre-defined or system styles when possible. Don't deviate from familiar.
 * Generally, use two-button alerts (for dialogs). ([*iOS Human Interface Guidelines*](https://developer.apple.com/ios/human-interface-guidelines/ui-views/alerts/))
 * Express everything in the user’s vocabulary. Use clear language, free from jargon. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/alerts/))
