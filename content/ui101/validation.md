@@ -26,7 +26,7 @@ Following [text input guidelines](../text-input/) and implementing [autocomplete
 
 * Only show error validation messages or styles after a user has interacted with a particular field. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#text-input))
 * Try to validate "on-the-fly", before the form is submitted. But if you can't, consider adding a notification to summarize feedback at the top of the page when it reloads.
-* Don't clear invalid input data unless users aren't able to correct errors easily. Doing so allows users to correct mistakes without starting over. ([*KDE Visual Design Group/HIG*](https://community.kde.org/KDE_Visual_Design_Group/HIG/LineEdit))
+* Don't clear invalid input data unless users aren't able to correct errors easily. Doing so allows users to correct mistakes without starting over. ([*KDE Human Interface Guidelines*](https://community.kde.org/KDE_Visual_Design_Group/HIG/LineEdit))
 *  Provide guidance on how to fix any errors, don't just tell users what they did wrong.
 *  Follow voice and tone guidelines, if you have them. (If you don't have your own, there are [some great examples here](http://voiceandtoneguides.webflow.io/).)
 

@@ -49,6 +49,8 @@ Read the [full list here](https://developer.gnome.org/hig/stable/buttons.html.en
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/buttons-example.png)
 
+For more detailed suggestions on designing and styling buttons, here's a [good post about buttons in design systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23).
+
 ---
 
 ## Types of Buttons

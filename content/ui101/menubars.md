@@ -47,7 +47,7 @@ Other important menu bar guidelines:
 * Don’t model your navigation after your agency’s org structure (or your application's architectural model). Instead, **structure it according to the tasks and information your users most frequently need to access**. [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
 * Include skip navigation links to allow users with screen readers to bypass long navigation lists. [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
 * Consider using a "mega menu" if you have more than six links or menu items within a menu. (See the [variations](#variations) below for more on mega menus.) [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/headers/)
-* Use nine or fewer top-level categories. ([*KDE Visual Design Group/HIG*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Menu_Bar))
+* Use nine or fewer top-level categories. ([*KDE Human Interface Guidelines*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Menu_Bar))
 * For mobile sites and applications, menu bars can be collapsed to a slide-out or expandable "hamburger" menu.
 * Make sure that the menu items look interactive and have enough visual weight. They should invite action. [(*Nielsen Norman Group*)](https://www.nngroup.com/articles/menu-design/)
 * Make menu links big enough to be easily tapped or clicked. Provide enough padding and spacing around them so that users don't accidentally click the wrong one. [(*Nielsen Norman Group*)](https://www.nngroup.com/articles/menu-design/)
