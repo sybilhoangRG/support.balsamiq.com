@@ -9,7 +9,7 @@ Tooltips are a form of contextual help that also fit within the "details on dema
 
 They are a great way to help novices without disrupting experienced users. A classic use case for tooltips is to show keyboard shortcuts when a user hovers over an action button.
 
-In ["About Face 3: The Essentials of Interaction Design"](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111), Alan Cooper calls tooltips "one of the cleverest and most effective user-interface idioms we've ever seen."
+In ["About Face: The Essentials of Interaction Design"](https://www.amazon.com/dp/1118766571/), Alan Cooper calls tooltips "one of the cleverest and most effective user-interface idioms we've ever seen."
 
 ## When to Use Tooltips
 
@@ -39,7 +39,7 @@ Finally, tooltips are often not shown on mobile devices, so don't rely on them o
 * Tooltips should be placed near the object being hovered, but should never be placed in a way that interferes with what the user is doing by obscuring the object of interest. ([*UX Planet*](https://uxplanet.org/tooltips-in-ui-design-f63e117aa3d1))
 * If you want them to be available on mobile, consider adding small informational buttons for touch screen use (see [variations below](#variations)). ([*KDE Human Interface Guidelines*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Tooltip))
 * Timing is critical. If you have control over it, follow these guidelines:
-	* Delay the start of the tooltip so that they aren't constantly popping up as the user moves their mouse across the screen. Wait until the user has stopped moving their cursor for about a second. ([*About Face 3: The Essentials of Interaction Design*](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111))
+	* Delay the start of the tooltip so that they aren't constantly popping up as the user moves their mouse across the screen. Wait until the user has stopped moving their cursor for about a second. ([*About Face: The Essentials of Interaction Design*](https://www.amazon.com/dp/1118766571/))
 	* Show the tooltip for about 10 seconds or until the pointer moves away from the control. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/user-interaction/help/))
 	* Fade tooltips in and out over ~150ms. ([*Google Material Design guidelines*](https://material.io/guidelines/components/tooltips.html))
 * Most operating systems and platforms have built-in tooltip controls; use them rather than defining your own.
