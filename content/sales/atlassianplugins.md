@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview), [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) and [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups).
+This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview), [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) and [Wireframes for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups).
 
 ## Plugin Documentation
 
@@ -22,7 +22,7 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Pricing and Discounts
 
-*   Current pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/#c) and [Mockups for JIRA](https://balsamiq.com/buy/#j)
+*   Current pricing is available on our website for [Wireframes for Confluence](https://balsamiq.com/buy/#c) and [Wireframes for JIRA](https://balsamiq.com/buy/#j)
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
 *   [How are users counted in Balsamiq licenses? Are they named or concurrent users?](/sales/userscounted/)
 *   [Can I use our license both for staging and production environments?](/sales/atlassianstagingproduction/)
