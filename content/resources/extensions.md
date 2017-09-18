@@ -2,11 +2,9 @@
 title: Extensions
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 30
-menu:
-  menuresources:
-    weight: 30
+menu: "menuresources"
 draft: ''
-
+product: "Resources"
 ---
 
 ## A Thriving User Community

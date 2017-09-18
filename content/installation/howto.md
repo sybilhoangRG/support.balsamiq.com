@@ -2,11 +2,9 @@
 title: How Do I Install Mockups?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
-menu:
-  menuinstallation:
-    weight: 10
+menu: "menuinstallation"
+product: "Installation FAQs"
 draft: ''
-
 ---
 ## How to Install or Update Mockups
 

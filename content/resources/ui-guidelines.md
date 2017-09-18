@@ -1,8 +1,8 @@
 ---
 date: 2017-03-03T13:04:10-08:00
-menu:
-  menuresources:
-    parent:
+menu: "menuresources"
+draft: ''
+product: "Resources"
 title: User Interface Guidelines
 weight: 56
 ---
@@ -155,7 +155,7 @@ These User Interface Guidelines provide documentation for designing applications
                 <h3><a href="https://standards.usa.gov/">U.S. Web Design Standards</a></h3>
             </div>
         </div>
-    </div>    
+    </div>
     <div class="fitem col-xs-6 col-sm-4 col-md-3">
         <div class="gallery-item">
             <a href="https://www.nngroup.com/articles/ten-usability-heuristics/"><img src="https://media.balsamiq.com/img/support/uiguidelines/nng.jpg" alt="screenshot" /></a>

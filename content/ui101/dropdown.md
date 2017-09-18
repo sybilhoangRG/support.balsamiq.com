@@ -3,12 +3,12 @@ title: Dropdown Menu (Combo Box)
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 25
-section: "UI Design 101"
+product: "UI Design 101"
 ---
 
-The control with many names! A dropdown menu gives you a list of items to select from.<!--more--> 
+The control with many names! A dropdown menu gives you a list of items to select from.<!--more-->
 
-Whether you call it a Dropdown menu, Combo Box (or Combobox), Pull Down menu (or Pull-down menu), Picker, Select input, or something else, you use them every day. 
+Whether you call it a Dropdown menu, Combo Box (or Combobox), Pull Down menu (or Pull-down menu), Picker, Select input, or something else, you use them every day.
 
 
 ## When to Use Dropdown Menus
@@ -52,7 +52,7 @@ See this [Nielsen Norman Group article about dropdowns](https://www.nngroup.com/
 
 ### Variations
 
-* Categorized (Option Group) Dropdown  
+* Categorized (Option Group) Dropdown
 ![](//media.balsamiq.com/img/support/tutorials/ui101/dropdown-variations.png)
 * [Multi-select](http://getbootstrap.com/css/#selects)
 * [Custom values](https://developer.gnome.org/hig/stable/drop-down-lists.html.en#custom-values)
@@ -60,6 +60,6 @@ See this [Nielsen Norman Group article about dropdowns](https://www.nngroup.com/
 
 ---
 
-## Related Controls 
+## Related Controls
 
-* [Text Input](../text-input/) 
+* [Text Input](../text-input/)

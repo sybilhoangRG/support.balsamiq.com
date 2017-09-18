@@ -17,8 +17,8 @@ If this is for classroom use, check out our [free program for Mockups for Deskto
 
 For non classroom use, academic pricing is available to qualified academic institutions for the following Balsamiq products:
 
-*   [Mockups for Confluence Server](https://balsamiq.com/buy/#c)
-*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
+*   [Wireframes for Confluence Server](https://balsamiq.com/buy/#c)
+*   [Wireframes for JIRA Server](https://balsamiq.com/buy/#j)
 
 The following organizations qualify for a Balsamiq Academic license:
 
@@ -32,7 +32,7 @@ The following organizations qualify for a Balsamiq Academic license:
 Academic discounts are not available for the following products:
 
 *   Mockups 3 for Desktop (but we do [offer extended trials for classroom use](https://balsamiq.com/free))
-*   Mockups for Google Drive
+*   Balsamiq for Google Drive
 *   myBalsamiq
 *   Mockups 3 for Confluence Cloud
 *   Mockups 3 for JIRA Cloud
@@ -80,11 +80,11 @@ We offer some discounts to customers who would like to use Desktop and another v
 Details on how are here:
 
 *   [myBalsamiq and Mockups 3 for Desktop](/mybalsamiq/mybanddesktop/#savings-when-using-both-versions)
-*   [Mockups for Confluence or JIRA Server and Mockups 3 for Desktop](/sales/atlassianplugindiscounts/)
+*   [Wireframes for Confluence or JIRA Server and Mockups 3 for Desktop](/sales/atlassianplugindiscounts/)
 
 There is no discounted pricing on the follow product combinations:
 
-*   Mockups for 3 Google Drive and Mockups 3 for Desktop
-*   Mockups for Confluence and Mockups for JIRA
+*   Balsamiq for Google Drive and Mockups 3 for Desktop
+*   Wireframes for Confluence and Wireframes for JIRA
 *   Mockups 3 for Confluence or JIRA Cloud and Mockups 3 for Desktop
-*   myBalsamiq and a plugin (Mockups 3 for Google Drive or an Atlassian plugin)
+*   myBalsamiq and a plugin (Balsamiq for Google Drive or an Atlassian plugin)

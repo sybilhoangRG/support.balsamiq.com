@@ -13,9 +13,9 @@ draft: ''
 
 Other than [Atlassian Marketplace](/sales/marketplace/), we have no contracted agreements with software resellers, however we understand it is often easier for companies to purchase from a reseller with whom they already have an agreement.
 
-Though we do not have approved resellers, we do allow resellers to purchase our license products on behalf of their customers. Due to payment and management restrictions, we do not recommend that resellers purchase our subscription products Mockups 3 for Google Drive and myBalsamiq.
+Though we do not have approved resellers, we do allow resellers to purchase our license products on behalf of their customers. Due to payment and management restrictions, we do not recommend that resellers purchase our subscription products Balsamiq for Google Drive and myBalsamiq.
 
-If you are looking to purchase Mockups 3 for Desktop, Mockups for Confluence Server, or Mockups for JIRA Server and would prefer to purchase via your reseller, simply send them a link to this page to help them complete the purchase.
+If you are looking to purchase Mockups 3 for Desktop, Wireframes for Confluence Server, or Wireframes for JIRA Server and would prefer to purchase via your reseller, simply send them a link to this page to help them complete the purchase.
 
 ## Can I Become a Reseller and Get a Discount?
 
@@ -23,7 +23,7 @@ Balsamiq does not offer any reseller discounts, so there is no application or ag
 
 Our standard [EULA and Terms of Service](https://balsamiq.com/eulas/) apply to purchases made by resellers.
 
-For our license products Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server it's easy to purchase for your end user. See instructions [below](#how-can-i-buy-balsamiq-mockups-for-my-customers).
+For our license products Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for JIRA Server it's easy to purchase for your end user. See instructions [below](#how-can-i-buy-balsamiq-mockups-for-my-customers).
 
 ## Can I Get a Price List and a List of SKUs?
 
@@ -33,7 +33,7 @@ SKUs or part numbers are not required for purchase, but they are shown on our es
 
 ## How Can I Buy Balsamiq Mockups for My Customers?
 
-Our license products **[Mockups 3 for Desktop](https://balsamiq.com/buy/)**, **[Mockups for Confluence Server](https://balsamiq.com/buy/#c)**, and **[Mockups for JIRA Server](https://balsamiq.com/buy/#j)** can be purchased directly on our website.
+Our license products **[Mockups 3 for Desktop](https://balsamiq.com/buy/)**, **[Wireframes for Confluence Server](https://balsamiq.com/buy/#c)**, and **[Wireframes for JIRA Server](https://balsamiq.com/buy/#j)** can be purchased directly on our website.
 
 Make sure to enter your customer's name in the "Name for License" field so we can issue the license in the correct name, using your email address for the contact info.
 
@@ -43,7 +43,7 @@ The receipt and License Information will be sent to the email address provided, 
 
 There are additional payment options for [license orders over $300](/sales/ordering/#licenses).
 
-We do not recommended that resellers purchase our subscription products [**myBalsamiq**](https://balsamiq.com/products/mockups/mybalsamiq) and [**Mockups 3 for Google Drive**](/sales/gdrivesubscription/#stopping-your-subscription).
+We do not recommended that resellers purchase our subscription products [**myBalsamiq**](https://balsamiq.com/products/mockups/mybalsamiq) and [**Balsamiq for Google Drive**](/sales/gdrivesubscription/#stopping-your-subscription).
 
 Payment for subscription products is only available by automatic credit card payment. Because of subscription management, access, and permissions, these products are best purchased by the end-user instead of a reseller.
 

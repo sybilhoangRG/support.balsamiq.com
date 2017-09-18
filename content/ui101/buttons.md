@@ -3,16 +3,16 @@ title: Buttons
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 10
-section: "UI Design 101"
+product: "UI Design 101"
 ---
 
-Designing buttons may seem obvious, but they are surprisingly complex and there are a few tricky things to look out for.<!--more--> 
+Designing buttons may seem obvious, but they are surprisingly complex and there are a few tricky things to look out for.<!--more-->
 
 ## When to Use Buttons
 
-According to the book ["Designing Interfaces"](http://designinginterfaces.com/), buttons should be "big, readable, obvious, and extremely easy to use for even the most inexperienced computer users". They are best used for important actions. 
+According to the book ["Designing Interfaces"](http://designinginterfaces.com/), buttons should be "big, readable, obvious, and extremely easy to use for even the most inexperienced computer users". They are best used for important actions.
 
-The challenge with buttons is that the more of them you add, the less obvious and easy to use each one becomes. So, use them wisely and deliberately. 
+The challenge with buttons is that the more of them you add, the less obvious and easy to use each one becomes. So, use them wisely and deliberately.
 
 Let's look at an example:
 
@@ -49,6 +49,8 @@ Read the [full list here](https://developer.gnome.org/hig/stable/buttons.html.en
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/buttons-example.png)
 
+For more detailed suggestions on designing and styling buttons, here's a [good post about buttons in design systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23).
+
 ---
 
 ## Types of Buttons
@@ -68,9 +70,6 @@ The [Google Material Design guidelines for buttons](https://material.io/guidelin
 
 ---
 
-## Related Controls 
+## Related Controls
 
 * Links
-
-
-

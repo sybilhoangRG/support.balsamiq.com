@@ -3,10 +3,10 @@ title: Radio Buttons and Checkboxes
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 30
-section: "UI Design 101"
+product: "UI Design 101"
 ---
 
-Radio button and checkbox controls each allow users to select items from a list. <!--more-->  
+Radio button and checkbox controls each allow users to select items from a list. <!--more-->
 
 Deciding when to use which one can be challenging, so this article explains the differences between them and when and how to use each.
 
@@ -54,7 +54,7 @@ The most difficult scenario for choosing between radio buttons and checkboxes is
 
 As with most form controls, radio buttons and checkboxes can be disabled as needed. One state that is unique to radio buttons and checkboxes is the non-binary **indeterminate** (also called mixed) state (neither on nor off).
 
-The indeterminate state should *only* be used "to indicate that an option is set for some, but not all, child objects. [It] must not be used to represent a third state." ([*KDE Visual Design Group/HIG*](https://community.kde.org/KDE_Visual_Design_Group/HIG/CheckBox))
+The indeterminate state should *only* be used "to indicate that an option is set for some, but not all, child objects. [It] must not be used to represent a third state." ([*KDE Human Interface Guidelines*](https://community.kde.org/KDE_Visual_Design_Group/HIG/CheckBox))
 
 The example below shows all states:
 
@@ -72,6 +72,6 @@ On **mobile**, radio buttons and checkboxes can look different in order to be op
 
 ---
 
-## Related Controls 
+## Related Controls
 
 * [Dropdown menus](../dropdown/)

@@ -1,5 +1,5 @@
 ---
-title: Using Mockups 3 for Desktop and Mockups for Confluence Server or JIRA Server Versions
+title: Using Mockups 3 for Desktop with Balsamiq for Confluence Server or JIRA Server
   Together
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 20
@@ -10,13 +10,9 @@ draft: ''
 
 ---
 
-{{% alert info %}}**Note:** Using Mockups 3 for Confluence Cloud? See [this document](https://docs.balsamiq.com/confluence/cloud/intro/) instead.{{% /alert %}}
+{{% alert info %}}**Note:** This FAQ is for older versions of Mockups for Atlassian Server products. If you are using a Balsamiq Wireframes for Atlassian Server add-on, or one of our Atlassian Cloud apps, your .bmpr project files will just work. If you run into any issues, please [get in touch](mailto:support@balsamiq.com)  {{% /alert %}}
 
-{{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/cloud/intro/) instead.{{% /alert %}}
-
-{{% alert warning %}}**Heads Up!** Balsamiq Mockups 3 for Desktop, at the moment, uses a different file format than Mockups for Confluence Server and Mockups for JIRA Server. We plan to bring the changes in Balsamiq Mockups 3 to our Atlassian plugins in the future.{{% /alert %}}
-
-## Exporting from the Desktop Version 
+## Exporting from the Desktop Version
 
 Here's how to export your mockups from Mockups 3 for Desktop and bring them into Mockups for Confluence Server or JIRA Server:
 
@@ -71,4 +67,3 @@ You should now see the control(s) from Mockups for Desktop in your plugin versio
 Most of the products we integrate with make it clear where to find the mockup (.bmml) files. To download these files, just right-click on the link to the .bmml file and select "save link as…" (or whatever terminology your browser uses). Then use Balsamiq Mockups version 2 to open the BMML files or [import them](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) if you are using Balsamiq Mockups version 3.
 
 However, Confluence users might find it a little tricky to locate the mockup files to download. To find them, go to the page attachments by clicking "Tools > Attachments". Here, you will see two files for each mockup, one PNG image and one .bmml file. You can download the .bmml file from this list.
-

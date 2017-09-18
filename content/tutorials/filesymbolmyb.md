@@ -2,11 +2,9 @@
 title: How to Use an Existing File as a Symbol in myBalsamiq
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 95
-menu:
-  menututorials:
-    weight: 95
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 If you have a Mockups file that you want to use as a Symbol (a file [downloaded from Mockups To Go](/tutorials/mockupstogo/), for example), here's how you can add it to myBalsamiq as a Project Asset.

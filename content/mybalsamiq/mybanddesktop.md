@@ -2,11 +2,9 @@
 title: myBalsamiq and Mockups for Desktop
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
-menu:
-  menumybalsamiq:
-    weight: 60
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 This document aims to answer a few common questions between the interaction between myBalsamiq and Mockups for Desktop.
