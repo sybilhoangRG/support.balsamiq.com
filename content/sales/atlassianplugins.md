@@ -1,5 +1,5 @@
 ---
-title: Mockups for Confluence and JIRA Purchasing Table of Contents
+title: Balsamiq for Confluence and JIRA Purchasing Table of Contents
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 50
 menu:
@@ -13,14 +13,8 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Plugin Documentation
 
-* [Mockups for Confluence Server User Guide](https://docs.balsamiq.com/confluence/server/mockups2/intro/)
-* [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/)
-* [Mockups 3 for Confluence Cloud User Guide](https://docs.balsamiq.com/confluence/cloud/intro/)
-* [Mockups 3 for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/cloud/admin-guide-cloud/)
-* [Mockups for JIRA Server User Guide](https://docs.balsamiq.com/jira/server/mockups2/intro/)
-* [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/)
-* [Mockups 3 for JIRA Cloud User Guide](https://docs.balsamiq.com/jira/cloud/intro/)
-* [Mockups 3 for JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/cloud/admin-guide-cloud/)
+* [Balsamiq for **Confluence** Documentation](https://docs.balsamiq.com/confluence/)
+* [Balsamiq for **JIRA** Documentation](https://docs.balsamiq.com/jira/)
 
 ## Evaluating
 
