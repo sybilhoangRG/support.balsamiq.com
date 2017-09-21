@@ -11,14 +11,14 @@ draft: ''
 
 The answer depends on the version of Balsamiq Mockups:
 
-*   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud, and Mockups 3 for JIRA Cloud
-*   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for JIRA Server
+*   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud, and Mockups 3 for Jira Cloud
+*   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server
 
 * * *
 
 ## Subscriptions
 
-Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud are sold via [Atlassian Marketplace](/sales/marketplace/).
+Mockups 3 for Confluence Cloud and Mockups 3 for Jira Cloud are sold via [Atlassian Marketplace](/sales/marketplace/).
 
 For our other subscription products, we send monthly invoices following your automatic credit card payment to the email address specified with your credit card billing information.
 
@@ -29,4 +29,4 @@ For our other subscription products, we send monthly invoices following your aut
 
 ## Licenses
 
-For Mockups 3 for Desktop, Wireframes for Confluence Server or Wireframes for JIRA Server licenses purchased on our website: you can you can view, edit, or download your invoice on [this page](https://balsamiq.com/buy/invoice).
+For Mockups 3 for Desktop, Wireframes for Confluence Server or Wireframes for Jira Server licenses purchased on our website: you can you can view, edit, or download your invoice on [this page](https://balsamiq.com/buy/invoice).

@@ -1,5 +1,5 @@
 ---
-title: Can I Use Our Wireframes for Confluence Server or Wireframes for JIRA Server License Both for Staging
+title: Can I Use Our Wireframes for Confluence Server or Wireframes for Jira Server License Both for Staging
   and Production Environments?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 580

@@ -37,7 +37,7 @@ More specifically, these products:
 
 *   Balsamiq Mockups 3 for Google Drive & Balsamiq Wireframes for Google Drive _(referred together as Balsamiq for Google Drive hereafter)_
 *   Balsamiq Mockups 3 for Confluence Cloud
-*   Balsamiq Mockups 3 for JIRA Cloud
+*   Balsamiq Mockups 3 for Jira Cloud
 *   Balsamiq Mockups when used on ux.stackexchange.com
 
 When using the Plugin on a server that you host yourself behind the firewall, other terms apply: you can find the EULA [here](https://www.balsamiq.com/eulas).
@@ -77,7 +77,7 @@ If you breach any of the terms and conditions in this document, your authorizati
 The following versions of the Balsamiq Plugin are supported by Balsamiq:
 
 *   Balsamiq Mockups 3 for Confluence Cloud
-*   Balsamiq Mockups 3 for JIRA Cloud
+*   Balsamiq Mockups 3 for Jira Cloud
 *   Balsamiq for Google Drive
 
 Support is provided via our Community Forums at [https://forums.balsamiq.com](https://forums.balsamiq.com) as well via our support portal at [https://support.balsamiq.com](/)
@@ -129,7 +129,7 @@ The Balsamiq Plugin follows the access control rules of the platform itself. In 
 
 If you notice this not being the case, please report the bug to us following the guidelines [below](#what-should-i-do-if-i-find-a-security-vulnerability-in-your-services).
 
-In order to provide functionality such as autosave and real-time-collaboration, the Google Drive, Confluence Cloud and JIRA Cloud plugins store a temporary copy of your projects on our servers, but regularly send the data back to the platform for official storage (as a Google Drive file or as a JIRA issue attachment).
+In order to provide functionality such as autosave and real-time-collaboration, the Google Drive, Confluence Cloud and Jira Cloud plugins store a temporary copy of your projects on our servers, but regularly send the data back to the platform for official storage (as a Google Drive file or as a Jira issue attachment).
 
 We keep this temporary data for 30 days. If there are errors sending it to the platform, we might keep the data for longer, as a backup.
 
@@ -218,11 +218,11 @@ In the cases below, we do not host the Balsamiq Plugin ourselves, so you should 
 
 *   ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
 
-For Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
+For Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for Jira Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
 
 That said, high reliability is something we are proud of and something we deliberately chose to compete on. That's why we have hired developers, system administrators and support staff both in California and Europe.
 
-We monitor Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
+We monitor Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for Jira Cloud closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
 You can see for yourself how we're doing on this front by looking at these [Pingdom](http://www.pingdom.com)-powered charts:
 
@@ -340,7 +340,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 * 2017, XX XX: Renamed document to "Balsamiq Hosted Plugin Terms of Use", defined Balsamiq Software and Balsamiq for Google Drive, clarified how we access data and added Privacy Policy subheader to that section.
 * 2016, April 6: Added a couple of missing references to Balsamiq Mockups 3 for Confluence Cloud.
 * 2016, April 4: Renamed "Balsamiq Mockups for Confluence when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Confluence Cloud".
-* 2016, January 22: removed mentions of Mockups for Fogbugz, as it no longer exists. Renamed "Balsamiq Mockups for JIRA when used in Atlassian Cloud" to "Balsamiq Mockups 3 for JIRA Cloud". Added a large section about data security since we now host a temporary copy of your data in Mockups 3 for Google Drive and Mockups 3 for JIRA Cloud. Added Pingdom chart for the Balsamiq Collaboration Server.
+* 2016, January 22: removed mentions of Mockups for Fogbugz, as it no longer exists. Renamed "Balsamiq Mockups for Jira when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Jira Cloud". Added a large section about data security since we now host a temporary copy of your data in Mockups 3 for Google Drive and Mockups 3 for Jira Cloud. Added Pingdom chart for the Balsamiq Collaboration Server.
 * 2015, October 10: Fixed a link and added information about Stripe payment processor, which we are gradually migrating to.
 * 2014, June 18: Edited to rectify that we do collect your billing address, changed the name of our payment processor from Spreedly to Pin Payments (Pin Payments acquired Spreedly), and edited the [How can I access or correct my information?](#update) section to link to the relevant support page.
 * 2012, Apr 24: First publication - Giacomo Guilizzoni

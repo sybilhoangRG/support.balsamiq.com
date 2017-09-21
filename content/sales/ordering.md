@@ -11,8 +11,8 @@ draft: ''
 
 The answer depends on the version of Balsamiq Mockups:
 
-*   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud, and Mockups 3 for JIRA Cloud
-*   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for JIRA Server
+*   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud, and Mockups 3 for Jira Cloud
+*   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server
 
 * * *
 
@@ -23,7 +23,7 @@ To purchase a subscription product, you must first sign up for a trial. Specific
 *   [myBalsamiq](/sales/mybsubscriptions/)
 *   [Balsamiq for Google Drive](/sales/gdrivesubscription/)
 *   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/pricing) (sold by Atlassian)
-*   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
+*   [Mockups 3 for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
 
 Only automatic credit card payments are accepted for subscription-based services sold by Balsamiq. 
 
@@ -31,7 +31,7 @@ Only automatic credit card payments are accepted for subscription-based services
 
 ## Licenses
 
-We encourage Wireframes for Confluence Server and Wireframes for JIRA Server customers to purchase from Atlassian Marketplace, but you can also purchase directly from us.
+We encourage Wireframes for Confluence Server and Wireframes for Jira Server customers to purchase from Atlassian Marketplace, but you can also purchase directly from us.
 Here's [all the info](/sales/marketplace/).
 
 The easiest and fastest way to purchase a license for Mockups 3 for Desktop is by credit card on our [website](https://balsamiq.com/buy/).

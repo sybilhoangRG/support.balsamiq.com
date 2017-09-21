@@ -10,7 +10,7 @@ draft: ''
 
 *   [Mockups for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
 *   [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/#registration-instructions)
-*   [Mockups for JIRA Server](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#registration-instructions)
+*   [Mockups for Jira Server](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#registration-instructions)
 *   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
 
 * * *

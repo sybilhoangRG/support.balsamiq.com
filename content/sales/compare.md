@@ -25,7 +25,7 @@ The final editor is the original Mockups Version 2 editor. This powerful editor 
 
 1. [Balsamiq Wireframes for Google Drive](https://docs.balsamiq.com/google-drive/wireframes)
 2. [Balsamiq Wireframes for Confluence Server](https://docs.balsamiq.com/confluence/server/wireframes)
-3. [Balsamiq Wireframes for JIRA Server](https://docs.balsamiq.com/jira/server/wireframes)
+3. [Balsamiq Wireframes for Jira Server](https://docs.balsamiq.com/jira/server/wireframes)
 
 While most Balsamiq Wireframes products will update automatically, Atlassian Server customers will have to update manually through their installation's UPM.
 
@@ -33,7 +33,7 @@ While most Balsamiq Wireframes products will update automatically, Atlassian Ser
 
 1. [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/)
 2. [Mockups 3 for Confluence Cloud](https://docs.balsamiq.com/confluence/#mockups-3-for-confluence-cloud)
-3. [Mockups 3 for JIRA Cloud](https://docs.balsamiq.com/jira/#mockups-3-for-jira-cloud)
+3. [Mockups 3 for Jira Cloud](https://docs.balsamiq.com/jira/#mockups-3-for-jira-cloud)
 
 Any products based on the Balsamiq Version 3 Editor will be updated simultaneously whenever we release a [new version](https://blog.balsamiq.com/category/release-notes/) (you'll have to [manually download](https://balsamiq.com/download) the desktop app).
 
@@ -41,9 +41,9 @@ Any products based on the Balsamiq Version 3 Editor will be updated simultaneous
 
 1. [myBalsamiq](https://docs.balsamiq.com/mybalsamiq/)
 2. [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/#mockups-2-for-confluence-server)
-3. [Mockups for JIRA Server](https://docs.balsamiq.com/jira/#mockups-2-for-jira-server)
+3. [Mockups for Jira Server](https://docs.balsamiq.com/jira/#mockups-2-for-jira-server)
 
-These three applications will work almost identically, save for one major difference: The Atlassian Plugins based on the Mockups Version 2 Editor (Confluence Server and JIRA Server) do not support the creation of [symbols](https://docs.balsamiq.com/mybalsamiq/symbols/). This is due to a limitation in the way the plugins were initially implemented.
+These three applications will work almost identically, save for one major difference: The Atlassian Plugins based on the Mockups Version 2 Editor (Confluence Server and Jira Server) do not support the creation of [symbols](https://docs.balsamiq.com/mybalsamiq/symbols/). This is due to a limitation in the way the plugins were initially implemented.
 
 ## Editor Differences
 
