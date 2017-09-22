@@ -2,11 +2,9 @@
 title: Creating Your First Mockup
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 40
-menu:
-  menututorials:
-    weight: 40
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 This tutorial is designed to guide you through creating your first **Mockup**. It will cover a basic overview of the product as well as some of the **features** and UI **controls**.
@@ -144,7 +142,7 @@ After resizing the Tabs Bar control to match the width of the page, add **Label*
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-phase3.png)
 
-You can format text as **bold**, _italic_, or [hyperlinked](# "This Link Doesn't Go Anywhere") in Many Controls by Enclosing the Text with Special Characters. Use *Text* for Bold, _text_ for Italics, or [Text] for Hyperlinks.
+You can format text as **bold**, _italic_, or [hyperlinked](# "This Link Doesn't Go Anywhere") in Many Controls by Enclosing the Text with Special Characters. Use \*text\* for Bold, \_text\_ for Italics, or [text] for Hyperlinks.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-paragraph_formatting.png) ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-formatted_text.png)
 

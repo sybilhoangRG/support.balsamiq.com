@@ -2,11 +2,9 @@
 title: How to Create a Symbol
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 90
-menu:
-  menututorials:
-    weight: 90
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 {{% alert warning %}}**Heads Up!** This tutorial is for Balsamiq Mockups version 2. To learn how to [create symbols in Balsamiq Mockups 3, read this article](https://docs.balsamiq.com/desktop/symbols/).{{% /alert %}}

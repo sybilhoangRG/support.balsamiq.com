@@ -2,17 +2,15 @@
 title: How Do I Register Mockups for Desktop?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
-menu:
-  menuinstallation:
-    weight: 60
+menu: "menuinstallation"
+product: "Installation FAQs"
 draft: ''
-
 ---
 **Note:** This article applies to Mockups for Desktop. Registration instructions for our other products can be found on the following pages:
 
 *   [Mockups for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
 *   [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/#registration-instructions)
-*   [Mockups for JIRA Server](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#registration-instructions)
+*   [Mockups for Jira Server](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#registration-instructions)
 *   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
 
 * * *

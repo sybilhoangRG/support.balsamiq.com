@@ -4,6 +4,7 @@ draft: false
 title: "BMPR File Format Reference"
 menu: "menuresources"
 weight: 120
+product: "Resources"
 ---
 
 ## Overview
@@ -24,7 +25,7 @@ The BMPR format isn't the first format we've used for Mockups. For example, in t
 
 ### Who Is This For?
 
-It's for you and for all the other people who are making <a href="https://support.balsamiq.com/resources/extensions/">useful things</a>!
+It's for you and for all the other people who are making <a href="/resources/extensions/">useful things</a>!
 
 Maybe you're curious about how your projects are stored. Maybe you want to make tools that can read the files or even generate BMPR files programmatically. Maybe you want to teach a <a href="http://makezine.com/projects/building-a-doodle-bot-kit/">robot</a> how to draw your Mockups using chalk on sidewalks. We hope that happens!
 
@@ -457,4 +458,4 @@ The branches table contains records for each branch in a project. A typical proj
 
 ## Summary
 
-<p>We hope this reference is useful. If you can think of ways that would help us make it more useful for you <a href="https://balsamiq.com/company/#contact">we want to hear about it</a> and make it better. If you build a tool that supports BMPR let us know so we can tell people about it and add it to the list of <a href="https://support.balsamiq.com/resources/extensions/">extensions</a>.</p>
+<p>We hope this reference is useful. If you can think of ways that would help us make it more useful for you <a href="https://balsamiq.com/company/#contact">we want to hear about it</a> and make it better. If you build a tool that supports BMPR let us know so we can tell people about it and add it to the list of <a href="/resources/extensions/">extensions</a>.</p>

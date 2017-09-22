@@ -2,11 +2,9 @@
 title: Specifying Interaction with Mockups
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 120
-menu:
-  menututorials:
-    weight: 120
+menu: "menututorials"
 draft: ''
-
+product: "Tutorials & Videos"
 ---
 
 ## About This Tutorial
@@ -34,7 +32,7 @@ We think Mockups fits into this picture of early ideation in different ways. We 
 
 Before we get into the details about the techniques, let's consider the differences. Bill Buxton makes this distinction about sketches and prototypes.
 
-> Sketches and prototypes are both instantiations of the design concept. However they serve different purposes, and therefore are concentrated at different stages of the design process. Sketches dominate the early ideation stages, whereas prototypes are more concentrated at the later stages where things are converging within the design funnel.  
+> Sketches and prototypes are both instantiations of the design concept. However they serve different purposes, and therefore are concentrated at different stages of the design process. Sketches dominate the early ideation stages, whereas prototypes are more concentrated at the later stages where things are converging within the design funnel.
 > –Bill Buxton, _Sketching User Experiences_
 
 Ideation is a constantly expanding and contracting funnel where you're producing many ideas then selecting and narrowing, and then repeating that process to find the right design. It's a funnel because many ideas become fewer and fewer as you iterate on the ideas that work. The main thing to note is that working at low fidelity at the onset lets you focus on issues at the core of the product, like function and interaction, before thinking about the surface.
@@ -108,7 +106,7 @@ Storyboarding is the well-known technique we've stolen from film and animation. 
 
 ### 6\. Click-through Prototypes with Links
 
-Creating a click-through prototype is like animating a storyboard. You create a Mockup file for each view, page or state, and then link together the files to create a click-though prototype. This is similar to how one would use hyperlinks in simple HTML documents, in PDFs, or links in PowerPoint or Keynote.
+Creating a click-through prototype is like animating a storyboard. You create a Mockup file for each view, page or state, and then link together the files to create a click-through prototype. This is similar to how one would use hyperlinks in simple HTML documents, in PDFs, or links in PowerPoint or Keynote.
 
 <a class="fb" rel="gallery" title="Click Through Prototype" href="https://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png"><img src="https://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png" /></a>
 <small class="center">[[View the prototype above](https://acme.mybalsamiq.com/projects/acme/grid) and download BMML files.]</small>

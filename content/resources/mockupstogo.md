@@ -2,11 +2,9 @@
 title: Mockups to Go - a Collection of Ready-to-Use UI Controls
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
-menu:
-  menuresources:
-    weight: 10
+menu: "menuresources"
 draft: ''
-
+product: "Resources"
 ---
 
 [Mockups To Go](https://mockupstogo.mybalsamiq.com) is a free user-contributed collection of ready-to-use UI controls and design pattern libraries to extend the collection that comes with the built-in UI Library. The Mockups are built using Balsamiq Mockups and are designed to work in your account or project assets folders as [Symbols](https://docs.balsamiq.com/desktop/symbols/).
@@ -61,7 +59,7 @@ When you upload to myBalsamiq Site Assets, the Symbols will be available to all 
 
 ## Using in Plugins
 
-If you are using a plugin version of Mockups for Google Drive, Confluence or JIRA or are using the free web demo version you can import the BMML via the [Import XML feature](/plugins/importtoatlassian/#import) instead (Importing won't erase your current mockup, it will simply add to it).
+If you are using a plugin version of Mockups for Google Drive, Confluence or Jira or are using the free web demo version you can import the BMML via the [Import XML feature](/plugins/importtoatlassian/#import) instead (Importing won't erase your current mockup, it will simply add to it).
 
 The Symbols feature is not supported in plugins or the web demo, so you will only be able to copy or import Mockups to go content.
 

@@ -2,11 +2,9 @@
 title: Does myBalsamiq have Autosave?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 180
-menu:
-  menumybalsamiq:
-    weight: 180
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 You may run into a situation where work that you did in myBalsamiq isn't showing up on other computers. This is due to the way myBalsamiq's autosave mechanism works.
 

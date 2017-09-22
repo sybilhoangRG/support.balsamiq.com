@@ -14,10 +14,10 @@ No. For your added [security](/sales/safe/), we do not handle card numbers or pr
 For license purchases you can pay by credit card online via our secure online form:
 
 *   [Mockups 3 for Desktop](https://balsamiq.com/buy/)
-*   [Mockups for Confluence Server](https://balsamiq.com/buy/#c)
-*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
+*   [Wireframes for Confluence Server](https://balsamiq.com/buy/#c)
+*   [Wireframes for Jira Server](https://balsamiq.com/buy/#j)
 
 For subscription purchases, you can sign up for a plan directly in the application:
 
 *   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
-*   [Mockups 3 for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
+*   [Balsamiq for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)

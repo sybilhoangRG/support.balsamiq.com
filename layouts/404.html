@@ -33,10 +33,10 @@
   <div class="col-xs-12 col-sm-6">
     <h3>Help and Support</h3>
       <ul>
-        <li><a href="https://support.balsamiq.com/sales/">Licensing &amp; Purchasing</a></li>
-        <li><a href="https://support.balsamiq.com/installation/">Installation &amp; Updating</a></li>
-        <li><a href="https://support.balsamiq.com/tutorials/">Tutorials</a></li>
-        <li><a href="https://support.balsamiq.com/#support-faqs">Product FAQs</a></li>
+        <li><a href="/sales/">Licensing &amp; Purchasing</a></li>
+        <li><a href="/installation/">Installation &amp; Updating</a></li>
+        <li><a href="/tutorials/">Tutorials</a></li>
+        <li><a href="/#support-faqs">Product FAQs</a></li>
       </ul>
     </div>
     <div class="col-xs-12 col-sm-6">
@@ -44,9 +44,9 @@
         <ul>
           <li><a href="https://docs.balsamiq.com/desktop/">Mockups for Desktop</a></li>
           <li><a href="https://docs.balsamiq.com/mybalsamiq/">myBalsamiq</a></li>
-          <li><a href="https://docs.balsamiq.com/google-drive/">Mockups for Google Drive</a></li>
-          <li><a href="https://docs.balsamiq.com/confluence/">Mockups for Confluence</a></li>
-          <li><a href="https://docs.balsamiq.com/jira/">Mockups for JIRA</a></li>
+          <li><a href="https://docs.balsamiq.com/google-drive/">Balsamiq for Google Drive</a></li>
+          <li><a href="https://docs.balsamiq.com/confluence/">Balsamiq for Confluence</a></li>
+          <li><a href="https://docs.balsamiq.com/jira/">Balsamiq for Jira</a></li>
         </ul>
       </div>
   </div>
@@ -279,6 +279,8 @@
   var seventhPiece = document.location.href.split("/")[6];
   if (seventhPiece) {
 
+    var articleID = seventhPiece.split("-")[0].split("#")[0];
+
     //Redirect old DBC URLs
     var redirects = {};
     redirects["127377"] = "desktop/";
@@ -326,8 +328,7 @@
     redirects["113839"] = "confluence/";
     redirects["113842"] = "jira/";
     redirects["113844"] = "jira/";
-
-    var articleID = seventhPiece.split("-")[0].split("#")[0];
+    redirects["131430"] = "resources/mockupstogo/";
 
     if (redirects[articleID] != null)
     {
@@ -337,7 +338,7 @@
 
   if (document.location.href.indexOf("/sales/consulting") != -1)
   {
-    document.location.href = "https://support.balsamiq.com/sales/training/";
+    document.location.href = "/sales/training/";
   }
 
   if (document.location.href.indexOf("/articles/105924") != -1)

@@ -2,11 +2,9 @@
 title: myBalsamiq Doesn't Remember Me.
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 140
-menu:
-  menumybalsamiq:
-    weight: 140
+menu: "menumybalsamiq"
+product: "myBalsamiq FAQs"
 draft: ''
-
 ---
 
 myBalsamiq has a "Remember me" checkbox on the login screen. If you've checked it myBalsamiq shouldn't ask you to re-login, unless the server has been updated.
