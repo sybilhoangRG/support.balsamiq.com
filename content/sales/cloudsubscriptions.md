@@ -39,15 +39,15 @@ Simply select the appropriate button or link next to the desired plan:
 
 ## Finding past Invoices
 
-We send invoice notifications via email following your automatic credit card payment to the email address of the owner(s). The email will also be sent to the billing-only admin if one is selected.
+We send invoice notifications via email following your automatic credit card payment to the email address of the space owner(s). The email will also be sent to the billing-only admin if one is assigned.
 
 A link to your downloadable invoice is included in this notification email. You can also view all past invoices directly under the Billing History section of your Settings.
 
 ![](https://media.balsamiq.com/img/support/sales/cloud/billing_history.png)
 
-If you need to share invoices with someone other than the owners or billing-only admin, you can easily forward the email notifications. Although you must be logged in to Balsamiq Cloud to view your Billing Information, the link to your invoice can be viewed and downloaded by your finance team without logging in.
+If you need to share invoices with someone other than the space owners or billing-only admin, you can easily forward the email notifications. Although you must be logged in to Balsamiq Cloud to view your Billing Information, the link to your invoice can be viewed and downloaded by your finance team without logging in.
 
-If the owners or billing-only admin need to change their registered email address, this change must be done within the corresponding [User Settings](https://docs.balsamiq.com/cloud/user-settings/).
+If the space owners or billing-only admin need to change their registered email address, this change must be done within the corresponding [User Settings](https://docs.balsamiq.com/cloud/user-settings/).
 
 * * *
 
@@ -77,9 +77,11 @@ Please review details of your options before canceling your subscription to make
 
 ## Restarting Your Subscription
 
-After your subscription ends, either due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your space will be suspended for **30 days**. During this time, staff and project members won't be able to access or use the space. However, the space owners can login and choose to permanently delete the space, download projects, or restart the subscription.
+After your subscription ends, due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your space will be suspended for **30 days**. During this time, your space will be in **read-only mode**, which means the projects will still be viewable to space owners and staff members, but they will not be editable.
 
-If you choose not to restart the subscription, **after 30 days your space data will be deleted permanently.**
+While the space is in read-only mode, space owners will still be able to download projects, permanently delete the space or restart the subscription. If a billing-only administrator has been assigned, that person will also be able to login to restart the subscription. To do so, visit the Billing Information section within your space, found under Settings.
+
+If you choose not to restart the subscription, **your space data will be deleted permanently after 30 days.**
 
 * * *
 
@@ -92,6 +94,6 @@ Auto-hibernation will automatically kick in for those paid subscriptions that me
 * Are on the $9/monthly plan
 * The space remains empty for a full billing cycle (learn how to [Manage Your Projects](/cloud/manageprojects))
 
-If these two requirements are met, our system will do its magic behind the scenes and will know not to charge your card for that month. Your space will remain active, along with any staff members or owners you may have invited to join you. You will still receive an invoice for that billing cycle, which will show that you were charged $0.
+If these two requirements are met, our system will do its magic behind the scenes and will know not to charge your card for that month. Your space will remain active, along with any staff members or space owners you may have invited to join you. You will still receive an invoice for that billing cycle, which will show that you were charged $0.
 
 If your space is currently on a different plan, and you know you won't be making use of it, you can always [change your plan](#changing-your-plan) to the $9/month one. Remember, the space must remain empty for a full billing cycle in order for auto-hibernation to take place.
