@@ -37,7 +37,7 @@ Browse to the .zip file that you exported earlier and select it. The file will b
 
 That's it! The file has been converted.
 
-## Will It Be Like This Forever?
+## Will It Be like This Forever?
 
 Absolutely not, and we are really sorry that there has been a hiccup in BMPR compatability. The reason for it is BMPRs created by our Desktop and Balsamiq Wireframe applications have support for upcoming features baked into them. Unfortunately, our Atlassian Cloud plugins don't know how to handle these new features yet, and cannot open the new project files.
 
