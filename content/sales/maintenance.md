@@ -21,9 +21,9 @@ For additional details check our [End User Licensing Agreement and Terms of Serv
 
 **Mockups 3 for Desktop** has no maintenance or renewal costs for the license. [Minor-version (3.x) updates](/sales/updatedesktop/) are free to all Desktop license holders, and we publish [new releases](https://balsamiq.com/download/) frequently. Support is provided via Balsamiq forums: [https://forums.balsamiq.com/](https://forums.balsamiq.com/)
 
-**Balsamiq for Google Drive**, **myBalsamiq**, **Mockups 3 for Confluence Cloud** and **Mockups 3 for JIRA Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
+**Balsamiq for Google Drive**, **myBalsamiq**, **Mockups 3 for Confluence Cloud** and **Mockups 3 for Jira Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
 
-Software maintenance for our plugins **Wireframes for Confluence Server** and **Wireframes for JIRA Server** is sold for periods of 12 months at a time. The start date of the maintenance period depends on the type of purchase you are making:
+Software maintenance for our plugins **Wireframes for Confluence Server** and **Wireframes for Jira Server** is sold for periods of 12 months at a time. The start date of the maintenance period depends on the type of purchase you are making:
 
 *   **New license purchase:** Your 12 months of free software maintenance begins on the date of purchase.
 *   **Upgrade purchase:** Your 12 months of plugin maintenance begins on the date of the [upgrade](/sales/upgrades/) purchase and replaces any maintenance on the original license.
@@ -31,37 +31,37 @@ Software maintenance for our plugins **Wireframes for Confluence Server** and **
 
 ## What Happens after the First 12 Months?
 
-All new licenses for Balsamiq Wireframes for Confluence Server and Balsamiq Wireframes for JIRA Server include 12 months of free maintenance.
+All new licenses for Balsamiq Wireframes for Confluence Server and Balsamiq Wireframes for Jira Server include 12 months of free maintenance.
 
-Renewing maintenance is entirely optional for those who have Confluence Server or JIRA Server: you can continue to use an older version of our software if you don't wish to renew. We keep [archived versions](https://balsamiq.com/download/archives/) of our software should you need an old version.
+Renewing maintenance is entirely optional for those who have Confluence Server or Jira Server: you can continue to use an older version of our software if you don't wish to renew. We keep [archived versions](https://balsamiq.com/download/archives/) of our software should you need an old version.
 
 Renewing your software maintenance is done at your discretion and can be renewed in advance of your maintenance expiration to ensure [uninterrupted access](#when-does-my-maintenance-start-and-end) to the support and software updates.
 
 ## Why Should I Renew?
 
-Renewing maintenance on your Wireframes for Confluence Server or Wireframes for JIRA Server license will ensure Balsamiq Mockups continues to integrate with any changes made to your plugin platform and you'll get the benefit of improvements made to the software.
+Renewing maintenance on your Wireframes for Confluence Server or Wireframes for Jira Server license will ensure Balsamiq Mockups continues to integrate with any changes made to your plugin platform and you'll get the benefit of improvements made to the software.
 
 We constantly improve and update our software. Check out our [release announcements](https://blog.balsamiq.com/category/release-notes/) (also available as an [RSS feed](http://feeds.feedburner.com/BalsamiqReleaseAnnouncements)) to see what we have recently improved.
 
 ## How Much Does It Cost?
 
-The current pricing information for Wireframes for Confluence Server and Wireframes for JIRA Server, including maintenance renewal pricing, is always available on our website:
+The current pricing information for Wireframes for Confluence Server and Wireframes for Jira Server, including maintenance renewal pricing, is always available on our website:
 
 *   [Wireframes for Confluence Server](https://balsamiq.com/buy/#cm)
-*   [Wireframes for JIRA Server](https://balsamiq.com/buy/#jm)
+*   [Wireframes for Jira Server](https://balsamiq.com/buy/#jm)
 
 Other Balsamiq products do not have separate [maintenance](/sales/maintenance/#when-does-my-maintenance-start-and-end) costs.
 
 ## How Can I Purchase?
 
-The answer depends on where the original Wireframes for Confluence Server or Wireframes for JIRA Server license was purchased.
+The answer depends on where the original Wireframes for Confluence Server or Wireframes for Jira Server license was purchased.
 
 Maintenance renewals for licenses purchased directly from Balsamiq can be purchase by credit card directly on our website, using your current License Key:
 
 *   [Wireframes for Confluence Server](https://balsamiq.com/buy/#cm)
-*   [Wireframes for JIRA Server](https://balsamiq.com/buy/#jm)
+*   [Wireframes for Jira Server](https://balsamiq.com/buy/#jm)
 
-We have [additional payment options](/sales/paymentmethods/#licenses) for orders over $300, and customers using Wireframes for Confluence Server or Wireframes for JIRA Server on their own servers have an option to [migrate to Atlassian Marketplace](/sales/atlassianmigrating/) before renewing.
+We have [additional payment options](/sales/paymentmethods/#licenses) for orders over $300, and customers using Wireframes for Confluence Server or Wireframes for Jira Server on their own servers have an option to [migrate to Atlassian Marketplace](/sales/atlassianmigrating/) before renewing.
 
 Licenses purchased through [Atlassian Marketplace](/sales/marketplace/) can be renewed through [my.atlassian.com](http://my.atlassian.com).
 
@@ -69,17 +69,17 @@ Other Balsamiq products do not have separate [maintenance](#when-does-my-mainten
 
 ## Can I Purchase More than 12 Months?
 
-We only sell maintenance for Wireframes for Confluence Server and Wireframes for JIRA Server 12 months at a time.
+We only sell maintenance for Wireframes for Confluence Server and Wireframes for Jira Server 12 months at a time.
 
 ## Can I Change the License Dates?
 
 No, we do not synchronize or co-term maintenance renewal dates to coincide with other license renewals.
 
-However, if you are using Wireframes for Confluence Server or Wireframes for JIRA Server on your server, you might consider [migrating your license to Atlassian Marketplace](/sales/atlassianmigrating/), which supports co-terming maintenance renewal dates.
+However, if you are using Wireframes for Confluence Server or Wireframes for Jira Server on your server, you might consider [migrating your license to Atlassian Marketplace](/sales/atlassianmigrating/), which supports co-terming maintenance renewal dates.
 
 ## Can I Upgrade/Downgrade When I Renew?
 
-Wireframes for Confluence Server and Wireframes for JIRA Server licenses purchased directly from Balsamiq do not need to match your Confluence Server or JIRA Server server levels.
+Wireframes for Confluence Server and Wireframes for Jira Server licenses purchased directly from Balsamiq do not need to match your Confluence Server or Jira Server server levels.
 
 If you'd like to upgrade to more editors when it's time to renew your maintenance, you can purchase an [upgrade license](/sales/upgrades/). You can upgrade at anytime after your original purchase, as well as after your maintenance period expires.
 

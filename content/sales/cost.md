@@ -15,4 +15,4 @@ Current pricing information is always available online:
 *   [myBalsamiq](https://balsamiq.com/buy/#myb)
 *   [Balsamiq for Google Drive](https://balsamiq.com/buy/#gd)
 *   [Wireframes for Confluence](https://balsamiq.com/buy/#c)
-*   [Wireframes for JIRA](https://balsamiq.com/buy/#j)
+*   [Wireframes for Jira](https://balsamiq.com/buy/#j)

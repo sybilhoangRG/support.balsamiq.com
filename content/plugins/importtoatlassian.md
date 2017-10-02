@@ -1,5 +1,5 @@
 ---
-title: How Do I Import Mockups to Mockups for Confluence or JIRA?
+title: How Do I Import Mockups to Mockups for Confluence or Jira?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
 menu:
@@ -11,11 +11,11 @@ draft: ''
 
 {{% alert info %}}**Note:** This FAQ is for older versions of Mockups for Atlassian Server products. If you are using a Balsamiq Wireframes for Atlassian Server add-on, or one of our Atlassian Cloud apps, your .bmpr project files will just work. If you run into any issues, please [get in touch](mailto:support@balsamiq.com)  {{% /alert %}}
 
-In Google Drive, Confluence Server or JIRA Server you can use export/import to import mockups you've created on your site, or those you saved from elsewhere. Here's how you'd do it.
+In Google Drive, Confluence Server or Jira Server you can use export/import to import mockups you've created on your site, or those you saved from elsewhere. Here's how you'd do it.
 
 ## Export
 
-### Exporting Mockups from Confluence Server, JIRA Server 
+### Exporting Mockups from Confluence Server, Jira Server 
 
 *   Open the mockup and select the menu Mockup > Export Mockup XML.
 
@@ -44,7 +44,7 @@ If you are using Balsamiq Mockups **version 2**:
 
 ## Import
 
-### For Confluence Server or JIRA Server
+### For Confluence Server or Jira Server
 
 *   Export the Mockup XML from the product you are exporting from (see instructions above)
 *   Create a new mockup in your Mockups plugin.
@@ -61,6 +61,6 @@ If you are using Balsamiq Mockups **version 2**:
 
 ## More Import/Export Options
 
-If you use Google Drive, Confluence Server or JIRA Server but don't have a license for one of our Mockups plugins, you can still share your mockups using these products. To do this, upload your mockups as images (go to "File > Export to PNG image" in the Desktop version) and attach or embed the images. You can also upload your Mockups (.bmml) files for other Desktop users to download to their computers.
+If you use Google Drive, Confluence Server or Jira Server but don't have a license for one of our Mockups plugins, you can still share your mockups using these products. To do this, upload your mockups as images (go to "File > Export to PNG image" in the Desktop version) and attach or embed the images. You can also upload your Mockups (.bmml) files for other Desktop users to download to their computers.
 
 If you're looking for import/export options for other applications or file formats, a good number of extensions have been written so far. You can find the list of [import/export extensions here](/resources/extensions/).

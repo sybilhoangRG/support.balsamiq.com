@@ -20,7 +20,7 @@
       </div>
       <div id="filterlist" class="row gallery">
       {{ range .Data.Pages.ByWeight }}
-          <div class="fitem col-xs-6 col-sm-4 col-md-3">
+          <div class="fitem col-xs-12 col-sm-6 col-md-3">
             <div class="gallery-item">
             <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p>{{ .Summary | plainify | htmlUnescape }}</p>
           </div></div>
