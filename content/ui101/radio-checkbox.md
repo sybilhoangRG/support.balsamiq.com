@@ -28,8 +28,8 @@ The most difficult scenario for choosing between radio buttons and checkboxes is
 ### Guidelines for Both
 
 * Use a label to describe the group of choices *and* a label for each option within it, unless it is a single checkbox (see examples below)
-* Vertical alignment is easier to read and parse. Use horizontal or rectangular alignments only if they greatly improve the layout of the window. ([*GNOME Human Interface Guidelines*](https://developer.gnome.org/hig/stable/check-boxes.html.en))
-* These controls shouldn't initiate actions on their own. Use a [button](../buttons/) instead. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/buttons/radio-buttons/))
+* Vertical alignment is easier to read and parse. Use horizontal or rectangular alignments only if they greatly improve the layout of the window. [*(GNOME Human Interface Guidelines)*](https://developer.gnome.org/hig/stable/check-boxes.html.en)
+* These controls shouldn't initiate actions on their own. Use a [button](../buttons/) instead. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/buttons/radio-buttons/)
 * Users should be able to click/tap the button/checkbox *or* its label to activate it
 * Be considerate when setting the default selection. Avoid [dark patterns](https://darkpatterns.org/).
 
@@ -40,7 +40,7 @@ The most difficult scenario for choosing between radio buttons and checkboxes is
 
 ### Guidelines for Checkboxes
 
-* Avoid using negative language in labels as they can be counterintuitive, e.g., "Don't sign me up". ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#checkboxes))
+* Avoid using negative language in labels as they can be counterintuitive, e.g., "Don't sign me up". [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/form-controls/#checkboxes)
 
 ### Basic Usage
 
@@ -54,7 +54,7 @@ The most difficult scenario for choosing between radio buttons and checkboxes is
 
 As with most form controls, radio buttons and checkboxes can be disabled as needed. One state that is unique to radio buttons and checkboxes is the non-binary **indeterminate** (also called mixed) state (neither on nor off).
 
-The indeterminate state should *only* be used "to indicate that an option is set for some, but not all, child objects. [It] must not be used to represent a third state." ([*KDE Human Interface Guidelines*](https://community.kde.org/KDE_Visual_Design_Group/HIG/CheckBox))
+The indeterminate state should *only* be used "to indicate that an option is set for some, but not all, child objects. [It] must not be used to represent a third state." [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/CheckBox)
 
 The example below shows all states:
 
