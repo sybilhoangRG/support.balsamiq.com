@@ -6,7 +6,7 @@ weight: 40
 product: "UI Design 101"
 ---
 
-Any UI control that captures the user's attention can be thought of as an alert.<!--more-->
+Any UI control that captures the user's attention can be thought of as an alert. They should be used wisely so they aren't overwhelming.<!--more-->
 
 For the purposes of this guide, alerts are characterized by being interruptive and **requiring action to proceed**, unlike notifications or [validation messages](../validation/).
 

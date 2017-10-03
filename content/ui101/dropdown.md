@@ -6,7 +6,7 @@ weight: 25
 product: "UI Design 101"
 ---
 
-The control with many names! A dropdown menu gives you a list of items to select from.<!--more-->
+The control with many names! A dropdown menu gives you a list of items to select from. It is versatile and familiar.<!--more-->
 
 Whether you call it a Dropdown menu, Combo Box (or Combobox), Pull Down menu (or Pull-down menu), Picker, Select input, or something else, you use them every day.
 

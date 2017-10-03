@@ -5,7 +5,7 @@ menu: menuui101
 weight: 38
 product: "UI Design 101"
 ---
-Tooltips are a form of contextual help that also fit within the "details on demand" pattern.<!--more-->
+Tooltips are a common form of contextual help that leverage the "details on demand" UX pattern.<!--more-->
 
 They are a great way to help novices without disrupting experienced users. A classic use case for tooltips is to show keyboard shortcuts when a user hovers over an action button.
 

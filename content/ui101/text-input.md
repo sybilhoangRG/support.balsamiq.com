@@ -6,7 +6,7 @@ weight: 15
 product: "UI Design 101"
 ---
 
-Text input fields allow keyboard input from the user.<!--more-->
+Text input fields allow keyboard input from the user. They as not as simple as they seem.<!--more-->
 
 They are frequently used in with other types of input controls in a form, but can be used on their own.
 

@@ -6,7 +6,7 @@ weight: 30
 product: "UI Design 101"
 ---
 
-Radio button and checkbox controls each allow users to select items from a list. <!--more-->
+Radio button and checkbox controls each allow users to select items from a list. Despite that, they have different uses and guidelines.<!--more-->
 
 Deciding when to use which one can be challenging, so this article explains the differences between them and when and how to use each.
 

@@ -6,7 +6,7 @@ weight: 45
 product: "UI Design 101"
 ---
 
-Using tabs to break up content into sections is a double-edged sword.<!--more-->
+Tabs can be a smart way to break up content into sections, but its use is a double-edged sword.<!--more-->
 
 On the one hand, it focuses attention on a subset of content to make the page easier to take in. On the other hand, it buries other content, making users guess where it is, or if it even exists.
 
