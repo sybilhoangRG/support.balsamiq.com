@@ -16,7 +16,7 @@ We aren't sure if your IT team can adjust the permissions due to the oddness of 
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/save-as-dropdown.png)
 
-The save dialog still works, but the Finder shortcuts on the left side of the screen don't (or, more specifically, the permissions they use to navigate to the save folder conflict with the permission software). However, if you use the dropdown menu to navigate to the folder you want to save in  - instead of the shortcuts on the left -  the save should complete successfully.
+The save dialog still works, but the Finder shortcuts on the left side of the screen don't (or, more specifically, the permissions they use to navigate to the save folder conflict with the permission software). However, if you use the dropdown menu - instead of the shortcuts - to navigate to the folder you want to save in, the save should complete successfully.
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/save-as-dropdown.gif)
 
