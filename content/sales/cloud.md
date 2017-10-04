@@ -1,10 +1,10 @@
 ---
 title: Balsamiq Cloud Purchasing Table of Contents
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 30
+weight: 9030
 menu:
   menusales:
-    weight: 30
+    weight: 9030
 draft: ''
 
 ---
