@@ -6,9 +6,9 @@ menu: "menudesktop"
 product: "Balsamiq Mockups for Desktop FAQs"
 draft: ''
 ---
-We've recently discovered a conflict with Mockup's save window and corporate IT permission software like [Digital Guardian](https://digitalguardian.com/). If your Mac has one of these software suites installed, you are probably having trouble saving your files.
+We've recently discovered a conflict with Mockups' save window and corporate IT permission software like [Digital Guardian](https://digitalguardian.com/). If your Mac has one of these software suites installed, you are probably having trouble saving your files.
 
-Fear not, your work is still be saving [Mockups' internal backup](https://support.balsamiq.com/desktop/backup/), but those files can be a pain to find on your system.
+Fear not, your work is still being saved by [Mockups' internal backup system](https://support.balsamiq.com/desktop/backup/), but digging your files out of the backup folder is less than ideal.
 
 ## Can We Fix This?
 
