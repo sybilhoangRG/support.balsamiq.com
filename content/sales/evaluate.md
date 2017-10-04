@@ -20,8 +20,8 @@ You can start a free trial here:
 *   [Balsamiq for Google Drive](https://docs.balsamiq.com/google-drive/wireframes/intro/)
 *   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) (sold by Atlassian)
 *   [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
-*   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) (sold by Atlassian)
-*   [Wireframes for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
+*   [Mockups 3 for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) (sold by Atlassian)
+*   [Wireframes for Jira Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
 {{% alert info %}}**Note:** All Mockups 3 products will continue to function as a project viewer after their trial has expired.{{% /alert %}}
 

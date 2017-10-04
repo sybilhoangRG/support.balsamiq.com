@@ -32,12 +32,12 @@ One primary reason *not* to use it is when horizontal space is constrained. This
 ## How to Use Vertical Navigation
 
 * Highlight the selected page/item in the list. It should not be styled as clickable like the other items (even if it behaves the same).
-* Use titles to form logical groupings of related items. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/sidebars/))
+* Use titles to form logical groupings of related items. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/sidebars/)
 * Clicking or tapping on category labels should expand or collapse that category rather than linking to its own page.
-* Keep the navigation links short. They can be shorter derivatives of page titles themselves. [(*U.S. Web Design Standards*)](https://standards.usa.gov/components/sidenav/)
-* Order the list according to what is most useful for the users of your application. [(*GNOME Human Interface Guidelines*)](https://developer.gnome.org/hig/stable/sidebar-lists.html.en)
-* Having hierarchical data doesn't mean that you must use a tree view. Very often a list view is a simpler, yet more powerful choice. ([*Microsoft Windows Desktop Guidelines*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742445(v=vs.85).aspx))
-* In general, refrain from exposing more than two levels of hierarchy within a sidebar. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/sidebars/))
+* Keep the navigation links short. They can be shorter derivatives of page titles themselves. [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/sidenav/)
+* Order the list according to what is most useful for the users of your application. [*(GNOME Human Interface Guidelines)*](https://developer.gnome.org/hig/stable/sidebar-lists.html.en)
+* Having hierarchical data doesn't mean that you must use a tree view. Very often a list view is a simpler, yet more powerful choice. [*(Microsoft Windows Desktop Guidelines)*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742445(v=vs.85).aspx)
+* In general, refrain from exposing more than two levels of hierarchy within a sidebar. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/sidebars/)
 * The sidebar can be on the left or right side of the page, but it should be consistent across the application.
 * Consider what happens when the sidebar content is longer (taller) than the page content. Ensure that users can still access the entire list (i.e., scroll beyond the page contents).
 * Consider replacing the navigation panel with a slide-out panel on small screens (i.e., the ["temporary" variant here](https://material.io/guidelines/patterns/navigation-drawer.html#navigation-drawer-behavior)) or [breadcrumbs](../breadcrumbs/) on desktop displays.
