@@ -14,10 +14,10 @@ Fear not, your work is still be saving [Mockups' internal backup](https://suppor
 
 We aren't sure if your IT team can adjust the permissions due to the oddness of the error, but the workaround is easy!
 
-![](//img/support/docs/m4d/b3/save-as-dropdown.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/save-as-dropdown.png)
 
 The save dialog still works, but the Finder shortcuts on the left side of the screen don't (or, more specifically, the permissions they use to navigate to the save folder conflict with the permission software). However, if you navigate to the folder you want to save in using the dropdown menu - instead of the shortcuts on the left -  the save should complete successfully.
 
-![](//img/support/docs/m4d/b3/save-as-dropdown.gif)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/save-as-dropdown.gif)
 
 Of course, if you contine to have save trouble, please don't hesitate to [get in touch](mailto:support@balsamiq.com) so that we can troubleshoot.
