@@ -15,7 +15,7 @@ We've compiled a few tips that might help keep your Balsamiq Cloud costs down.
 
 ## Setting Your Space to Auto-Hibernate
 
-Balsamiq Cloud offers a nifty new feature called Auto-Hibernation. The way it works is that if your Space remains **empty** for a full billing cycle, we won't charge you for that month! This feature is only available in the 2-project plan when billed monthly. Head over to the [Auto-Hibernation FAQ](/cloud/cloudsubscriptions/#auto-hibernation) to learn more. 
+Balsamiq Cloud offers a nifty new feature called Auto-Hibernation. The way it works is that if your Space remains **empty** for a full billing cycle, we won't charge you for that month! This feature is only available in the 2-project plan when billed monthly. Head over to the [Auto-Hibernation FAQ](/cloud/cloudsubscriptions/#auto-hibernation) to learn more.
 
 ## Combining Projects
 
@@ -62,4 +62,4 @@ You can subscribe 5 different Spaces to the $9/mo plan each before the savings s
 
 ## Balsamiq Software Donation Program
 
-Although Balsamiq Cloud is not offered through our Software Donation Program, we do offer licenses for some of our other products, like Mockups 3 for Desktop. We are more than happy to donate licenses to those that qualify, such as non-profits, universities (classroom use), and plain do-gooders. If you'd like to apply, or know someone that should, head over to our [Application form](https://balsamiq.com/free/) and send in your request.
+Although Balsamiq Cloud is not offered through our Software Donation Program, we do offer licenses for some of our other products, like Mockups 3 for Desktop. We are more than happy to donate licenses to those that qualify, such as non-profits, universities (classroom use), and plain do-gooders. If you'd like to apply, or know someone that should, head over to our [application form](https://balsamiq.com/free/) and send in your request.
