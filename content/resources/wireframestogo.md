@@ -4,7 +4,9 @@ date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
 menu: "menuresources"
 product: "Resources"
-aliases: /resources/mockupstogo/
+aliases: 
+- /resources/mockupstogo/
+- /tutorials/mockupstogo/
 ---
 
 [Wireframes To Go](https://wireframestogo.com) is a free user-contributed collection of ready-to-use UI controls and design pattern libraries to extend the collection that comes with the built-in UI Library. The Wireframes are designed to work in your Wireframes project [Symbols](https://docs.balsamiq.com/desktop/symbols/).
