@@ -21,13 +21,11 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 
 {{% sales_evaluating %}}
 
-You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://docs.balsamiq.com/cloud/tos/">here</a>.
-
 ## Pricing and Discounts
 
-*   [Pricing and plan levels](https://balsamiq.com/buy/)
+*   [Pricing and plan levels](https://balsamiq.com/buy/#cloud)
 *   [Do you offer any discounts?](/sales/discounts/)
-*   [Can I get Balsamiq Cloud for free?](https://balsamiq.com/free)
+*   Can I get Balsamiq Cloud for free? No, but we have a [program](https://balsamiq.com/free) for other versions of our software.
 *   [Are there any applicable taxes?](/sales/taxes/)
 
 ## Ordering and Payments
@@ -37,10 +35,11 @@ You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://docs.bals
 *   [How can I purchase, manage or cancel a Balsamiq Cloud subscription?](/sales/cloudsubscriptions/)
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
-*   [Can I make my space inactive for a while?](/sales/cloudsubscriptions/#auto-hibernation)
+*   [Can I make my Space inactive for a while?](/sales/cloudsubscriptions/#auto-hibernation)
 
 ## Terms of Service
 
+*   [Balsamiq Cloud Terms of Use and Privacy Policy](https://docs.balsamiq.com/cloud/tos/)
 *   [Our legal department would like to make some changes to your Terms of Service. Is that ok?](/sales/customeula/)
 *   [The Terms of Service is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
 *   [Are your products Open Source software applications?](/sales/opensource/)
@@ -49,6 +48,6 @@ You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://docs.bals
 ## Professional Services and Customization
 
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
-*   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
+*   [Is Balsamiq Section 508 compliant?](/sales/508/)
 
 ​**More Questions?** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20Balsamiq%20Cloud)
