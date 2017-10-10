@@ -13,8 +13,6 @@ When you're designing wireframes using Balsamiq Mockups you don't need to sweat 
 
 This tutorial will help you ensure that your iPad wireframes are designed so that they fit nicely on an iPad when exported as images or a PDF.
 
-{{% alert info %}}**Note:** You can download the file we'll be creating below from our [Mockups To Go site here](https://mockupstogo.mybalsamiq.com/projects/ios/iPad%20User%20Testing%20Template).{{% /alert %}}
-
 * * *
 
 ## Step 1 - Add the iPad Control
@@ -51,8 +49,6 @@ Next, move the rectangle over the iPad until both the vertical and horizontal ce
 ![snap-rectangle.png](https://media.balsamiq.com/img/support/tutorials/ipad/snap-rectangle.png)
 
 Finally, click on the rectangle and lock it, just as we did with the iPad control. This will prevent it from moving around when you're adding new controls. You shouldn't be able to select either control at this point (you can always unlock a control by right-clicking on it and selecting "Unlock").
-
-**Download this template from our [Mockups To Go site here](https://mockupstogo.mybalsamiq.com/projects/ios/iPad%20User%20Testing%20Template).**
 
 * * *
 

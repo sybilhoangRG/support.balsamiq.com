@@ -8,4 +8,4 @@ draft: ''
 ---
 Yes! Using [the Symbols feature](https://docs.balsamiq.com/desktop/symbols/).
 
-You may also be interested in [Mockups To Go](/resources/mockupstogo/), a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq Mockups.
+You may also be interested in [Wireframes To Go](/resources/wireframestogo/), a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq Mockups.

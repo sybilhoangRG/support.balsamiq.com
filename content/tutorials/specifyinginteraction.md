@@ -61,12 +61,11 @@ Thanks to Andrey Savchenko for the use of the [WordPress Query Functions flowcha
 
 ### 2\. Sketchboards
 
-The sketchboard technique is a low-fi sketching practice for creating many sketches quickly and iteratively. You typically review with a team, and refinie as you go. We use a technique of collaborative [sketchboarding with Mockups](http://konigi.com/notebook/creating-sketchboards-mockups) using thumbnail interface sketches created with a special [sketch symbols library](https://mockupstogo.mybalsamiq.com/projects/layout/Sketch+Templates). We then iterate over the sketches in our web app, myBalsamiq.
+The sketchboard technique is a low-fi sketching practice for creating many sketches quickly and iteratively. You typically review with a team, and refinie as you go. We use a technique of collaborative [sketchboarding with Mockups](http://konigi.com/notebook/creating-sketchboards-mockups) using thumbnail interface sketches created with a special Sketch symbols library. We then iterate over the sketches in our web app, myBalsamiq.
 
 The idea with thumbnail sketching is to draw a smallish representation of your design, roughing out boxes and greeking lines of text to get an idea of what your interface will look like. You actually don't even need text to sketch the interface, just scribbled lines. You can use text captions to describe what's happening in the story.
 
 <a class="fb" rel="gallery" title="Sketchboards" href="https://media.balsamiq.com/img/support/tutorials/interaction/sketchboard.png"><img src="https://media.balsamiq.com/img/support/tutorials/interaction/sketchboard.png" /></a>
-<small class="center">[[Download the Mockups BMML file above](https://mockupstogo.mybalsamiq.com/projects/layout/Sketch+Templates.bmml).]</small>
 
 As you select the designs with the most merit, you can begin to move up out of the thumbnail scale into wireframe scale.
 

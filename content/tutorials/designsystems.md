@@ -23,4 +23,4 @@ Here is an excerpt from the post and some images showing how Balsamiq components
 
 [Read the full blog post here.](https://blog.balsamiq.com/using-balsamiq-mockups-with-pattern-libraries-and-frameworks/)
 
-And, if you use Bootstrap as your framework, you can use our [Bootstrap project starter template](https://mockupstogo.mybalsamiq.com/projects/template-bootstrap/grid).
+And, if you use Bootstrap as your framework, you can use our [Bootstrap project starter templates](https://wireframestogo.com/#/search=bootstrap).
