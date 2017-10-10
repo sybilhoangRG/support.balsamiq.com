@@ -19,7 +19,7 @@ This video demonstrates the process. The screenshots below provide an overview o
 
 ![Create the Controls](https://media.balsamiq.com/img/support/guides/Creating_a_Mockups_Design_Library_in_Confluence/media_1386357940922.png)
 
-Begin by choosing the controls you want to include in your library. You can either create your own controls or use controls from elsewhere, such as [Mockups To Go](https://mockupstogo.mybalsamiq.com/). In this tutorial, we'll be using the controls in the [iOS7 control set from Mockups To Go](https://mockupstogo.mybalsamiq.com/projects/ios/iOS7%20Controls).
+Begin by choosing the controls you want to include in your library. You can either create your own controls or use controls from elsewhere, such as [Wireframes To Go](https://wireframestogo.com/).
 
 * * *
 

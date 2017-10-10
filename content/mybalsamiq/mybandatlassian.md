@@ -25,6 +25,6 @@ Then insert it as follows:
 
 **For Jira:**
 
-You can use the following special markdown syntax to insert the image in the description or a comment: `![image link]!` For example: `!https://mockupstogo.mybalsamiq.com/mockups/1176404.png!`
+You can use the following special markdown syntax to insert the image in the description or a comment: `![image link]!` For example: `!https://foo.mybalsamiq.com/mockups/1176404.png!`
 
 You won't be able to edit the wireframes directly in Jira or Confluence as you can with our plugin versions, however if you make changes to the original wireframe in myBalsamiq, the changes will be reflected in Confluence and Jira when the page refreshes.

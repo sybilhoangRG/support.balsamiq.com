@@ -17,7 +17,7 @@ This page highlights some community tools and websites which might be useful to 
 
 ## More UI Controls
 
-*   [**MockupsToGo**](https://mockupstogo.mybalsamiq.com) is a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq Mockups. New patterns are added all the time - we hope you'll want to contribute as well!
+*   [**Wireframes To Go**](https://wireframestogo.com) is a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq. New patterns are added all the time - we hope you'll want to contribute as well!
 *   [**Mock4U**](http://blog.rainwebs.net/mock4u/) is a set of UML stencils for Balsamiq Mockups.
 *   [**Blackboard Learn Symbols**](http://projects.oscelot.org/gf/project/balsamiq/) is a series of assets to help design user interfaces for custom Blackboard Learn (9.0 and 9.1) extensions.
 *   [**Charts for Mockups**](http://www.altviz.co/chart-bundle-balsamiq/) is a library of 18 additional Graph & Chart Symbols for Balsamiq Mockups.
