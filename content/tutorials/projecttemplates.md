@@ -34,7 +34,7 @@ We have a few example templates to show how you might get started.
 
 ## Using the UX Template
 
-The UX Template ([download here](https://mockupstogo.mybalsamiq.com/projects/template-ux.zip)) is designed for people working on UX Design projects who typically need to present a polished deck to clients. For this reason, this template is made to work with the Wireframe Skin (menu: View > Skin > Wireframe Skin) and System Fonts (View > User System Fonts).
+The UX Template ([download here](https://wireframestogo.com/c65d-UX-Template-Project/)) is designed for people working on UX Design projects who typically need to present a polished deck to clients. For this reason, this template is made to work with the Wireframe Skin (menu: View > Skin > Wireframe Skin) and System Fonts (View > User System Fonts).
 
 The template contains a few example pages, including persona sheets, journey map, sitemap, storyboard, and wireframe pages with annotation. Using these examples, you'll be able to open your project in Fullscreen/Presentation mode, or in an exported PDF that is suitable for client presentation. The screenshots below show some of the elements provided in this template.
 
@@ -43,17 +43,17 @@ The video below shows you how to set up and use the template.
 
 {{< yt Nhuo2Qi9sWo >}}
 
-[Download the UX Template here.](https://mockupstogo.mybalsamiq.com/projects/template-ux.zip)
+[Download the UX Template here.](https://wireframestogo.com/c65d-UX-Template-Project/)
 
 * * *
 
 ## Using the Bootstrap Template
 
-The Bootstrap Template ([download here)](https://mockupstogo.mybalsamiq.com/projects/template-bootstrap.zip) is designed for people who know they're going to be using Bootstrap, and want to use the text elements, and components common to the Bootstrap framework. The screenshots below show some of the elements provided in this template.
+The Bootstrap Template ([download here)](https://wireframestogo.com/c65d-UX-Template-Project/) is designed for people who know they're going to be using Bootstrap, and want to use the text elements, and components common to the Bootstrap framework. The screenshots below show some of the elements provided in this template.
 
 <div class="gallery clearfix"><a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-symbols.png" rel="group2" title="Bootstrap Elements and Components"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-symbols.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-demo.png" rel="group2" title="Demo of a Bootstrap Layout"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-demo.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-extra-small-wireframe.png" rel="group2" title="Extra Small Device Wireframe (Smartphone)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-extra-small-wireframe.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-small-wireframe.png" rel="group2" title="Small Device Wireframe (Tablet and Desktop)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-small-wireframe.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-medium-wireframe.png" rel="group2" title="Medium Wireframe (Desktop)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-medium-wireframe.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-large-wireframe.png" rel="group2" title="Large Wireframe (Desktop)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-large-wireframe.png" /></a></div>
 The video below shows you how to set up and use the template.
 
 {{< yt 24FKl5M52eA >}}
 
-[Download the Bootstrap Template here.](https://mockupstogo.mybalsamiq.com/projects/template-bootstrap.zip)
+[Download the Bootstrap Templates here.](https://wireframestogo.com/#/search=bootstrap)
