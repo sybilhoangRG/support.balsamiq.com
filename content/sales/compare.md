@@ -40,8 +40,8 @@ Any products based on the Balsamiq Version 3 Editor will be updated simultaneous
 ### Products Based on the Mockups Version 2 Editor
 
 1. [myBalsamiq](https://docs.balsamiq.com/mybalsamiq/)
-2. [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/)
-3. [Mockups for Jira Server](https://docs.balsamiq.com/jira/server/mockups2/)
+2. [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/) *(No longer for sale)*
+3. [Mockups for Jira Server](https://docs.balsamiq.com/jira/server/mockups2/) *(No longer for sale)*
 
 These three applications will work almost identically, save for one major difference: The Atlassian Plugins based on the Mockups Version 2 Editor (Confluence Server and Jira Server) do not support the creation of [symbols](https://docs.balsamiq.com/mybalsamiq/symbols/). This is due to a limitation in the way the plugins were initially implemented.
 
