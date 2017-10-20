@@ -32,7 +32,7 @@ If you don't see them [update to the latest version](https://balsamiq.com/downlo
 
 ## Do You Have Any iPad Controls or Templates?
 
-You can find Symbols libraries (also called templates or stencils) for iPad, iPhone, Android and more on our [Mockups To Go](https://mockupstogo.mybalsamiq.com/) site. Check out the [iOS project](https://mockupstogo.mybalsamiq.com/projects/ios/grid) in Mockups To Go for all the iPhone and iPad templates.
+You can find Symbols libraries (also called templates or stencils) for iPad, iPhone, Android and more on our [Wireframes To Go](https://wireframestogo.com/) site.
 
 * * *
 

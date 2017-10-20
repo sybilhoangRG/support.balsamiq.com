@@ -7,7 +7,7 @@ draft: ''
 product: "Tutorials & Videos"
 ---
 
-If you have a Mockups file that you want to use as a Symbol (a file [downloaded from Mockups To Go](/tutorials/mockupstogo/), for example), here's how you can add it to Balsamiq Mockups for Desktop as a Project Asset.
+If you have a Mockups file that you want to use as a Symbol, here's how you can add it to Balsamiq Mockups for Desktop as a Project Asset.
 
 {{% alert info %}}**Note:** For [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/), follow [**these instructions**](https://docs.balsamiq.com/desktop/symbols/#importing-symbols) instead.{{% /alert %}}
 
@@ -63,4 +63,3 @@ Balsamiq Mockups checks for a the presence of a sub-folder called "assets" in an
 
 *   [Complete Symbols documentation](https://docs.balsamiq.com/desktop/symbols/)
 *   [How to Create a Symbol](/tutorials/symbol/)
-*   [How to Download from Mockups To Go](/tutorials/mockupstogo/)

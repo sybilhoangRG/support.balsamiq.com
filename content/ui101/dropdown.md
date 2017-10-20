@@ -6,7 +6,7 @@ weight: 25
 product: "UI Design 101"
 ---
 
-The control with many names! A dropdown menu gives you a list of items to select from.<!--more-->
+The control with many names! A dropdown menu gives you a list of items to select from. It is versatile and familiar.<!--more-->
 
 Whether you call it a Dropdown menu, Combo Box (or Combobox), Pull Down menu (or Pull-down menu), Picker, Select input, or something else, you use them every day.
 
@@ -29,8 +29,8 @@ An exception is when the list is familiar so that users can expect to know the c
 ## How to Use Dropdown Menus
 
 * Order the items logically (e.g., sequential for dates/numbers, alphabetical for countries).
-* Display a meaningful default selection. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/combo-boxes/)) (*Pre-selecting an item can be dangerous, however, since you can't verify whether the user chose it deliberately. When in doubt, default to no selection.*)
-* Avoid making options in one dropdown menu change based on the input to another. Users often don’t understand how selecting an item in one impacts another. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#dropdown))
+* Display a meaningful default selection. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/combo-boxes/) (*Pre-selecting an item can be dangerous, however, since you can't verify whether the user chose it deliberately. When in doubt, default to no selection.*)
+* Avoid making options in one dropdown menu change based on the input to another. Users often don’t understand how selecting an item in one impacts another. [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/form-controls/#dropdown)
 * Allow users to click anywhere on the control to open it, rather than only the arrow.
 * Use grouping or categorization when it makes sense (see [option group variation below](#variations)). Group headings or separators should not be selectable, however (*in HTML, this can be achieved using the [&lt;optgroup&gt;](https://www.w3schools.com/tags/tag_optgroup.asp) tag*).
 

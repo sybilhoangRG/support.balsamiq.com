@@ -32,7 +32,7 @@ If you are using Balsamiq Mockups **version 2**:
 
 *   Export the mockup using the menu File > Export Mockup XML. The contents are copied to your clipboard.
 
-{{% alert info %}}**Note:** Even if you don't have a paid version of the Desktop app, you can still download and use the trial version to open and export mockup files (after 30 days you can no longer save files, but all other features are fully-functional). This can be a convenient way, for example, to get [Mockups to Go](https://mockupstogo.mybalsamiq.com) libraries into your plugin version.{{% /alert %}}
+{{% alert info %}}**Note:** Even if you don't have a paid version of the Desktop app, you can still download and use the trial version to open and export mockup files (after 30 days you can no longer save files, but all other features are fully-functional).{{% /alert %}}
 
 ### Exporting Mockups from myBalsamiq
 

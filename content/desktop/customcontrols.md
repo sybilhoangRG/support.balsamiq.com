@@ -14,4 +14,4 @@ If instead you have a very special control that’s specific to your project, we
 
 For complex controls that are comprised of simple mockup controls, [Symbols](https://docs.balsamiq.com/desktop/symbols/) are ideal for this.
 
-You may also be interested in [Mockups To Go](https://mockupstogo.mybalsamiq.com), a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq Mockups.
+You may also be interested in [Wireframes To Go](https://wireframestogo.com), a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq Mockups.
