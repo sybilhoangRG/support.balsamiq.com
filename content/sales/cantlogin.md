@@ -21,9 +21,12 @@ You also **don't** need a Balsamiq login or password for:
 *   [Balsamiq Wireframes for Jira](https://docs.balsamiq.com/jira/) - log in using your Jira account
 *   [Balsamiq for Google Drive](https://docs.balsamiq.com/google-drive/wireframes/intro/) - log in using your Google or Gmail account
 
-The only product we offer that you do need a login and password for is **[myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)** - the online version of Balsamiq Mockups that we also host. If you can't remember your login or password for your myBalsamiq site, you can [reset your password here](https://www.mybalsamiq.com/forgotpassword).
+The two Balsamiq products you will need a login and password for are [Balsamiq Cloud](https://balsamiq.cloud/) and myBalsamiq - online versions that we also host. You can reset your password using the links below:
 
-If you're still having trouble, please email [support@balsamiq.com](mailto:support@balsamiq.com), preferably with the name or address of your myBalsamiq site (e.g., https://_something_.mybalsamiq.com/).
+*   [Balsamiq Cloud Forgot Password](https://balsamiq.cloud/#forgot)
+*   [myBalsamiq Forgot Password](https://www.mybalsamiq.com/forgotpassword)
+
+If you're still having trouble, please email [support@balsamiq.com](mailto:support@balsamiq.com), preferably with the name of your Cloud Space, or the name and address of your myBalsamiq site (e.g., https://_something_.mybalsamiq.com/).
 
 ## Lost License Key
 

@@ -48,7 +48,7 @@ If instead you'd like to invest in some software to help you think your ideas th
 *   some run on a tablet
 *   some integrate with other software you might be already using
 
-_Balsamiq Mockups runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
+_Balsamiq Mockups runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([Balsamiq Cloud](https://balsamiq.cloud/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
 
 ---
 
@@ -120,6 +120,6 @@ These sort of lists become outdated very quickly, but here are a few that seem t
 
 Remember, most software comes with a free trial period, and most companies will be happy to extend your trial period if you need more time evaluating their software. Take advantage of it!
 
-_You can [download](https://balsamiq.com/download) a trial of Balsamiq Mockups or [start a 30-day trial of our web app](https://www.mybalsamiq.com/signup) or simply [try the editor right now in your browser](http://webdemo.balsamiq.com)._
+_You can [download](https://balsamiq.com/download) a trial of Balsamiq Mockups or [start a 30-day trial of our web app](https://balsamiq.cloud/)._
 
 Good luck, and happy software shopping! :)
