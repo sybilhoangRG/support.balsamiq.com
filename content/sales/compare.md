@@ -26,6 +26,7 @@ The final editor is the original Mockups Version 2 editor. This powerful editor 
 1. [Balsamiq Wireframes for Google Drive](https://docs.balsamiq.com/google-drive/wireframes)
 2. [Balsamiq Wireframes for Confluence Server](https://docs.balsamiq.com/confluence/server/wireframes)
 3. [Balsamiq Wireframes for Jira Server](https://docs.balsamiq.com/jira/server/wireframes)
+4. [Balsamiq Cloud](https://docs.balsamiq.com/cloud/)
 
 While most Balsamiq Wireframes products will update automatically, Atlassian Server customers will have to update manually through their installation's UPM.
 
@@ -39,7 +40,7 @@ Any products based on the Balsamiq Version 3 Editor will be updated simultaneous
 
 ### Products Based on the Mockups Version 2 Editor
 
-1. [myBalsamiq](https://docs.balsamiq.com/mybalsamiq/)
+1. [myBalsamiq](https://docs.balsamiq.com/mybalsamiq/) *(Not accepting new signups)*
 2. [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/) *(No longer for sale)*
 3. [Mockups for Jira Server](https://docs.balsamiq.com/jira/server/mockups2/) *(No longer for sale)*
 

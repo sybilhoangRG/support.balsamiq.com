@@ -19,5 +19,5 @@ For license purchases you can pay by credit card online via our secure online fo
 
 For subscription purchases, you can sign up for a plan directly in the application:
 
-*   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
+*   [Balsamiq Cloud](/sales/cloudsubscriptions/#signing-up-for-a-subscription)
 *   [Balsamiq for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
