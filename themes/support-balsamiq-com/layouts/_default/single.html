@@ -49,12 +49,9 @@
               {{ end }}
               </li>
               <li class="next">
-							{{ if eq .File.BaseFileName "discountcodes"}} <!-- don't show next arrow before Cloud docs -->
-							{{ else }}
 								{{ if .PrevInSection }}
 								<a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}} <span aria-hidden="true">&rarr;</span></a>
 								{{ end }}
-							{{ end }}
               </li>
             </ul>
           </nav>
