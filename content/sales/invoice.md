@@ -11,7 +11,7 @@ draft: ''
 
 The answer depends on the version of Balsamiq Mockups:
 
-*   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud, and Mockups 3 for Jira Cloud
+*   [Subscriptions](#subscriptions) - Balsamiq Cloud, Balsamiq for Google Drive, myBalsamiq, Mockups 3 for Confluence Cloud, and Mockups 3 for Jira Cloud
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server
 
 * * *
@@ -24,6 +24,7 @@ For our other subscription products, we send monthly invoices following your aut
 
 *   myBalsamiq site owners and [secondary billing administrators](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can see their past invoices under ”Manage your billing” in your site’s [Payment Information Settings page](/sales/mybsubscriptions/#finding-past-invoices).
 *   Balsamiq for Google Drive customers can see past invoices under [Manage your Subscription.](/sales/gdrivesubscription/#finding-past-invoices)
+*   Balsamiq Cloud Space Owners and [Billing-Only Administrators](https://docs.balsamiq.com/cloud/spaces/#making-someone-a-billing-only-administrator) can see their past invoices under "Billing Information" found under your [Space's Settings](/sales/cloudsubscriptions/#finding-past-invoices).
 
 * * *
 

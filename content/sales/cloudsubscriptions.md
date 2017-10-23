@@ -33,9 +33,13 @@ You can choose to be charged either monthly or yearly, then proceed to enter you
 
 The Space Owners or the Billing-Only Administrator can change the plan at any time in the Settings under the Billing Information section. This section can be reached by selecting "Settings" in the center navigation menu within your space.
 
-Simply select the appropriate button or link next to the desired plan:
+Simply select the appropriate button next to the desired plan:
 
 ![](https://media.balsamiq.com/img/support/sales/cloud/changing_plans.png)
+
+When changing plans, you’ll automatically receive credit for any time remaining on the old plan. If additional payment is due, your credit card will be charged. Any unused credit will be applied toward future renewals.
+
+Your billing renewal date will remain the same if you are only changing the number of projects on your plan. We will simply adjust the charge for the current renewal period. Changes between monthly or annual payments will move the billing renewal date to the date the plan was changed, and your new subscription plan will start immediately.
 
 * * *
 
@@ -63,7 +67,7 @@ Here is an example of what you will see when you are on the Billing Information 
 
 ![](https://media.balsamiq.com/img/support/sales/cloud/update_cc.png)
 
-Select "Update Credit Card" to update the credit card and billing address for future renewals. If you only wish to update the billing address on future invoices, select "Show Address" and then "Update Address."
+Select "Update Credit Card" to update the credit card on file and billing address for future renewals. If you only wish to update the billing address on future invoices without changing the card, select "Update Address."
 
 To edit the address shown on a previous invoice, select the specific invoice in the Billing History. You'll be able to edit and download a PDF of the transaction.
 

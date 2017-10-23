@@ -11,7 +11,7 @@ draft: ''
 
 The answer depends on the version of Balsamiq Mockups:
 
-*   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud, and Mockups 3 for Jira Cloud
+*   [Subscriptions](#subscriptions) - Balsamiq for Google Drive, Balsamiq Cloud, Mockups 3 for Confluence Cloud, and Mockups 3 for Jira Cloud
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server
 
 * * *
@@ -20,7 +20,7 @@ The answer depends on the version of Balsamiq Mockups:
 
 To purchase a subscription product, you must first sign up for a trial. Specific details on how to purchase subscriptions are found here:
 
-*   [myBalsamiq](/sales/mybsubscriptions/)
+*   [Balsamiq Cloud](/sales/cloudsubscriptions/)
 *   [Balsamiq for Google Drive](/sales/gdrivesubscription/)
 *   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/pricing) (sold by Atlassian)
 *   [Mockups 3 for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)

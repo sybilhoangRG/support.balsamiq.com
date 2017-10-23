@@ -15,6 +15,7 @@ If you purchased longer than 60 days ago, please [get in touch](mailto:sales@bal
 
 *   To stop your myBalsamiq subscription, see [these instructions](/sales/mybsubscriptions/#stopping-your-subscription).
 *   To stop your Balsamiq for Google Drive subscription, see [these instructions](/sales/gdrivesubscription/#stopping-your-subscription).
+*   To stop your Balsamiq Cloud subscription, see [these instructions](/sales/cloudsubscriptions/#stopping-your-subscription).
 
 Your subscription will not be renewed at the conclusion of the billing cycle following your cancellation request.
 
