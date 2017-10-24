@@ -1,10 +1,10 @@
 ---
 title: Saving Money With Balsamiq Cloud
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 9060
+weight: 60
 menu:
   menusales:
-    weight: 9060
+    weight: 60
 draft: ''
 
 ---

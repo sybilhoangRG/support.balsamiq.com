@@ -1,10 +1,10 @@
 ---
 title: Managing Your Balsamiq Cloud Subscription
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 9510
+weight: 510
 menu:
   menusales:
-    weight: 9510
+    weight: 510
 draft: ''
 
 ---

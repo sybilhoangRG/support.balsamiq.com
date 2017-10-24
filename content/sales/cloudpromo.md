@@ -1,10 +1,10 @@
 ---
 title: How Do I Redeem a Balsamiq Cloud Promo Code?
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 9490
+weight: 490
 menu:
   menusales:
-    weight: 9490
+    weight: 490
 draft: ''
 
 ---
