@@ -19,7 +19,7 @@ The [Microsoft UWP Guidelines](https://docs.microsoft.com/en-us/windows/uwp/cont
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/tooltips-whentouse.png)
 
-Here is a typical tooltip example ([*source*](https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/tooltips#example)):
+Here is a typical tooltip example *([source](https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/tooltips#example))*:
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/bing-tooltips.png)
 
