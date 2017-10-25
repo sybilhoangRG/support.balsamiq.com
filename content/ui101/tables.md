@@ -4,70 +4,74 @@ date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 80
 product: "UI Design 101"
-draft: true
 ---
 
-Data tables, also called Table views, tables, and data grids use columns and rows to display related information in a grid.<!--more-->
+Data tables, also called table views, tables, and data grids use columns and rows to **display related information in a grid**.<!--more-->
 
-| this | is | a |
-| ---- |--- | --- |
-| basic | data | table |
+<table style="border: 1px solid black; width: auto; display:table;width:320px;">
+<thead>
+<tr>
+<th style="border: 1px solid black; padding: 10px;">this</th>
+<th style="border: 1px solid black; padding: 10px;">is</th>
+<th style="border: 1px solid black; padding: 10px;">a</th>
+<th style="border: 1px solid black; padding: 10px;">very</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid black; padding: 10px;">basic</td>
+<td style="border: 1px solid black; padding: 10px;">HTML</td>
+<td style="border: 1px solid black; padding: 10px;">data</td>
+<td style="border: 1px solid black; padding: 10px;">table</td>
+</tr>
+</tbody>
+</table>
 
-For very simple tables the guidelines are easy to follow. The trouble comes about when you have too much data to parse at a glance. When you start thinking about ways to filter, sort, search, and act on the data the waters get a lot muddier. 
+Tables are readable and familiar when designed appropriately.
 
+For very simple tables the guidelines are easy to follow. The challenge comes as the data becomes too much to parse at a glance. When you start adding ways to filter, sort, search, and act on the data the waters get a lot muddier. 
 
 
 ## When to Use Data Tables
 
-* Use an outline view instead of a table view to present hierarchical data ([apple](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))
-* Use when you have Three or more columns of data (google)
+Data tables are best used for **numerical data and lists of objects of the same type**.
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/uxmastery-accordions.png)
+Here is a typical numerical data table:
 
+![](//media.balsamiq.com/img/support/tutorials/ui101/espn-tables.png)
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/uswebdesignstandards-accordions.png)
+Tables like the one below with actions, links, and buttons are common in enterprise, CRM, and other business applications *([image source](https://uxdesign.cc/designing-better-tables-for-enterprise-applications-f9ef545e9fbd))*:
 
+![](//media.balsamiq.com/img/support/tutorials/ui101/enterprise-tables.png)
 
+The [Google Material Design guidelines](https://material.io/guidelines/components/data-tables.html) suggest that tables should only be used when there are **three or more columns**. Side-by-side lists or any other text control can be used for a simple two-column comparison.
 
+[Apple](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/) mentions that an outline (a.k.a. Tree) view should be used instead of a table view for hierarchical data. One variation for this scenario is a tree table ([described below](#variations)).
 
 ---
 
 ## How to Use Data Tables
 
-* Let people click column headings to sort a table view if it provides value. ([apple](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))
-* Consider using alternating row colors in multi-column table views (apple)
-* Use a header row with descriptive titles
-* Checkboxes should accompany each row if the user needs to select or manipulate data. ([google](https://material.io/guidelines/components/data-tables.html))
-* Toggle on options and text when row(s) are selected (look at balsamiq cloud as an example?)
-* Pay attention to display density (maybe offer a choice, but better to default to the best one)
-* How to do pagination...
-* hover actions or check + buttons?
-* inline editing vs. new page (or modal)
-* multiple filters
-* can use some icons or colors for important things only
-* right align numbers, left align text
-* sticky headers?
-* Use a TH for headers for accessibility and styling purposes
+* Use a header row with descriptive titles. *([macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))*
+* Let people click column headings to sort a table view if it provides value. *([macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))*
+* Clicking once on a column heading should apply "natural" sort order (e.g., alphabetical, smallest number first, earliest date first, checked items first) and show a *down* arrow. Clicking again should reverse the order and show an *up* arrow. *([GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/lists.html.en))*
+* Alternate row colors for large tables. This is often referred to as "zebra striping". *([macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))*
+* Checkboxes should accompany each row if the user needs to select or manipulate data. *([Google Material Design guidelines](https://material.io/guidelines/components/data-tables.html))*
+* For actions that can only be applied to one row at a time (e.g., edit, view details), standard practice is to provide a link or icon in the last column of the table.
+* Use the [&lt;THEAD&gt; and &lt;TH&gt; HTML tags](https://www.w3schools.com/tags/tag_thead.asp) for header rows for accessibility and easier visual styling.
+* Left-align text and right-align numbers. *([Patternry](http://patternry.com/p=data-table/))*
+* If you have numeric data, keep the level of precision appropriate. The fewer decimals, the less time it takes to scan and understand the data. *([Patternry](http://patternry.com/p=data-table/))*
+* Show only the information that users really need to see, but provide the ability to dig deeper into details if needed. Use Inlays, Overlays, and tooltips for showing details on the same page with the table to maintain user’s flow. *([Patternry](http://patternry.com/p=data-table/))*
+* Consider using floating (i.e., "sticky") header rows for long tables. *([Patternry](http://patternry.com/p=data-table/))*
+* Provide the ability to search within long tables. *([GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/lists.html.en))*
+* Pay attention to display density. Having the data too close together makes it hard to read, yet using too much spacing means more scrolling (and more time to find what the reader is looking for).  The [Google Material Design guidelines](https://material.io/guidelines/components/data-tables.html#data-tables-specs) offer some specifications for padding and spacing within tables. You can give users the option to change the display density ([as shown here](https://uxdesign.cc/design-better-data-tables-4ecc99d23356#f194)), but don't use this an an excuse not to pick a good default.
+* Pagination is useful for large data sets, but don't immediately assume that it's needed. Studies have shown that [users don't mind scrolling](http://uxmyths.com/post/654047943/myth-people-dont-scroll) in many cases and showing all the information on one page means that users can search and sort more easily to find what they're looking for. 
+* If you use pagination, make sure to show the total number of pages or results. The ability to choose how many rows to show on a page is also useful.
+* Actions that users can perform on the data should be placed around the edges of the table (as shown in the [example below](#basic-usage)). Pagination is usually placed at the bottom, while filtering, sorting, and multi-row actions are often placed in the top-left and/or top-right.
+* If you provide a way to filter or otherwise limit the data, make sure to clearly indicate that a subset of the data is being shown. You can see some [table filter examples here](http://ui-patterns.com/patterns/TableFilter).
+* Use color and decoration sparingly. It can be useful to highlight unexpected data (such as extreme/outlying values or failed actions).
 
-add a description to the table
-
-look at google sheets tools and gmail
-
-infinite scroll - yes or no?
-
-like multi-column (two dimensional) lists (related control?)
-
-view/edit mode? (KDE)
-
-
-row / zebra striping (look at designing interfaces book)
-
-nested / tree table
-
-links (use breadcrumbs to get back)
-
-can add buttons or checkboxes
-
+There are some excellent examples of many of these guidelines in practice in this article on [designing better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356).
 
 
 ### Basic Usage
@@ -80,22 +84,24 @@ can add buttons or checkboxes
 
 ### States
 
-* Hover state on each row
-* Selected state for each row (different color from hover)
-* Sorted icon
-
-editable?
+Tables don't have states like other UI controls, but some have cells which can be changed from read-only to editable. In the case of editable cells, they should be visually distinct through a lowered bevel or thicker border *([KDE Human Interface Guidelines](https://community.kde.org/KDE_Visual_Design_Group/HIG/TableView))*.
 
 ### Variations
 
-Variations should be minimized in order to keep consistent with standards. One common option is the addition of icons. The + and - icons are the most identifiable and familiar. Pointed triangles or chevrons can also be used.
+Most table variations exist for the purposes of showing additional data for a specific row. This is done to avoid forcing the user to visit a new page and losing context.
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/accordions-variations.png)
+[This article on designing better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) shows examples of this variation, including:
 
-The icon states should tell the user what will happen when they click, i.e., the plus or expand icon should be shown on collapsed panels rather than indicating that an open panel has been expanded [*(Smashing Magazine)*](https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/).
+* [Expandable Rows](https://uxdesign.cc/design-better-data-tables-4ecc99d23356#a1a4) (a.k.a. Tree Table or [Outline View](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/outline-views/))
+* [Quick View](https://uxdesign.cc/design-better-data-tables-4ecc99d23356#4731)
+* [Modal](https://uxdesign.cc/design-better-data-tables-4ecc99d23356#ecb6)
+
+![](//media.balsamiq.com/img/support/tutorials/ui101/tables-variations.png)
+
+These details-on-demand variations should be reserved for complex data tables. It is overkill for cases where the user is primarily browsing. A better choice is to carefully consider which information the user needs to see and provide only that data.	
 
 ---
 
 ## Related Controls
 
-* Lists?
+* Lists
