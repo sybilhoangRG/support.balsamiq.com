@@ -23,7 +23,9 @@ To sign up for a paid subscription, simply pick a plan and select the Subscribe 
 
 ![](https://media.balsamiq.com/img/support/sales/cloud/subscribe.png)
 
-You can choose to be charged either monthly or yearly, then proceed to enter your credit card information in the [secure](/sales/safe/) sign-up form. Invoices will be sent via email to the Space Owner(s) and Billing-Only Administrator (if applicable). Review your information and click "Subscribe" to complete the process. You are free to [cancel](#stopping-your-subscription) your subscription at any time.
+You can choose to be charged either monthly or yearly, then proceed to enter your credit card information in the [secure](/sales/safe/) sign-up form. Invoices will be sent via email to the Space Owner(s) and Billing-Only Administrator (if applicable). Review your information and click "Subscribe" to complete the process.
+
+If you happen to subscribe to a plan **before** your initial 30-day trial is over, you will receive credit for the number of unused days in your trial. And as usual, you are free to [cancel](#stopping-your-subscription) your subscription at any time.
 
 * * *
 
