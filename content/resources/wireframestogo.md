@@ -61,7 +61,7 @@ Follow these steps to import your Wireframes to Go controls into your existing M
 
 * * *
 
-## How to Sumbit Your Symbols to Wireframes to Go
+## How to Submit Your Symbols to Wireframes to Go
 
 We'd love to share your custom symbols with the world, so if you're willing, here is how to submit your project to Wireframes to Go!
 
