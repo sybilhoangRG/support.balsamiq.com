@@ -4,7 +4,7 @@ date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
 menu: "menuresources"
 product: "Resources"
-aliases: 
+aliases:
 - /resources/mockupstogo/
 - /tutorials/mockupstogo/
 ---
@@ -43,9 +43,21 @@ The Wireframes to Go Browser will close, and you will see a little toast message
 
 ![](//media.balsamiq.com/img/support/docs/bw/download-bmpr-wtg.png)
 
-That BMPR file has the control in it's symbol library. You can use as either the basis for a new project, or you can [move it into existing project](https://docs.balsamiq.com/cloud/symbols/#moving-symbols)
+The downloaded .bmpr file contains your new control in its [symbol library](//docs.balsamiq.com/desktop/symbols/).
 
-{{% alert info %}}**Note:** If you want to use the symbol in an existing project, it's easier to import it [directly from the editor](#how-to-use-it-from-within-the-wireframes-editor) {{% /alert %}}
+### Importing a Wireframes to Go Control into your Mockups 3 Project
+
+Follow these steps to import your Wireframes to Go controls into your existing Mockups 3 for Desktop Project
+
+1. Open both projects (your existing one and the .bmpr file you downloaded from Wireframes to Go).
+
+2. Browse to the *Symbols* view in both your existing project, and the one you downloaded from Wireframes to Go. (**View > Symbols**)
+
+3. Drag the symbol library from the Wireframes to Go project into your existing project.
+
+![gif](//media.balsamiq.com/img/support/docs/m4d/b3/b3_wtg.png)
+
+{{% alert warning %}}**Note:** This process may not work if you are using a Mockups 3 for Atlassian Cloud Product. In that instance, [email us](mailto:support@balsamiq.com) with the name of the Wireframes to Go control you would like, and we will email you a compatible file with instructions on how to import it.{{% /alert %}}
 
 * * *
 
