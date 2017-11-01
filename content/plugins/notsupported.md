@@ -21,7 +21,7 @@ The easiest way to fix this compatability error is to [send us the .bmpr file](m
 
 ### Export the Project as a Zip File
 
-If you prefer to convert the file yourself (or are unable to send it to us for privacy reasons), you can do it by opening the project (.bmpr file) in [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/). You can download a free 30-day trial for Mockups 3 from Desktop [here](https://balsamiq.com/download).
+If you prefer to convert the file yourself (or are unable to send it to us for privacy reasons), you can do it by opening the project (.bmpr file) in Mockups 3 for Desktop. You can download a free 30-day trial for Mockups 3 from Desktop [here](https://balsamiq.com/download).
 
 When the project is open, you can export it as a BMML Zip file by selecting **Project > Export > Project to BMMLs Zip...**.
 

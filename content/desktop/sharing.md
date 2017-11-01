@@ -6,7 +6,7 @@ menu: "menudesktop"
 product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
-[Collaboration is the foundation](https://balsamiq.com/products/mockups/#collaboration) of Mockups. From working with your clients and customers, to collaborating with your designers and programmers, Mockups was built with collaboration at its core. Here are the ways you can share your projects.
+[Collaboration is the foundation](https://balsamiq.com/products/#collaboration) of Mockups. From working with your clients and customers, to collaborating with your designers and programmers, Mockups was built with collaboration at its core. Here are the ways you can share your projects.
 
 ## Share Mockups Project Files
 

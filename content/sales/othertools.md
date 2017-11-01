@@ -19,7 +19,7 @@ Balsamiq Mockups is, generally-speaking, a **User Interface Design tool**.
 
 More specifically, Balsamiq Mockups is a **low-fidelity wireframing tool** that can be used to quickly create an informal visual representation of any kind of software interface (desktop, web, mobile, etc.). It is used by people in a wide range of roles in the software industry, such as [Product Managers](https://balsamiq.com/for/product-managers/), [Designers](https://balsamiq.com/for/designers/), Developers, and [Entrepreneurs](https://balsamiq.com/for/entrepreneurs/).
 
-Here is an example of a "wireframe" created in Balsamiq Mockups, shown in two different "skins" (more [examples here](https://balsamiq.com/products/mockups/#examples)).
+Here is an example of a "wireframe" created in Balsamiq Mockups, shown in two different "skins" (more [examples here](https://balsamiq.com/products/#examples)).
 
 ![Sketch skin](https://media.balsamiq.com/img/examples/wiki-sketch.png)
 ![Wirefame skin](https://media.balsamiq.com/img/examples/wiki-wireframe.png)
@@ -80,7 +80,7 @@ Balsamiq Mockups intentionally has only [limited prototyping capabilities](https
 
 For those fluent in the language of the web and write HTML, CSS and Javascript, using a web framework allows you to build a UI that can be used in your final product, because it is based on web code. Additionally, frameworks (such as [Bootstrap](http://getbootstrap.com/)) give you pre-built components that you can use to assemble the building blocks of your site or web application. They can save a lot of time over starting your code from scratch.
 
-Balsamiq generates static wireframes, not code, so the final user interface must be recreated in code. The danger of working only in code is that it can exclude stakeholders from participating fully in the design and creation process, because only code editors can make changes. [Read about the process we use here](https://balsamiq.com/products/mockups/#noproto).
+Balsamiq generates static wireframes, not code, so the final user interface must be recreated in code. The danger of working only in code is that it can exclude stakeholders from participating fully in the design and creation process, because only code editors can make changes. [Read about the process we use here](https://balsamiq.com/products/#noproto).
 
 * * *
 
@@ -88,7 +88,7 @@ Balsamiq generates static wireframes, not code, so the final user interface must
 
 If you like to code in development environments ("IDE"s, such as IntelliJ or Eclipse), you might enjoy some of the new visual code editing tools like [Framer](http://framerjs.com/). They allow you to hook up events and create more realistic interactions, often using native code.
 
-The drawback is that, like [web frameworks](#webframeworks), they take more time, and therefore changes are more costly to make. If you think in code, you may not "need" Mockups, but many people find it useful to flesh out early ideas. [Read about the process we use here](https://balsamiq.com/products/mockups/#noproto).
+The drawback is that, like [web frameworks](#webframeworks), they take more time, and therefore changes are more costly to make. If you think in code, you may not "need" Mockups, but many people find it useful to flesh out early ideas. [Read about the process we use here](https://balsamiq.com/products/#noproto).
 
 * * *
 

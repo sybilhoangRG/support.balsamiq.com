@@ -26,7 +26,7 @@ If you use Confluence Server or Jira Server you have [two purchasing options](/s
 
 ## Mockups 3 for Desktop
 
-[Mockups 3 for Desktop](https://balsamiq.com/products/mockups/) is our most popular application, since it's great for teams of all sizes.
+[Mockups 3 for Desktop](https://balsamiq.com/download) is our most popular application, since it's great for teams of all sizes.
 
 Mockups 3 for Desktop allows your designers to have complete control of their projects. When they are ready to share with the rest of your team, they can attach an [exported PDF or PNG](https://docs.balsamiq.com/desktop/exporting/) to a Confluence page or Jira issue.
 

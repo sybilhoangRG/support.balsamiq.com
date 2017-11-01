@@ -13,7 +13,7 @@ Arg! Sorry about that. This page is here to help.
 
 Ok, so, first we need to figure out which one of our products you are using.
 
-Are you using the Desktop version ([Balsamiq Mockups 3 for Desktop](https://balsamiq.com/products/mockups/))? If so, _there is no password or login required for using Mockups 3 for Desktop_.  Just [download](https://balsamiq.com/download/), install and launch.
+Are you using the Desktop version ([Balsamiq Mockups 3 for Desktop](https://balsamiq.com/download))? If so, _there is no password or login required for using Mockups 3 for Desktop_.  Just [download](https://balsamiq.com/download/), install and launch.
 
 You also **don't** need a Balsamiq login or password for:
 
