@@ -6,7 +6,7 @@ menu: "menudesktop"
 product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
-This feature is available if you want to use one of the [3rd party tools that extend Mockups](/resources/extensions/), add additional details for developers, or anything else you can think of.
+This feature is available if you want to add additional details for developers, or anything else you can think of.
 
 You can right-click on any control in your mockup and select "Custom Properties..." from the context menu:
 

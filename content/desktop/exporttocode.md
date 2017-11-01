@@ -10,6 +10,6 @@ Not directly, no.
 
 There are too many technologies for a small company like ours to keep track of and export to, so we don’t plan on adding export capabilities natively any time soon.
 
-There are some projects which extend Balsamiq Mockups in various ways; you can find them on our [extensions page](/resources/extensions/).
+Our [BMPR file format](/resources/bmpr-format/) is documented, so you can build a tool that integrates with it if you wish.
 
 If you’d like to write an extension for Mockups, [do get in touch](mailto:peldi@balsamiq.com), we’d love to help you as much as we can.

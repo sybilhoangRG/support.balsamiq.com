@@ -28,7 +28,7 @@ These are the techniques typical in design and development for specifying intera
 
 <a class="fb" rel="gallery" href="https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png"><img src="https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png" /></a>
 
-We think Balsamiq fits into this picture of early ideation in different ways. We use and have seen our customers use Balsamiq for all of the types of design documents in the blue zone above—the Balsamiq-friendly zone. Using [third-party tools](/resources/extensions/#exporting-your-mockups-to-code-version-2), people even go beyond static prototyping capabilities to import Balsamiq files into apps that create rich interaction prototypes using technologies like HTML or Flash.
+We think Balsamiq fits into this picture of early ideation in different ways. We use and have seen our customers use Balsamiq for all of the types of design documents in the blue zone above—the Balsamiq-friendly zone. Using third-party tools, people even go beyond static prototyping capabilities to import Balsamiq files into apps that create rich interaction prototypes using technologies like HTML or Flash.
 
 Before we get into the details about the techniques, let's consider the differences. Bill Buxton makes this distinction about sketches and prototypes.
 
@@ -127,8 +127,6 @@ This technique takes the most time and effort compared with the simpler techniqu
 This last category we include because there are third party tools that take advantage of exporting to the open Balsamiq BMPR format to migrate your wireframes to a richer interactive prototype.
 
 This takes considerable effort, but for those that want to do more with their wireframes after the right design has been selected, this is an option to make prototypes with working forms, and working state changes without requiring duplication of pages for each state. Once you go down this route, you're investing much more time on demonstrating the behaviors.
-
-There are third party tools that will convert Balsamiq into code including HTML/JS/CSS, MXML/AS, WebORB, and to Mobile applications. You can see a [listing of all the 3rd party tools on our community page](/resources/extensions/).
 
 * * *
 
