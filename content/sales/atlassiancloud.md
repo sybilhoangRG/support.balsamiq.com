@@ -16,7 +16,7 @@ Mockups 3 for Confluence Cloud is a connect add-on, and installed and sold direc
 
 Details can be found in the [Mockups 3 for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/cloud/admin-guide-cloud/).
 
-{{% alert warning %}}**Note:** Mockups 3 for Confluence Cloud was released April 4, 2016 and we have moved all Confluence Cloud instances to the new connect add-on. If you originally purchased Mockups for Confluence for your Cloud instance directly from Balsamiq please see our [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/transition-guide/).{{% /alert %}}
+{{% alert warning %}}**Note:** Mockups 3 for Confluence Cloud was released April 4, 2016 and we have moved all Confluence Cloud instances to the new connect add-on. If you originally purchased Mockups 3 for Confluence for your Cloud instance directly from Balsamiq please see our [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/transition-guide/).{{% /alert %}}
 
 ## Mockups 3 for Jira Cloud
 
@@ -24,4 +24,4 @@ Mockups 3 for Jira Cloud is a connect add-on, and installed and sold directly in
 
 Details can be found in the [Mockups 3 for Jira Cloud Admin Guide](https://docs.balsamiq.com/jira/cloud/admin-guide-cloud/).
 
-{{% alert warning %}}**Note:** Mockups 3 for Jira Cloud was released January 18, 2016 and we have moved all Jira Cloud instances to the new connect add-on. If you originally purchased Mockups for Jira for your Cloud instance directly from Balsamiq please see our [Mockups 3 for Jira Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/transition-guide/).{{% /alert %}}
+{{% alert warning %}}**Note:** Mockups 3 for Jira Cloud was released January 18, 2016 and we have moved all Jira Cloud instances to the new connect add-on. If you originally purchased Mockups 3 for Jira for your Cloud instance directly from Balsamiq please see our [Mockups 3 for Jira Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/transition-guide/).{{% /alert %}}

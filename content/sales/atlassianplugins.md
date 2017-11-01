@@ -66,7 +66,7 @@ This section covers the most frequently asked questions related to the licensing
 
 ## End User License Agreement
 
-*   [Balsamiq Mockups Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
+*   [Balsamiq Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
 *   [Our legal department would like to make some changes to your End User License Agreement (EULA). Is that ok?](/sales/customeula/)
 *   [Your EULA refers to the grant of publicity rights to Balsamiq. What does that mean? Can we change that?](/sales/publicityrights/)
 *   [The EULA is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
@@ -77,6 +77,6 @@ This section covers the most frequently asked questions related to the licensing
 ## Customization and Professional Services
 
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
-*   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
+*   [Is Balsamiq Section 508 compliant?](/sales/508/)
 
 **More questions? Please contact us!** <span style="line-height: 1.6em;">If you have a question that is not answered here, please feel free to</span> [contact us](mailto:sales@balsamiq.com?subject=I%20have%20a%20question%20about%20purchasing%20your%20Atlassian%20plugin)
