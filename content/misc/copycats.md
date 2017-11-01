@@ -8,9 +8,9 @@ menu:
 draft: ''
 
 ---
-If you found a clone of Balsamiq Mockups somewhere on the web, this page is for you.
+If you found a clone of Balsamiq somewhere on the web, this page is for you.
 
-The first time a clone of Mockups came to the market, our founder Peldi was quite upset. How dare they steal his ideas? No fair! :)
+The first time a clone of our product came to the market, our founder Peldi was quite upset. How dare they steal his ideas? No fair! :)
 
 Over time, with many more copy-cats coming to the market, our views on the subject have changed.
 

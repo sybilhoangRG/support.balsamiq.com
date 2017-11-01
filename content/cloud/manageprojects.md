@@ -32,6 +32,6 @@ A confirmation dialog will pop up to ensure that you want to delete the project.
 
 That's it, you have made room for another project on your Balsamiq Cloud site.
 
-## Backing Up Your Local Files
+## Backing up Your Local Files
 
 We cannot tell you what the best way for you to backup your project (.bmpr) files is, now that you have them downloaded. We recommend signing up for a cloud storage service (like [Google Drive](https://drive.google.com) or [Dropbox](https://www.dropbox.com)) and storing the project files there. You should use whatever backup method you are most comfortable with. :)

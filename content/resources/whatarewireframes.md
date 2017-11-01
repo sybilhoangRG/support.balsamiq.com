@@ -7,7 +7,7 @@ draft: ''
 product: "Resources"
 ---
 
-Did you hire a designer or programmer or an information architect / user experience professional? Did they deliver you a set of preliminary designs built using Balsamiq Mockups? If so, this document is for you.
+Did you hire a designer or programmer or an information architect / user experience professional? Did they deliver you a set of preliminary designs built using Balsamiq? If so, this document is for you.
 
 We know your time is valuable so we'll keep it short.
 
@@ -29,27 +29,27 @@ You should congratulate yourself on choosing to work with someone who understand
 
 ## Why Do These Wireframes Look the Way They Do?
 
-Wireframes built with **[Balsamiq Mockups](https://balsamiq.com/products/mockups/) **have an intentional low-fidelity look and feel to them, for the following reasons:
+Wireframes built with **[Balsamiq](https://balsamiq.com/products/) **have an intentional low-fidelity look and feel to them, for the following reasons:
 
-1.  **it makes it clear that this is not the final design**: no-one could mistake a wireframe made with Mockups with the final look and feel of your application. Low-fidelity and few colors force you to focus on structure over details. There will be lots of time for visual design once the structure is finalized.
-2.  **it conveys that "this is all up for discussion"**: the rough feel encourages discussion, we call it _a look no-one is afraid to criticize_. Wireframes made with Mockups are _really_ quick to make, so don't be shy with giving feedback! Each screen probably only took a few minutes to make, their author won't mind doing them over from scratch, don't worry. What matters the most at this point is the final ease of use, so going through a few iterations is normal and expected.
-3.  **it makes it clear that no code has been written yet**: if instead of a wireframe you received some screens that looked like screenshots of the final app, you'd be excused for assuming that all the code behind those screenshots had been written already (which most of the time is not the case). Wireframes built with Mockups don't have this danger.
+1.  **it makes it clear that this is not the final design**: no-one could mistake a wireframe made with Balsamiq with the final look and feel of your application. Low-fidelity and few colors force you to focus on structure over details. There will be lots of time for visual design once the structure is finalized.
+2.  **it conveys that "this is all up for discussion"**: the rough feel encourages discussion, we call it _a look no-one is afraid to criticize_. Wireframes made with Balsamiq are _really_ quick to make, so don't be shy with giving feedback! Each screen probably only took a few minutes to make, their author won't mind doing them over from scratch, don't worry. What matters the most at this point is the final ease of use, so going through a few iterations is normal and expected.
+3.  **it makes it clear that no code has been written yet**: if instead of a wireframe you received some screens that looked like screenshots of the final app, you'd be excused for assuming that all the code behind those screenshots had been written already (which most of the time is not the case). Wireframes built with Balsamiq don't have this danger.
 
 * * *
 
 ## Want to Make Some Changes Yourself?
 
-Certainly! You're lucky that the person you're working with choose [Balsamiq Mockups](https://balsamiq.com/products/mockups) to share wireframes with you. No other wireframing software is easy enough to use for non-technical people. If you can use Powerpoint, you can use Mockups.
+Certainly! You're lucky that the person you're working with choose [Balsamiq](https://balsamiq.com/products/) to share wireframes with you. No other wireframing software is easy enough to use for non-technical people. If you can use Powerpoint, you can use Balsamiq.
 
-Balsamiq Mockups comes in [several different versions](https://balsamiq.com/products/compare/), each with a fully functional free trial period. Head over to [our download page](https://balsamiq.com/download/) and download Mockups for Desktop to try it out.
+Balsamiq comes in [several different versions](https://balsamiq.com/products/), each with a fully functional free fully functioning 30-day trial period.
 
-We have an extensive set of [tutorials](/tutorials/): this ["Intro to Balsamiq Mockups"](/tutorials/firstmockup/) is a good first step. Or, start with our [quick guide to learning wireframing](https://blog.balsamiq.com/wireframe-guide/).
+We have an extensive set of [tutorials](/tutorials/): this ["Intro to Balsamiq"](/tutorials/firstmockup/) is a good first step. Or, start with our [quick guide to learning wireframing](https://blog.balsamiq.com/wireframe-guide/).
 
 * * *
 
 ## A Word of Caution
 
-With great power comes great responsibility. Just because Balsamiq Mockups makes it easy to come up with user interfaces, it doesn't mean that creating **good** user interfaces is easy.
+With great power comes great responsibility. Just because Balsamiq makes it easy to come up with user interfaces, it doesn't mean that creating **good** user interfaces is easy.
 
 Human Computer Interaction / User Experience Design is an art and science, and lots of people study a lifetime to become experts at it.
 

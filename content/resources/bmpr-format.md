@@ -9,25 +9,25 @@ product: "Resources"
 
 ## Overview
 
-At the heart of all Balsamiq Mockups projects are BMPR files. BMPR files (short for <strong>B</strong>alsamiq <strong>M</strong>ockups <strong>PR</strong>ojects) are a type of BAR file. BAR files, or <strong>B</strong>alsamiq <strong>Ar</strong>chive files, provide a way a storing different kinds of content while also providing a consistent set of tools for reading and writing that content.
+At the heart of all Balsamiq projects are BMPR files. BMPR files (short for <strong>B</strong>alsamiq <strong>M</strong>ockups <strong>PR</strong>ojects) are a type of BAR file. BAR files, or <strong>B</strong>alsamiq <strong>Ar</strong>chive files, provide a way a storing different kinds of content while also providing a consistent set of tools for reading and writing that content.
 
 BAR is a format for files that have resources of various types, branches, and thumbnails. For instance, one could build the next Keynote, Visio, or Photoshop using BAR as its file format. Our hope is that some day someone might want to adopt the format. If not, we'll probably adopt it ourselves for our next product.
 
 In other words, BMPR files are a kind of BAR file. All BAR files share similar APIs describing what kind of content the archive contains.
 
-In the case of BMPR files that content contains everthing there is to know about a Balsamiq Mockups project.
+In the case of BMPR files that content contains everthing there is to know about a Balsamiq project.
 
 ### Getting a BMPR File
 
-If you want to get your hands on a BMPR file, create a new Mockup using the Balsamiq Mockups 3 app and save the file somewhere. That's a BMPR file. Or <a href="http://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
+If you want to get your hands on a BMPR file, create a new wireframe using Balsamiq app and save the file somewhere. That's a BMPR file. Or <a href="http://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
 
-The BMPR format isn't the first format we've used for Mockups. For example, in the past we've used <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version">BMML</a>. A Mockups project requires multiple BMML files making them a little more cumbersome to manage. A single BMPR file contains everything for a project. This single file approach makes sharing projects much easier.
+The BMPR format isn't the first format we've used for Balsamiq. For example, in the past we've used <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version">BMML</a>. A Mockups 2 project requires multiple BMML files making them a little more cumbersome to manage. A single BMPR file contains everything for a project. This single file approach makes sharing projects much easier.
 
 ### Who Is This For?
 
-It's for you and for all the other people who are making <a href="/resources/extensions/">useful things</a>!
+It's for you and for all the other people who are making tools that integrate with Balsamiq!
 
-Maybe you're curious about how your projects are stored. Maybe you want to make tools that can read the files or even generate BMPR files programmatically. Maybe you want to teach a <a href="http://makezine.com/projects/building-a-doodle-bot-kit/">robot</a> how to draw your Mockups using chalk on sidewalks. We hope that happens!
+Maybe you're curious about how your projects are stored. Maybe you want to make tools that can read the files or even generate BMPR files programmatically. Maybe you want to teach a <a href="http://makezine.com/projects/building-a-doodle-bot-kit/">robot</a> how to draw your wireframes using chalk on sidewalks. We hope that happens!
 
 ### Versions
 
@@ -41,7 +41,7 @@ When writing tools for the BMPR file format it's a good idea to ensure that your
 
 ## Details
 
-A BMPR file is a humble SQLite database file that stores both scalar values (single numbers, strings, etc) and JSON data that describes every detail of a Mockups project. Using SQLite enables BMPR files to take advantage of the huge amount of historical experience, tools, and libraries for reading and writing to relational databases while also being very portable and embeddable.
+A BMPR file is a humble SQLite database file that stores both scalar values (single numbers, strings, etc) and JSON data that describes every detail of a Balsamiq project. Using SQLite enables BMPR files to take advantage of the huge amount of historical experience, tools, and libraries for reading and writing to relational databases while also being very portable and embeddable.
 
 Here's what a BMPR file looks like when opened using the free <a href="https://github.com/sqlitebrowser/sqlitebrowser">DB Browser for SQLite</a> app:
 
@@ -53,7 +53,7 @@ There are 4 tables in a BMPR file:
   <li class="list-group-item"><a href="#info">INFO</a> contains details about what kind of resources an archive contains</li>
   <li class="list-group-item"><a href="#resources">RESOURCES</a> is where most of the content found in a project lives</li>
   <li class="list-group-item"><a href="#branches">BRANCHES</a> contains information about branches in a project</li>
-  <li class="list-group-item"><a href="#thumbnails">THUMBNAILS</a> has entries for mockup thumbnails</li>
+  <li class="list-group-item"><a href="#thumbnails">THUMBNAILS</a> has entries for wireframe thumbnails</li>
 </ul>
 
 ---
@@ -153,7 +153,7 @@ The INFO table describes what kind of data, or resources, our file contains. BMP
 
 ## The RESOURCES Table
 
-Details about mockups, assets, and symbols are stored here. Each row in this table contains details (coordinates, shape, and size, etc.) about every element in a project.
+Details about wireframes, assets, and symbols are stored here. Each row in this table contains details (coordinates, shape, and size, etc.) about every element in a project.
 
 <div class="panel panel-default">
   <div class="panel-heading">Table Fields</div>
@@ -199,7 +199,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
   "name": "Banking Website",            // the name of this resource
   "notes": "",                          // notes for this resource
   "order": 2445916,                     // an absolute integer representing this resource's position
-  "thumbnailID": "[UUID]",              // the unique ID of the thumbnail for this mockup
+  "thumbnailID": "[UUID]",              // the unique ID of the thumbnail for this wireframe
   "trashed": false                      // a boolean flag indicating if this is a trashed resource
 }
 {{< /highlight >}}
@@ -211,7 +211,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
         <td>DATA</td>
         <td>TEXT</td>
         <td>
-          <p>JSON data with keys for mockup data. See below for more details.</p>
+          <p>JSON data with keys for wireframe data. See below for more details.</p>
           <p>If the resource is a kind of <strong>otherAsset</strong> or <strong>asset</strong> the data stored for this resource will be the Base64 encoded representation of the asset.</p>
         </td>
         <td>&nbsp;</td>
@@ -225,8 +225,8 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
     "controls": {        // an array containing each element (see more about this below)
       "control": ["..."] // JSON data with properties unique to the control type
     },
-    "measuredH": "600",  // the pixel height of the mockup
-    "measuredW": "800",  // the pixel width of the mockup
+    "measuredH": "600",  // the pixel height of the wireframe
+    "measuredW": "800",  // the pixel width of the wireframe
     "version": "1.0"     // the version for this particular resource
   }
 }
@@ -286,7 +286,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
 {{< /highlight >}}
 </div>
 
-<p>Each Symbol Library that's been added to a project has its own RESOURCE record with JSON data describing all of the controls that that library makes available. Each instance of a control used in a mockup is described in the JSON within the DATA column for a mockup's RESOURCE record.</p>
+<p>Each Symbol Library that's been added to a project has its own RESOURCE record with JSON data describing all of the controls that that library makes available. Each instance of a control used in a wireframe is described in the JSON within the DATA column for a wireframe's RESOURCE record.</p>
 
 <p>Documenting each different kind of resources, each with their own set of properties, is well beyond the scope of this reference. Knowing the purpose of their common keys should at least provide a foundation for understanding each different kind.</p>
 
@@ -352,13 +352,13 @@ The branches table contains records for each branch in a project. A typical proj
   </div>
 
   <div class="panel-body">
-    <p>Balsamiq Mockups 3 app doesn't use terms like "branchName" - it uses alternate versions. You can read more about <a href="https://docs.balsamiq.com/desktop/alternates/" class="alert-link">alternate versions here</a>.</p>
+    <p>Balsamiq doesn't use terms like "branchName" - it uses alternate versions. You can read more about <a href="https://docs.balsamiq.com/desktop/alternates/" class="alert-link">alternate versions here</a>.</p>
     <div class="row">
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
           [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_1_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_1.png)
           <div class="caption">
-            This is the "master" alternate. Its ID in the <em>BRANCHES</em> table is "master", but it has no "branchName" key or value in the ATTRIBUTES column. That's because the master branch name can't be changed. Balsamiq Mockups will always refer to it as "Official Version".
+            This is the "master" alternate. Its ID in the <em>BRANCHES</em> table is "master", but it has no "branchName" key or value in the ATTRIBUTES column. That's because the master branch name can't be changed. Balsamiq will always refer to it as "Official Version".
           </div>
         </div>
       </div>
@@ -385,7 +385,7 @@ The branches table contains records for each branch in a project. A typical proj
         <div class="thumbnail">
           [![](http://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes.png)
           <div class="caption">
-            In this screenshot of Balsamiq Mockups 3 we're picking a new font and changing the link colors to red on one alternate.
+            In this screenshot of Balsamiq we're picking a new font and changing the link colors to red on one alternate.
           </div>
         </div>
       </div>
@@ -410,7 +410,7 @@ The branches table contains records for each branch in a project. A typical proj
 
 ## The THUMBNAILS Table
 
-<p>Every Mockups project has thumbnails of the mockups within the project. The <em>THUMBNAILS</em> table keeps track of those thumbnails.</p>
+<p>Every Balsamiq project has thumbnails of the wireframes within the project. The <em>THUMBNAILS</em> table keeps track of those thumbnails.</p>
 
 <div class="panel panel-default">
   <div class="panel-heading">Table Fields</div>
@@ -446,7 +446,7 @@ The branches table contains records for each branch in a project. A typical proj
 {
   "branchID":"Master",    // this is the name of the branch this thumbnail is associated with
   "image":"[Image Data]", // contains Base64 encoded data for the thumbnail image.
-  "resourceID":"[UUID]"   // this is the UUID of the mockup this thumbnail is a snapshot of
+  "resourceID":"[UUID]"   // this is the UUID of the wireframe this thumbnail is a snapshot of
 }
 {{< /highlight >}}
         </td>
@@ -458,4 +458,4 @@ The branches table contains records for each branch in a project. A typical proj
 
 ## Summary
 
-<p>We hope this reference is useful. If you can think of ways that would help us make it more useful for you <a href="https://balsamiq.com/company/#contact">we want to hear about it</a> and make it better. If you build a tool that supports BMPR let us know so we can tell people about it and add it to the list of <a href="/resources/extensions/">extensions</a>.</p>
+<p>We hope this reference is useful. If you can think of ways that would help us make it more useful for you <a href="https://balsamiq.com/company/#contact">we want to hear about it</a> and make it better. If you build a tool that supports BMPR let us know so we can tell people about it!</p>

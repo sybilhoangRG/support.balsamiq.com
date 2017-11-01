@@ -4,7 +4,7 @@ title: Can I Use Balsamiq Mockups 3 for Desktop with Dropbox / Box.com / OneDriv
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 20
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 We often get this question: does Balsamiq Mockups 3 work well with my favorite file sharing solution?

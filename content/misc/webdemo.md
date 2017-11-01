@@ -12,7 +12,7 @@ With the launch of our new web version, [Balsamiq Cloud](https://balsamiq.cloud/
 
 * * *
 
-## What Can I Use to Try Out Your Product Instead?
+## What Can I Use to Try out Your Product Instead?
 
 Balsamiq Cloud comes with a 30 day free trial (just like [all our products](https://support.balsamiq.com/sales/evaluate/)). It is fully functional so you'll get the chance to explore the whole package. See our Cloud documentation [here](https://docs.balsamiq.com/cloud/) for more details.
 

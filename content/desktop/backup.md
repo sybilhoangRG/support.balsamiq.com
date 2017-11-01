@@ -3,7 +3,7 @@ title: Does Mockups 3 for Desktop Backup My Files?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 Mockups 3 for Desktop backs up any file you open to a local folder. These local versions are stored for (around) seven days and should automatically load in case of a corrupted project file.

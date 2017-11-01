@@ -3,7 +3,7 @@ title: Is There a More Formal Skin for Mockups?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 110
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 If you want your wireframes to take on a more polished, less hand-drawn look, try the wireframe skin!

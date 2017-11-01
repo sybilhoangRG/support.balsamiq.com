@@ -7,7 +7,7 @@ title: User Interface Guidelines
 weight: 56
 ---
 
-These User Interface Guidelines provide documentation for designing applications for specific platforms, and recommendations and principles for interface and interaction design.
+These User Interface Guidelines provide **documentation for designing applications for specific platforms**, and recommendations and principles for interface and interaction design.
 
 <div id="filterlist" class="row gallery">
     <div class="fitem col-xs-6 col-sm-4 col-md-3">

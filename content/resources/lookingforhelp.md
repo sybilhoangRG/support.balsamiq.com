@@ -7,7 +7,7 @@ draft: ''
 product: "Resources"
 ---
 
-We [do not offer professional services ourselves](/sales/training/) and we don't want to endorse anyone in particular, but here's a few resources that UX professionals use when they look for jobs, as well as a table of possible contractors from [Upwork](//www.upwork.com). You should post your job offering there. Good luck with your search!
+We [do not offer professional services ourselves](/sales/training/) and we don't want to endorse anyone in particular, but here's a few resources that UI designers use when they look for jobs, as well as a table of possible contractors from [Upwork](//www.upwork.com). You should post your job offering there. Good luck with your search!
 
 ## Job Announcements on Twitter
 

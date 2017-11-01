@@ -7,6 +7,6 @@ draft: ''
 product: "Tutorials & Videos"
 ---
 
-This video introduces our Symbols feature. Symbols let you create reusable elements that are available to different mockups. For more information, please see our complete [Symbols Documentation](https://docs.balsamiq.com/desktop/symbols/).
+This video introduces our Symbols feature. Symbols let you create reusable elements that are available to different wireframes. For more information, please see our complete [Symbols Documentation](https://docs.balsamiq.com/desktop/symbols/).
 
 {{< yt VZKl26d4Np0 >}}

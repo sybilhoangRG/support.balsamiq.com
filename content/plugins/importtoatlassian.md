@@ -62,5 +62,3 @@ If you are using Balsamiq Mockups **version 2**:
 ## More Import/Export Options
 
 If you use Google Drive, Confluence Server or Jira Server but don't have a license for one of our Mockups plugins, you can still share your mockups using these products. To do this, upload your mockups as images (go to "File > Export to PNG image" in the Desktop version) and attach or embed the images. You can also upload your Mockups (.bmml) files for other Desktop users to download to their computers.
-
-If you're looking for import/export options for other applications or file formats, a good number of extensions have been written so far. You can find the list of [import/export extensions here](/resources/extensions/).

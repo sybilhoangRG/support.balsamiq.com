@@ -3,7 +3,7 @@ title: What Should I Do If Mockups Crashes for Me?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 220
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 {{% alert info %}}**Note:** If you are experiencing crashes or freezes when you start Mockups 3, see [this FAQ](/desktop/stuckonlaunch/) instead.{{% /alert %}}

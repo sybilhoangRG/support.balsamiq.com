@@ -11,11 +11,11 @@ Design Systems, Pattern Libraries, and Frameworks simplify development and relie
 
 While wireframes (low fidelity, non-interactive) may seem like an odd pairing with design systems (high fidelity, backed by working code), they can actually work quite well together!
 
-In a blog post called [**"Using Balsamiq Mockups with Pattern Libraries and Frameworks"**](https://blog.balsamiq.com/using-balsamiq-mockups-with-pattern-libraries-and-frameworks/) we describe how they complement each other, given the right organizational framework.
+In a blog post called [**"Using Balsamiq with Pattern Libraries and Frameworks"**](https://blog.balsamiq.com/using-balsamiq-mockups-with-pattern-libraries-and-frameworks/) we describe how they complement each other, given the right organizational framework.
 
 Here is an excerpt from the post and some images showing how Balsamiq components can be "mapped" to a design system or framework:
 
-> The main advantage of pairing a pattern library with Balsamiq Mockups is that it can free you from worrying about look, feel, and behavior when designing yet provide pixel-perfect renditions of the final product components.
+> The main advantage of pairing a pattern library with Balsamiq is that it can free you from worrying about look, feel, and behavior when designing yet provide pixel-perfect renditions of the final product components.
 
 [![](https://media.balsamiq.com/img/support/tutorials/blog/mockups-bootstrap.png)](https://blog.balsamiq.com/using-balsamiq-mockups-with-pattern-libraries-and-frameworks/)
 

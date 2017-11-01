@@ -3,7 +3,7 @@ title: Mockups for Desktop Stuck on Launch or Opening a BMPR?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 180
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 

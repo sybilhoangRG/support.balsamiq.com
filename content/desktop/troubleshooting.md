@@ -3,7 +3,7 @@ title: Mockups for Desktop Troubleshooting Guide
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 Something not working as expected? We're here to help! Here's a short list of steps we recommend.

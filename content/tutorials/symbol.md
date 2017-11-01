@@ -11,7 +11,7 @@ product: "Tutorials & Videos"
 
 This lesson will show you the steps to create a _Symbol_ (also called template, master or widget) from within Balsamiq Mockups. Symbols let you create reusable elements that are available to different mockups. They prevent you from having to create the same set of controls multiple times and allow you to make a change in one place and have it update across files.
 
-This process is the same for both Mockups for Desktop and myBalsamiq. Symbols are not yet supported in all versions of Mockups. See [this table](https://balsamiq.com/products/compare/) for details.
+This process is the same for both Mockups for Desktop and myBalsamiq. Symbols are not yet supported in all versions of Mockups. See [this page](https://balsamiq.com/products/) for details.
 
 * * *
 

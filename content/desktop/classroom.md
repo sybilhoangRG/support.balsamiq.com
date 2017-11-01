@@ -3,7 +3,7 @@ title: Using Balsamiq in Your Classroom
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 200
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 
@@ -20,7 +20,7 @@ Please email your comments and stories to [peldi@balsamiq.com](mailto:peldi@bals
 
 ## Getting Balsamiq 3 for Desktop for Your Class
 
-We are proud to offer you **a long-term extended trial key for Mockups for Desktop for the duration of your course,
+We are proud to offer you **a long-term extended trial key for Mockups 3 for Desktop for the duration of your course,
 free of charge**.
 
 To apply, enter your information **[here](https://balsamiq.com/free)**. You will receive the trial key over email.
