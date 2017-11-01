@@ -9,8 +9,8 @@ product: "Resources"
 
 The resources on this page should be of interest to:
 
-* **Non-profits** looking for UX volunteers
-* **UX Designers** looking for opportunities to volunteer their time and services to a non-profit
+* **Non-profits** looking for UI Designer volunteers
+* **UI Designers** looking for opportunities to volunteer their time and services to a non-profit
 
 ## Conferences
 * **[The Feast](http://feastongood.com/)** - A conference bringing together the creative and technology community with non-profit organizations.

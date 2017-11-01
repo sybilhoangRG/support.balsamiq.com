@@ -7,7 +7,7 @@ title: User Interface Galleries
 weight: 55
 ---
 
-Are you looking for best practices or inspiration while working on your wireframes? The Design Pattern Libraries and Galleries section below provide examples of how interfaces are used to solve specific kinds of design problems. These sites may include examples of design solutions, and annotated breakdowns describing why the solution is appropriate.
+Are you looking for **best practices** or inspiration while working on your wireframes? The Design Pattern Libraries and Galleries section below provide examples of how interfaces are used to solve specific kinds of design problems. These sites may include examples of design solutions, and annotated breakdowns describing why the solution is appropriate.
 
 <div class="row">
     <div class="col-xs-12 col-sm-10">

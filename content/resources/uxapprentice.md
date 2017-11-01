@@ -11,4 +11,4 @@ product: "Resources"
 
 [![](https://media.balsamiq.com/img/support/resources/uxapprentice.jpg)](http://www.uxapprentice.com)
 
-[Go to the site at http://www.uxapprentice.com](http://www.uxapprentice.com)
+Visit the site at [https://www.uxapprentice.com](https://www.uxapprentice.com)
