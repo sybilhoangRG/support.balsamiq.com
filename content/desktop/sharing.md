@@ -3,7 +3,7 @@ title: How Can I Share My Mockups With Others?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 230
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 [Collaboration is the foundation](https://balsamiq.com/products/mockups/#collaboration) of Mockups. From working with your clients and customers, to collaborating with your designers and programmers, Mockups was built with collaboration at its core. Here are the ways you can share your projects.

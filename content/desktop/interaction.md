@@ -3,7 +3,7 @@ title: Can I Specify Interaction beyond Linking Mockups Together?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 95
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 Yes! But perhaps not the way you expect. Here’s a number of techniques: [Specifying Interaction with Mockups](/tutorials/specifyinginteraction/).

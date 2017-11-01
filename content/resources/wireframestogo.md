@@ -45,7 +45,7 @@ The Wireframes to Go Browser will close, and you will see a little toast message
 
 The downloaded .bmpr file contains your new control in its [symbol library](//docs.balsamiq.com/desktop/symbols/).
 
-### Importing a Wireframes to Go Control into Your Mockups 3 Project
+### Importing a Wireframes to Go Control into Your Mockups 3 for Desktop Project
 
 Follow these steps to import your Wireframes to Go controls into your existing Mockups 3 for Desktop Project
 

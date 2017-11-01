@@ -3,7 +3,7 @@ title: Why Won't Mockups Save on My Mac?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 250
 menu: "menudesktop"
-product: "Balsamiq Mockups for Desktop FAQs"
+product: "Balsamiq Mockups 3 for Desktop FAQs"
 draft: ''
 ---
 We've recently discovered a conflict with Mockups' save window and corporate IT permission software like [Digital Guardian](https://digitalguardian.com/). If your Mac has one of these software suites installed, you are probably having trouble saving your files.

@@ -1,5 +1,5 @@
 ---
-title: Are There Any Books on Balsamiq Mockups?
+title: Are There Any Books on Balsamiq?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 50
 menu: "menuresources"
@@ -17,11 +17,11 @@ We think this book nicely complements [our support website](/), with easy-to-fol
 
 ​From the amazon.com description:
 
-> _This book is a step-by-step guide to learning Balsamiq Mockups and wireframing in general. Written in an engaging, easy to follow style and flow, readers can utilize free, downloadable templates that teach by building upon previous chapters until each lesson is learned and applied, ensuring true learning, not just memorization._
+> _This book is a step-by-step guide to learning Balsamiq and wireframing in general. Written in an engaging, easy to follow style and flow, readers can utilize free, downloadable templates that teach by building upon previous chapters until each lesson is learned and applied, ensuring true learning, not just memorization._
 
 * * *
 
-There is also an awesome [eBook of Balsamiq Interviews](https://balsamiq.com/products/mockups/interviews/) by Bob Walsh that includes interviews with nine different Mockups users (including our own [Michael Angeles](https://balsamiq.com/company/#mike)). Each interviewee contributes an interesting perspective on using Mockups and its advantages and limitations.
+There is also an awesome [eBook of Balsamiq Interviews](https://balsamiq.com/products/mockups/interviews/) by Bob Walsh that includes interviews with nine different Balsamiq users (including our own [Michael Angeles](https://balsamiq.com/company/#mike)). Each interviewee contributes an interesting perspective on using Balsamiq and its advantages and limitations.
 
 [![](https://media.balsamiq.com/img/ebook-cover-interviews.jpg)](https://balsamiq.com/products/mockups/interviews)
 

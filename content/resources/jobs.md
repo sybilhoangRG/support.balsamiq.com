@@ -7,7 +7,7 @@ draft: ''
 product: "Resources"
 ---
 
-Are you a Balsamiq Mockups expert, looking for work?
+Are you a Balsamiq expert, looking for work?
 
 We have a partial list of [job sites here](/resources/lookingforhelp/). You can also check out [jobs tagged "balsamiq" on Upwork](https://www.upwork.com/o/jobs/browse/?q=balsamiq) or advertise yourself as a [Balsamiq freelancer on Upwork](https://www.upwork.com/hire/balsamiq-freelancers/).
 

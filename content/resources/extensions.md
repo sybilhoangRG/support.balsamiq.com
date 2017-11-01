@@ -9,7 +9,7 @@ product: "Resources"
 
 ## A Thriving User Community
 
-Adopting Balsamiq Mockups means joining a growing community of programmers, designers, product managers and usability experts who are passionate about creating software and web sites that delight users every day.
+Adopting Balsamiq means joining a growing community of programmers, designers, product managers and usability experts who are passionate about creating software and web sites that delight users every day.
 
 This page highlights some community tools and websites which might be useful to you. **We are not affiliated with the makers of the products below unless noted**.
 
@@ -18,9 +18,9 @@ This page highlights some community tools and websites which might be useful to 
 ## More UI Controls
 
 *   [**Wireframes To Go**](https://wireframestogo.com) is a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq. New patterns are added all the time - we hope you'll want to contribute as well!
-*   [**Mock4U**](http://blog.rainwebs.net/mock4u/) is a set of UML stencils for Balsamiq Mockups.
+*   [**Mock4U**](http://blog.rainwebs.net/mock4u/) is a set of UML stencils for Balsamiq.
 *   [**Blackboard Learn Symbols**](http://projects.oscelot.org/gf/project/balsamiq/) is a series of assets to help design user interfaces for custom Blackboard Learn (9.0 and 9.1) extensions.
-*   [**Charts for Mockups**](http://www.altviz.co/chart-bundle-balsamiq/) is a library of 18 additional Graph & Chart Symbols for Balsamiq Mockups.
+*   [**Charts for Mockups**](http://www.altviz.co/chart-bundle-balsamiq/) is a library of 18 additional Graph & Chart Symbols for Balsamiq.
 *   [**Sencha Ext JS Stencils**](http://pages.sencha.com/stencils.html) is a free Symbols library of [Sencha Ext JS](https://www.sencha.com/products/extjs/) controls.
 
 * * *
@@ -44,13 +44,13 @@ Icons that are ready to drop into Assets using our icon_ file naming convention:
 *   [Hand Drawn Icons](http://www.handdrawnicons.com/)
 *   [Google Material Design icons, by Jan Stawarczyk](https://github.com/jstawarczyk/material-design-balsamiq)
 *   [Doodlekit Icons](http://doodlekit.imagiag.com/)
-*   <strike>[Font Awesome Icons](https://github.com/djfpaagman/font-awesome-balsamiq/)</strike> (Font Awesome is [now included with Balsamiq Mockups 3!](https://docs.balsamiq.com/desktop/icons/))
+*   <strike>[Font Awesome Icons](https://github.com/djfpaagman/font-awesome-balsamiq/)</strike> (Font Awesome is [now included with Balsamiq!](https://docs.balsamiq.com/desktop/icons/))
 
 Instructions on how to use custom icon packs are [here](https://docs.balsamiq.com/desktop/icons/#using-an-existing-set-of-custom-icons).
 
 * * *
 
-## User Testing Your Mockups
+## User Testing Your Wireframes
 
 Prototypes made with [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq) can be user-tested with the following tools:
 
@@ -60,10 +60,10 @@ Prototypes made with [myBalsamiq](https://balsamiq.com/products/mockups/mybalsam
 *   [User Testing your myBalsamiq wireframes with Usabilla](https://blog.balsamiq.com/product/usabilla/)
 *   [User Testing your myBalsamiq Prototypes with Kupima](https://blog.balsamiq.com/product/kupima/)
 *   [User Testing your myBalsamiq Prototypes with UserZoom](https://blog.balsamiq.com/product/userzoom/)
-*   [Give Mockup presentations on your iPad/iPhone with Link Viewer](https://blog.balsamiq.com/linkviewer/) (also works with Mockups for Desktop)
+*   [Give Mockup presentations on your iPad/iPhone with Link Viewer](https://blog.balsamiq.com/linkviewer/) (also works with Mockups 3 for Desktop)
 *   [Learn more...](https://docs.balsamiq.com/mybalsamiq/usertesting/)
 
-You can also test mockups created with any version of Mockups using the tool below:
+You can also test wireframes created with any version of Balsamiq using the tool below:
 
 *   [User Testing Your Balsamiq Mockups with CanvasFlip](https://blog.balsamiq.com/canvasflip/)
 *   [User Testing Your Mobile Balsamiq Mockups with HeatData](https://blog.balsamiq.com/heatdata/)
@@ -75,12 +75,12 @@ You can also test mockups created with any version of Mockups using the tool bel
 *   [**UX Apprentice**](http://www.uxapprentice.com/) is a resource for people new to User Experience Design.
 *   Questions on the [**Balsamiq forums**](https://forums.balsamiq.com) always get answered quickly and respectfully and new features are designed collaboratively and in the open. [Take a look!](https://forums.balsamiq.com)
 *   [**Twitter** loves us](https://twitter.com/balsamiqFaves/favorites), and we love it back! You can follow [@balsamiq](http://www.twitter.com/balsamiq) to keep up with what we're doing or simply [search Twitter for "balsamiq"](https://twitter.com/search?q=balsamiq) and see what people think about us.
-*   Become a fan of [**Balsamiq Mockups on Facebook**](http://www.facebook.com/balsamiq) and connect with other Mockups lovers out there! [Learn more...](http://www.facebook.com/balsamiq)
+*   Become a fan of [**Balsamiq Mockups on Facebook**](http://www.facebook.com/balsamiq) and connect with other Balsamiq lovers out there! [Learn more...](http://www.facebook.com/balsamiq)
 *   **[We are proud to sponsor](https://balsamiq.com/company/sponsorships/)** the best events, blogs and websites related to UX, IA and startups. It's just our way to help our community flourish. [Learn more...](https://balsamiq.com/company/sponsorships/)
 
 * * *
 
-## Other Products That Work with Mockups (Versions 2 and/or 3)
+## Other Products That Work with Balsamiq (Versions 2 and/or 3)
 
 {{% alert warning %}}**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](https://docs.balsamiq.com/desktop/transition/#my-bmmls-won-t-open-what-gives) that is not compatible with tools that use BMML or XML formats. If you want to use them you should read about [importing](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) or [exporting](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version) BMML files.{{% /alert %}}
 
