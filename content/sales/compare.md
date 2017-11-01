@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This page will cover the differences in editor versions. Check out our [Compare Page](https://balsamiq.com/products/compare/) if you need a more in-depth view about each product.
+This page will cover the differences in editor versions. Check out our [Products Page](https://balsamiq.com/products/) if you need a more in-depth view about each product.
 
 ## Editor Versions
 
