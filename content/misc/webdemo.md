@@ -18,7 +18,7 @@ Balsamiq Cloud comes with a 30 day free trial (just like [all our products](http
 
 * * *
 
-## How Do I Import My Existing File(S) in Balsamiq Cloud?
+## How Do I Import My Existing File(s) in Balsamiq Cloud?
 
 {{% alert info %}}**Note:** These steps assume that you already have an existing Balsamiq Cloud account and [Space](https://docs.balsamiq.com/cloud/spaces/). If you don’t already have one, make sure to check out the [Quick Start Guide](https://docs.balsamiq.com/cloud/intro/#quick-start-guide) to get started on your project.{{% /alert %}}
 
