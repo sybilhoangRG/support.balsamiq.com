@@ -9,9 +9,9 @@ product: "Tutorials & Videos"
 
 ## Introduction
 
-In a [previous tutorial](/tutorials/firstmockup/) we learned how to create a mockup for a basic web site. In this tutorial, we'll go through the steps of creating a series of mockups for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](/tutorials/controls/).
+In a [previous tutorial](/tutorials/firstmockup/) we learned how to create a wireframe for a basic web site. In this tutorial, we'll go through the steps of creating a series of wireframes for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](/tutorials/controls/).
 
-Here are the mockups we'll be creating in this tutorial:
+Here are the wireframes we'll be creating in this tutorial:
 
 [![](https://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups.png)](https://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups_big.png "Click to enlarge")
 
@@ -19,7 +19,7 @@ Here are the mockups we'll be creating in this tutorial:
 
 ## Screen 1: Login
 
-The first mockup is the Login screen.
+The first wireframe is the Login screen.
 
 ![](https://media.balsamiq.com/img/support/tutorials/mobileapp/login.png)
 
@@ -48,7 +48,7 @@ For the login button, we want a big, colorful button, so we can increase the tex
 
 Finally, for the icons, we'll add an **Icon** control and use the icon search to change it to a cloud icon. For the second icon we can again use the duplicate shortcut, and then change its size in the [Property Inspector](https://docs.balsamiq.com/desktop/inspector/).
 
-**Tips and tricks used in this mockup:**
+**Tips and tricks used in this wireframe:**
 
 *   Use "/" or "+" to jump to quick add
 *   Show text as disabled by surrounding it with -dashes-
@@ -103,13 +103,13 @@ For this, we'll start with the **Icon and Text Label** control, which is kind of
 
 The last steps are to add an **iPhone/pointy button** for the log out button, and label and icon controls for the logo. We'll remove the pointy arrow, since it's logging the user out, rather than taking them back or forward. We'll set the icon and label colors to white to make them stand out against the grey toolbar background.
 
-**Tips and tricks used in this mockup:**
+**Tips and tricks used in this wireframe:**
 
 *   Use the Icon and Text Label control to save time over using two separate controls
 *   Use color to indicate selection states
 *   Leverage the hidden power of text formatting syntax (in the iPhone Menu control, for example)
 *   Use Lorem ipsum for placeholder/legal text
-*   There are lots of icons included with Mockups. In most cases what's there is enough. Don't worry if you don't find one that's perfect, at this stage you just want something that'll work (although it is possible to [add your own icons](https://docs.balsamiq.com/desktop/icons/#adding-your-own-icons))
+*   There are lots of icons included with Balsamiq. In most cases what's there is enough. Don't worry if you don't find one that's perfect, at this stage you just want something that'll work (although it is possible to [add your own icons](https://docs.balsamiq.com/desktop/icons/#adding-your-own-icons))
 
 * * *
 
@@ -132,9 +132,9 @@ This video shows the steps taken to create this screen:
 
 This screen is similar to the Accounts screen, but does even more with the iPhone menu control.
 
-Because it is so similar, instead of creating a new mockup from scratch, we can use the "New Clone of Current Mockup" command (_shortcut: CTRL/CMD + SHIFT + N_) to clone the Accounts mockup and work off of it.
+Because it is so similar, instead of creating a new wireframe from scratch, we can use the "New Clone of Current Wireframe" command (_shortcut: CTRL/CMD + SHIFT + N_) to clone the Accounts wireframe and work off of it.
 
-Rather than adding controls to the mockup first, we start by removing some controls from the middle of the Accounts screen and renaming the **Label** to "Transactions".
+Rather than adding controls to the wireframe first, we start by removing some controls from the middle of the Accounts screen and renaming the **Label** to "Transactions".
 
 For the transactions list we want the first item to show as greyed-out, since it is a pending transaction (designated as "processing"). We also want the transaction date and vendor to be on separate lines. Like this:
 
@@ -163,9 +163,9 @@ The one other difference is that we've removed the border around the iPhone menu
 
 Other than that, there's not really anything new on this screen. We're still in the Accounts category, so the tabs at the bottom don't change. Also, the icon is already there, we're just centering it in the iPhone control. And, since this screen is a drill-down from the Accounts screen, we're using the pointy version of the **iPhone button** to create a back button.
 
-**Tips and tricks used in this mockup:**
+**Tips and tricks used in this wireframe:**
 
-*   Use the "New Clone of Current Mockup" command (shortcut: CTRL/CMD + SHIFT + N) to clone an existing mockup
+*   Use the "New Clone of Current Wireframe" command (shortcut: CTRL/CMD + SHIFT + N) to clone an existing wireframe
 *   More text formatting tricks: bold, italics, line breaks, escaping characters used for formatting
 *   You can combine multiple text formatting styles together in one control
 *   Remove the border around the iPhone menu control to make it look like a table or grid
@@ -191,7 +191,7 @@ This video shows the steps taken to create this screen:
 
 {{< yt S-EGudXdETk >}}
 
-This Deposit screen is also similar to the Accounts screen, so we can again use the "New Clone of Current Mockup" command to get it started, as shown in the video.
+This Deposit screen is also similar to the Accounts screen, so we can again use the "New Clone of Current Wireframe" command to get it started, as shown in the video.
 
 After changing the screen title, we can update the colors of the icons in the tabs bar at the bottom to indicate that, now, the Deposit category is selected. And now, again, we'll be doing something new with the **iPhone menu** control. This time, we want to show icons next to the text in the menu. To do this, we can do this by using the "space for a big icon" text formatting syntax ("__ "), as shown in the template when the control is added.
 
@@ -202,7 +202,7 @@ This results in text that looks like this:
 
 After that, we simply shrink down the Lorem Ipsum text and add two more icons. For the icons, we'll add a camera icon, set it to the right size and color and position it using the alignment guides and the arrow keys on the keyboard.
 
-**Tips and tricks used in this mockup:**
+**Tips and tricks used in this wireframe:**
 
 *   Use the "__ " placeholder for big icons in the iPhone menu control
 *   Use the keyboard arrow keys to move ("nudge") controls by a small amount
@@ -235,7 +235,7 @@ It doesn't need to be precise. We just want to demonstrate the effect of guides 
 
 Finally, for the camera buttons, we'll start with the rectangle control again. This time, we'll change the opacity to allow the check and guides to show through. For the camera button, we'll use the **iPhone button** so that we can get the nice, iPhone-looking rounded corners. Note that you don't have to include text in your buttons. If you add an icon and delete the placeholder text the icon will get centered in the button. The last steps are adding the Cancel button and the grey overlay instruction text.
 
-**Tips and tricks used in this mockup:**
+**Tips and tricks used in this wireframe:**
 
 *   The Rectangle control is very versatile, especially when used in multiple layers
 *   Only show as much detail as necessary to communicate the design concept
@@ -245,16 +245,16 @@ Finally, for the camera buttons, we'll start with the rectangle control again. T
 
 ## Linking Them All Together
 
-Finally, we can use the linking feature to link all five mockups together and show them in Full Screen Presentation mode. The [Linking Mockups Together](https://docs.balsamiq.com/desktop/linking/) article describes this feature in more depth. The following video demonstrates the process of locating each button or control that should be connected and linking them to the appropriate mockups.
+Finally, we can use the linking feature to link all five wireframes together and show them in Full Screen Presentation mode. The [Linking Wireframes Together](https://docs.balsamiq.com/desktop/linking/) article describes this feature in more depth. The following video demonstrates the process of locating each button or control that should be connected and linking them to the appropriate wireframes.
 
 {{< yt PeV4gF0b-Xk >}}
 
-Using links and presenting a set of mockups to your stakeholders will help you tell the story around what you're trying to build as well as giving you a feel for the workflow and any usability pain points. Using linking, you can also [generate a clickable PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) that you can distribute.
+Using links and presenting a set of wireframes to your stakeholders will help you tell the story around what you're trying to build as well as giving you a feel for the workflow and any usability pain points. Using linking, you can also [generate a clickable PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) that you can distribute.
 
 **Tips and tricks for linking:**
 
-*   Link your mockups together at the end of the process, once all your screens have been added and finalized
-*   Use the CTRL + Tab keyboard shortcut to quickly switch to the next mockup file
+*   Link your wireframes together at the end of the process, once all your screens have been added and finalized
+*   Use the CTRL + Tab keyboard shortcut to quickly switch to the next wireframe
 
 * * *
 

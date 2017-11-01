@@ -7,7 +7,7 @@ draft: ''
 product: "Tutorials & Videos"
 ---
 
-When you're designing wireframes using Balsamiq Mockups you don't need to sweat the details, but _some_ of the details become more important when you start testing your wireframes. On an iPad, in particular, the wireframes have a much more immersive feel when they fit the viewport exactly, like in the example below.
+When you're designing wireframes using Balsamiq you don't need to sweat the details, but _some_ of the details become more important when you start testing your wireframes. On an iPad, in particular, the wireframes have a much more immersive feel when they fit the viewport exactly, like in the example below.
 
 ![insitu.jpg](https://media.balsamiq.com/img/support/tutorials/ipad/insitu.jpg)
 
@@ -52,9 +52,9 @@ Finally, click on the rectangle and lock it, just as we did with the iPad contro
 
 * * *
 
-## Step 3 - Create Your Mockup
+## Step 3 - Create Your Wireframe
 
-Now, the fun part. Create your mockup, making sure that all of your controls fit inside the viewport/window of the iPad device (the alignment guides at the edges should help with this).
+Now, the fun part. Create your wireframe, making sure that all of your controls fit inside the viewport/window of the iPad device (the alignment guides at the edges should help with this).
 
 Here's an example:
 
@@ -62,15 +62,15 @@ Here's an example:
 
 * * *
 
-## Step 4 - Export Your Mockup
+## Step 4 - Export Your Wireframe
 
-Now that the mockup is done, you're almost ready to export. Since you don't want to view the iPad device control inside the iPad itself, we need to get rid of the iPad device in Balsamiq Mockups. Instead of deleting it, we can hide it using the [Show/Hide Markup](https://docs.balsamiq.com/desktop/markup/) feature.
+Now that the wireframe is done, you're almost ready to export. Since you don't want to view the iPad device control inside the iPad itself, we need to get rid of the iPad device in Balsamiq. Instead of deleting it, we can hide it using the [Show/Hide Markup](https://docs.balsamiq.com/desktop/markup/) feature.
 
 We've already set the iPad device as markup in step 1, now we just need to toggle the markup layer to hide it. Go to **View > Markup and uncheck it**. Or, click the hide markup button in the toolbar (next to the zoom icon). The iPad device should disappear.
 
-Now, export your mockup as an [image](https://docs.balsamiq.com/desktop/exporting/#exporting-to-an-image) or [PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) via the File menu.
+Now, export your wireframe as an [image](https://docs.balsamiq.com/desktop/exporting/#exporting-to-an-image) or [PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) via the File menu.
 
-If you are exporting as PDF make sure that any other mockups you have open are also iPad mockups and have been treated similarly (so that all the PDF pages will be the same size). Also, set the Export Options to "Optimize for viewing" with no margins, as shown below.
+If you are exporting as PDF make sure that any other wireframes you have open are also iPad wireframes and have been treated similarly (so that all the PDF pages will be the same size). Also, set the Export Options to "Optimize for viewing" with no margins, as shown below.
 
 ![pdf-export.png](https://media.balsamiq.com/img/support/tutorials/ipad/pdf-export.png)
 
@@ -78,8 +78,8 @@ If you are exporting as PDF make sure that any other mockups you have open are a
 
 ## Step 5 - Send to Your iPad
 
-You can transfer your exported mockups to your iPad via email, Dropbox, or a variety of other methods. There are also several applications that you can use to view them on your iPad (these will usually be listed in the "Open in..." menu when you have the image or PDF selected).
+You can transfer your exported wireframes to your iPad via email, Dropbox, or a variety of other methods. There are also several applications that you can use to view them on your iPad (these will usually be listed in the "Open in..." menu when you have the image or PDF selected).
 
-We've found that the Apple **Photos** application works well for viewing mockups saved as images and the Apple **iBooks** application (free in the App Store) works well for viewing mockups saved as PDFs. The rectangle control we added in step 2 should ensure that your mockups are sized correctly in either of these applications.
+We've found that the Apple **Photos** application works well for viewing wireframes saved as images and the Apple **iBooks** application (free in the App Store) works well for viewing wireframes saved as PDFs. The rectangle control we added in step 2 should ensure that your wireframes are sized correctly in either of these applications.
 
-If you've exported a mockup with links to a PDF the link targets should work, allowing you to interact with your mockups like a real product. This is great for user testing or informal review while the design is in progress!
+If you've exported a wireframe with links to a PDF the link targets should work, allowing you to interact with your wireframes like a real product. This is great for user testing or informal review while the design is in progress!

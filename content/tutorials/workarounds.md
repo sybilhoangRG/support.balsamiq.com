@@ -6,7 +6,7 @@ menu: "menututorials"
 draft: ''
 product: "Tutorials & Videos"
 ---
-Balsamiq Mockups 3 should allow you to achieve most of your needs as it is designed (assuming it is [the right tool for you](/sales/howtochoose/)). However, some features can be harder than others to implement and sometimes using a workaround is the best way to address an immediate need. We decided to collect those workarounds, and make them available for you here.
+Balsamiq should allow you to achieve most of your needs as it is designed (assuming it is [the right tool for you](/sales/howtochoose/)). However, some features can be harder than others to implement and sometimes using a workaround is the best way to address an immediate need. We decided to collect those workarounds, and make them available for you here.
 
 Most of these tips and tricks are based on customer requests or questions so, once again, **thank you friends**! If you have any other requests or workarounds you'd like to share, please [reach out](https://balsamiq.com/company/contact/#/t) and tell us all about it. :)
 
@@ -31,11 +31,11 @@ Sometimes you want to create a [link](https://docs.balsamiq.com/desktop/linking/
 
 ## Link to Alternates
 
-Here is a quick way to [link](https://docs.balsamiq.com/desktop/linking/) to an [alternate version](https://docs.balsamiq.com/desktop/alternates/) when needed: putting the focus on an alternate version in the editor will result in links pointing to it (instead of the official mockup), even when using the [Full Screen Presentation mode](https://docs.balsamiq.com/desktop/fullscreen/).
+Here is a quick way to [link](https://docs.balsamiq.com/desktop/linking/) to an [alternate version](https://docs.balsamiq.com/desktop/alternates/) when needed: putting the focus on an alternate version in the editor will result in links pointing to it (instead of the official wireframe), even when using the [Full Screen Presentation mode](https://docs.balsamiq.com/desktop/fullscreen/).
 
 ![gif](//media.balsamiq.com/img/support/tutorials/workarounds/alternate-focus.png)
 
-{{% alert info %}}**Note:** For PDF exports, include only the alternate you want to link to, and exclude the official version, will make the link pointing to the first alternate for that specific mockup in the PDF. More details on exporting a specific set of mockups [here](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf).{{% /alert %}}
+{{% alert info %}}**Note:** For PDF exports, include only the alternate you want to link to, and exclude the official version, will make the link pointing to the first alternate for that specific wireframe in the PDF. More details on exporting a specific set of wireframes [here](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf).{{% /alert %}}
 
 ---
 

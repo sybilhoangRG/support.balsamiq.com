@@ -13,7 +13,7 @@ aliases:
 
 * * *
 
-## How to Use It from Within the Wireframes editor
+## How to Use It from within the Wireframes Editor
 
 You can find the option to launch the [Wireframes to Go](https://wireframestogo.com/) browser window from either the **Project > Import Controls from Wireframes to Go** menu item, or the **More Controls** button to the right of the UI Library's categories.
 
@@ -45,7 +45,7 @@ The Wireframes to Go Browser will close, and you will see a little toast message
 
 The downloaded .bmpr file contains your new control in its [symbol library](//docs.balsamiq.com/desktop/symbols/).
 
-### Importing a Wireframes to Go Control into your Mockups 3 Project
+### Importing a Wireframes to Go Control into Your Mockups 3 Project
 
 Follow these steps to import your Wireframes to Go controls into your existing Mockups 3 for Desktop Project
 

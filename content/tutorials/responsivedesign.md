@@ -1,5 +1,5 @@
 ---
-title: Responsive Design with Mockups
+title: Responsive Design with Balsamiq
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 140
 menu: "menututorials"
@@ -9,11 +9,11 @@ product: "Tutorials & Videos"
 
 ## We Love Responsive Design
 
-Responsive layouts on the web are exciting. Many Mockups users are doing responsive layouts on their projects or are planning to. We've been talking with the Balsamiq community about how Mockups can work with responsive web design concepts, and we thought we'd explore some techniques that might help.
+Responsive layouts on the web are exciting. Many Balsamiq users are doing responsive layouts on their projects or are planning to. We've been talking with the Balsamiq community about how Balsamiq can work with responsive web design concepts, and we thought we'd explore some techniques that might help.
 
-Before diving in, here's how we see Mockups fitting in with responsive layout design scenarios.
+Before diving in, here's how we see Balsamiq fitting in with responsive layout design scenarios.
 
-We believe wireframes can show how web content will flexibly adapt to different grid widths and indicate rules for presentation. Some of the capabilities in Mockups could make it easier for you to communicate how your design would work with responsiveness in mind. The basic ideas are based on techniques we've used and have seen over the years working with teams making wireframes. Other techniques we'll explore show how far you can go using the features of Mockups.
+We believe wireframes can show how web content will flexibly adapt to different grid widths and indicate rules for presentation. Some of the capabilities in Balsamiq could make it easier for you to communicate how your design would work with responsiveness in mind. The basic ideas are based on techniques we've used and have seen over the years working with teams making wireframes. Other techniques we'll explore show how far you can go using the features of Balsamiq.
 
 ## Creating a Responsive Design Wireframe System
 
@@ -104,7 +104,7 @@ Here's an example of what I'm talking about, using the article listing block:
 
 [![](https://acme.mybalsamiq.com/projects/responsivewireframes/assets/article-symbols.png)](https://acme.mybalsamiq.com/projects/responsivewireframes/assets/article-symbols.png)
 
-Now, let's take that idea and use some of the hidden, powerful features of Mockups, namely Symbols and Group Cropping. I'm going to use 2 different techniques that might be interesting to explore:
+Now, let's take that idea and use some of the hidden, powerful features of Balsamiq, namely Symbols and Group Cropping. I'm going to use 2 different techniques that might be interesting to explore:
 
 **Technique #1:**
 
@@ -131,19 +131,19 @@ The simplest scenario would be to make separate symbols, but this is just one id
 
 ## Real World Examples
 
-Superstar Mockups expert, Jeffrey Nolte of the New York consultancy [Moxie Media Group](http://getmoxied.net), was kind enough to share a project he worked on. His project shows how a responsive design adapts to 3 target layouts—Default, Portrait Tablet, and Smartphone. Jeffrey documented all layouts for a view on a single page, so developers knew how the system should adapt.
+Superstar Balsamiq expert, Jeffrey Nolte of the New York consultancy [Moxie Media Group](http://getmoxied.net), was kind enough to share a project he worked on. His project shows how a responsive design adapts to 3 target layouts—Default, Portrait Tablet, and Smartphone. Jeffrey documented all layouts for a view on a single page, so developers knew how the system should adapt.
 
 The example wireframes below show the 3 layouts for a home page.
 
 [![](https://acme.mybalsamiq.com/mockups/456717.png)](https://acme.mybalsamiq.com/mockups/456717.png)
 
-[View full Mockup on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/01-home-NG)
+[View full wireframe on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/01-home-NG)
 
 Below is the home page wireframe with grid markup visible.
 
 [![](https://acme.mybalsamiq.com/mockups/456718.png)](https://acme.mybalsamiq.com/mockups/456718.png)
 
-[View full Mockup on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/01-home)
+[View full wireframe on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/01-home)
 
 We [posted the entire project on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/grid) so you can dig a little deeper and see how they used this system to specify the layout of an ecommerce site with product overviews, detail pages, shopping cart, checkout process, and account views. This is great work and an excellent example of how it's not too difficult to get it done if you establish a system that works for you.
 

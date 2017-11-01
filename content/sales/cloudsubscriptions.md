@@ -45,7 +45,7 @@ Your billing renewal date will remain the same if you are only changing the numb
 
 * * *
 
-## Finding Past Invoices
+## Finding past Invoices
 
 We send invoice notifications via email following your automatic credit card payment to the email address of the Space Owner(s). The email will also be sent to the Billing-Only Administrator if one is assigned.
 

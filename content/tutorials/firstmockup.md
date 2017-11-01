@@ -1,5 +1,5 @@
 ---
-title: Creating Your First Mockup
+title: Creating Your First Wireframe
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 40
 menu: "menututorials"
@@ -7,27 +7,27 @@ draft: ''
 product: "Tutorials & Videos"
 ---
 
-This tutorial is designed to guide you through creating your first **Mockup**. It will cover a basic overview of the product as well as some of the **features** and UI **controls**.
+This tutorial is designed to guide you through creating your first **Wireframe**. It will cover a basic overview of the product as well as some of the **features** and UI **controls**.
 
-Here is the Mockup that you will create in this tutorial:
+Here is the Wireframe that you will create in this tutorial:
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-final_mockup.png)
 
-​If you're new to the idea of Mockups (also called wireframes), you may want to check out [UX Apprentice](http://www.uxapprentice.com/) to start with an overview of what Mockups are, and where they fit into a UX Design process. 
+​If you're new to the idea of wireframes, you may want to check out [UX Apprentice](http://www.uxapprentice.com/) to start with an overview of what wireframes are, and where they fit into a UX Design process. 
 
 * * *
 
 ## Basic Concepts and Terminology
 
-Here are some of the basic components of Balsamiq Mockups:
+Here are some of the basic components of Balsamiq:
 
-*   **UI Control** - A standard user interface "widget" (e.g., Button, Image, Dialog Window). The building blocks of any Mockup.
+*   **UI Control** - A standard user interface "widget" (e.g., Button, Image, Dialog Window). The building blocks of any wireframe.
 *   **Canvas** - The grid-lined area where UI Controls are placed.
 *   **UI Library** - A row of UI Controls that can be dragged onto the Canvas.
 *   **[Property Inspector](https://docs.balsamiq.com/desktop/inspector/ "Page describing the Property Inspector")** - A configuration panel that contains common actions (e.g., alignment, layering) and properties that are specific to each UI Control.
 
 
-{{% alert info %}}**Note:** The [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) has more information about the elements and controls in Balsamiq Mockups.{{% /alert %}}
+{{% alert info %}}**Note:** The [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) has more information about the elements and controls in Balsamiq.{{% /alert %}}
 
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/ui-overview.png)
@@ -36,11 +36,11 @@ Here are some of the basic components of Balsamiq Mockups:
 
 ## Adding the First Few Controls
 
-To create the Mockup shown above, begin by dragging the **Browser** UI Control onto the Canvas.
+To create the wireframe shown above, begin by dragging the **Browser** UI Control onto the Canvas.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-browser_window.png) ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-edit_browser.png)
 
-The content of nearly all controls in Balsamiq Mockups is defined by simple text. When a control is first added to the canvas, it will be shown in edit mode, often with hints about how to use it. For the Browser control, you can specify the title bar and URL text, or just use the default.
+The content of nearly all controls in Balsamiq is defined by simple text. When a control is first added to the canvas, it will be shown in edit mode, often with hints about how to use it. For the Browser control, you can specify the title bar and URL text, or just use the default.
 
 {{% alert info %}}**Tip:** To edit a control at any time, double-click on it, or press Enter when it is selected.{{% /alert %}}
 
@@ -60,7 +60,7 @@ For the product description placeholder text in the **Text** control, enter your
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-lore.png)![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-lorem_ipsum.png)
 
-After resizing the Image control, your Mockup should look something like this:
+After resizing the Image control, your wireframe should look something like this:
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-phase1.png)
 
@@ -84,7 +84,7 @@ Next, click the arrow inside the "Icon Search" box to open the **Icon Library**.
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/icon-library.png)
 
-This window shows the list of all the icons included with Balsamiq Mockups. You can filter them by category or search by name. Once you have chosen an icon you can choose from one of six sizes. For this tutorial, select the Circle icon and set the size to "XS" and click "Select".
+This window shows the list of all the icons included with Balsamiq. You can filter them by category or search by name. Once you have chosen an icon you can choose from one of six sizes. For this tutorial, select the Circle icon and set the size to "XS" and click "Select".
 
 {{% alert info %}}**Tip:** The "Icon Search" box in the **Icon** Property Inspector behaves like the "Quick Add" box and displays icons matching the text you enter (try typing "arrow", for example). (More about using icons can be found on the [Working with Icons](https://docs.balsamiq.com/desktop/icons/) page.){{% /alert %}}
 
@@ -96,7 +96,7 @@ Add three more icons to the right of the Circle icon (use the Circle Outlined th
 
 {{% alert info %}}**Tip:** Use the Duplicate keyboard shortcut (CTRL + D on Windows; CMD + D on Mac) to quickly replicate items on the canvas. ([More keyboard shortcuts here](https://docs.balsamiq.com/desktop/shortcuts/)){{% /alert %}}
 
-Zooming out, your mockup should now look something like this.
+Zooming out, your wireframe should now look something like this.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-4_controls.png)
 
@@ -116,17 +116,17 @@ You can move the pager controls closer to the Image control either by using the 
 
 {{% alert info %}}**Tip:** Holding down SHIFT while moving controls with the arrow keys will move them 10 pixels at a time (instead of the usual 1 pixel).{{% /alert %}}
 
-The Mockup so far, with the pager controls added.
+The wireframe so far, with the pager controls added.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-4_controls_aligned.png)
 
 * * *
 
-## Completing the Mockup
+## Completing the Wireframe
 
-The remainder of the Mockup consists of a set of tabs, more text, and a chart.
+The remainder of the wireframes consists of a set of tabs, more text, and a chart.
 
-Add a **Tabs Bar** control and place it in the bottom half of the Mockup.
+Add a **Tabs Bar** control and place it in the bottom half of the wireframe.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-tabs_edit.png)
 
@@ -142,13 +142,13 @@ After resizing the Tabs Bar control to match the width of the page, add **Label*
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-phase3.png)
 
-You can format text as **bold**, _italic_, or [hyperlinked](# "This Link Doesn't Go Anywhere") in Many Controls by Enclosing the Text with Special Characters. Use \*text\* for Bold, \_text\_ for Italics, or [text] for Hyperlinks.
+You can format text as **bold**, _italic_, or [hyperlinked](# "This Link Doesn't Go Anywhere") in Many Controls by Enclosing the Text with Special Characters. Use \*Text\* for Bold, \_text\_ for Italics, or [Text] for Hyperlinks.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-paragraph_formatting.png) ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-formatted_text.png)
 
 {{% alert info %}}**Tip:** Learn more formatting tips on the [Working with Text](https://docs.balsamiq.com/desktop/text/#basic-formatting) page.{{% /alert %}}
 
-Finally, drag a **Chart: Column** control into the empty area inside the Tabs Bar as a finishing touch to complete the Mockup.
+Finally, drag a **Chart: Column** control into the empty area inside the Tabs Bar as a finishing touch to complete the wireframe.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-chart.png)
 
@@ -156,12 +156,12 @@ Finally, drag a **Chart: Column** control into the empty area inside the Tabs Ba
 
 ## Exporting and next Steps
 
-Now that the Mockup is finished, you can easily export it as an image via the Project > Export > Mockup to PNG... (shortcut: CTRL/CMD + R) menu. Other export options are described in the [Exporting your Mockups](https://docs.balsamiq.com/desktop/exporting/) article.
+Now that the wireframe is finished, you can easily export it as an image via the Project > Export > Wireframe to PNG... (shortcut: CTRL/CMD + R) menu. Other export options are described in the [Exporting your Wireframes](https://docs.balsamiq.com/desktop/exporting/) article.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-export.png)
 
 * * *
 
-Congratulations! You have now completed your first wireframe with [Balsamiq Mockups](https://balsamiq.com/products/mockups)! You are on your way to become an User Experience (UX) expert! :)
+Congratulations! You have now completed your first wireframe with [Balsamiq](https://balsamiq.com/products/)! You are on your way to become an User Experience (UX) expert! :)
 
-For more information on any of the topics covered here, see the [Full Mockups Documentation](https://docs.balsamiq.com/desktop/).
+For more information on any of the topics covered here, see the [Full Balsamiq Documentation](https://docs.balsamiq.com/).

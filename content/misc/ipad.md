@@ -20,9 +20,9 @@ Stay tuned to our release announcements on our [release announcements page](http
 
 * * *
 
-## Does Mockups Come with iPad Controls Included?
+## Does Balsamiq Come with iPad Controls Included?
 
-Yes! Balsamiq Mockups ships with an iPad control and other iOS controls, shown below.
+Yes! Balsamiq ships with an iPad control and other iOS controls, shown below.
 
 [![](https://media.balsamiq.com/img/support/prodfaqs/ipadcontrols.png)](https://media.balsamiq.com/img/support/prodfaqs/ipadcontrols-big.png)
 
@@ -38,12 +38,14 @@ You can find Symbols libraries (also called templates or stencils) for iPad, iPh
 
 ## Do You Have Any Resources to Help Me Design or Test My Mobile Application?
 
-Check out our [tutorial on Creating a Mobile Application](/tutorials/mobileapplication/) to learn some tips and tricks for using the iOS controls included with Mockups.
+Check out our [tutorial on Creating a Mobile Application](/tutorials/mobileapplication/) to learn some tips and tricks for using the iOS controls included with Balsamiq.
 
-For testing, follow [this tutorial on user-testing your iPad wireframes](/tutorials/ipad/). There are also several [products that allow you to test your prototypes](/resources/extensions/#user-testing-your-mockups) created with myBalsamiq or from a clickable PDF.
+For testing, follow [this tutorial on user-testing your iPad wireframes](/tutorials/ipad/).
 
 * * *
 
-## Can I Use the Online Version (myBalsamiq) on My iPad?
+## Can I Use the Online Version (Balsamiq Cloud) on My iPad?
 
-The Balsamiq Mockups editor relies on Adobe Flash, so you can't edit your wireframes on your iPad. You can, however, browse your projects and view the wireframes in [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/). [Prototype view](https://docs.balsamiq.com/mybalsamiq/sharing/#send-them-a-prototype-view-link) also works, if you want to user-test your mockups on an iPad.
+You can, but the editor part doesn't respond to all finger inputs properly at the moment. We plan on fixing this over the next few weeks.
+
+Our long term plan is to create a native iPad application to allow you to fully control your Balsamiq Cloud account and projects.
