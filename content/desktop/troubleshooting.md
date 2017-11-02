@@ -19,11 +19,3 @@ If your problem isn't a bug or the application crashing you may find the answer 
 ## 3\. Contact Us
 
 Get a human! Answering your questions is part of everyone's job here at Balsamiq. Email [**support@balsamiq.com**](mailto:support@balsamiq.com) or find more ways to [contact us here](https://balsamiq.com/company/#contact).
-
-### Send Us Your Log Files
-
-If you uncover something we haven't seen before or something especially tricky we might ask you to send us your log file. If so, here are the steps you should follow:
-
-1.  Open your Local Store folder by opening the "About"  dialog and clicking on the "Open Local Store Folder" link ([see pictures here](/desktop/localstore/))
-2.  Quit the application - _**but don't restart it**_
-3.  Email us the file called "BalsamiqMockups3.log"

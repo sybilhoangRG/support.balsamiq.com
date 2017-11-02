@@ -13,5 +13,3 @@ When you [export your mockups to PDF](https://docs.balsamiq.com/desktop/exportin
 Exported images do not include mockup notes.
 
 Another way to share mockup notes is to [share the project file](/desktop/sharing/#share-balsamiq-files).
-
-If you are using **myBalsamiq** you can [invite people to join your project](https://docs.balsamiq.com/mybalsamiq/sharing/#make-them-a-project-member) so that they can see the notes and comments you've made and add their own.
