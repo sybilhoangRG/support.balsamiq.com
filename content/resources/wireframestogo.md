@@ -35,12 +35,10 @@ The Wireframes to Go Browser will close, and you will see a little toast message
 
 ## How to Use It from the Web
 
-1.  Browse the library of controls on the [site](https://wifeframestogo.com).
-
+1. Browse the library of controls on the [site](https://wifeframestogo.com).
 ![](//media.balsamiq.com/img/support/docs/bw/wtg-homepage.png)
 
-2.  Once you find what you need, click on the project, and click on the **Download BMPR** button.
-
+2. Once you find what you need, click on the project, and click on the **Download BMPR** button.
 ![](//media.balsamiq.com/img/support/docs/bw/download-bmpr-wtg.png)
 
 The downloaded .bmpr file contains your new control in its [symbol library](//docs.balsamiq.com/desktop/symbols/).
