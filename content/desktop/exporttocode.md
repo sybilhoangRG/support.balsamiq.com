@@ -12,4 +12,4 @@ There are too many technologies for a small company like ours to keep track of a
 
 Our [BMPR file format](/resources/bmpr-format/) is documented, so you can build a tool that integrates with it if you wish.
 
-If you’d like to write an extension for Mockups, [do get in touch](mailto:peldi@balsamiq.com), we’d love to help you as much as we can.
+If you’d like to write an extension for Balsamiq Mockups 3 for Desktop, [do get in touch](mailto:peldi@balsamiq.com), we’d love to help you as much as we can.
