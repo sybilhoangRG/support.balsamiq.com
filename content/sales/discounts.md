@@ -13,7 +13,7 @@ Yes! We have a few circumstances were you can get discounts or special pricing o
 
 ## Discounts for Academic Institutions
 
-If this is for classroom use, check out our [free program for Mockups for Desktop](https://balsamiq.com/free).
+If this is for classroom use, check out our [free program for Mockups 3 for Desktop](https://balsamiq.com/free).
 
 For non classroom use, academic pricing is available to qualified academic institutions for the following Balsamiq products:
 
@@ -64,7 +64,7 @@ While we do offer discounts for Atlassian Partners, we do not offer reseller dis
 
 ---
 
-## Discounts When Purchasing Multiple Mockups for Desktop Licenses
+## Discounts When Purchasing Multiple Mockups 3 for Desktop Licenses
 
 We offer discounted pricing for Mockups 3 for Desktop via Volume Licenses. Discounts start at 5 users and increase with the number of users. Pricing can be found [here](https://balsamiq.com/buy/#dv).
 
@@ -76,7 +76,7 @@ Volume licenses also make license management easier: you'll have one single Mock
 
 ## Discounts When Purchasing Multiple Versions of Mockups
 
-We offer some discounts to customers who would like to use Desktop and another version of Balsamiq Mockups, no matter which product you purchase first.
+We offer some discounts to customers who would like to use Desktop and another version of Balsamiq, no matter which product you purchase first.
 
 Details on how are here:
 
