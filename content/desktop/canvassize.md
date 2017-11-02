@@ -1,5 +1,5 @@
 ---
-title: What's the Maximum Canvas Size for a Mockup?
+title: What's the Maximum Canvas Size for a Wireframe?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 160
 menu: "menudesktop"

@@ -1,5 +1,5 @@
 ---
-title: Mockups for Desktop Troubleshooting Guide
+title: Balsamiq Mockups 3 for Desktop Troubleshooting Guide
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
 menu: "menudesktop"
