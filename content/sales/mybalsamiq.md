@@ -11,7 +11,7 @@ draft: ''
 
 {{% alert warning %}}**Note:** Now that [Balsamiq Cloud](https://balsamiq.cloud/) is out, we have stopped accepting new myBalsamiq signups. If you're currently a myBalsamiq user, you can [migrate to Cloud](/sales/mybtocloud) if you wish, but there's no rush. We plan on maintaining myBalsamiq for a long time.{{% /alert %}}
 
-This section covers the most frequently asked questions related to the licensing and purchasing of myBalsamiq, our web application. Other useful myBalsamiq links are the [myBalsamiq Product Page](https://balsamiq.com/products/mockups/mybalsamiq) and the [myBalsamiq Documentation](https://docs.balsamiq.com/mybalsamiq/).
+This section covers the most frequently asked questions related to the licensing and purchasing of myBalsamiq, our vintage web application. Useful link: [myBalsamiq Documentation](https://docs.balsamiq.com/mybalsamiq/).
 
 **Main article:** [How can I purchase, manage or cancel a myBalsamiq subscription?](/sales/mybsubscriptions/)
 

@@ -24,7 +24,7 @@ You can compare our products <a href="https://balsamiq.com/products/">here</a>.
 *   [I have two computers that I personally use. Do I need to purchase two licenses?](/sales/multiplecomputers/)
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
 *   [Do you offer any discounts?](/sales/discounts/)
-*   [Can I get Mockups for free?](https://balsamiq.com/free)
+*   [Can I get Balsamiq for free?](https://balsamiq.com/free)
 *   [Are there any applicable taxes?](/sales/taxes/)
 
 ## Ordering
