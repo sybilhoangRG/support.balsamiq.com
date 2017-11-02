@@ -16,7 +16,7 @@ Are you getting the following error message when trying to save your file in Bal
 
 ## Why Am I Getting This?
 
-When using the Balsamiq Mockups plugin, all the changes are always autosaved in Google Drive and a new 'not' pinned revision is created every time you close the app. On the other hand, using the command "Save" will instead create a "pinned" revision on Drive.
+When using the Balsamiq plugin, all the changes are always autosaved in Google Drive and a new 'not' pinned revision is created every time you close the app. On the other hand, using the command "Save" will instead create a "pinned" revision on Drive.
 
 Seeing this error message means that you've reached the maximum number of pinned versions allowed for your account.
 
