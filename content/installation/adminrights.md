@@ -6,7 +6,7 @@ menu: "menuinstallation"
 product: "Installation FAQs"
 draft: ''
 ---
-See below for instructions on installing Balsamiq Mockups for Desktop *without* Administrator rights.
+See below for instructions on installing Balsamiq Mockups 3 for Desktop *without* Administrator rights.
 
 ## Windows
 
