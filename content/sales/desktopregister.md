@@ -1,23 +1,24 @@
 ---
-title: How Do I Register Mockups for Desktop?
+title: How Do I Register Mockups 3 for Desktop?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
-menu: "menuinstallation"
-product: "Installation FAQs"
+menu:
+  menusales:
+    weight: 570
 draft: ''
 ---
-**Note:** This article applies to Mockups for Desktop. Registration instructions for our other products can be found on the following pages:
+**Note:** This article applies to Mockups 3 for Desktop. Registration instructions for our other products can be found on the following pages:
 
-*   [Mockups for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
-*   [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/#registration-instructions)
-*   [Mockups for Jira Server](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#registration-instructions)
-*   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
+*   [Balsamiq for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
+*   [Balsamiq for Confluence Server](https://docs.balsamiq.com/confluence/)
+*   [Balsamiq for Jira Server](https://docs.balsamiq.com/jira/)
+*   [Balsamiq Cloud](/sales/cloudsubscriptions/#signing-up-for-a-subscription)
 
 * * *
 
-## Registering Mockups for Desktop
+## Registering Mockups 3 for Desktop
 
-After you [download and install](/installation/howto/) Balsamiq Mockups for Desktop it will run in trial mode until registered. To register click on the "Register..." link in the banner at the bottom or go to **Help > Register...** in the menu.
+After you [download](https://balsamiq.com/download/) and install Balsamiq Mockups 3 for Desktop it will run in trial mode until registered. To register click on the "Register..." link in the banner at the bottom or go to **Help > Register...** in the menu.
 
 ![Register link](https://media.balsamiq.com/img/support/docs/m4d/register-link.png)
 
