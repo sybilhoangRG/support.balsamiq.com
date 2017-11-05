@@ -35,7 +35,7 @@ The Wireframes to Go Browser will close, and you will see a little toast message
 
 ## How to Use It from the Web
 
-1. Browse the library of controls on the [site](https://wifeframestogo.com).
+1. Browse the library of controls on the [site](https://wireframestogo.com).
 ![](//media.balsamiq.com/img/support/docs/bw/wtg-homepage.png)
 
 2. Once you find what you need, click on the project, and click on the **Download BMPR** button.
