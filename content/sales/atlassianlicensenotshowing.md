@@ -3,7 +3,7 @@ title: Balsamiq for Confluence Server or Jira Server Says It's Unlicensed, but I
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 80
 menu:
-  menuplugins:
+  menusales:
     weight: 80
 draft: ''
 

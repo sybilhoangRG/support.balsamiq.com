@@ -6,7 +6,7 @@ weight: 50
 product: "UI Design 101"
 ---
 
-Breadcrumbs are a compact way to show a site or application hierarchy. They are they are unobtrusive and not distracting.<!--more-->
+Breadcrumbs are a compact way to show a site or application hierarchy. They are unobtrusive and not distracting.<!--more-->
 
 They not only show users where they are, but provide an easy way to allow them to navigate up multiple levels.
 

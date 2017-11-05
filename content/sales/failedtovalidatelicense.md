@@ -4,7 +4,7 @@ title: '"Failed to Validate Your Plugin License" or "Your Add-on License Is Inva
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 110
 menu:
-  menuplugins:
+  menusales:
     weight: 110
 draft: ''
 

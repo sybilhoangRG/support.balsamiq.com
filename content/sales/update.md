@@ -11,13 +11,13 @@ draft: ''
 
 If you have a Balsamiq Mockups 3 for Desktop license or if the [maintenance](/sales/maintenance/) on your Wireframes for Confluence Server or Wireframes for Jira Server license is current, you can update at any time. Details on how to update are here:
 
-*   [Mockups for Desktop](/installation/update/)
+*   [Mockups 3 for Desktop](/installation/update/)
 *   [Wireframes for Confluence Server](https://docs.balsamiq.com/confluence/server/wireframes/admin-guide/#updating-instructions)
 *   [Wireframes for Jira Server](https://docs.balsamiq.com/jira/server/wireframes/admin-guide/#updating-instructions)
 
 The following products are automatically updated:
 
-*   myBalsamiq
+*   Balsamiq Cloud
 *   Balsamiq for Google Drive
 *   Mockups 3 for Confluence Cloud
 *   Mockups 3 for Jira Cloud

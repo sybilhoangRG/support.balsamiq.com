@@ -27,7 +27,7 @@ When the project is open, you can export it as a BMML Zip file by selecting **Pr
 
 ![](https://media.balsamiq.com/img/support/docs/atlassian/export_to_zip.png)
 
-Once you have the exported zip file, create a new Balsamiq project in your Atlassian Cloud instance. When the Mockups editor loads, you can import the zip file by selecting **Project > Import > Project from BMMLs Zip**.
+Once you have the exported zip file, create a new Balsamiq project in your Atlassian Cloud instance. When the editor loads, you can import the zip file by selecting **Project > Import > Project from BMMLs Zip**.
 
 ![](https://media.balsamiq.com/img/support/docs/atlassian/import_from_zip.png)
 
@@ -39,6 +39,6 @@ That's it! The file has been converted.
 
 ## Will It Be like This Forever?
 
-Absolutely not, and we are really sorry that there has been a hiccup in BMPR compatability. The reason for it is BMPRs created by our Desktop and Balsamiq Wireframe applications have support for upcoming features baked into them. Unfortunately, our Atlassian Cloud plugins don't know how to handle these new features yet, and cannot open the new project files.
+Absolutely not, and we are really sorry that there has been a hiccup in BMPR compatibility. The reason for it is BMPRs created by our Desktop and Balsamiq Wireframe applications have support for upcoming features baked into them. Unfortunately, our Atlassian Cloud plugins don't know how to handle these new features yet, and cannot open the new project files.
 
 The good news is that we have an update in the works to bring these features to our Atlassian Cloud plugins. Keep an eye on [our blog](http://blog.balsamiq.com/) for release announcements. Once we have the update ready, we will announce it there!

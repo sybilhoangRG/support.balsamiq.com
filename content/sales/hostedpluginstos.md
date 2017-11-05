@@ -337,7 +337,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 
 ## Document History
 
-* 2017, XX XX: Renamed document to "Balsamiq Hosted Plugin Terms of Use", defined Balsamiq Software and Balsamiq for Google Drive, clarified how we access data and added Privacy Policy subheader to that section.
+* 2017, September 5: Renamed document to "Balsamiq Hosted Plugin Terms of Use", defined Balsamiq Software and Balsamiq for Google Drive, clarified how we access data and added Privacy Policy subheader to that section.
 * 2016, April 6: Added a couple of missing references to Balsamiq Mockups 3 for Confluence Cloud.
 * 2016, April 4: Renamed "Balsamiq Mockups for Confluence when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Confluence Cloud".
 * 2016, January 22: removed mentions of Mockups for Fogbugz, as it no longer exists. Renamed "Balsamiq Mockups for Jira when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Jira Cloud". Added a large section about data security since we now host a temporary copy of your data in Mockups 3 for Google Drive and Mockups 3 for Jira Cloud. Added Pingdom chart for the Balsamiq Collaboration Server.

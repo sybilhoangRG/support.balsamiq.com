@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Due to a change in Google Chrome, we had to alter the way that Balsamiq for Google Drive saves exported wireframess. When you export a wireframe, it is now [saved to your Google Drive](https://docs.balsamiq.com/google-drive/exporting/).
+Due to a change in Google Chrome, we had to alter the way that Balsamiq for Google Drive saves exported wireframes. When you export a wireframe, it is now [saved to your Google Drive](https://docs.balsamiq.com/google-drive/exporting/).
 
 You can download the file from your Google Drive by visiting [drive.google.com](https://drive.google.com), locating the file, right clicking it, and selecting "Download".
 
