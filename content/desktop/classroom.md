@@ -39,7 +39,7 @@ If you'd like to install and register the application in several lab machines, w
 Feel free to share the extended trial License Information you received from us with your students however you see fit,
 as long as you only share it with your students and not publicly. The key you received can be used on multiple machines.
 
-Once they [register the software](/installation/register/#registering-mockups-for-desktop)
+Once they [register the software](/sales/desktopregister/#registering-mockups-for-desktop)
 with it, they will see that the application's fully-functioning trial period will be extended for the duration of your class.
 
 ## Sharing and Grading Project Files
