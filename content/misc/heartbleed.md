@@ -2,10 +2,9 @@
 title: Balsamiq Heartbleed FAQ
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
-menu:
-  menumisc:
-    weight: 60
-draft: ''
+menu: menumisc
+product: "Miscellaneous FAQs"
+draft: 'true'
 
 ---
 ## Has My myBalsamiq or Customer Information Data Been Compromised Due to the [Heartbleed](Http://heartbleed.com/) Bug?

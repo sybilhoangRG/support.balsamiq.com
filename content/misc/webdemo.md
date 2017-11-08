@@ -2,9 +2,8 @@
 title: Where Can I Access the Web Demo Version of Balsamiq?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 90
-menu:
-  menumisc:
-    weight: 90
+menu: menumisc
+product: "Miscellaneous FAQs"
 draft: ''
 
 ---
@@ -22,7 +21,7 @@ Balsamiq Cloud comes with a 30 day free trial (just like [all our products](http
 
 {{% alert info %}}**Note:** These steps assume that you already have an existing Balsamiq Cloud account and [Space](https://docs.balsamiq.com/cloud/spaces/). If you don’t already have one, make sure to check out the [Quick Start Guide](https://docs.balsamiq.com/cloud/intro/#quick-start-guide) to get started on your project.{{% /alert %}}
 
-Now that the web demo site is no longer available, any projects and wireframes created there are no longer available. If you previously downloaded a project you can easily get it into Cloud: [Managing Projects](https://docs.balsamiq.com/cloud/projects/)
+Now that the web demo site is no longer available, any projects and wireframes created there are no longer available. If you previously downloaded a project you can easily get it into Cloud. See the [Managing Projects](https://docs.balsamiq.com/cloud/projects/) documentation to learn more.
 
 ![](//media.balsamiq.com/img/support/prodfaqs/webdemo_2.png)
 

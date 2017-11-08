@@ -17,8 +17,7 @@
 
   <div class="local-nav local-nav-1 hidden-xs hidden-sm col-md-3">
     <div id="sidebar-box">
-    {{ if eq .Section "misc" }}
-		{{ else if eq .Section "cloud" }}
+		{{ if eq .Section "cloud" }}
 			{{ partial "sidebar_cloud.html" . }}
 		{{ else }}
 			{{ partial "sidebar.html" . }}
