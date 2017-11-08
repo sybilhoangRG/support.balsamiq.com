@@ -14,7 +14,7 @@ This page addresses some of the frequently asked questions about iPad and iOS ap
 
 ## Is There an iPad Version in the Works?
 
-We are in the process of moving our entire codebase to native platforms, which will make a mobile version of our app a lot easier. While it's not in active development right now, we hope to be able to start on it soon!
+We are in the process of moving our entire codebase to native platforms, which will make a mobile version of our app a lot easier. While a native iOS app. is not in active development right now, we hope to be able to start on it soon!
 
 Stay tuned to our release announcements on our [release announcements page](https://blog.balsamiq.com/category/release-notes/).
 
