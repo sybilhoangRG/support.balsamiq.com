@@ -1,5 +1,5 @@
 ---
-title: Creating Project Templates
+title: Using Project Templates
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 105
 menu: "menututorials"
@@ -7,15 +7,17 @@ draft: ''
 product: "Tutorials & Videos"
 ---
 
-{{% alert warning %}}**Heads Up!** This tutorial is for Balsamiq Mockups version 2. To learn how to import these templates for use in Balsamiq Mockups 3 see [how to Symbols from a previous version](//docs.balsamiq.com/desktop/symbols/#importing-symbols). [This article on how to reuse templates across projects](/desktop/accountassets/) will also be helpful.{{% /alert %}}
-
-This tutorial was designed to show you how to create project folders for your future projects that contain elements you may commonly use in your projects.
+This tutorial describes how to create project folders for your future projects that contain elements you may commonly use in your projects.
 
 The general idea is to create project folder, with your common elements stored in the folder's assets directory, and then duplicate that folder on your new projects.
+
+It also includes links to some useful starter templates for UX and Bootstrap projects.
 
 * * *
 
 ## How to Create a Project Template
+
+{{% alert warning %}}**Note:** This process applies to Balsamiq Mockups 3 for Desktop. It can be replicated in web versions using projects instead of folders.{{% /alert %}}
 
 Your process might look like this:
 
@@ -39,9 +41,6 @@ The UX Template ([download here](https://wireframestogo.com/c65d-UX-Template-Pro
 The template contains a few example pages, including persona sheets, journey map, sitemap, storyboard, and wireframe pages with annotation. Using these examples, you'll be able to open your project in Fullscreen/Presentation mode, or in an exported PDF that is suitable for client presentation. The screenshots below show some of the elements provided in this template.
 
 <div class="gallery clearfix"><a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-symbols.png" rel="group1" title="Symbols for Controls"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-symbols.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-journey-map.png" rel="group1" title="Journey Map Page"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-journey-map.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-persona-overview.png" rel="group1" title="Persona Overview Page"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-persona-overview.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-persona-detail.png" rel="group1" title="Persona Detail"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-persona-detail.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-site-map.png" rel="group1" title="Site Map"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-site-map.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-storyboard.png" rel="group1" title="Storyboard"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-storyboard.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-wireframe-phone.png" rel="group1" title="Wireframe for Smartphone"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-wireframe-phone.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-wireframe-tablet.png" rel="group1" title="Wireframe for Tablet and Desktop"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-wireframe-tablet.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-wireframe-desktop.png" rel="group1" tiel="Wireframe for Desktop"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/uxtemp-wireframe-desktop.png" /></a></div>
-The video below shows you how to set up and use the template.
-
-{{< yt Nhuo2Qi9sWo >}}
 
 [Download the UX Template here.](https://wireframestogo.com/c65d-UX-Template-Project/)
 
@@ -49,11 +48,8 @@ The video below shows you how to set up and use the template.
 
 ## Using the Bootstrap Template
 
-The Bootstrap Template ([download here)](https://wireframestogo.com/c65d-UX-Template-Project/) is designed for people who know they're going to be using Bootstrap, and want to use the text elements, and components common to the Bootstrap framework. The screenshots below show some of the elements provided in this template.
+The Bootstrap Template ([download here)](https://wireframestogo.com/#/search=bootstrap) is designed for people who know they're going to be using Bootstrap, and want to use the text elements, and components common to the Bootstrap framework. The screenshots below show some of the elements provided in this template.
 
 <div class="gallery clearfix"><a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-symbols.png" rel="group2" title="Bootstrap Elements and Components"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-symbols.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-demo.png" rel="group2" title="Demo of a Bootstrap Layout"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-demo.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-extra-small-wireframe.png" rel="group2" title="Extra Small Device Wireframe (Smartphone)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-extra-small-wireframe.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-small-wireframe.png" rel="group2" title="Small Device Wireframe (Tablet and Desktop)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-small-wireframe.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-medium-wireframe.png" rel="group2" title="Medium Wireframe (Desktop)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-medium-wireframe.png" /></a> <a class="fb thumb" href="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-large-wireframe.png" rel="group2" title="Large Wireframe (Desktop)"><img class="thumb" src="http://media.balsamiq.com/img/support/tutorials/templates/bstemp-large-wireframe.png" /></a></div>
-The video below shows you how to set up and use the template.
-
-{{< yt 24FKl5M52eA >}}
 
 [Download the Bootstrap Templates here.](https://wireframestogo.com/#/search=bootstrap)

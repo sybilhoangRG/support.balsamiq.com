@@ -112,13 +112,9 @@ Creating a click-through prototype is like animating a storyboard. You create a 
 
 The first thing to be aware of is that files must be saved before you can link them. Once you have saved files, you can create links between wireframes using any of the components that support linking, for example, link, button, buttonbar, tabs, etc.
 
-Please refer to the [linking section of the help documentation](https://docs.balsamiq.com/desktop/linking/). It shows how to use the property inspector to create links between saved files. You can watch the short video below for a quick primer. Headphones warning: rowdy party music ahead!
-
-{{< yt _8IyyvECYrg >}}
+Please refer to the [linking section of the help documentation](https://docs.balsamiq.com/desktop/linking/). It shows how to use the property inspector to create links between saved files. 
 
 Once you've linked together your Balsamiq, you can use fullscreen/presentation mode to demonstrate the click-through prototype. If you export the project to PDF, you can also present the click through prototype in a PDF reader on any desktop computer, readily available and free.
-
-If you're using myBalsamiq, you can also use the Web Prototype view, which opens your project without all of the surrounding myBalsamiq interface. We created this feature specifically for demonstration, and even for usability testing purposes.
 
 This technique takes the most time and effort compared with the simpler techniques, and puts you in the position of maintaining more documents and potentially in danger of becoming precious with your wireframes. We tend not to use this technique too often, but it comes in very handy when you're doing demos or usability testing.
 
@@ -134,4 +130,4 @@ This takes considerable effort, but for those that want to do more with their wi
 
 There is no right way to wireframe. These are merely suggestions or best practices for communicating interaction. The best technique is the one that helps you communicate the design and implement the idea well in the finished product. Depending on your audience, start with the technique that communicates as simply as possible, and move up to more sophisticated techniques when you absolutely need to. Over time, in the right situations, the simpler techniques will suffice as the audience for your design documents grows to understand the language you use to communicate interaction.
 
-Do what works for you, and if you have a new technique using Balsamiq that you'd like us to know about, please [tell us in our forum](https://forums.balsamiq.com)!
+Do what works for you, and if you have a new technique using Balsamiq that you'd like us to know about, please [tell us in our forums](https://forums.balsamiq.com)!

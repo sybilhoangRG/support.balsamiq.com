@@ -7,9 +7,11 @@ draft: ''
 product: "Tutorials & Videos"
 ---
 
+{{% alert warning %}}**Note:** The videos in this tutorial show an older version of Balsamiq. The general process still applies. Thanks for your patience while we update them.{{% /alert %}}
+
 ## Introduction
 
-In a [previous tutorial](/tutorials/firstmockup/) we learned how to create a wireframe for a basic web site. In this tutorial, we'll go through the steps of creating a series of wireframes for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](/tutorials/controls/).
+In a [previous tutorial](/tutorials/firstmockup/) we learned how to create a wireframe for a basic web site. In this tutorial, we'll go through the steps of creating a series of wireframes for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](/tutorials/controls/).
 
 Here are the wireframes we'll be creating in this tutorial:
 

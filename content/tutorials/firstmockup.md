@@ -27,7 +27,7 @@ Here are some of the basic components of Balsamiq:
 *   **[Property Inspector](https://docs.balsamiq.com/desktop/inspector/ "Page describing the Property Inspector")** - A configuration panel that contains common actions (e.g., alignment, layering) and properties that are specific to each UI Control.
 
 
-{{% alert info %}}**Note:** The [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) has more information about the elements and controls in Balsamiq.{{% /alert %}}
+{{% alert info %}}**Note:** The [Application Overview](https://docs.balsamiq.com/desktop/overview/) has more information about the elements and controls in Balsamiq.{{% /alert %}}
 
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/ui-overview.png)
@@ -162,6 +162,6 @@ Now that the wireframe is finished, you can easily export it as an image via the
 
 * * *
 
-Congratulations! You have now completed your first wireframe with [Balsamiq](https://balsamiq.com/products/)! You are on your way to become an User Experience (UX) expert! :)
+Congratulations! You have now completed your first wireframe with [Balsamiq](https://balsamiq.com/products/)! You are on your way to become a User Experience (UX) expert! :)
 
-For more information on any of the topics covered here, see the [Full Balsamiq Documentation](https://docs.balsamiq.com/).
+For more information on any of the topics covered here, see the [full Balsamiq Documentation](https://docs.balsamiq.com/).
