@@ -1,5 +1,5 @@
 ---
-title: What Happened to Image Permalinks?
+title: Does Cloud Have Image Permalinks?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
 menu: menucloud
@@ -17,7 +17,7 @@ We have done a lot in Balsamiq Cloud to improve [permission levels](//docs.balsa
 
 ### The Balsamiq Cloud Project Viewer
 
-Instead of just embedding images onto your wiki pages or documentation, we are going to build a viewer that would allow people to view your wireframes natively, right on the page. They will even be able to bring the wireframes [full screen](//docs.balsamiq.com/cloud/sharing/#full-screen-presentation-mode).
+Instead of just embedding images onto your wiki pages or documentation, we are going to build a viewer that will allow people to view and navigate through your wireframes natively, right on the page. They will even be able to bring the wireframes [full screen](//docs.balsamiq.com/cloud/sharing/#full-screen-presentation-mode).
 
 We are still in the design phase of this addition, so we don't have a firm timetable for its release. Keep an eye on [our blog](//blog.balsamiq.com/), as we will announce its availability there.
 
@@ -25,13 +25,13 @@ We are still in the design phase of this addition, so we don't have a firm timet
 
 In fact, there is!
 
-* As mentioned [above](#talk-to-me-about-better), Balsamiq Cloud brings new [permission levels](//docs.balsamiq.com/cloud/people/#user-permissions-at-a-glance) and [collaboration options](//docs.balsamiq.com/cloud/sharing). That means that you can invite users to your Balsamiq Cloud Space with only "View and Comment" permissions, allowing them to review your wireframes and add any comments they have. They wouldn't be able to edit the wireframe at all, so you wouldn't need to worry about unwanted changes. What's better is that there isn't a limit to how many users you invite to your site. You could have 1 or 100 collaborators, and the cost would be the same.
+* As mentioned [above](#talk-to-me-about-better), Balsamiq Cloud brings new [permission levels](//docs.balsamiq.com/cloud/people/#user-permissions-at-a-glance) and [collaboration options](//docs.balsamiq.com/cloud/sharing). That means that you can invite users to your Balsamiq Cloud Space with only "View and Comment" permissions, allowing them to review your wireframes and add any comments they have. They won't be able to edit the wireframe at all, so you don't need to worry about unwanted changes. What's better is that there isn't a limit to how many users you invite to your site. You could have 1 or 100 collaborators, and the cost will be the same.
 
-* Beyond the "View and Comment" permission level, you can [allow public reviews](//docs.balsamiq.com/cloud/sharing/#public-sharing) of your site, allowing anyone with the URL read access to your project. This will save you the time of inviting 100s of folks to review your wireframes.
+* Beyond the "View and Comment" permission level, you can [allow public reviews](//docs.balsamiq.com/cloud/sharing/#public-sharing) of your site, allowing anyone with the URL read and commenting access to your project, without having to sign up for a Balsamiq Cloud account.
 
 * You can even share an [interactive PDF](//docs.balsamiq.com/cloud/sharing/#sharing-an-interactive-pdf-document) or [PNG Exports](https://docs.balsamiq.com/cloud/sharing/#sharing-png-images) with your team if you don't want them to have to bother with Cloud at all.
 
-You can read more about these and other options in our [sharing documentation](//docs.balsamiq.com/cloud/sharing/)
+You can read more about these and other options in our [sharing documentation](//docs.balsamiq.com/cloud/sharing/).
 
 ---
 
