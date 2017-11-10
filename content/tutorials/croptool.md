@@ -11,6 +11,8 @@ Any set of controls that has been [grouped](https://docs.balsamiq.com/desktop/co
 
 ## Cropping Images
 
+{{% alert warning %}}**Note:** This video shows an older version of Balsamiq. The general process still applies. Thanks for your patience while we update it.{{% /alert %}}
+
 This video shows how you can use a "sprite" image in Balsamiq to create multiple icons using a single image. This is a quick and handy method for working with icons like the ones shown in the video or to create button state variants, for example.
 
 {{< yt kcQFop8zVAY >}}
