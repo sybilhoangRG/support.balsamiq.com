@@ -121,12 +121,6 @@ Using either of these techniques, you can lay out a page that starts to give an 
 
 [![](https://acme.mybalsamiq.com/projects/responsivewireframes/Home.png)](https://acme.mybalsamiq.com/projects/responsivewireframes/Home.png)
 
-Here's a sped-up video (sorry, no audio) where I show a couple different ideas for how to use Symbols and crop to wireframe the boxes of a few UI elements.
-
-{{< yt uimQXCJbgv8 >}}
-
-Press the Fullscreen icon and use HD for best viewing results.
-
 The simplest scenario would be to make separate symbols, but this is just one idea for people to experiment with.
 
 ## Real World Examples
