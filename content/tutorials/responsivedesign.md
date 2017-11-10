@@ -78,7 +78,7 @@ Start with the grid system of your choice, and figure out what screen sizes you'
 3.  **Smartphone**
     Max-width: 480px
 
-I created a Symbol library with some helper templates that you can use. You can see [the Bootstrap Symbol Template Libraries on Wireframes to Go](https://wireframestogo.com/#/search=bootstrap). If you're using myBalsamiq, upload it to your site or project's Assets. See this [tutorial to learn more about how to use Symbols](https://docs.balsamiq.com/desktop/symbols/).
+I created a Symbol library with some helper templates that you can use. You can see [the Bootstrap Symbol Template Libraries on Wireframes To Go](https://wireframestogo.com/#/search=bootstrap). If you're using myBalsamiq, upload it to your site or project's Assets. See this [tutorial to learn more about how to use Symbols](https://docs.balsamiq.com/desktop/symbols/).
 
 ### 3\. Wireframe Zones on Thumbnail Templates
 
@@ -86,11 +86,11 @@ We'll start with a master template that represents the common elements of the si
 
 The idea is to use that Content Outline above and roughly decide where they will go in the layout. Use boxes with labels to show where you think these interface sections will go roughly, and along the way you will get a sense for how you want the boxes to wrap as you work with the smaller layouts.
 
-[![High Level Layout](https://acme.mybalsamiq.com/projects/responsivewireframes/Layout+-+High+Level.png)](https://acme.mybalsamiq.com/projects/responsivewireframes/Layout+-+High+Level.png)
+[![High Level Layout](https://media.balsamiq.com/img/support/tutorials/responsivedesign/Layout+-+High+Level.png)](https://media.balsamiq.com/img/support/tutorials/responsivedesign/Layout+-+High+Level.png)
 
 Now we have the start for how our responsive layout system should work between the 3 screen dimensions we targeted above. From here we can work our way in to identify how boxes should layout within the template.
 
-If you're curious to see another example of this style of wireframe, you can see how I did the [layout system wireframes for myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes/Layout%20System) or just [click here to see a thumbnail image](https://acme.mybalsamiq.com/mockups/1953838.png) of the layout system.
+If you're curious to see another example of this style of wireframe, you can see how I did the [layout system wireframes for myBalsamiq](https://wireframestogo.com/3972-Responsive-Wireframes-Tutorial/) or just [click here to see a thumbnail image](https://media.balsamiq.com/img/support/tutorials/responsivedesign/1953838.png) of the layout system.
 
 ## Detailed Wireframing
 
@@ -102,7 +102,7 @@ Then you can work your way in to the more complicated and variable boxes. Start 
 
 Here's an example of what I'm talking about, using the article listing block:
 
-[![](https://acme.mybalsamiq.com/projects/responsivewireframes/assets/article-symbols.png)](https://acme.mybalsamiq.com/projects/responsivewireframes/assets/article-symbols.png)
+[![](https://media.balsamiq.com/img/support/tutorials/responsivedesign/article-symbols.png)](https://media.balsamiq.com/img/support/tutorials/responsivedesign/article-symbols.png)
 
 Now, let's take that idea and use some of the hidden, powerful features of Balsamiq, namely Symbols and Group Cropping. I'm going to use 2 different techniques that might be interesting to explore:
 
@@ -119,7 +119,7 @@ Now, let's take that idea and use some of the hidden, powerful features of Balsa
 
 Using either of these techniques, you can lay out a page that starts to give an idea of how the content flexes with your target screen resolutions. In the example below, I used Technique #1 to make the header symbol and Technique #2 to make the Article Listings.
 
-[![](https://acme.mybalsamiq.com/projects/responsivewireframes/Home.png)](https://acme.mybalsamiq.com/projects/responsivewireframes/Home.png)
+[![](https://media.balsamiq.com/img/support/tutorials/responsivedesign/Home.png)](https://media.balsamiq.com/img/support/tutorials/responsivedesign/Home.png)
 
 The simplest scenario would be to make separate symbols, but this is just one idea for people to experiment with.
 
@@ -129,17 +129,13 @@ Superstar Balsamiq expert, Jeffrey Nolte of the New York consultancy [Moxie Medi
 
 The example wireframes below show the 3 layouts for a home page.
 
-[![](https://acme.mybalsamiq.com/mockups/456717.png)](https://acme.mybalsamiq.com/mockups/456717.png)
-
-[View full wireframe on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/01-home-NG)
+[![](https://media.balsamiq.com/img/support/tutorials/responsivedesign/456717.png)](https://media.balsamiq.com/img/support/tutorials/responsivedesign/456717.png)
 
 Below is the home page wireframe with grid markup visible.
 
-[![](https://acme.mybalsamiq.com/mockups/456718.png)](https://acme.mybalsamiq.com/mockups/456718.png)
+[![](https://media.balsamiq.com/img/support/tutorials/responsivedesign/456718.png)](https://media.balsamiq.com/img/support/tutorials/responsivedesign/456718.png)
 
-[View full wireframe on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/01-home)
-
-We [posted the entire project on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/grid) so you can dig a little deeper and see how they used this system to specify the layout of an ecommerce site with product overviews, detail pages, shopping cart, checkout process, and account views. This is great work and an excellent example of how it's not too difficult to get it done if you establish a system that works for you.
+We [posted the entire project on Wireframes To Go](https://wireframestogo.com/d2b9-Responsive-Wireframes---Jeffrey-Nolte/) so you can dig a little deeper and see how they used this system to specify the layout of an ecommerce site with product overviews, detail pages, shopping cart, checkout process, and account views. This is great work and an excellent example of how it's not too difficult to get it done if you establish a system that works for you.
 
 ## You Don't Have to Wireframe Every View
 
