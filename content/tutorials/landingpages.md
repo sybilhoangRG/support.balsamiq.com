@@ -36,7 +36,7 @@ The lowest fidelity and least expensive tools are the ones that let you dispose 
 
 I usually begin by gathering descriptions of what we're designing. The user story is clarified by meeting with team members to discuss what we're designing. I'll then start a description of the project on a wiki page. (See our blog post on [Using Wireframes in Your User Stories here](https://blog.balsamiq.com/using-mockups-in-your-agile-user-stories/).)
 
-Think of this as "project brief light." It's a words-only description of the project used to facilitate discussion, organization, and planning before sketching. I can't emphasize enough how important it is **to get on the same page** at this point. Iterations on the foundational ideas for the project now will save you a lot of time and money later.
+Think of this as "project brief light." It's a words-only description of the project used to facilitate discussion, organization and planning before sketching. I can't emphasize enough how important it is **to get on the same page** at this point. Iterations on the foundational ideas for the project now will save you a lot of time and money later.
 
 ### Take Inventory
 
@@ -44,7 +44,7 @@ The next steps might be to take **inventory of the elements** that need to go on
 
 This is the work of figuring out the Information Architecture of the screen. It might take the form of a flow diagram with boxes and arrows to illustrate what leads where. It might take the form of an outline. Some people write up Page Description Diagrams.
 
-For our Landing page I created an outline, based on a walk through of the features of the product, and we reviewed and refined this outline. From this baseline of understanding I start working visually.
+For our Landing page I created an outline, based on a walk through of the features of the product and we reviewed and refined this outline. From this baseline of understanding I start working visually.
 
 ### Review and validate
 
@@ -112,7 +112,7 @@ In our project, Peldi had some great ideas to simplify the login flow as we were
 
 [Sketch](https://www.sketchapp.com/), the excellent illustration application for the Mac, is my tool of choice for visual design. With Sketch I began some **grayscale exploration of the screen**, creating and moving boxes around and adding the headings.
 
-I defined the zones of the screen and annotated some initial ideas, like having a simple hero with full viewport video, where to place the calls to action, what features to describe and how to message the value proposition. I started designing the typographic elements, adding all of the inner content inside the boxes, explored a few concepts for the layout, and noted interactive behaviors.
+I defined the zones of the screen and annotated some initial ideas, like having a simple hero with full viewport video, where to place the calls to action, what features to describe and how to message the value proposition. I started designing the typographic elements, adding all of the inner content inside the boxes, explored a few concepts for the layout and noted interactive behaviors.
 
 ### Design Review
 
