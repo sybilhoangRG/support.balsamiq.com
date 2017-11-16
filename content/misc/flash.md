@@ -13,7 +13,7 @@ For a long time, Adobe's Flex Framework (Flash and Air) gave us a ton of flexibi
 
 Balsamiq Cloud is completely **native** (no Flash). We've fully rebuilt our app with the goal of making it feel smooth on all platforms, while reusing as much of the codebase as possible.
 
-## What About the Rest of Your Products?
+## What about the Rest of Your Products?
 
 We are hard at work at bringing the native code to our Desktop version and the plugins that don't yet have it. We are going to work on mobile versions too!
 
