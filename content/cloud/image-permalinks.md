@@ -21,7 +21,7 @@ Instead of just embedding images onto your wiki pages or documentation, we are g
 
 We are still in the design phase of this addition, so we don't have a firm timetable for its release. Keep an eye on [our blog](//blog.balsamiq.com/), as we will announce its availability there.
 
-## That Looks Great But is There Anything I Can Do in the Meantime?
+## That Looks Great but Is There Anything I Can Do in the Meantime?
 
 In fact, there is!
 
