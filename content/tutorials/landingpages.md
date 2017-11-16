@@ -9,7 +9,7 @@ product: "Tutorials & Videos"
 
 A **landing page** is any type of web page that a visitor lands on, typically from a link on another page or an email. In marketing, landing pages are thought of as single pages that may be able to stand alone to describe a product or service and provide a call to action for the visitor, usually to sign up for or buy it.
 
-In this tutorial our designer Mike shows you how we designed the landing page for Balsamiq Cloud. We take you through the process for a typical website project, from the first notes to the final visual design.
+In this tutorial our designer Mike shows you how we designed the landing page for [Balsamiq Cloud](https://balsamiq.cloud). We take you through the process for a typical website project, from the first notes to the final visual design.
 
 ----
 
@@ -34,7 +34,7 @@ The lowest fidelity and least expensive tools are the ones that let you dispose 
 
 ### Clarify Your User Stories
 
-I usually begin by gathering descriptions of what we're designing. The user story is clarified by meeting with team members to discuss what we're designing. I'll then start a description of the project on a wiki page. (See our blog post on [Using Wireframes in Your User Stories here](https://blog.balsamiq.com/using-mockups-in-your-agile-user-stories/).)
+I usually begin by gathering descriptions of what we're designing. The user story is clarified by meeting with team members to discuss what we're designing. I'll then start a description of the project on a wiki page. (See our blog post on [Using Wireframes in Your User Stories](https://blog.balsamiq.com/using-mockups-in-your-agile-user-stories/).)
 
 Think of this as "project brief light." It's a words-only description of the project used to facilitate discussion, organization and planning before sketching. I can't emphasize enough how important it is **to get on the same page** at this point. Iterations on the foundational ideas for the project now will save you a lot of time and money later.
 
@@ -44,7 +44,7 @@ The next steps might be to take **inventory of the elements** that need to go on
 
 This is the work of figuring out the Information Architecture of the screen. It might take the form of a flow diagram with boxes and arrows to illustrate what leads where. It might take the form of an outline. Some people write up Page Description Diagrams.
 
-For our Landing page I created an outline, based on a walk through of the features of the product and we reviewed and refined this outline. From this baseline of understanding I start working visually.
+For our landing page I created an outline, based on a walk through of the features of the product and we reviewed and refined this outline. From this baseline of understanding I start working visually.
 
 ### Review and validate
 
@@ -56,7 +56,7 @@ The main takeaway is that **text is the cheapest deliverable to iterate**, so ha
 
 Now I begin exploring some visual representations of the elements. Before Balsamiq, I did **thumbnail sketches**. You can think of this as pre-wireframe idea generation.
 
-Think of this as sitting around a coffee table with your team sketching ideas on the back of a napkin. It's rougher and more abstract, with far less less detail than a wireframe.
+Think of this as sitting around a coffee table with your team sketching ideas on the back of a napkin. It's rougher and more abstract, with far less detail than a wireframe.
 
 ### Identify Elements
 
@@ -96,13 +96,13 @@ The illustration below shows how that bird's eye view gets more focussed as we z
 
 When we're ready to review at this level of fidelity, we'll do a walkthrough with the team.
 
-We like do **a lot of review and iteration** at this stage before moving on to visual design.
+We like to do **a lot of review and iteration** at this stage before moving on to visual design.
 
 ----
 
 ## Visual Design
 
-If you the team is satisfied with the direction the product design is headed, you may start thinking about visual design.
+If your team is satisfied with the direction the product design is headed, you may start thinking about visual design.
 
 ### Iterate Copy
 
@@ -118,7 +118,7 @@ I defined the zones of the screen and annotated some initial ideas, like having 
 
 I put the first comp into a Cloud project so we can review the early stage concepts. We **do a walkthrough** and **begin to review** as a team.
 
-Here's a screenshot of the comp in Balsamiq Cloud. We used the Comment features in Cloud to ask questions and point out issues and I iterated from that discussion.
+Here's a screenshot of the comp in Balsamiq Cloud. We used the Comment features in Cloud to ask questions and point out issues, and I iterated from that discussion.
 
 ![Visual Design Review](//media.balsamiq.com/img/support/tutorials/landingpage/visual-design-1.jpg)
 <small class="center">Design Comp Review</small>
@@ -134,7 +134,7 @@ This illustration showed the stopping point where we had enough validation of th
 ![First Design Comps](//media.balsamiq.com/img/support/tutorials/landingpage/visual-design-2.jpg)
 <small class="center">First Design Comp</small>
 
-As you can see from the actual [Cloud landing page](https://balsamiq.cloud), we continued to iterate on the real thing.
+As you can see from the actual [Cloud landing page](https://balsamiq.cloud), we continued to iterate on the real thing. You can even [watch a Live Wireframing video](https://youtu.be/u-aJbod5XQ8) on our YouTube channel showing how we worked on adding our pricing information to the page. 
 
 ----
 
