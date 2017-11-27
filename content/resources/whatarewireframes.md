@@ -43,7 +43,7 @@ Certainly! You're lucky that the person you're working with choose [Balsamiq](ht
 
 Balsamiq comes in [several different versions](https://balsamiq.com/products/), each with a fully functional free fully functioning 30-day trial period.
 
-We have an extensive set of [tutorials](/tutorials/): this ["Intro to Balsamiq"](/tutorials/firstmockup/) is a good first step. Or, start with our [quick guide to learning wireframing](https://blog.balsamiq.com/wireframe-guide/).
+We have an extensive set of [tutorials](/tutorials/): this ["Intro to Balsamiq"](/tutorials/firstwireframe/) is a good first step. Or, start with our [quick guide to learning wireframing](https://blog.balsamiq.com/wireframe-guide/).
 
 * * *
 

@@ -56,7 +56,7 @@ You can also have your students [Export their Projects to PDF](https://docs.bals
 ## Training Your Students in Mockups
 
 Our tools are famous for being easy to use, but you might want to direct your students to our [support portal](/)
-for documentation and tutorials. A good place to start from the [Creating Your First Mockup](/tutorials/firstmockup/) tutorial.
+for documentation and tutorials. A good place to start from the [Creating Your First Mockup](/tutorials/firstwireframe/) tutorial.
 
 You can also point your students to these two free courses on Mockups:
 
