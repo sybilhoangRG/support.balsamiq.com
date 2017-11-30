@@ -81,7 +81,7 @@ I start by turning those sloppy blocks into a **zone diagram** based on the idea
 
 After zone diagrams, I can continue to create smaller blocks within the zones for the content elements. I continue to use Quick Draw Boxes and Text to visualize the content abstractly. It's a bit like a technique I used when painting—**get your basic shapes down**, step back and blur the eyes to look at the composition.
 
-![Thumbnail Sketches](//media.balsamiq.com.s3.amazonaws.com/img/support/tutorials/landingpage/thumbnail-sketches.jpg)
+![Thumbnail Sketches](//media.balsamiq.com/img/support/tutorials/landingpage/thumbnail-sketches.jpg)
 <small class="center">Zone Diagrams</small>
 
 To take the painting analogy further, once the broad, sketchy strokes start to define the architecture of the screen, I then keep work inward to finding the inner structure. I'll flesh out the details, by putting in copy. I may use placeholder copy at first, but prefer to use something closer to the actual copy to get a sense of where text will break.
