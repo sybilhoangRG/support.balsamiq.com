@@ -36,6 +36,7 @@ You can compare our products <a href="https://balsamiq.com/products/">here</a>.
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
 *   [Can I make my Space inactive for a while?](/sales/cloudsubscriptions/#auto-hibernation)
+*   [I'm a reseller. Can I pay for Balsamiq Cloud on behalf of my customers?](/sales/cloudreseller/)
 
 ## Terms of Service
 

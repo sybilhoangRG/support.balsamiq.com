@@ -17,9 +17,9 @@ This page describes how a [site owner](/mybalsamiq/siteowner/) or [secondary bil
 
 ## Signing up for a Subscription
 
-Before signing up for a subscription, you must first create and confirm your myBalsamiq trial site.
+{{% alert info %}}**Note:** Following the release of [Balsamiq Cloud](https://balsamiq.cloud/), we stopped taking new myBalsamiq trial sign ups. If you have an existing site, you can still sign up for a plan.{{% /alert %}}
 
-_Note: Following the release of [Balsamiq Cloud](https://balsamiq.cloud/), we stopped taking new myBalsamiq trial sign ups. If you have an existing site, you can still sign up for a plan._
+Before signing up for a subscription, you must first have an existing myBalsamiq trial.
 
 The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can sign up for a plan in the Site Settings, under Payment Info. Site Settings can be reach by selecting "My Info" from the main site navigation.
 
