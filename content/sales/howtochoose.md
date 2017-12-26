@@ -48,7 +48,7 @@ If instead you'd like to invest in some software to help you think your ideas th
 *   some run on a tablet
 *   some integrate with other software you might be already using
 
-_Balsamiq runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([Balsamiq Cloud](https://balsamiq.cloud/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
+_Balsamiq runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([Balsamiq Cloud](https://balsamiq.cloud/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works._
 
 ---
 
