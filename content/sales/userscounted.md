@@ -27,5 +27,5 @@ Additional users can be added at any time by [upgrading](/sales/upgrades/) your 
     *   Only assigned, licensed editors can create and edit wireframes, but all users in your Confluence or Jira server instance will be able to view wireframes for free.
     *   An assigned editor is counted towards the editor limit, whether logged in to the application or not.
     *   Instructions on how to select plugin editors are here: [Wireframes for Confluence Server](https://docs.balsamiq.com/confluence/server/wireframes/admin-guide/#selecting-balsamiq-wireframes-editors) and [Wireframes for Jira Server](https://docs.balsamiq.com/jira/server/wireframes/admin-guide/#selecting-balsamiq-wireframes-editors).
-*   **Mockups 3 for Confluence Cloud** and **Mockups 3 for Jira Cloud**:
+*   **Wireframes for Confluence Cloud** and **Wireframes for Jira Cloud**:
     *   Just like for most Atlassian Cloud add-ons, every user in your Confluence or Jira Cloud instance is counted as a plugin user.
