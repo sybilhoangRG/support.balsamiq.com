@@ -46,9 +46,9 @@ After we have received your request and have verified your eligibility, we will 
 
 ## I'm Using Atlassian Cloud. Can I Migrate to Marketplace Now?
 
-All purchasing for our add-ons for Atlassian Cloud has been moved to Atlassian Marketplace.  If you had a Balsamiq-issued license you were using in Confluence Cloud or Jira Cloud which had active or recently active maintenance, your license was transferred to Marketplace with a free legacy plan. If you had expired maintenance, you can simply start a new subscription directly in Marketplace for [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Mockups 3 for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
+All purchasing for our add-ons for Atlassian Cloud has been moved to Atlassian Marketplace. If you had a Balsamiq-issued license you were using in Confluence Cloud or Jira Cloud which had active or recently active maintenance, your license was transferred to Marketplace with a free legacy plan. If you had expired maintenance, you can simply start a new subscription directly in Marketplace for [Balsamiq for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Balsamiq for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
 
-Please check our Transition Guides for additional information about pricing and licensing changes:
+Please check our Transition Guides for additional information:
 
-* [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/transition-guide/#changes-to-licensing-and-pricing)
-* [Mockups 3 for Jira Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/transition-guide/#changes-to-licensing-and-pricing)
+* [Balsamiq Wireframes for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/wireframes/transition-guide/)
+* [Balsamiq Wireframes for Jira Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/wireframes/transition-guide/)

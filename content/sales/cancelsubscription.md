@@ -17,6 +17,6 @@ Need to take a break? No problem! Follow the steps below to cancel your subscrip
 
 * To cancel your **Balsamiq Cloud** subscription, please [click here](/sales/cloudsubscriptions/#stopping-your-subscription) for complete steps.
 
-* Subscriptions for **Wireframes for Confluence Cloud** and **Wireframes for Jira Cloud** are currently sold directly by Atlassian. You can learn more about stopping your subscription via the [Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/cloud/admin-guide-cloud/) or the  [Jira Cloud Admin Guide](https://docs.balsamiq.com/jira/cloud/admin-guide-cloud/).
+* Subscriptions for **Wireframes for Confluence Cloud** and **Wireframes for Jira Cloud** are currently sold directly by Atlassian. You can learn more about stopping your subscription via the [Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/cloud/wireframes/admin-guide/) or the  [Jira Cloud Admin Guide](https://docs.balsamiq.com/jira/cloud/wireframes/admin-guide/).
 
 Our license products **Mockups 3 for Desktop, Wireframes for Confluence Server** and **Wireframes for Jira Server** do not have automatic renewals, so there is no payment to cancel. We have additional details about license maintenance [here](/sales/maintenance/).
