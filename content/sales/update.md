@@ -19,5 +19,5 @@ The following products are automatically updated:
 
 *   Balsamiq Cloud
 *   Balsamiq for Google Drive
-*   Mockups 3 for Confluence Cloud
-*   Mockups 3 for Jira Cloud
+*   Wireframes for Confluence Cloud
+*   Wireframes for Jira Cloud

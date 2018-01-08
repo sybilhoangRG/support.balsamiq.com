@@ -35,8 +35,8 @@ Academic discounts are not available for the following products:
 *   Balsamiq Cloud
 *   Balsamiq for Google Drive
 *   myBalsamiq
-*   Mockups 3 for Confluence Cloud
-*   Mockups 3 for Jira Cloud
+*   Wireframes for Confluence Cloud
+*   Wireframes for Jira Cloud
 
 ---
 
