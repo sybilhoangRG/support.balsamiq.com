@@ -71,3 +71,9 @@ We offer discounted pricing for Mockups 3 for Desktop via Volume Licenses. Disco
 Our Desktop [upgrade prices](https://balsamiq.com/buy/desktopupgrades/) are also based on our volume discounts. You receive the same volume discount whether you bought the licenses all at once, or decided to [upgrade](/sales/upgrades/) to more users later.
 
 Volume licenses also make license management easier: you'll have one single Mockups 3 for Desktop license for your total number of users.
+
+---
+
+## Saving Money With Balsamiq Cloud
+
+Not exactly a discount, but if you are a Balsamiq Cloud subscriber, and cannot find the plan that best suits your needs, we have a few tips for you. From combining your projects to creating multiple Spaces, head over to our [dedicated FAQ](/sales/cloudsavemoney/) for more tips.
