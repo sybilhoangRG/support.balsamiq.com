@@ -6,7 +6,7 @@ weight: 5
 product: "UI Design 101"
 ---
 
-Hyperlinks continue to be central to navigation on the web, such that that not adhering to best practices can break the usability of your site or app. <!--more-->
+Hyperlinks continue to be central to navigation on the web, such that not adhering to best practices can break the usability of your site or app. <!--more-->
 
 
 ## When to Use Links
@@ -21,7 +21,7 @@ Their strength lies in their simplicity. They can be embedded within blocks of r
 
 Links can be used within chunks of text to indicate the presence of related content, but can also stand on their own to attract more attention, such as for primary or secondary navigation, as in [breadcrumbs](../breadcrumbs/), [menu bars](../menubars/) or [vertical navigation](../verticalnavigation/).
 
-Hyperlinks, when used to navigate between or within pages, are familiar and easy to use (with a mouse or keyboard, at least), so they can be used liberally. Although having too many redundant links on a page can reduce usability [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/duplicate-links/).
+Hyperlinks, when used to navigate between or within pages, are familiar and easy to use (with a mouse or keyboard, at least), so they can be used liberally. Although having [too many redundant links on a page can reduce usability](https://www.nngroup.com/articles/duplicate-links/).
 
 ---
 
