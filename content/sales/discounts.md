@@ -60,7 +60,7 @@ Discounts are not offered to government organizations. Government organizations 
 
 ## Discounts for Resellers
 
-While we do offer discounts for Atlassian Partners, we do not offer reseller discounts. Full information purchasing as a software reseller is found [here](/sales/resellers/).
+While we do offer discounts for Atlassian Solution Partners, we do not offer reseller discounts. Full information purchasing as a software reseller is found [here](/sales/resellers/).
 
 ---
 
@@ -74,19 +74,6 @@ Volume licenses also make license management easier: you'll have one single Mock
 
 ---
 
-## Discounts When Purchasing Multiple Versions of Mockups
+## Saving Money With Balsamiq Cloud
 
-We offer some discounts to customers who would like to use Desktop and another version of Balsamiq, no matter which product you purchase first.
-
-Details on how are here:
-
-*   [myBalsamiq and Mockups 3 for Desktop](/mybalsamiq/mybanddesktop/#savings-when-using-both-versions) _(We have stopped accepting new myBalsamiq signups following the release of Balsamiq Cloud.)_
-*   [Wireframes for Confluence or Jira Server and Mockups 3 for Desktop](/sales/atlassianplugindiscounts/)
-
-There is no discounted pricing on the follow product combinations:
-
-*   Balsamiq for Google Drive and Mockups 3 for Desktop
-*   Wireframes for Confluence and Wireframes for Jira
-*   Mockups 3 for Confluence or Jira Cloud and Mockups 3 for Desktop
-*   myBalsamiq and a plugin (Balsamiq for Google Drive or an Atlassian plugin)
-*   Balsamiq Cloud and Mockups 3 for Desktop or a plugin (Balsamiq for Google Drive or an Atlassian plugin)
+Not exactly a discount, but if you are a Balsamiq Cloud subscriber, and cannot find the plan that best suits your needs, we have a few tips for you. From combining your projects to creating multiple Spaces, head over to our [dedicated FAQ](/sales/cloudsavemoney/) for more tips.
