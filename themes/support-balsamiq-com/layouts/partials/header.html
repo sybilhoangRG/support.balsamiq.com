@@ -20,7 +20,7 @@
   {{ if eq .Section "ui101" }}
     {{ if .IsPage }}
   <meta property="og:description" content="{{ .Summary | plainify | htmlUnescape }}">
-  <meta property="og:image" content="//media.balsamiq.com/img/support/tutorials/ui101/{{ .Title | lower}}.png" />
+  <meta property="og:image" content="https://media.balsamiq.com/img/support/tutorials/ui101/{{ .Title | lower}}.png" />
     {{ else }}{{ end }}
   {{ else }}  {{ end }}
 
