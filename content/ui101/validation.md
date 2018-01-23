@@ -31,7 +31,7 @@ Following [text input guidelines](../text-input/) and implementing [autocomplete
 
 ### Basic Usage
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/validation-example.png)
+![](//media.balsamiq.com/img/support/tutorials/ui101/validation.png)
 
 
 ---
