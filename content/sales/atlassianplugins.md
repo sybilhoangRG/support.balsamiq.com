@@ -26,7 +26,6 @@ This section covers the most frequently asked questions related to the licensing
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
 *   [How are users counted in Balsamiq licenses? Are they named or concurrent users?](/sales/userscounted/)
 *   [Can I use our license both for staging and production environments?](/sales/atlassianstagingproduction/)
-*   [Do you offer discounts for customers who use a plugin and Mockups 3 for Desktop?](/sales/atlassianplugindiscounts/)
 *   [Do you offer any other discounts?](/sales/discounts/)
 *   ​[Can I get Balsamiq for free?](https://balsamiq.com/free)
 *   ​[Are there any applicable taxes?](/sales/taxes/)
