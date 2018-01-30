@@ -15,7 +15,7 @@ The [KDE visual design group](https://community.kde.org/KDE_Visual_Design_Group/
 
 It is rare that icon use is actively discouraged. The biggest danger when using icons is the use of ambiguous or unclear icons, which can either mislead the user or conflict with their adjacent label, resulting in a slower and/or more frustrating experience with your product. In short, [bad icons are costly.](https://www.nngroup.com/articles/bad-icons/)
 
-The [GNOME developer guidelines](https://developer.gnome.org/hig/stable/icons-and-artwork.html.en) state that choosing the correct icon for each purpose is "vital to making sure that your application is usable." They go on to encourage their use, though, calling them "an essential part of any application" and "a crucial part of its identity".
+The [GNOME developer guidelines](https://developer.gnome.org/hig/stable/icons-and-artwork.html.en) state that choosing the correct icon for each purpose is "vital to making sure that your application is usable." They go on to encourage their use, though, calling them "an essential part of any application" and "a crucial part of its identity."
 
 Icons are also a great way to provide redundancy, especially for important messages. In the following example, there are three ways that the error state is conveyed: the text itself, the color, and the icon. The icon reinforces the severity of the message.
 
