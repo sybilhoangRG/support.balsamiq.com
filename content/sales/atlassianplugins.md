@@ -51,8 +51,8 @@ This section covers the most frequently asked questions related to the licensing
 ## Registration
 
 *   [I lost my License Information. Can you email it to me?](/sales/lostlicense/)
-*   [I get the error "Your add-on license is invalid." What do I do?](/plugins/failedtovalidatelicense/)
-*   [The plugin says it's unlicensed, but it is! What do I do?](/plugins/atlassianlicensenotshowing/)
+*   [I get the error "Your add-on license is invalid." What do I do?](/sales/failedtovalidatelicense/)
+*   [The plugin says it's unlicensed, but it is! What do I do?](/sales/atlassianlicensenotshowing/)
 
 ## Upgrading and Maintenance (Support and Updates)
 
