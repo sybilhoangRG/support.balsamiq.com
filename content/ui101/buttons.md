@@ -49,7 +49,7 @@ Read the [full list here](https://developer.gnome.org/hig/stable/buttons.html.en
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/buttons-example.png)
 
-For more detailed suggestions on designing and styling buttons, here's a [good post about buttons in design systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23).
+For more detailed suggestions on designing and styling buttons, here's a [good post about buttons in design systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23). 
 
 ---
 
@@ -66,10 +66,10 @@ For more detailed suggestions on designing and styling buttons, here's a [good p
 * [Icon buttons](http://getbootstrap.com/components/#glyphicons-examples)
 * [Menu buttons (a.k.a. Button dropdowns)](http://getbootstrap.com/components/#btn-dropdowns)
 
-The [Google Material Design guidelines for buttons](https://material.io/guidelines/components/buttons.html) provide even more variations.
+The [Google Material Design guidelines](https://material.io/guidelines/components/buttons.html) and [this article from UX Planet on Button UX Design](https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6) describe even more variations and states. 
 
 ---
 
 ## Related Controls
 
-* Links
+* [Links](../links/)

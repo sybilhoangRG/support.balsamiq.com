@@ -102,7 +102,7 @@ If you need to temporarily walk away from your subscription, but do not wish to 
 Auto-hibernation will automatically kick in for those paid subscriptions that meet the following criteria:
 
 * Are on the $9/monthly plan
-* The Space remains empty for a full billing cycle (learn how to [Manage Your Projects](/cloud/manageprojects))
+* The Space remains empty for a full billing cycle (learn how to [Manage Your Projects](https://docs.balsamiq.com/cloud/projects/))
 
 If these two requirements are met, our system will do its magic behind the scenes and will know not to charge your card for that month. Your Space will remain active, along with any staff members or Space Owners you may have invited to join you. You will still receive an invoice for that billing cycle, which will show that you were charged $0.
 

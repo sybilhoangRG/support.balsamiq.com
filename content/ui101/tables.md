@@ -69,9 +69,9 @@ The [Google Material Design guidelines](https://material.io/guidelines/component
 * If you use pagination, make sure to show the total number of pages or results. The ability to choose how many rows to show on a page is also useful.
 * Actions that users can perform on the data should be placed around the edges of the table (as shown in the [example below](#basic-usage)). Pagination is usually placed at the bottom, while filtering, sorting, and multi-row actions are often placed in the top-left and/or top-right.
 * If you provide a way to filter or otherwise limit the data, make sure to clearly indicate that a subset of the data is being shown. You can see some [table filter examples here](http://ui-patterns.com/patterns/TableFilter).
-* Use color and decoration sparingly. It can be useful to highlight unexpected data (such as extreme/outlying values or failed actions).
+* Use color and decoration sparingly. It can be useful to highlight unexpected data (such as extreme/outlying values or failed actions), but can detract from overall readability. *([A List Apart](https://alistapart.com/article/web-typography-tables))*
 
-There are some excellent examples of many of these guidelines in practice in this article on [designing better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356).
+More useful guidelines and examples can be found in [this article on designing better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) and [this article on designing tables to be readable](https://alistapart.com/article/web-typography-tables).
 
 
 ### Basic Usage
