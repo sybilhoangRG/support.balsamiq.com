@@ -15,7 +15,7 @@ We've compiled a few tips that might help keep your Balsamiq Cloud costs down.
 
 ## Setting Your Space to Auto-Hibernate
 
-Balsamiq Cloud offers a nifty new feature called Auto-Hibernation. The way it works is that if your Space remains **empty** for a full billing cycle, we won't charge you for that month! This feature is only available in the 2-project plan when billed monthly. Head over to the [Auto-Hibernation FAQ](/cloud/cloudsubscriptions/#auto-hibernation) to learn more.
+Balsamiq Cloud offers a nifty new feature called Auto-Hibernation. The way it works is that if your Space remains **empty** for a full billing cycle, we won't charge you for that month! This feature is only available in the 2-project plan when billed monthly. Head over to the [Auto-Hibernation FAQ](/sales/cloudsubscriptions/#auto-hibernationloud/cloudsubscriptions/#auto-hibernation) to learn more.
 
 ## Combining Projects
 
