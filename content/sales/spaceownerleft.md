@@ -8,7 +8,7 @@ menu:
 draft: ''
 ---
 
-If you're reading this, you probably have been wireframing projects in a Space owned by someone else. Most of the time, that someone else is a colleague or staff member at your organization.
+If you're reading this, you probably have been working in a Space owned by someone else. Most of the time, that someone else is a colleague or staff member at your organization.
 
 If that person leaves, it's important to understand that the "ownership" of the Space is not automatically transferred to someone else. In fact, ownership is something that we take seriously, and we do everything possible to ensure we comply with our [Terms of Use and Privacy Policy](https://docs.balsamiq.com/cloud/tos/).
 
@@ -43,4 +43,6 @@ Unfortunately, that's a **no**. Per our [Terms of Use](https://docs.balsamiq.com
 
 If for some reason they cannot do that, you can instead ask them to [download](https://docs.balsamiq.com/cloud/projects/#cloning-downloading-and-deleting-projects) and send you the project files directly, and you can then upload them into a new Cloud Space that is owned by a current staff member.
 
-When none of these options work, and you're still paying for a Space that you can't use, please just [let us know!](mailto:sales@balsamiq.com?subject=Our%20space%20owner%20left%20and%20we%20need%20help%20canceling%20our%20Cloud%20subscription). We'll be more than happy to help by stopping your automatic monthly payment, and/or refunding recent charges.
+When none of these options work, and you're still paying for a Space that you can't use, please just [let us know](mailto:sales@balsamiq.com?subject=Our%20space%20owner%20left%20and%20we%20need%20help%20canceling%20our%20Cloud%20subscription)! We'll be able to help by stopping your automatic monthly payment, and/or refunding recent charges.
+
+At the end of the day, we understand that dealing with this situation can become tedious and stressful. If you've tried all of the tips above and are still in a pinch, please do [get in touch](mailto:sales@balsamiq.com?subject=Our%20Space%20Owner%20Left%20and%20We%20Don't%20Know%20What%20to%20Do) with us. We will gladly work with you in hopes of finding a solution together.
