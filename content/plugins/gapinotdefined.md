@@ -11,7 +11,9 @@ draft: ''
 
 Are you using Google Chrome and getting the following error message when opening a project in Balsamiq for Google Drive?
 
-![](https://media.balsamiq.com/img/support/prodfaqs/gapi-not-defined.png)
+```
+ReferenceError: gapi is not defined
+```
 
 * * *
 
