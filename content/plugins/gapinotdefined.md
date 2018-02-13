@@ -31,7 +31,7 @@ You can find which one causes the conflict by disabling all your extensions and 
 
 ## Is There a Way to Keep Using Balsamiq for Google Drive and My Extension?
 
-This might not work for all extensions but in the case of **Disconnect**, whitelisting "h<span>ttps://balsamiq-wireframes.appspot.com" in the extension's options should do the trick and allow Balsamiq Wireframes for Google Drive to open.
+This might not work for all extensions but in the case of **Disconnect**, whitelisting "h<span>ttps://balsamiq-wireframes.appspot.com"</span> in the extension's options should do the trick and allow Balsamiq Wireframes for Google Drive to open.
 
 * * *
 
