@@ -44,7 +44,7 @@ There might be times when you don't necessarily need to work on multiple project
 
 For example, let's assume you're on the 2-project plan, and you are working on Project A. You already started Project B, but it won't need to be touched until next month, and you need to get started with Project C. In that case, you can **download** Project B to your computer, then **delete** it from your Space. That frees up a slot for you to get started with Project C.
 
-You can find complete steps here: [What's The Best Way To Manage My Project Count In Balsamiq Cloud?](/cloud/manageprojects/)
+You can find more info here: [Managing Project Count](https://docs.balsamiq.com/cloud/projects/#managing-project-count)
 
 * * *
 
