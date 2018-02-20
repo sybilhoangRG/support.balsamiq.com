@@ -101,9 +101,9 @@ These User Interface Guidelines provide **documentation for designing applicatio
     </div>
     <div class="fitem col-xs-6 col-sm-4 col-md-3">
         <div class="gallery-item">
-            <a href="https://msdn.microsoft.com/en-us/library/ff318692(v=surface.10).aspx"><img src="//media.balsamiq.com/img/support/uiguidelines/microsoft-surface.jpg" alt="screenshot" /></a>
+            <a href="https://social.technet.microsoft.com/wiki/contents/articles/8092.microsoft-surface-1-0-sp1-ux-guidelines-interaction-guide.aspx"><img src="//media.balsamiq.com/img/support/uiguidelines/microsoft-surface.jpg" alt="screenshot" /></a>
             <div class="meta">
-                <h4><a href="https://msdn.microsoft.com/en-us/library/ff318692(v=surface.10).aspx">Microsoft Surface User Experience Guidelines</a></h4>
+                <h4><a href="https://social.technet.microsoft.com/wiki/contents/articles/8092.microsoft-surface-1-0-sp1-ux-guidelines-interaction-guide.aspx">Microsoft Surface User Experience Guidelines</a></h4>
             </div>
         </div>
     </div>

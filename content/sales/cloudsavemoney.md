@@ -54,7 +54,7 @@ If the 2-project plan is not enough, but the 20-project plan is too much, there 
 
 For example, let's say you really need to work on 4 projects at a time, but do not wish to pay for the 20-project plan. What you can do in that instance is create **two different Spaces**, and then subscribe each one to the 2-project plan at $9/mo each (total of $18/mo).
 
-The downside is that you will have two separate Spaces to manage, each with its own subscription (which might be billed on a different date, depending on when you sign up), and its own list of people. That means you will receive a separate invoice for each Space, and if the same staff members need access to different Spaces, they will need to be [invited](https://docs.balsamiq.com/cloud/sites/#managing-users) to each one of them.
+The downside is that you will have two separate Spaces to manage, each with its own subscription (which might be billed on a different date, depending on when you sign up), and its own list of people. That means you will receive a separate invoice for each Space, and if the same staff members need access to different Spaces, they will need to be [invited](https://docs.balsamiq.com/cloud/spaces/#managing-users) to each one of them.
 
 You can subscribe 5 different Spaces to the $9/mo plan each before the savings stop. If you were to subscribe 6 Spaces ($9 x 6 = $54/mo), then you'd already be paying more than what the 20-project costs ($49/mo).
 

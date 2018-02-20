@@ -15,7 +15,7 @@ In a [previous tutorial](/tutorials/firstwireframe/) we learned how to create a 
 
 Here are the wireframes we'll be creating in this tutorial:
 
-[![](https://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups.png)](https://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups_big.png "Click to enlarge")
+![](//media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups.png)
 
 * * *
 

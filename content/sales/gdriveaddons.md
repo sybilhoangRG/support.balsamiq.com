@@ -17,6 +17,6 @@ Once you've done that, you can install and use our G-Suite add-ons:
 * [Balsamiq Wireframes for Google Sheets](https://chrome.google.com/webstore/detail/balsamiq-wireframes-for-s/jgfdliieeehbdneablkafpfmgalpkomm)
 * [Balsamiq Wireframes for Google Slides](https://chrome.google.com/webstore/detail/balsamiq-wireframes-for-s/hdigppcdkfamemibgagmkdfkaomlohgf)
 
-Note that an active trial or [subscription](m/sales/gdrivesubscription/#signing-up-for-a-subscription) is required to be able to **edit** your wireframes.
+Note that an active trial or [subscription](../gdrivesubscription/#signing-up-for-a-subscription) is required to be able to **edit** your wireframes.
 
 Check out the [Balsamiq Wireframes Integration with G Suite Docs](https://docs.balsamiq.com/google-drive/wireframes/gsuite/) for more info.
