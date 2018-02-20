@@ -20,7 +20,7 @@ If you need help wireframing your website or product, we can help. We offer free
 
 This session will be recorded and published for educational purposes on "Wireframing with Balsamiq," our YouTube channel that teaches how to wireframe by watching us work on the design of products and websites.
 
-To take advantage of this resource, apply to our [Free Program](https://balsamiq.com/free) and make sure to check the box "I'd like help wireframing my website or product." If you're already part of our Free Program as a Non-profit or Do-gooder, you can apply by writing emailing us at [community@balsamiq.com](mailto:community@balsamiq.com).
+To take advantage of this resource, apply to our [Free Program](https://balsamiq.com/free) and make sure to check the box "I'd like help wireframing my website or product." If you're already part of our Free Program as a Non-profit or Do-gooder, you can apply by emailing us at [community@balsamiq.com](mailto:community@balsamiq.com).
 
 We're a little company with a small group of experts, and for this reason we only have a few spots every week. Please, apply only if you really need help with your design and can't afford to hire an expert.
 
