@@ -26,7 +26,6 @@ You can find the myBalsamiq Terms of Service&nbsp;<a href="https://balsamiq.com/
 ## Pricing and Discounts
 
 *   [Pricing and plan levels](https://balsamiq.com/buy/#myb)
-*   [Are there any discounts for using both myBalsamiq and Mockups 3 for Desktop?](/mybalsamiq/mybanddesktop/#savings-when-using-both-versions)
 *   [Do you offer any other discounts?](/sales/discounts/)
 *   [Can I get myBalsamiq for free?](https://balsamiq.com/free)
 *   [Are there any applicable taxes?](/sales/taxes/)

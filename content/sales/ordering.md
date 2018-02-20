@@ -11,7 +11,7 @@ draft: ''
 
 The answer depends on the version of Balsamiq:
 
-*   [Subscriptions](#subscriptions) - Balsamiq for Google Drive, Balsamiq Cloud, Mockups 3 for Confluence Cloud, and Mockups 3 for Jira Cloud
+*   [Subscriptions](#subscriptions) - Balsamiq for Google Drive, Balsamiq Cloud, Balsamiq Wireframes for Confluence Cloud, and Balsamiq Wireframes for Jira Cloud
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server
 
 * * *
@@ -22,8 +22,8 @@ To purchase a subscription product, you must first sign up for a trial. Specific
 
 *   [Balsamiq Cloud](/sales/cloudsubscriptions/)
 *   [Balsamiq for Google Drive](/sales/gdrivesubscription/)
-*   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/pricing) (sold by Atlassian)
-*   [Mockups 3 for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
+*   [Balsamiq Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/pricing) (sold by Atlassian)
+*   [Balsamiq Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
 
 Only automatic credit card payments are accepted for subscription-based services sold by Balsamiq. 
 

@@ -2,7 +2,7 @@
 title: Validation
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 35
+weight: 65
 product: "UI Design 101"
 ---
 
@@ -31,7 +31,7 @@ Following [text input guidelines](../text-input/) and implementing [autocomplete
 
 ### Basic Usage
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/validation-example.png)
+![](//media.balsamiq.com/img/support/tutorials/ui101/validation.png)
 
 
 ---

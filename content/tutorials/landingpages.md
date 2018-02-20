@@ -46,7 +46,7 @@ This is the work of figuring out the Information Architecture of the screen. It 
 
 For our landing page I created an outline, based on a walk through of the features of the product and we reviewed and refined this outline. From this baseline of understanding I start working visually.
 
-### Review and validate
+### Review and Validate
 
 The main takeaway is that **text is the cheapest deliverable to iterate**, so have plenty of discussion and review at this stage.
 
@@ -75,18 +75,18 @@ This gives me a bird's eye view of the page. Seeing the entire page as little bl
 
 Once I have the high-level organization of the screen in the thumbnail sketches, I can start wireframing to flesh out more of the page elements. I start working from the outside in to organizes zones of content or features and then switch gears to working from the inside out on adding details to each zone.
 
-### Work Outside-In: Organize Zones
+### Work outside-In: Organize Zones
 
 I start by turning those sloppy blocks into a **zone diagram** based on the ideas we sketched. Zone diagrams let you figure out the blocks or modules of content that go into the screen further adding hierarchy to the elements, based on the priorities of the story the page should be telling.
 
 After zone diagrams, I can continue to create smaller blocks within the zones for the content elements. I continue to use Quick Draw Boxes and Text to visualize the content abstractly. It's a bit like a technique I used when painting—**get your basic shapes down**, step back and blur the eyes to look at the composition.
 
-![Thumbnail Sketches](//media.balsamiq.com.s3.amazonaws.com/img/support/tutorials/landingpage/thumbnail-sketches.jpg)
+![Thumbnail Sketches](//media.balsamiq.com/img/support/tutorials/landingpage/thumbnail-sketches.jpg)
 <small class="center">Zone Diagrams</small>
 
 To take the painting analogy further, once the broad, sketchy strokes start to define the architecture of the screen, I then keep work inward to finding the inner structure. I'll flesh out the details, by putting in copy. I may use placeholder copy at first, but prefer to use something closer to the actual copy to get a sense of where text will break.
 
-### Work Inside-Out: Add Detail
+### Work inside-Out: Add Detail
 
 This is where the **sketch evolves into a wireframe** as more information is added and flow is demonstrated.
 
@@ -138,7 +138,7 @@ As you can see from the actual [Cloud landing page](https://balsamiq.cloud), we 
 
 ----
 
-## Optimize Around Low Fidelity and Find the Right Design
+## Optimize around Low Fidelity and Find the Right Design
 
 I hope this gives you an idea of how we work iteratively using wireframes behind the scenes.
 

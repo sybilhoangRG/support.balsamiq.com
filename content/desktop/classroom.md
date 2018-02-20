@@ -46,7 +46,7 @@ with it, they will see that the application's fully-functioning trial period wil
 
 Your school probably already has a means for students to share files with each other, and with you for grading.
 
-Some schools use Dropbox, some others use Microsoft OneDrive or Google Drive, or others. We [generally work well](/desktop/clouddrive/) with these tools.
+Some schools use Dropbox, some others use Microsoft OneDrive or Google Drive, or others. We generally work well with these tools.
 
 Balsamiq 3 for Desktop project files are no different: each BMPR file contains everything that's necessary to work on and
 review a Balsamiq project.

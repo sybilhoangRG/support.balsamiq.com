@@ -2,7 +2,7 @@
 title: Breadcrumbs
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 50
+weight: 45
 product: "UI Design 101"
 ---
 
@@ -63,3 +63,4 @@ This is a less common pattern that combines breadcrumbs with a vertical menu to 
 ## Related Controls
 
 * [Dropdown Menu (Combo Box)](../dropdown/)
+* [Links](../links/)

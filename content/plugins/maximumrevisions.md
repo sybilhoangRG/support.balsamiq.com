@@ -14,6 +14,8 @@ Are you getting the following error message when trying to save your file in Bal
 
 ![](https://media.balsamiq.com/img/support/prodfaqs/revisions.png)
 
+* * *
+
 ## Why Am I Getting This?
 
 When using the Balsamiq plugin, all the changes are always autosaved in Google Drive and a new 'not' pinned revision is created every time you close the app. On the other hand, using the command "Save" will instead create a "pinned" revision on Drive.
@@ -21,6 +23,8 @@ When using the Balsamiq plugin, all the changes are always autosaved in Google D
 Seeing this error message means that you've reached the maximum number of pinned versions allowed for your account.
 
 Google Drive automatically purges (or "prunes") revisions in order to optimize disk usage. To prevent this from happening, you can manually "pin" revision(s) that you don't want Drive to purge and also unpin or delete the one(s) you don't need.
+
+* * *
 
 ## How Do I Get Rid of the Error?
 
@@ -34,5 +38,7 @@ Then once you've identified a pinned version (little tick box on the left side o
 ![](https://media.balsamiq.com/img/support/prodfaqs/manageversions2.png)
 
 In general, a good practice is to 'trust' the auto-saving functionality of the app and use the "Save" command only to pin important revisions that you want to keep in the future (i.e. the ones that you do not want Drive to purge).
+
+* * *
 
 Hope this helps! Please [contact us](https://balsamiq.com/company/contact/#/t/b3gd) if you need any further assistance with this.

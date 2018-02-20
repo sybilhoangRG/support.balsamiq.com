@@ -36,8 +36,8 @@ This document describes the Terms of Use for those versions of Balsamiq Software
 More specifically, these products:
 
 *   Balsamiq Mockups 3 for Google Drive & Balsamiq Wireframes for Google Drive _(referred together as Balsamiq for Google Drive hereafter)_
-*   Balsamiq Mockups 3 for Confluence Cloud
-*   Balsamiq Mockups 3 for Jira Cloud
+*   Balsamiq Mockups 3 for Confluence Cloud & Balsamiq Wireframes for Confluence Cloud  _(referred together as Balsamiq for Confluence Cloud hereafter)_
+*   Balsamiq Mockups 3 for Jira Cloud & Balsamiq Wireframes for Jira Cloud _(referred together as Balsamiq for Jira Cloud hereafter)_
 *   Balsamiq Mockups when used on ux.stackexchange.com
 
 When using the Plugin on a server that you host yourself behind the firewall, other terms apply: you can find the EULA [here](https://www.balsamiq.com/eulas).
@@ -76,8 +76,8 @@ If you breach any of the terms and conditions in this document, your authorizati
 
 The following versions of the Balsamiq Plugin are supported by Balsamiq:
 
-*   Balsamiq Mockups 3 for Confluence Cloud
-*   Balsamiq Mockups 3 for Jira Cloud
+*   Balsamiq for Confluence Cloud
+*   Balsamiq for Jira Cloud
 *   Balsamiq for Google Drive
 
 Support is provided via our Community Forums at [https://forums.balsamiq.com](https://forums.balsamiq.com) as well via our support portal at [https://support.balsamiq.com](/)
@@ -218,11 +218,11 @@ In the cases below, we do not host the Balsamiq Plugin ourselves, so you should 
 
 *   ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
 
-For Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for Jira Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
+For Balsamiq for Google Drive, Balsamiq for Confluence Cloud and Balsamiq for Jira Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
 
 That said, high reliability is something we are proud of and something we deliberately chose to compete on. That's why we have hired developers, system administrators and support staff both in California and Europe.
 
-We monitor Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for Jira Cloud closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
+We monitor Balsamiq for Google Drive, Balsamiq for Confluence Cloud and Balsamiq for Jira Cloud closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
 You can see for yourself how we're doing on this front by looking at these [Pingdom](http://www.pingdom.com)-powered charts:
 
@@ -337,6 +337,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 
 ## Document History
 
+* 2018, January 9: Defined Balsamiq for Confluence Cloud and Balsamiq for Jira Cloud to include new product name: Balsamiq Wireframes.
 * 2017, September 5: Renamed document to "Balsamiq Hosted Plugin Terms of Use", defined Balsamiq Software and Balsamiq for Google Drive, clarified how we access data and added Privacy Policy subheader to that section.
 * 2016, April 6: Added a couple of missing references to Balsamiq Mockups 3 for Confluence Cloud.
 * 2016, April 4: Renamed "Balsamiq Mockups for Confluence when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Confluence Cloud".
