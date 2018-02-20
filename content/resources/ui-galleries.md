@@ -313,7 +313,23 @@ $('ul#filter a').click(function() {
 });
 </script>
 <style>
+.gallery-item {
+  min-height: 360px;
+  width: 100%;
+}
+.gallery-item img {
+  max-height: 180px;
+  width: auto;
+  /* padding: 10px; */
+}
+@media (min-width: 1200px) {
+  .gallery-item img {
+    max-height: 300px;
+    width: 100%;
+  }
+}
 .meta h4 {
   font-weight: normal;
+  margin-bottom: 0;
 }
 </style>
