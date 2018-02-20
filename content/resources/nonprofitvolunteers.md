@@ -12,6 +12,20 @@ The resources on this page should be of interest to:
 * **Non-profits** looking for UI Designer volunteers
 * **UI Designers** looking for opportunities to volunteer their time and services to a non-profit
 
+----
+
+## Live Wireframing Session with a Balsamiq Expert
+
+If you need help wireframing your website or product, we can help. We offer free wireframing sessions with one of our in-house UX experts to non-profits. We'll collaborate with you on the design of your product for 1-hour.
+
+This session will be recorded and published for educational purposes on "Wireframing with Balsamiq," our YouTube channel that teaches how to wireframe by watching us work on the design of products and websites.
+
+To take advantage of this resource, apply to our [Free Program](https://balsamiq.com/free) and make sure to check the box "I'd like help wireframing my website or product." If you're already part of our Free Program as a Non-profit or Do-gooder, you can apply by writing emailing us at [community@balsamiq.com](mailto:community@balsamiq.com).
+
+We're a little company with a small group of experts, and for this reason we only have a few spots every week. Please, apply only if you really need help with your design and can't afford to hire an expert.
+
+----
+
 ## Conferences
 * **[The Feast](http://feastongood.com/)** - A conference bringing together the creative and technology community with non-profit organizations.
 * **[The Non Profit Technology Conference](http://www.nten.org/ntc/)** - A technology event for the non-profit sector.
