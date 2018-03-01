@@ -21,11 +21,11 @@ You may need to display wireframes on different Confluence pages. While there is
 
 Once you have identified the wireframe you want to use on different pages, open the Confluence page attachments.
 
-![](https://media.balsamiq.com/img/support/prodfaqs/attachments.png)
+![](//media.balsamiq.com/img/support/prodfaqs/attachments.png)
 
 From there, right-click on the image file generated from your wireframe (PNG) and copy the link address.
 
-![](https://media.balsamiq.com/img/support/prodfaqs/link-address.png)
+![](//media.balsamiq.com/img/support/prodfaqs/link-address.png)
 
 ### 2. Use the Link in Your Other Confluence Page
 
@@ -33,7 +33,7 @@ Once you have copied the link, please open the other Confluence page and **inser
 
 Once that is done, please remove **api=v2** from the image link and insert the image. You now have your wireframe displayed on the Confluence page.
 
-![gif](//media.balsamiq.com/img/support/docs/cloud/link-image.png)
+![gif](//media.balsamiq.com/img/support/prodfaqs/link-image.png)
 
 {{% alert info %}}**Note:** Since this is only the image of your wireframe, you will need to go back to the original Confluence page to update the wireframe but changes will be reflected on both pages.{{% /alert %}}
 
