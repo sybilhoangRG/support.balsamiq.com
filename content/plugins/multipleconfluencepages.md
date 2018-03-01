@@ -17,7 +17,7 @@ You may need to display wireframes on different Confluence pages. While there is
 
 ## Displaying a Wireframe on Multiple Confluence Pages
 
-### 1. Grab the Wireframe Link From the Attachments
+### 1. Grab the Wireframe Image Link From the Attachments
 
 Once you have identified the wireframe you want to use on different pages, open the Confluence page attachments.
 
