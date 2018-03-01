@@ -16,13 +16,13 @@ The resources on this page should be of interest to:
 
 ## Live Wireframing Session with a Balsamiq Expert
 
-If you need help wireframing your website or product, we can help. We offer free wireframing sessions with one of our in-house UX experts to nonprofits. We'll collaborate with you on the design of your product for 1-hour.
+We want to support nonprofits who are trying to make the world a better place. To further our goal, we'd like to offer our help wireframing your website or product.
 
-This session will be recorded and published for educational purposes on "Wireframing with Balsamiq," our YouTube channel that teaches how to wireframe by watching us work on the design of products and websites.
+Our in-house UX experts are available to collaborate with you on the design of your product for a one-hour online wireframing session. <em>This session will be recorded and published for educational purposes so others can learn wireframing.</em>
 
-To take advantage of this resource, apply to our [Free Program](https://balsamiq.com/free) and make sure to check the box "I'd like help wireframing my website or product." If you're already part of our Free Program as a Nonprofit or Do-gooder, you can apply by emailing us at [community@balsamiq.com](mailto:community@balsamiq.com).
+To take advantage of this resource, apply to our [Free Program](https://balsamiq.com/free) and make sure to check the box "I'd like help wireframing my website or product." If you're already part of our Free Program as a nonprofit, you can apply by emailing us at [community@balsamiq.com](mailto:community@balsamiq.com).
 
-We're a little company with a small group of experts, and for this reason we only have a few spots every week. Please apply only if you really need help with your design and can't afford to hire an expert.
+We're a small company with only several experts and a limited number of slots available every week. <em>Please only apply for a design session if you can not afford to hire an expert.</em>
 
 ----
 
