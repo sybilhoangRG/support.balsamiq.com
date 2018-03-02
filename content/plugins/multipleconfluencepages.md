@@ -23,7 +23,7 @@ Once you have identified the wireframe you want to use on different pages, open 
 
 ![](//media.balsamiq.com/img/support/prodfaqs/attachments.png)
 
-From there, right-click on the image file generated from your wireframe (PNG) and copy the link address.
+From there, right-click on the image file generated from your wireframe (PNG) and copy the link address. The corresponding image will display the wireframe name in the **Comment** section, as shown below.
 
 ![](//media.balsamiq.com/img/support/prodfaqs/link-address.png)
 
