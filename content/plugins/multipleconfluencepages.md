@@ -29,9 +29,7 @@ From there, right-click on the image file generated from your wireframe (PNG) an
 
 ### 2. Use the Link in Your Other Confluence Page
 
-Once you have copied the link, please open the other Confluence page and **insert an image**. From the insert dialog, select **images from the web** and copy the link there.
-
-Once that is done, please remove **api=v2** from the image link and insert the image. You now have your wireframe displayed on the Confluence page.
+Once you have copied the link, please open the other Confluence page and **insert an image**. From the insert dialog, select **images from the web** and copy the link there. You now have your wireframe displayed on the Confluence page.
 
 ![gif](//media.balsamiq.com/img/support/prodfaqs/link-image.png)
 
