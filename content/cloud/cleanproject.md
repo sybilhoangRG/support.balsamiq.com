@@ -7,13 +7,11 @@ product: "Balsamiq Cloud"
 draft: ''
 ---
 
-The short answer is YES! :)
-
-Projects can easily be packed with many elements but sometimes a good cleanup pass will help to make your project cleaner, smaller (in size) and thus **much** faster! Let's look at different ways to optimize a project.
+Yes! Projects can easily be packed with many elements but sometimes a good cleanup will help to make your project cleaner, smaller (in size) and thus **much** faster! Let's look at different ways to optimize a project.
 
 * * *
 
-## Select the Unused Images/Assets and Move Them to the Trash
+## Select the Unused Images/Assets
 
 Using [Assets](https://docs.balsamiq.com/cloud/images/) can be really useful when creating your wireframes but since we spend most of the time in the Wireframes view, Assets can easily become cluttered with unnecessary elements.
 
@@ -31,7 +29,7 @@ Selecting it will open the Assets view where all the unused images will be selec
 
 [Symbols](https://docs.balsamiq.com/cloud/symbols) are another great feature that let you create reusable common elements that you can use across different wireframes. Let's look at the best way to keep them "clean".
 
-When an individual Symbol is selected, the lower portion of the panel shows which wireframes (if any) the Symbol is used in. This can be used to see if you can delete any Symbols that aren’t being used.
+When an individual Symbol is selected, the lower portion of the right panel shows which wireframes (if any) the Symbol is used in. This is a good indication for deleting Symbols that aren’t being used.
 
 ![](//media.balsamiq.com/img/support/prodfaqs/symbol-unused.png)
 
