@@ -57,6 +57,8 @@ Moving items to the [Trash](https://docs.balsamiq.com/cloud/overview/#trash) doe
 
 On a side note, we usually recommend keeping a project under 100 wireframes to avoid performance issues. Sometimes, splitting a project into smaller ones is a nice and easy way to help with slowness issues too.
 
+![](//media.balsamiq.com/img/support/prodfaqs/split-project.png)
+
 * * *
 
 We hope that these tips will be useful to improve your project's organization and help with any performance issues you may hit.
