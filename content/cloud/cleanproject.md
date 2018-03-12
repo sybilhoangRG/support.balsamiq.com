@@ -23,6 +23,8 @@ Selecting it will open the Assets view where all the unused images will be selec
 
 ![](//media.balsamiq.com/img/support/prodfaqs/trash-unused.png)
 
+{{% alert info %}}**Note:** Moving Assets to the trash does not remove them from the project. You'll need to use the ["Empty Trash" option](#empty-the-trash) to delete those items **permanently**.{{% /alert %}}
+
 * * *
 
 ## Clean Up the Symbols
@@ -37,7 +39,7 @@ You can use the context menu to delete Symbols and Symbol Libraries from your pr
 
 ![](//media.balsamiq.com/img/support/prodfaqs/delete-symbol.png)
 
-{{% alert info %}}**Note:** In the case of Symbol Libraries, like with wireframes and images, deleting will move them to the trash, where you can delete them permanently or restore them. Deleting an individual Symbol from a Symbol Library, however, deletes it permanently.{{% /alert %}}
+{{% alert info %}}**Note:** Deleting Symbol Libraries will move them to the trash, where you can [delete them permanently](#empty-the-trash) or restore them. Deleting an individual Symbol from a Symbol Library, however, deletes it permanently.{{% /alert %}}
 
 **Tip:** You can hold down Shift or Control/CMD to select multiple Symbols and delete multiple Symbols at once.
 
@@ -59,4 +61,4 @@ On a side note, we usually recommend keeping a project under 100 wireframes to a
 
 We hope that these tips will be useful to improve your project's organization and help with any performance issues you may hit.
 
-That being said, don't hesitate to reach out and share any related BMPR file with us via [support@balsamiq.com](mailto:support@balsamiq.com) if needed. We're here to help! :)
+However, don't hesitate to reach out and share any related BMPR file with us via [support@balsamiq.com](mailto:support@balsamiq.com) if needed. We're here to help! :)
