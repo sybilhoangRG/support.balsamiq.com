@@ -7,7 +7,9 @@ product: "Balsamiq Cloud"
 draft: ''
 ---
 
-Yes! Projects can easily be packed with many elements but sometimes a good cleanup will help to make your project cleaner, smaller (in size) and thus **much** faster! Let's look at different ways to optimize a project.
+Yes! Projects can be easily packed with many elements, and sometimes it's good to take a moment to do some house keeping. Cleaning up your project will make it easier to navigate, smaller in size, and thus **much** faster!
+
+Let's look at few different ways to optimize a project.
 
 * * *
 
