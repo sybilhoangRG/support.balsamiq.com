@@ -2,7 +2,7 @@
 title: Accordions
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 60
+weight: 260
 product: "UI Design 101"
 ---
 
@@ -10,7 +10,7 @@ Accordions are stacked containers with nested items that expand and collapse whe
 
 Accordions are an attractive control because they allow a lot of links to be shown in a compact space. But they can be less familiar or even intuitive, so be careful not to overuse them. They can be used either for navigation or for content, in contrast to [vertical navigation](../verticalnavigation/).
 
-Other names include expansion panel and expand/collapse control. 
+Other names include expansion panel and expand/collapse control.
 
 
 ## When to Use Accordions
@@ -31,7 +31,7 @@ Accordion (😉) to the site [UI Patterns](http://ui-patterns.com/patterns/Accor
 * less than 10 main sections
 * only have two levels to show in the main navigation.
 
-As for using accordions for in-page content, the [U.S. Web Design Standards](https://standards.usa.gov/components/accordions/) suggests that if there is not a lot of content, or if users will want to see all content at once, *don't* use an accordion control. One valid use case example is a FAQ help page. However, don't use them *only* because there is a lot of content. The idea that [desktop users don't like long pages is considered a myth by many](https://www.nngroup.com/articles/accordions-complex-content/). 
+As for using accordions for in-page content, the [U.S. Web Design Standards](https://standards.usa.gov/components/accordions/) suggests that if there is not a lot of content, or if users will want to see all content at once, *don't* use an accordion control. One valid use case example is a FAQ help page. However, don't use them *only* because there is a lot of content. The idea that [desktop users don't like long pages is considered a myth by many](https://www.nngroup.com/articles/accordions-complex-content/).
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/uswebdesignstandards-accordions.png)
 

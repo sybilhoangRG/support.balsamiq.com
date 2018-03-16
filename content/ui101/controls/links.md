@@ -2,7 +2,7 @@
 title: Links
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 35
+weight: 235
 product: "UI Design 101"
 ---
 
@@ -13,7 +13,7 @@ Hyperlinks continue to be central to navigation on the web, such that not adheri
 
 Links (originally called ["hypertext links"](https://www.w3.org/MarkUp/HTMLPlus/htmlplus_14.html), then shortened to ["hyperlinks"](https://www.w3.org/MarkUp/html-spec/html-spec_7.html#SEC7), and now typically referred to just as "links") are the original way of navigating from one page to another on the web. They are ubiquitous on the web and common in web applications and web-like desktop apps.
 
-Their strength lies in their simplicity. They can be embedded within blocks of regular text, allowing them to be read in context without interrupting the user's flow, while also indicating that content related to the linked text is available. 
+Their strength lies in their simplicity. They can be embedded within blocks of regular text, allowing them to be read in context without interrupting the user's flow, while also indicating that content related to the linked text is available.
 
 Additionally, as long as they are implemented correctly, they offer the advantage that they don't need much decoration to invite action (like buttons do). This is because they are so standard that users expect to be able to click on text that has a distinct color and/or is underlined.
 
@@ -54,7 +54,7 @@ Hyperlinks, when used to navigate between or within pages or screens, are famili
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/links-states.png)
 
-As [described above](#how-to-use-links), it is important to have a distinct default link style and a separate style for visited links. The other link states are "active" and "hover". [*(W3Schools)*](https://www.w3schools.com/css/css_link.asp) 
+As [described above](#how-to-use-links), it is important to have a distinct default link style and a separate style for visited links. The other link states are "active" and "hover". [*(W3Schools)*](https://www.w3schools.com/css/css_link.asp)
 
 
 ### Variations

@@ -2,7 +2,7 @@
 title: Data Tables
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 80
+weight: 280
 product: "UI Design 101"
 ---
 
@@ -29,7 +29,7 @@ Data tables, also called table views, tables, and data grids use columns and row
 
 Tables are readable and familiar when designed appropriately.
 
-For very simple tables the guidelines are easy to follow. The challenge comes as the data becomes too much to parse at a glance. When you start adding ways to filter, sort, search, and act on the data the waters get a lot muddier. 
+For very simple tables the guidelines are easy to follow. The challenge comes as the data becomes too much to parse at a glance. When you start adding ways to filter, sort, search, and act on the data the waters get a lot muddier.
 
 
 ## When to Use Data Tables
@@ -65,7 +65,7 @@ The [Google Material Design guidelines](https://material.io/guidelines/component
 * Consider using floating (i.e., "sticky") header rows for long tables. *([Patternry](http://patternry.com/p=data-table/))*
 * Provide the ability to search within long tables. *([GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/lists.html.en))*
 * Pay attention to display density. Having the data too close together makes it hard to read, yet using too much spacing means more scrolling (and more time to find what the reader is looking for).  The [Google Material Design guidelines](https://material.io/guidelines/components/data-tables.html#data-tables-specs) offer some specifications for padding and spacing within tables. You can give users the option to change the display density ([as shown here](https://uxdesign.cc/design-better-data-tables-4ecc99d23356#f194)), but don't use this an an excuse not to pick a good default.
-* Pagination is useful for large data sets, but don't immediately assume that it's needed. Studies have shown that [users don't mind scrolling](http://uxmyths.com/post/654047943/myth-people-dont-scroll) in many cases and showing all the information on one page means that users can search and sort more easily to find what they're looking for. 
+* Pagination is useful for large data sets, but don't immediately assume that it's needed. Studies have shown that [users don't mind scrolling](http://uxmyths.com/post/654047943/myth-people-dont-scroll) in many cases and showing all the information on one page means that users can search and sort more easily to find what they're looking for.
 * If you use pagination, make sure to show the total number of pages or results. The ability to choose how many rows to show on a page is also useful.
 * Actions that users can perform on the data should be placed around the edges of the table (as shown in the [example below](#basic-usage)). Pagination is usually placed at the bottom, while filtering, sorting, and multi-row actions are often placed in the top-left and/or top-right.
 * If you provide a way to filter or otherwise limit the data, make sure to clearly indicate that a subset of the data is being shown. You can see some [table filter examples here](http://ui-patterns.com/patterns/TableFilter).
@@ -98,7 +98,7 @@ Most table variations exist for the purposes of showing additional data for a sp
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/tables-variations.png)
 
-These details-on-demand variations should be reserved for complex data tables. It is overkill for cases where the user is primarily browsing. A better choice is to carefully consider which information the user needs to see and provide only that data.	
+These details-on-demand variations should be reserved for complex data tables. It is overkill for cases where the user is primarily browsing. A better choice is to carefully consider which information the user needs to see and provide only that data.
 
 ---
 
