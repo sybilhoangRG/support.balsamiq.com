@@ -1,0 +1,76 @@
+{{ partial "header.html" . }}
+
+{{/* ======================================== */}}
+{{/* BODY MAIN */}}
+<div id="body-main">
+  <div class="container-fluid">
+{{/* ======================================== */}}
+
+<div class="row">
+
+  <div class="local-nav local-nav-1 hidden-xs hidden-sm col-md-3">
+    <div id="sidebar-box">
+		{{ partial "sidebar.html" . }}
+    {{ partial "sidebar_inpage.html" . }}
+    </div>
+  </div>
+
+  <div id="page-article" class="col-xs-12 col-md-9">
+    <div id="support-main">
+      <div class="support-body">
+        <article>
+          <h1 class="title">{{ .Title }}</h1>
+          <div class="breadcrumbs visible-xs visible-sm">{{ partial "breadcrumbs.html" . }}</a></div>
+          <div class="article-content content article">
+            {{ .Content }}
+
+            {{ partial "controls.html" . }}
+
+            {{ range where .Site.Pages "Params.menu" "ui101" }}
+            {{ .Title }}
+            {{ end }}
+
+          </div>
+
+          <hr>
+          <nav class="section-pager">
+            <ul class="pager">
+              <li class="previous">
+              {{ if .NextInSection }}
+                <a href="{{.NextInSection.Permalink}}"><span aria-hidden="true">&larr;</span> {{.NextInSection.Title}}</a>
+              {{ end }}
+              </li>
+              <li class="next">
+								{{ if .PrevInSection }}
+								<a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}} <span aria-hidden="true">&rarr;</span></a>
+								{{ end }}
+              </li>
+            </ul>
+          </nav>
+          <hr>
+          <span class="gray t36">
+          <a href="https://twitter.com/intent/tweet/?text={{ .Title }}&url={{ .Permalink }}&via=balsamiq" target="_blank" class="js-social-share"><i class="ss-icon ss-social-circle red">&#xF611;</i></a>
+          <a href="https://www.facebook.com/share.php?u={{ .Permalink }}" target="_blank" class="js-social-share"><i class="ss-icon ss-social-circle red">&#xF610;</i></a>
+          <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}" target="_blank" class="js-social-share"><i class="ss-icon ss-social-circle red">&#xF612;</i></a></span>
+<span class="pull-right"><a href="https://github.com/balsamiq/support.balsamiq.com/blob/master/content{{ substr .RelPermalink 0 -1 }}.md" target="_blank"><i class="ss-icon ss-social-circle ss-github" aria-hidden="true"></i> Edit this page</a></span>
+         </article>
+      </div>
+    </div>
+  </div><!-- /.support-main -->
+
+</div> <!-- /.row -->
+
+{{/* ======================================== */}}
+  </div>
+</div>
+{{/* /BODY MAIN */}}
+{{/* ======================================== */}}
+
+{{/* Initialize gifplayer (http://rubentd.com/gifplayer/) for images with alt text set to "gif" */}}
+<script>
+			$(document).ready( function(){
+				$("img[alt='gif']").gifplayer({ label: 'Play' });
+			});
+</script>
+
+{{ partial "footer.html" . }}

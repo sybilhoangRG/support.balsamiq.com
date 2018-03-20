@@ -1,0 +1,8 @@
+          {{ .Content }}
+          {{ .TableOfContents }}
+          {{ .Title }}
+          {{ .Type }}
+          {{ .Sections }}
+                {{ range .Data.Pages }}
+                  {{ .Render "li"}}
+                {{ end }}
