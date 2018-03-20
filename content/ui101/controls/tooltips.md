@@ -51,7 +51,6 @@ Finally, tooltips are often not shown on mobile devices, so don't rely on them o
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/tooltips.png)
 
-
 ---
 
 ## Types of Tooltips
