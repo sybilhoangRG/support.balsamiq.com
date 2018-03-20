@@ -6,7 +6,7 @@ weight: 201
 product: "UI Design 101"
 ---
 
-User interface (UI) controls are like the ingredients in a recipe. Learn their unique flavors and characteristics and you can improvise, customize, and substitute to meet your needs (or those of your specific users). Get to know them well enough and you can start creating your own recipes (design patterns) from scratch. 
+User interface (UI) controls are like the ingredients in a recipe. Learn their unique flavors and characteristics and you can improvise, customize, and substitute to meet your needs (or those of your specific users). Get to know them well enough and you can start creating your own recipes (design patterns) from scratch.
 
 UI controls are sometimes overlooked in the teaching of "UX", with broad topics like analytics, user research, information architecture, or visual design. But they are a fundamental part of user interface design and familiarity with them is essential for a good user experience. Many new designers get stuck trying to decide whether to use a checkbox or a radio button on a form, for example, or how many navigation tabs on a screen is too many. That's what this section is all about.
 

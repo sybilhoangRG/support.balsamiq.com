@@ -12,6 +12,7 @@ Accordions are an attractive control because they allow a lot of links to be sho
 
 Other names include expansion panel and expand/collapse control.
 
+
 ## When to Use Accordions
 
 The book ["Designing Web Interfaces"](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions/dp/0596516258/) says that accordions are "good for collapsed modules of content. However, they should be used sparingly, as they have as strong visual style."

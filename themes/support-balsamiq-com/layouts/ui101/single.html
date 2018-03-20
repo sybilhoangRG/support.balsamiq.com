@@ -23,9 +23,19 @@
           <div class="breadcrumbs visible-xs visible-sm">{{ partial "breadcrumbs.html" . }}</a></div>
           <div class="article-content content article">
             {{ .Content }}
-
-            {{ partial "controls.html" . }}
-
+            {{ if eq .File.TranslationBaseName "controls"}}
+              {{ range where .Site.Pages "Section" "ui101" }}
+              {{ if eq .File.Dir "ui101/controls/" }}
+                {{ .Render "li"}}
+              {{ end }}
+              {{ end }}
+              {{ else if eq .File.TranslationBaseName "principles"}}
+                {{ range where .Site.Pages "Section" "ui101" }}
+                {{ if eq .File.Dir "ui101/principles/" }}
+                  {{ .Render "li"}}
+                {{ end }}
+                {{ end }}
+            {{ end }}
           </div>
 
           <hr>
