@@ -27,7 +27,7 @@ We [do not offer professional services ourselves](/sales/training/) and we don't
 *   **[Balsamiq Experts on Upwork](https://www.upwork.com/o/profiles/browse/?q=balsamiq)**
 *   [We Work Remotely](https://weworkremotely.com/)
 *   [Authentic Jobs](http://www.authenticjobs.com/)
-*   [Consortia (UK)](http://consortia.co.uk/category/jobs/user-experience-jobs)
+*   [Consortia (UK)](https://www.consortia.co.uk/jobs/?rcf_id=362)
 *   [DUX Jobs](http://www.duxjobs.com/)
 *   [HF Careers](http://www.hfcareers.com/)
 *   [Indeed](http://www.indeed.com/q-Ux-jobs.html)
