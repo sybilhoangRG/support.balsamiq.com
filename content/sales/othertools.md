@@ -96,6 +96,5 @@ The drawback is that, like [web frameworks](#webframeworks), they take more time
 
 *   [http://alternativeto.net/software/balsamiq-mockups/](http://alternativeto.net/software/balsamiq-mockups/)
 *   [http://www.cooper.com/prototyping-tools](http://www.cooper.com/prototyping-tools)
-*   [http://protomoto.com/](http://protomoto.com/)
 *   [http://socialcompare.com/en/comparison/mockup-wireframing-design-tools](http://socialcompare.com/en/comparison/mockup-wireframing-design-tools)
 *   [http://konigi.com/wiki/wireframes/](http://konigi.com/wiki/wireframes/)
