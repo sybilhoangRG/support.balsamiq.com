@@ -1,9 +1,10 @@
 ---
-title: Data Tables
+title: "Data Tables"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 280
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Data tables, also called table views, tables, and data grids use columns and rows to **display related information in a grid**.<!--more-->

@@ -1,9 +1,10 @@
 ---
-title: Text Input
+title: "Text Input"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 215
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Text input fields allow keyboard input from the user. They as not as simple as they seem.<!--more-->

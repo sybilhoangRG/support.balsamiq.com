@@ -1,9 +1,10 @@
 ---
-title: Tabs
+title: "Tabs"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 240
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Tabs can be a smart way to break up content into sections, but its use is a double-edged sword.<!--more-->

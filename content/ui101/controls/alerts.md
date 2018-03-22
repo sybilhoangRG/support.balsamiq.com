@@ -1,9 +1,10 @@
 ---
-title: Alerts
+title: "Alerts"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 275
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Any UI control that captures the user's attention can be thought of as an alert. They should be used wisely so they aren't overwhelming.<!--more-->

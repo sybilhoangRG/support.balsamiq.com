@@ -1,9 +1,10 @@
 ---
-title: Accordions
+title: "Accordions"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 260
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Accordions are stacked containers with nested items that expand and collapse when clicked or tapped.<!--more-->

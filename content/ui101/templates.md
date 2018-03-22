@@ -1,12 +1,10 @@
 ---
-title: Templates
+title: "Templates"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 501
 product: "UI Design 101"
 ---
-
-# Intro
 
 You've probably used file templates before. A common type is an office document template, like a cover letter template in a text editing application.
 
@@ -27,17 +25,16 @@ Let's start by seeing how to modify a template. By the end of this section, you 
 
 - - -
 
-# Importing Templates
+## Importing Templates
 
 In Balsamiq, a Template is simply a starter project file that you import. If you're using Balsamiq Cloud, add a template via the menu _Project > Import Controls From Wireframes to Go..._ Browse for templates use the import button to add it into your own projects.
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Import%20From%20WTG.png?version=1&modificationDate=1518060635837&cacheVersion=1&api=v2&height=400 "The Balsamiq Wiki > Templates (DRAFT) > Import From WTG.png")
-
+![](//media.balsamiq.com/img/support/ui101/templates/Import%20From%20WTG.png)
   
 
 - - -
 
-# Selecting the screens you need
+## Selecting the screens you need
 
 Continuing our example of an online shop, le's use an [E-Commerce Template](https://wireframestogo.com/3cf8-E-Commerce-Template/) to design more of the shopping experience. Obviously, we'll want to flesh out our shopping cart flow all the way through confirming the transaction.
 
@@ -45,41 +42,36 @@ Below is an overview of the screens that come in this template. Your solution ma
 
 For our example, let's say we want to flesh out the the pre-purchase experience on screens like the landing pages. Let's use the template to create a landing page for a fictional smartphone app.
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Home%20Page.png?version=1&modificationDate=1518043970956&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Home Page.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Home%20Page.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Landing%20Page.png?version=1&modificationDate=1518061122198&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Landing Page.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Landing%20Page.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Product%20Page.png?version=1&modificationDate=1518043973039&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Product Page.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Product%20Page.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Product%20Page%20-%20Add%20To%20Cart.png?version=1&modificationDate=1518043972490&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Product Page - Add To Cart.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Product%20Page%20-%20Add%20To%20Cart.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Cart.png?version=1&modificationDate=1518043966642&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Cart.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Cart.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Checkout%20-%20Customer%20Info.png?version=1&modificationDate=1518043967260&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Checkout - Customer Info.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Customer%20Info.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Checkout%20-%20Shipping.png?version=1&modificationDate=1518043968431&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Checkout - Shipping.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Shipping.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Checkout%20-%20Payment.png?version=1&modificationDate=1518043967879&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Checkout - Payment.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Payment.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Checkout%20-%20Success.png?version=1&modificationDate=1518043968940&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Checkout - Success.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Success.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Email%20Confirmation.png?version=1&modificationDate=1518043969824&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Templates (DRAFT) > Email Confirmation.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Email%20Confirmation.png)
 
-  
-
-  
-
-  
 
 - - -
 
-# Modifying Pre-Made Screens
+## Modifying Pre-Made Screens
 
 For this example, we'll convert editin the generic Landing Page template using our own copy and add some elements for our fictional smartphone app.
 
 When you open a template you'll probably see some placeholder copy as in the example on the left below. Simply select and edit each of the place holders.
 
-In the wirefreframe on the right, we've modified the text, we added some wireframed elements to illustrate our product, and using our new knowledge of design principles we laid out some of the parts to fit better with our new illustrations and copy.
+In the wireframe on the right, we've modified the text, we added some wireframed elements to illustrate our product, and using our new knowledge of design principles we laid out some of the parts to fit better with our new illustrations and copy.
 
   
 
@@ -87,15 +79,14 @@ In the wirefreframe on the right, we've modified the text, we added some wirefra
 
 **Edit placeholders to customize the screen.**
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Landing%20Page%20-%20Blank.png?version=1&modificationDate=1518043340092&cacheVersion=1&api=v2&width=500 "The Balsamiq Wiki > Templates (DRAFT) > Landing Page - Blank.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Landing%20Page%20-%20Blank.png)
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/262144004/Landing%20Page%20-%20Modified.png?version=4&modificationDate=1518060129447&cacheVersion=1&api=v2&width=500 "The Balsamiq Wiki > Templates (DRAFT) > Landing Page - Modified.png")
+![](//media.balsamiq.com/img/support/ui101/templates/Landing%20Page%20-%20Modified.png)
 
-  
 
 Pretty simple! Hopefully, editing a template should seem much faster than laying out all of the components from scratch. You'll want to tweak it to suit your needs, but it's a good way to start the design discussion with your team.
 
-## A note about Symbols Libraries
+### A note about Symbols Libraries
 
 Some Templates may also contain Symbols Libraries. Our E-Commerce Template has Symbols for the components used on the screens above.
 
@@ -105,7 +96,7 @@ The idea behind using Symbols is that you can easily drop in these re-usable com
 
 - - -
 
-# Closing Thoughts
+## Closing Thoughts
 
 Like design patterns, templates serve as a starting point and are usually built on an understanding of what typically works well for a common problem. Templates differ from design patterns in that they usually propose a plan for solving a broader scope of problem.
 
@@ -119,7 +110,7 @@ As you explore your users and problem more deeply, you'll begin to see what part
 
 - - -
 
-## Learn More about this Topic
+### Learn More about this Topic
 
 *   Download the template used in this section: [E-Commerce Template from Wireframes To Go](https://wireframestogo.com/3cf8-E-Commerce-Template/)
 *   Landing Page Template and [Designing a Landing Page](https://support.balsamiq.com/tutorials/landingpages/) tutorial

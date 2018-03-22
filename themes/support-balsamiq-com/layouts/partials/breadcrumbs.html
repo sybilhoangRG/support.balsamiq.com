@@ -1,4 +1,21 @@
-{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+<div id="breadcrumbs">
+  <span><a href="/">home</a></span>
+{{ if .Params.product }}
+{{ if .Params.parent }}
+&gt; <span><a href='../../'>{{ .Params.product }}</a></span>
+&gt; <span><a href='../'>{{ .Params.parent | title }}</a></span>
+{{ else }}
+  &gt; <span><a href='../'>{{ .Params.product }}</a></span>
+{{ end }}
+{{ else }}
+  &gt; <span><a href='/{{ .Section | urlize }}'>{{ .Section | humanize }}</a></span>
+{{ end }}
+  &gt; <span>{{ .Title | title }}</span>
+</div>
+
+<!-- old breadcrumb code -->
+
+{{/* {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ $.Scratch.Add "path" .Site.BaseURL }}
 <div id="breadcrumbs">
   <span><a href="/">home</a></span>
@@ -10,4 +27,4 @@
   {{ $.Scratch.Add "path" "/" }}
   {{ end }}
   {{ end }}
-</div>
+</div> */}}

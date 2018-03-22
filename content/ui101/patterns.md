@@ -1,5 +1,5 @@
 ---
-title: Interface Design Patterns
+title: "UI Design Patterns"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 301
@@ -78,7 +78,7 @@ While shopping on an online store the user may select items to purchase, but wan
 
 #### **Solution**
 
-**![](https://balsamiq.atlassian.net/wiki/download/thumbnails/257360105/Shopping-Cart-Pattern.png?version=2&modificationDate=1514401532873&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Interface Design Patterns (DRAFT) > Shopping-Cart-Pattern.png")**
+![](//media.balsamiq.com/img/support/ui101/patterns/Shopping-Cart-Pattern.png)
 
 1.  **Viewing Product and Adding an Item to Cart**
     1.  Present a button with the product to add the item to a shopping cart.
@@ -113,17 +113,17 @@ We'll look at the point where a customer decides to purchase a product using the
 
 ### Nike.com cart.
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/257360105/Shopping-Cart-Nike.png?version=2&modificationDate=1514422847411&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Interface Design Patterns (DRAFT) > Shopping-Cart-Nike.png")
+![](//media.balsamiq.com/img/support/ui101/patterns/Shopping-Cart-Nike.png)
 
 ### Tattly cart, which use Shopify for ecommerce.
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/257360105/Shopping-Cart-Tattly.png?version=1&modificationDate=1514422879566&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Interface Design Patterns (DRAFT) > Shopping-Cart-Tattly.png")
+![](//media.balsamiq.com/img/support/ui101/patterns/Shopping-Cart-Tattly.png)
 
 ### Comparison
 
 In both of these examples, the design pattern is based on using the shopping cart as a metaphor for temporarily holding things you are going to purchase. There's a common iconography that's been established, there's usually an indicator of the number of items being held, and an assumption that the next step is to "check out" as one would do in the physical world at a store.
 
-![](https://balsamiq.atlassian.net/wiki/download/thumbnails/257360105/Examples.png?version=1&modificationDate=1513979970022&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Interface Design Patterns (DRAFT) > Examples.png")
+![](//media.balsamiq.com/img/support/ui101/patterns/Examples.png)
 
 There are only subtle variations between these experiences.
 

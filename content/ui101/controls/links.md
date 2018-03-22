@@ -1,9 +1,10 @@
 ---
-title: Links
+title: "Links"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 235
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Hyperlinks continue to be central to navigation on the web, such that not adhering to best practices can break the usability of your site or app. <!--more-->

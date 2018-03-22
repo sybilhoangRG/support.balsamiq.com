@@ -1,12 +1,10 @@
 ---
-title: Process
+title: "Process"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 601
 product: "UI Design 101"
 ---
-
-# Intro
 
 The previous chapters were all about how to design user interfaces.
 
@@ -18,7 +16,7 @@ The process is a little different if you're not creating something completely ne
 
 We'll highlight those differences along the way.
 
-# Step 1: Gather Requirements
+## Step 1: Gather Requirements
 
 So it happened: an idea for a new product or feature landed on your lap and you have to design a solution for it.
 
@@ -77,7 +75,7 @@ Useful links to learn more about requirement gathering:
 *   [Gathering Product Requirements | The Art & Science of Product Management](https://product-wisdom.com/2013/02/27/gathering-product-requirements/)
 *   [Using Mockups in your Agile User Stories | The Balsamiq Blog](https://blog.balsamiq.com/using-mockups-in-your-agile-user-stories/)
 
-# Step 2: Sketch Out Ideas
+## Step 2: Sketch Out Ideas
 
 This is the funnest part, the most creative of the whole process.
 
@@ -122,7 +120,7 @@ Useful links about sketching user interfaces:
 *   [How to Draw Quick, Useful UI Sketches](https://www.slideshare.net/LaneHalley/how-to-draw-quick-useful-ui-sketches/26-Warmup_timeLets_draw_some_shapes)
 *   [UI Sketching Conventions - YouTube](https://www.youtube.com/watch?v=MwidSAlbEB8)
 
-# Step 3: Submit Your Proposals to the Core Group
+## Step 3: Submit Your Proposals to the Core Group
 
 Once you have a few sketches, it's time to go back to the stakeholders for a quick check-in, to see if the direction you've gone in makes sense to everyone.
 
@@ -138,7 +136,7 @@ Make sure to take good notes as you do this round of feedback - put them on your
 
 If some of the feedback is great, "obvious" and non-controversial, go ahead and incorporate it in your design right away, you don't have to wait until you've spoken to everyone.
 
-# Step 4: Incorporate Feedback Into Wireframes
+## Step 4: Incorporate Feedback Into Wireframes
 
 Now it's time to turn your sketches into proper wireframes.
 
@@ -166,7 +164,7 @@ Useful links about wireframing:
 *   [What is Wireframing and How It Can Improve Communication with Freelance Developers | Codementor Blog](https://www.codementor.io/blog/what-is-wireframing-2cs7dp0k6y)
 *   [What Are Wireframes? - Balsamiq Support Portal](https://support.balsamiq.com/resources/whatarewireframes/)
 
-# Step 5: Pitch to the Larger Group
+## Step 5: Pitch to the Larger Group
 
 Once you've worked on your design for a couple of days, and maybe circulated it electronically with the core team one more time for final review, it's time to present it to everyone.
 
@@ -180,7 +178,7 @@ Walk people through each of the screens you designed, one by one. Try to keep th
 
 If you did your job well involving the core team over and over ahead of the meeting, this presentation should be a breeze.
 
-# Step 6 (optional, discouraged): Make a High-Fidelity Prototype
+## Step 6 (optional, discouraged): Make a High-Fidelity Prototype
 
 Back in the days of waterfall, when 18-month release cycles were the norm, building prototypes was a great way to reduce the risk that your solution - even if well thought-out and approved by your team - would miss the mark with customers.
 
@@ -204,7 +202,7 @@ You should try and see what's best for you and your company.
 
 If you do this step, expect to add at least a few weeks to the schedule.
 
-# Step 7: Work with Developers!
+## Step 7: Work with Developers!
 
 Alright so you have the green light, now it's time to work closely with development to make sure that your designs get built faithfully.
 
@@ -222,7 +220,7 @@ Schedule weekly (or even daily!) check-ins with the developers, to see how work 
 
 **Don't be afraid to go back to wireframing!** If you notice parts of your design not feeling quite right once they've been implemented in real code, go back to your wireframes and tweak the design to make it work! Life is full of compromises after all.
 
-# Step 8: Help With Testing, Deployment and Marketing!
+## Step 8: Help With Testing, Deployment and Marketing!
 
 As the feature gets close to being ready, you'll be in a great position to help answer questions about the feature from different stakeholders.
 
@@ -230,7 +228,7 @@ Marketing will want to know how to highlight the feature, the documentation team
 
 You'll be very popular, and like a proud parent, you'll see your new feature get released to the world. Yay!
 
-# Step 9: Monitor How It's Received!
+## Step 9: Monitor How It's Received!
 
 It's amazing how many people don't do this, or don't even consider doing this.
 
@@ -240,7 +238,7 @@ But if you don't know if your feature is well received by the end users, how wil
 
 There are many ways to see if a feature was successful: you can track usage via metrics, you can look for mentions of it on Twitter, or - our favorite way - you can interview your users about it!
 
-# Outro
+## Outro
 
 That's it. We hope this brief high level outline helped you in preparing for what the life of a UI designer - even a non-professional one - is like when taking something from idea to production.
 

@@ -1,10 +1,12 @@
 ---
-title: Tooltips
+title: "Tooltips"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 270
 product: "UI Design 101"
+parent: "controls"
 ---
+
 Tooltips are a common form of contextual help that leverage the "details on demand" UX pattern.<!--more-->
 
 They are a great way to help novices without disrupting experienced users. A classic use case for tooltips is to show keyboard shortcuts when a user hovers over an action button.

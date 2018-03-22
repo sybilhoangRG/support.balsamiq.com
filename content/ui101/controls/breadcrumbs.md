@@ -1,9 +1,10 @@
 ---
-title: Breadcrumbs
+title: "Breadcrumbs"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 245
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Breadcrumbs are a compact way to show a site or application hierarchy. They are unobtrusive and not distracting.<!--more-->

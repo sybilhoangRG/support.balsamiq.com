@@ -1,9 +1,10 @@
 ---
-title: Icons
+title: "Icons"
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 285
 product: "UI Design 101"
+parent: "controls"
 ---
 
 Icons are everywhere, both in software and outside of it. The power of an image helps users identify things quickly and accurately.<!--more-->
