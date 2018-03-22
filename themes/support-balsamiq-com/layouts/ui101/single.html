@@ -10,7 +10,7 @@
 
   <div class="local-nav local-nav-1 hidden-xs hidden-sm col-md-3">
     <div id="sidebar-box">
-		{{ partial "sidebar.html" . }}
+		{{ partial "sidebar-ui101.html" . }}
     {{ partial "sidebar_inpage.html" . }}
     </div>
   </div>
@@ -24,11 +24,18 @@
           <div class="article-content content article">
             {{ .Content }}
             {{ if eq .File.TranslationBaseName "controls"}}
+            <div id="filterlist" class="row gallery" style="max-width:1000px;margin:0 auto;">
               {{ range where .Site.Pages "Section" "ui101" }}
               {{ if eq .File.Dir "ui101/controls/" }}
-                {{ .Render "li"}}
+                {{/* {{ .Render "li"}} */}}
+                         <div class="fitem col-xs-12 col-sm-6 col-md-4">
+                           <div class="gallery-item">
+                           <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong><p>{{ .Summary | plainify | htmlUnescape }}</p>
+                         </div></div>
+                     </div>
               {{ end }}
               {{ end }}
+              </div>
               {{ else if eq .File.TranslationBaseName "principles"}}
                 {{ range where .Site.Pages "Section" "ui101" }}
                 {{ if eq .File.Dir "ui101/principles/" }}

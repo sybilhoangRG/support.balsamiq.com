@@ -25,15 +25,13 @@ In cooking we combine ingredients to prepare a dish. Let's say for instance, we'
 
 This is very much like using design patterns. We have a general model for how to create this dish to make it recognizable. We can add or subtract from those ingredients and how they're put together to make it unique.
 
-  
-
 - - -
 
-# Elements of a Design Pattern
+## Elements of a Design Pattern
 
 Design Patterns are typically written with a common set of attributes that looks something like this:
 
-## Design Pattern Model
+### Design Pattern Model
 
 *   **Pattern Name (and description)**
     *   A label that provides a clear way to communicate and reference this pattern, particularly when discussing it with colleagues.
@@ -52,7 +50,7 @@ Design Patterns are typically written with a common set of attributes that looks
 
 - - -
 
-# Design Pattern Example
+## Design Pattern Example
 
 Let's explore writing a design pattern for a website Shopping Cart component into this model. This seems like an obvious description of a very familiar component.
 
@@ -105,6 +103,7 @@ While shopping on an online store the user may select items to purchase, but wan
 *   Crate and Barrel
 
   
+---
 
 ## Examples
 
@@ -112,7 +111,7 @@ Let's look at two of the Shopping Cart examples listed above and go a little fur
 
 We'll look at the point where a customer decides to purchase a product using the Shpping Cart metaphor in two sites: the [Nike](https://store.nike.com/) Store and [Tatt.ly](https://tattly.com/) a site that uses Shopify.
 
-### NIke.com cart.
+### Nike.com cart.
 
 ![](https://balsamiq.atlassian.net/wiki/download/thumbnails/257360105/Shopping-Cart-Nike.png?version=2&modificationDate=1514422847411&cacheVersion=1&api=v2&height=250 "The Balsamiq Wiki > Interface Design Patterns (DRAFT) > Shopping-Cart-Nike.png")
 
@@ -137,7 +136,7 @@ In both Nike and [Tatt.ly](http://Tatt.ly) (Shopify), there's the same general b
 
 - - -
 
-# Using and Creating Your Own Patterns
+## Using and Creating Your Own Patterns
 
 It's likely that many of the interfaces you see were probably designed with a common design pattern in mind. The Cart example is one that is copied often because it's based on an understanding leveraging the recognizability of this pattern. It puts users at ease, because they have expectations for how online shopping works, and it satisfies business needs to make the experience as frictionless as possible, while also looking for valuable add on sale opportunities.
 
@@ -157,7 +156,9 @@ You'll find many potential solutions for your own design problem in our [Design 
 
 *   "Elements of a Design Pattern," by Jared Spool. User Interface Engineering. [https://articles.uie.com/elements\_of\_a\_design\_pattern/](https://articles.uie.com/elements_of_a_design_pattern/)
 
-## Footnotes
+---
+
+### Footnotes
 
 1.  Fish Tacos: [https://www.youtube.com/watch?v=lk94Fe6auDU&index=68](https://www.youtube.com/watch?v=lk94Fe6auDU&index=68)
 2.  Origin of Design Pattern: A design pattern in architecture and computer science is a formal way of documenting a solution to a design problem in a particular field of expertise. The idea was introduced by the architect Christopher Alexander in the field of architecture, and has been adapted for various other disciplines, including computer science. An organized collection of design patterns that relate to a particular field is called a pattern language.

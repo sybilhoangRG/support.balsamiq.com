@@ -6,7 +6,7 @@ weight: 101
 product: "UI Design 101"
 ---
 
-# What is UI Design?
+## What is UI Design?
 
 It's surprisingly hard to define. The crowdsourced (i.e., [wikipedia](https://en.wikipedia.org/wiki/User_interface_design)) definition seems to boil down to "user interface design is the design of software user interfaces," which isn't very enlightening.
 
@@ -27,6 +27,8 @@ Lastly, we'll cover some lessons on the UI design process that can help bridge t
 
 So, let's begin by stepping into the shoes of a UI designer to see how they might approach this website UI.
 
+--- 
+
 ## UI Design Layer 1: Controls
 
 First of all, we can simplify this page by viewing it as a [wireframe](https://support.balsamiq.com/resources/whatarewireframes/).
@@ -41,7 +43,7 @@ Now let's look at some of the UI **Controls** that were used to build this page:
 
 Each one of these controls was selected for a specific reason. UI design is concerned with the process and rationale of choosing controls. In this course we'll learn how this is done.
 
-  
+---
 
 ## UI Design Layer 2: Patterns
 
@@ -49,13 +51,13 @@ We can further simplify this page by decreasing the fidelity (add link) of our w
 
 ![](https://balsamiq.atlassian.net/wiki/download/attachments/340066328/sketch.png?version=1&modificationDate=1519415892124&cacheVersion=1&api=v2 "The Balsamiq Wiki > Introduction: UI Deconstructed > sketch.png")
 
-  
-
 Now let's think about the groups of controls and what purpose they serve as units within the page. A UI **Pattern** is a group of controls that function to solve a particular problem. Let's look at some of the patterns on this page:
 
 ![](https://balsamiq.atlassian.net/wiki/download/attachments/340066328/patterns-sketch.png?version=1&modificationDate=1519416061005&cacheVersion=1&api=v2 "The Balsamiq Wiki > Introduction: UI Deconstructed > patterns-sketch.png")
 
 It can be useful to consider this layer of UI design before moving on to the level of controls, as each pattern can meet its goals in different ways and using different controls.
+
+---
 
 ## UI Design Layer 3: Design Principles
 
@@ -69,6 +71,8 @@ One way that UI designers evaluate them is using the ["squint test"](http://blog
 
 Either way, the goal is to take your attention away from the content in order to focus on the visual effects and techniques.
 
+---
+
 ## UI Design Layer 4: Templates
 
 Finally, looking at this site as a whole, we can view this page as an instance of a **template** that can be reused across the site, rather than a single page that was designed for this particular article of clothing. For a site or product than can have dozens, or even thousands, of screens, it is useful both from the designer/developer and the end-user perspectives to have screens that behave predictably and look similar across the entire application. The example we've been looking at could be described as a "product view" template that would look very similar when any other product is viewed. Another UI template is the "browse / filter" template, shown here.
@@ -77,13 +81,13 @@ Finally, looking at this site as a whole, we can view this page as an instance o
 
 Other templates for this site might include one for checking out and another for the homepage. While every product may use different types of templates, all software types can benefit from a template-based approach to design.
 
-# The Cooking Analogy
+---
+
+## The Cooking Analogy
 
 Outside of the digital world, the work of a UI designer parallels how a chef might view their own role, and we'll refer to this analogy throughout this course. A chef combines ingredients (**_controls_**) to make individual dishes (**_patterns_**), that go together to create a meal that can be standardized and replicated (_**templates**_). Along the way, they will follow established cooking techniques (_**principles**_) to ensure that each ingredient is used for deliberate effect. (put [_mise-en-place_](/wiki/spaces/intranet/pages/270599438/The+cooking+analogy) concept in here too)
 
-![](https://balsamiq.atlassian.net/wiki/download/attachments/340066328/Overview%20(1).png?version=1&modificationDate=1519340468524&cacheVersion=1&api=v2 "The Balsamiq Wiki > Introduction: UI Deconstructed > Overview (1).png")
-
-  
+![](https://balsamiq.atlassian.net/wiki/download/attachments/340066328/Overview%20(1).png)
 
 Finally, for a restaurant chef to be successful, they must figure out how to prepare food that comes out on time, in the right order, at the right temperature, and that is consitent across visits (_**process**_).
 
