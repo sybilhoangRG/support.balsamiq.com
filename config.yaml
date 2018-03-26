@@ -1,5 +1,5 @@
 ---
-baseurl: http://supportstaging.balsamiq.com
+baseurl: http://support-ui101.balsamiq.com/
 config: config.yaml
 languagecode: en-us
 metadataformat: yaml

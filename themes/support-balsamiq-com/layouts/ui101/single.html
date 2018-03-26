@@ -19,7 +19,11 @@
     <div id="support-main">
       <div class="support-body">
         <article>
-          <h1 class="title">{{ .Title }}</h1>
+        {{ if .Params.product }}
+        <h5 class="subtitle"><a href='/ui101/'>{{ .Params.product }}</a></h5>
+        {{ else }}
+        {{ end }}
+          <h1 class="title mt0">{{ .Title }}</h1>
           <div class="breadcrumbs visible-xs visible-sm">{{ partial "breadcrumbs.html" . }}</a></div>
           <div class="article-content content article">
             {{ .Content }}
@@ -37,11 +41,11 @@
               {{ end }}
               </div>
               {{ else if eq .File.TranslationBaseName "principles"}}
-                {{ range where .Site.Pages "Section" "ui101" }}
+                {{/* {{ range where .Site.Pages "Section" "ui101" }}
                 {{ if eq .File.Dir "ui101/principles/" }}
                   {{ .Render "li"}}
                 {{ end }}
-                {{ end }}
+                {{ end }} */}}
             {{ end }}
           </div>
 
