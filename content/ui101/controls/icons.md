@@ -5,6 +5,7 @@ menu: menuui101
 weight: 285
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/icons/
 ---
 
 Icons are everywhere, both in software and outside of it. The power of an image helps users identify things quickly and accurately.<!--more-->

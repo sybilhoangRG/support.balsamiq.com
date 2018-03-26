@@ -5,6 +5,7 @@ menu: menuui101
 weight: 225
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/dropdown/
 ---
 
 The control with many names! A dropdown menu gives you a list of items to select from. It is versatile and familiar.<!--more-->

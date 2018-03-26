@@ -5,6 +5,7 @@ menu: menuui101
 weight: 210
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/buttons/
 ---
 
 Designing buttons may seem obvious, but they are surprisingly complex and there are a few tricky things to look out for.<!--more-->

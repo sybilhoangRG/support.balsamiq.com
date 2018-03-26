@@ -5,6 +5,7 @@ menu: menuui101
 weight: 240
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/tabs/
 ---
 
 Tabs can be a smart way to break up content into sections, but its use is a double-edged sword.<!--more-->

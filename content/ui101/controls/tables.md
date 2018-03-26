@@ -5,6 +5,7 @@ menu: menuui101
 weight: 280
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/tables/
 ---
 
 Data tables, also called table views, tables, and data grids use columns and rows to **display related information in a grid**.<!--more-->

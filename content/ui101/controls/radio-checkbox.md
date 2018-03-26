@@ -5,6 +5,7 @@ menu: menuui101
 weight: 230
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/radio-checkbox/
 ---
 
 Radio button and checkbox controls each allow users to select items from a list. Despite that, they have different uses and guidelines.<!--more-->

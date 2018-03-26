@@ -5,6 +5,7 @@ menu: menuui101
 weight: 245
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/breadcrumbs/
 ---
 
 Breadcrumbs are a compact way to show a site or application hierarchy. They are unobtrusive and not distracting.<!--more-->

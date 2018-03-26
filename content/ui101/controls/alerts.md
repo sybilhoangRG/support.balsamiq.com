@@ -5,6 +5,7 @@ menu: menuui101
 weight: 275
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/alerts/
 ---
 
 Any UI control that captures the user's attention can be thought of as an alert. They should be used wisely so they aren't overwhelming.<!--more-->

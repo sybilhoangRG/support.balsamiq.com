@@ -5,6 +5,7 @@ menu: menuui101
 weight: 250
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/verticalnavigation/
 ---
 
 Vertical (a.k.a. "Sidebar") navigation is a way of showing a persistent site or application structure along one side of the product.<!--more-->

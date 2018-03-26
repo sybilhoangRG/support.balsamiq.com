@@ -5,6 +5,7 @@ menu: menuui101
 weight: 265
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/validation/
 ---
 
 Validation is often used as a light-weight alternative to [alerts](../alerts/). It is a great way to present feedback or guidance with limited interruption.<!--more-->

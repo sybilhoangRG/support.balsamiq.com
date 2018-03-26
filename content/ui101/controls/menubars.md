@@ -5,6 +5,7 @@ menu: menuui101
 weight: 255
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/menubars/
 ---
 
 Menu bars allow users to navigate using categories and sub-categories. They are persistent and unchanging across the app.<!--more-->

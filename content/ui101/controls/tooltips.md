@@ -5,6 +5,7 @@ menu: menuui101
 weight: 270
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/tooltips/
 ---
 
 Tooltips are a common form of contextual help that leverage the "details on demand" UX pattern.<!--more-->

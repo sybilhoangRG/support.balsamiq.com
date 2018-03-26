@@ -5,6 +5,7 @@ menu: menuui101
 weight: 215
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/text-input/
 ---
 
 Text input fields allow keyboard input from the user. They as not as simple as they seem.<!--more-->

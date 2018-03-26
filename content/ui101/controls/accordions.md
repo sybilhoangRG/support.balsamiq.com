@@ -5,6 +5,7 @@ menu: menuui101
 weight: 260
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/accordions/
 ---
 
 Accordions are stacked containers with nested items that expand and collapse when clicked or tapped.<!--more-->

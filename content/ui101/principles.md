@@ -16,8 +16,6 @@ Separate ingredients don't usually make an interesting dish by themselves. The s
 
 In design we have something like that too, and it's based on somewhat **universal principles that make communication with design effective**.
 
-  
-
 - - -
 
 ## What are Design Principles?

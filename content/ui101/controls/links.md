@@ -5,6 +5,7 @@ menu: menuui101
 weight: 235
 product: "UI Design 101"
 parent: "controls"
+aliases: /ui101/links/
 ---
 
 Hyperlinks continue to be central to navigation on the web, such that not adhering to best practices can break the usability of your site or app. <!--more-->
