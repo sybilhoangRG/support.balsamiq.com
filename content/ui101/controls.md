@@ -4,6 +4,7 @@ date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 201
 product: "UI Design 101"
+chapter: "controls"
 ---
 
 User interface (UI) controls are like the ingredients in a recipe. Learn their unique flavors and characteristics and you can improvise, customize, and substitute to meet your needs (or those of your specific users). Get to know them well enough and you can start creating your own recipes (design patterns) from scratch.

@@ -1,19 +1,32 @@
 {{/* LEFT SIDEBAR */}}
 {{ $currentNode := . }}
 {{ $thisSection := .Params.menu }}
-<h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> {{ .Params.product }}</a></h5>
-<ul id="doc-menu" class="collapse">
-  {{ range (index .Site.Menus $thisSection) }}
-  {{ if .Page.Params.parent }}
-  <ul>
-  <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}>
-<a href="{{.URL}}"> {{ .Name }}  </a>
-  </li>
-  </ul>
-  {{ else }}
-  <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}>
-<a href="{{.URL}}"> {{ .Name }}  </a>
-  </li>
-  {{ end }}
+<h4><a href="/ui101/">{{ .Params.product }}</a></h4>
+<ol id="doc-menu">
+  {{ range after 1 (index .Site.Menus $thisSection) }}
+    {{ if eq .Page.Params.parent nil}}
+      <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}>
+        <a href="{{.URL}}"> {{ .Name }}  </a>
+      </li>
+
+    {{ else if and (ge $currentNode.Params.weight 200) (lt $currentNode.Params.weight 300)}}
+    <ul>
+    {{ if eq .Page.Params.parent "controls" }}
+      <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}>
+        <a href="{{.URL}}"> {{ .Name }} </a>
+      </li>
+      {{ end }}
+     </ul>
+
+    {{ else if and (ge $currentNode.Params.weight 400) (lt $currentNode.Params.weight 500)}}
+    <ul>
+    {{ if eq .Page.Params.parent "principles" }}
+      <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}>
+        <a href="{{.URL}}"> {{ .Name }} </a>
+      </li>
+      {{ end }}
+        </ul>
+        {{ else }}
     {{ end }}
-</ul>
+    {{ end }}
+</ol>
