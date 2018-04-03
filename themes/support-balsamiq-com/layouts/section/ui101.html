@@ -23,7 +23,7 @@
   {{ range first 3 (where .Data.Pages.ByWeight ".Params.parent" "=" nil) }}
   <div class="col-xs-12 col-md-4">
 <div class="list-group">
-      <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://via.placeholder.com/250x175"><br>{{$.Scratch.Get "counter"}}. {{ .Title }}</a></h4>
+      <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://via.placeholder.com/250x175"><br>{{ .Title }}</a></h4>
 <!--             <p>{{ .Summary }}</p> -->
 </div>
   </div>
@@ -34,7 +34,7 @@
   {{ range first 3 (after 3 (where .Data.Pages.ByWeight ".Params.parent" "=" nil)) }}
   <div class="col-xs-12 col-md-4">
 <div class="list-group">
-      <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://via.placeholder.com/250x175"><br>{{$.Scratch.Get "counter"}}. {{ .Title }}</a></h4>
+      <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://via.placeholder.com/250x175"><br>{{ .Title }}</a></h4>
 <!--             <p>{{ .Summary }}</p> -->
 </div>
   </div>

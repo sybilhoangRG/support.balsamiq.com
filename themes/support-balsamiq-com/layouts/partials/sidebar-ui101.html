@@ -2,6 +2,8 @@
 {{ $currentNode := . }}
 {{ $thisSection := .Params.menu }}
 <h4><a href="/ui101/">{{ .Params.product }}</a></h4>
+{{/* {{ $.Scratch.Set "controls_counter" 1 }}
+{{ $.Scratch.Set "principles_counter" 1 }} */}}
 <ol id="doc-menu">
   {{ range after 1 (index .Site.Menus $thisSection) }}
     {{ if eq .Page.Params.parent nil}}
@@ -13,20 +15,22 @@
     <ul>
     {{ if eq .Page.Params.parent "controls" }}
       <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}>
-        <a href="{{.URL}}"> {{ .Name }} </a>
+        <a href="{{.URL}}">{{ .Name }} </a>
       </li>
       {{ end }}
      </ul>
 
     {{ else if and (ge $currentNode.Params.weight 400) (lt $currentNode.Params.weight 500)}}
+
     <ul>
     {{ if eq .Page.Params.parent "principles" }}
       <li{{if $currentNode.IsMenuCurrent $thisSection . }} class="active"{{end}}>
-        <a href="{{.URL}}"> {{ .Name }} </a>
+        <a href="{{.URL}}">{{ .Name }} </a>
       </li>
       {{ end }}
         </ul>
-        {{ else }}
+    {{ else }}
     {{ end }}
+
     {{ end }}
 </ol>

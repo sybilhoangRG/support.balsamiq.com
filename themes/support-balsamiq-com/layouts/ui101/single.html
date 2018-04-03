@@ -23,7 +23,8 @@
         <h5 class="subtitle"><a href='/ui101/'>{{ .Params.product }}</a></h5>
         {{ else }}
         {{ end }}
-          <h1 class="title mt0">{{ .Title }}</h1>
+          <h1 class="title mt0">{{ if .Params.parent }}The {{.Title | singularize }} {{.Params.parent | singularize | title }}{{ else }}{{ .Title }}{{ end }}</h1>
+          {{/* <small>Reading time: {{ .ReadingTime }} minutes</small> */}}
           {{/* <ul class="pager" style="margin-top:-65px;">
             <li class="next">
               {{ if .PrevInSection }}
