@@ -24,6 +24,13 @@
         {{ else }}
         {{ end }}
           <h1 class="title mt0">{{ .Title }}</h1>
+          {{/* <ul class="pager" style="margin-top:-65px;">
+            <li class="next">
+              {{ if .PrevInSection }}
+              <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}} <span aria-hidden="true">&rarr;</span></a>
+              {{ end }}
+            </li>
+          </ul> */}}
           <div class="breadcrumbs visible-xs visible-sm">{{ partial "breadcrumbs.html" . }}</a></div>
           <div class="article-content content article">
             {{ .Content }}
@@ -50,7 +57,7 @@
           </div>
 
           <hr>
-          <nav class="section-pager">
+          {{/* <nav class="section-pager"> */}}
             <ul class="pager">
               <li class="previous">
               {{ if .NextInSection }}
@@ -63,7 +70,7 @@
 								{{ end }}
               </li>
             </ul>
-          </nav>
+          {{/* </nav> */}}
           <hr>
           <span class="gray t36">
           <a href="https://twitter.com/intent/tweet/?text={{ .Title }}&url={{ .Permalink }}&via=balsamiq" target="_blank" class="js-social-share"><i class="ss-icon ss-social-circle red">&#xF611;</i></a>
