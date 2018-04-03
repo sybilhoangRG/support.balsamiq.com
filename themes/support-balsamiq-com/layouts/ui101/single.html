@@ -23,7 +23,7 @@
         <h5 class="subtitle"><a href='/ui101/'>{{ .Params.product }}</a></h5>
         {{ else }}
         {{ end }}
-          <h1 class="title mt0">{{ if .Params.parent }}The {{.Title | singularize }} {{.Params.parent | singularize | title }}{{ else }}{{ .Title }}{{ end }}</h1>
+          <h1 class="title mt0">{{ if .Params.parent }}<a href="../">{{.Params.parent | singularize | title }}:</a> {{ end }}{{ .Title }}</h1>
           {{/* <small>Reading time: {{ .ReadingTime }} minutes</small> */}}
           {{/* <ul class="pager" style="margin-top:-65px;">
             <li class="next">
@@ -34,19 +34,22 @@
           </ul> */}}
           <div class="breadcrumbs visible-xs visible-sm">{{ partial "breadcrumbs.html" . }}</a></div>
           <div class="article-content content article">
+          {{/* {{ partial "sidebar_inpage-ui101.html" . }} */}}
             {{ .Content }}
             {{ if eq .File.TranslationBaseName "controls"}}
-            <div id="filterlist" class="row gallery" style="max-width:1000px;margin:0 auto;">
+            <div class="doc-overview">
+            <ul id="list">
               {{ range where .Site.Pages "Section" "ui101" }}
               {{ if eq .File.Dir "ui101/controls/" }}
-                {{/* {{ .Render "li"}} */}}
-                         <div class="fitem col-xs-12 col-sm-6 col-md-4">
+                {{ .Render "li"}}
+                         {{/* <div class="fitem col-xs-12 col-sm-6 col-md-4">
                            <div class="gallery-item">
                            <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong><p>{{ .Summary | plainify | htmlUnescape }}</p>
                          </div></div>
-                     </div>
+                     </div> */}}
               {{ end }}
               {{ end }}
+              </ul>
               </div>
               {{ else if eq .File.TranslationBaseName "principles"}}
                 {{/* {{ range where .Site.Pages "Section" "ui101" }}
@@ -57,7 +60,7 @@
             {{ end }}
           </div>
 
-          <hr>
+          {{/* <hr> */}}
           {{/* <nav class="section-pager"> */}}
             <ul class="pager">
               <li class="previous">

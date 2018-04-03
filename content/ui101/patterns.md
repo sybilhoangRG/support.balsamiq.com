@@ -10,7 +10,7 @@ product: "UI Design 101"
 
 A design pattern is a reusable solution to a commonly occurring problem. As a recipe in cooking provides the ingredients and structure that make up a recognizable dish, so too does a design pattern provide an identifiable and predictable solution to an interface design problem.
 
-The idea of design patterns initially came from architecture and programming, where the idea was to optimize solutions that are known to work well within given contexts. (Footnote 2) Solutions that emerged frequently enough became recognized as a formula that can be reused.
+The idea of design patterns initially came from architecture and programming, where the idea was to optimize solutions that are known to work well within given contexts.[^Footnote 2] Solutions that emerged frequently enough became recognized as a formula that can be reused.
 
 Structural and behavioral features of a pattern are familiar to users. Your team can leverage this knowledge, rather than re-inventing the wheel, to provide greater ease and use of their product. It's good to point out, however, that while design patterns are useful for informing design decisions around your particular problem, you may likely need to modify them around your users' and business' needs.
 
@@ -21,7 +21,7 @@ We're going to start by taking a look at a design pattern, look at a few example
 
 ## Sidebar
 
-In cooking we combine ingredients to prepare a dish. Let's say for instance, we're planning to make a fish taco meal. If you're familiar with this dish, you know that you'll usually prepare it with a flaky fish like Cod perhaps, tortillas, different seasonings, oil, salsa and maybe sliced lime for garnish. There are different ways to add to this dish to make it yours, but the basic combination of ingredients make a fish taco pretty unmistakeable. (Footnote 1 - Fish Taco Recipe)
+In cooking we combine ingredients to prepare a dish. Let's say for instance, we're planning to make a fish taco meal. If you're familiar with this dish, you know that you'll usually prepare it with a flaky fish like Cod perhaps, tortillas, different seasonings, oil, salsa and maybe sliced lime for garnish. There are different ways to add to this dish to make it yours, but the basic combination of ingredients make a fish taco pretty unmistakeable.[^Footnote 1 - Fish Taco Recipe]
 
 This is very much like using design patterns. We have a general model for how to create this dish to make it recognizable. We can add or subtract from those ingredients and how they're put together to make it unique.
 
@@ -152,13 +152,10 @@ You'll find many potential solutions for your own design problem in our [Design 
 
 - - -
 
-## Learn More
+## Further Reading
 
-*   "Elements of a Design Pattern," by Jared Spool. User Interface Engineering. [https://articles.uie.com/elements\_of\_a\_design\_pattern/](https://articles.uie.com/elements_of_a_design_pattern/)
+* ["Elements of a Design Pattern," by Jared Spool](https://articles.uie.com/elements_of_a_design_pattern/)
 
----
 
-### Footnotes
-
-1.  Fish Tacos: [https://www.youtube.com/watch?v=lk94Fe6auDU&index=68](https://www.youtube.com/watch?v=lk94Fe6auDU&index=68)
-2.  Origin of Design Pattern: A design pattern in architecture and computer science is a formal way of documenting a solution to a design problem in a particular field of expertise. The idea was introduced by the architect Christopher Alexander in the field of architecture, and has been adapted for various other disciplines, including computer science. An organized collection of design patterns that relate to a particular field is called a pattern language.
+[^Footnote 1 - Fish Taco Recipe]: Recipe for Fish Tacos: [https://www.youtube.com/watch?v=lk94Fe6auDU&index=68](https://www.youtube.com/watch?v=lk94Fe6auDU&index=68)
+[^footnote 2]: Origin of Design Pattern: A design pattern in architecture and computer science is a formal way of documenting a solution to a design problem in a particular field of expertise. The idea was introduced by the architect Christopher Alexander in the field of architecture, and has been adapted for various other disciplines, including computer science. An organized collection of design patterns that relate to a particular field is called a pattern language.
