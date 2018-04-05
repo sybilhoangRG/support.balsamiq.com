@@ -23,7 +23,7 @@ Drawbacks are that users can't see all the options at once and it can take time 
 
 According to the U.S. Web Design Standards, the [optimal number of items in a dropdown menu is between **seven and 15**](https://standards.usa.gov/components/form-controls/#dropdown). It suggests using [radio buttons or checkboxes](../radio-checkbox/) for shorter lists.
 
-An exception is when the list is familiar so that users can expect to know the contents before opening it, such as days or months of the year, states/provinces, or countries. "For example, if you have an option menu labelled 'Month:' with the item 'January' selected, the user might reasonably infer that the menu contains the 12 months of the year without having to look." ([GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/drop-down-lists.html.en))
+An exception is when the list is familiar so that users can expect to know the contents before opening it, such as days or months of the year, states/provinces, or countries. The [GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/drop-down-lists.html.en) use the following example: "if you have an option menu labelled 'Month:' with the item 'January' selected, the user might reasonably infer that the menu contains the 12 months of the year without having to look." 
 
 
 ---
@@ -31,10 +31,10 @@ An exception is when the list is familiar so that users can expect to know the c
 ## How to Use Dropdown Menus
 
 * Order the items logically (e.g., sequential for dates/numbers, alphabetical for countries).
-* Display a meaningful default selection. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/combo-boxes/) (*Pre-selecting an item can be dangerous, however, since you can't verify whether the user chose it deliberately. When in doubt, default to no selection.*)
-* Avoid making options in one dropdown menu change based on the input to another. Users often don’t understand how selecting an item in one impacts another. [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/form-controls/#dropdown)
+* [Display a meaningful default selection.](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/combo-boxes/ "macOS Human Interface Guidelines") (*Note: Pre-selecting an item can be dangerous, however, since you can't verify whether the user chose it deliberately. When in doubt, default to no selection.*)
+* [Avoid making options in one dropdown menu change based on the input to another.](https://standards.usa.gov/components/form-controls/#dropdown "U.S. Web Design Standards") Users often don’t understand how selecting an item in one impacts another. 
 * Allow users to click anywhere on the control to open it, rather than only the arrow.
-* Use grouping or categorization when it makes sense (see [option group variation below](#variations)). Group headings or separators should not be selectable, however (*in HTML, this can be achieved using the [&lt;optgroup&gt;](https://www.w3schools.com/tags/tag_optgroup.asp) tag*).
+* Use grouping or categorization when it makes sense (see [option group variation below](#variations)). Group headings or separators should not be selectable, however. (*In HTML, this can be achieved using the [&lt;optgroup&gt;](https://www.w3schools.com/tags/tag_optgroup.asp) tag*.)
 
 See this [Nielsen Norman Group article about dropdowns](https://www.nngroup.com/articles/drop-down-menus/) for more helpful guidelines.
 

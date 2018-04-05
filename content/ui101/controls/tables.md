@@ -42,7 +42,7 @@ Here is a typical numerical data table:
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/espn-tables.png)
 
-Tables like the one below with actions, links, and buttons are common in enterprise, CRM, and other business applications *([image source](https://uxdesign.cc/designing-better-tables-for-enterprise-applications-f9ef545e9fbd))*:
+Tables [like the one below](https://uxdesign.cc/designing-better-tables-for-enterprise-applications-f9ef545e9fbd) with actions, links, and buttons are common in enterprise, CRM, and other business applications:
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/enterprise-tables.png)
 
@@ -54,24 +54,24 @@ The [Google Material Design guidelines](https://material.io/guidelines/component
 
 ## How to Use Data Tables
 
-* Use a header row with descriptive titles. *([macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))*
-* Let people click column headings to sort a table view if it provides value. *([macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))*
-* Clicking once on a column heading should apply "natural" sort order (e.g., alphabetical, smallest number first, earliest date first, checked items first) and show a *down* arrow. Clicking again should reverse the order and show an *up* arrow. *([GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/lists.html.en))*
-* Alternate row colors for large tables. This is often referred to as "zebra striping". *([macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/))*
-* Checkboxes should accompany each row if the user needs to select or manipulate data. *([Google Material Design guidelines](https://material.io/guidelines/components/data-tables.html))*
+* [Use a header row with descriptive titles.](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/ "macOS Human Interface Guidelines")
+* Let people [click column headings to sort](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/ "macOS Human Interface Guidelines") a table view if it provides value. 
+* [Clicking once on a column heading should apply "natural" sort order](https://developer.gnome.org/hig/stable/lists.html.en "GNOME Human Interface Guidelines") (e.g., alphabetical, smallest number first, earliest date first, checked items first) and show a *down* arrow. Clicking again should reverse the order and show an *up* arrow. 
+* [Alternate row colors for large tables.](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/table-views/ "macOS Human Interface Guidelines") This is often referred to as "zebra striping".
+* Checkboxes should accompany each row [if the user needs to select or manipulate data](https://material.io/guidelines/components/data-tables.html "Google Material Design guidelines").
 * For actions that can only be applied to one row at a time (e.g., edit, view details), standard practice is to provide a link or icon in the last column of the table.
 * Use the [&lt;THEAD&gt; and &lt;TH&gt; HTML tags](https://www.w3schools.com/tags/tag_thead.asp) for header rows for accessibility and easier visual styling.
-* Left-align text and right-align numbers. *([Patternry](http://patternry.com/p=data-table/))*
-* If you have numeric data, keep the level of precision appropriate. The fewer decimals, the less time it takes to scan and understand the data. *([Patternry](http://patternry.com/p=data-table/))*
-* Show only the information that users really need to see, but provide the ability to dig deeper into details if needed. Use Inlays, Overlays, and tooltips for showing details on the same page with the table to maintain user’s flow. *([Patternry](http://patternry.com/p=data-table/))*
-* Consider using floating (i.e., "sticky") header rows for long tables. *([Patternry](http://patternry.com/p=data-table/))*
-* Provide the ability to search within long tables. *([GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/lists.html.en))*
+* [Left-align text and right-align numbers.](http://patternry.com/p=data-table/ "Patternry")
+* If you have numeric data, [keep the level of precision appropriate](http://patternry.com/p=data-table/ "Patternry"). The fewer decimals, the less time it takes to scan and understand the data.
+* Show only the information that users really need to see, but [provide the ability to dig deeper into details if needed](http://patternry.com/p=data-table/ "Patternry"). Use Inlays, Overlays, and tooltips for showing details on the same page with the table to maintain user’s flow. 
+* Consider using [floating (i.e., "sticky") header rows for long tables](http://patternry.com/p=data-table/ "Patternry").
+* Provide the ability to [search within long tables](https://developer.gnome.org/hig/stable/lists.html.en "GNOME Human Interface Guidelines").
 * Pay attention to display density. Having the data too close together makes it hard to read, yet using too much spacing means more scrolling (and more time to find what the reader is looking for).  The [Google Material Design guidelines](https://material.io/guidelines/components/data-tables.html#data-tables-specs) offer some specifications for padding and spacing within tables. You can give users the option to change the display density ([as shown here](https://uxdesign.cc/design-better-data-tables-4ecc99d23356#f194)), but don't use this an an excuse not to pick a good default.
 * Pagination is useful for large data sets, but don't immediately assume that it's needed. Studies have shown that [users don't mind scrolling](http://uxmyths.com/post/654047943/myth-people-dont-scroll) in many cases and showing all the information on one page means that users can search and sort more easily to find what they're looking for.
 * If you use pagination, make sure to show the total number of pages or results. The ability to choose how many rows to show on a page is also useful.
 * Actions that users can perform on the data should be placed around the edges of the table (as shown in the [example below](#basic-usage)). Pagination is usually placed at the bottom, while filtering, sorting, and multi-row actions are often placed in the top-left and/or top-right.
 * If you provide a way to filter or otherwise limit the data, make sure to clearly indicate that a subset of the data is being shown. You can see some [table filter examples here](http://ui-patterns.com/patterns/TableFilter).
-* Use color and decoration sparingly. It can be useful to highlight unexpected data (such as extreme/outlying values or failed actions), but can detract from overall readability. *([A List Apart](https://alistapart.com/article/web-typography-tables))*
+* [Use color and decoration sparingly.](https://alistapart.com/article/web-typography-tables "A List Apart") It can be useful to highlight unexpected data (such as extreme/outlying values or failed actions), but can detract from overall readability. 
 
 More useful guidelines and examples can be found in [this article on designing better data tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) and [this article on designing tables to be readable](https://alistapart.com/article/web-typography-tables).
 
@@ -86,7 +86,7 @@ More useful guidelines and examples can be found in [this article on designing b
 
 ### States
 
-Tables don't have states like other UI controls, but some have cells which can be changed from read-only to editable. In the case of editable cells, they should be visually distinct through a lowered bevel or thicker border *([KDE Human Interface Guidelines](https://community.kde.org/KDE_Visual_Design_Group/HIG/TableView))*.
+Tables don't have states like other UI controls, but some have cells which can be changed from read-only to editable. In the case of editable cells, they should be [visually distinct through a lowered bevel or thicker border](https://community.kde.org/KDE_Visual_Design_Group/HIG/TableView "KDE Human Interface Guidelines").
 
 ### Variations
 
@@ -101,9 +101,3 @@ Most table variations exist for the purposes of showing additional data for a sp
 ![](//media.balsamiq.com/img/support/tutorials/ui101/tables-variations.png)
 
 These details-on-demand variations should be reserved for complex data tables. It is overkill for cases where the user is primarily browsing. A better choice is to carefully consider which information the user needs to see and provide only that data.
-
----
-
-## Related Controls
-
-* Lists

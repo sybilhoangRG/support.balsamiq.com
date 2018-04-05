@@ -31,7 +31,7 @@ Here are some examples:
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/windows-alert.png)
 
-When designing forms, consider using inline [validation](../validation/) instead of (or in addition to) alerts. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/alerts/))
+The [U.S. Web Design Standards](https://standards.usa.gov/components/alerts/) suggest that, when designing forms, consider using inline [validation](../validation/) instead of (or in addition to) alerts. 
 
 ---
 
@@ -41,11 +41,11 @@ The [macOS Human Interface Guidelines](https://developer.apple.com/macos/human-i
 
 More specifically:
 
-* Create specific, actionable, user-centered error messages. Users should either perform an action or change their behavior as the result of the message. [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Messages)
+* [Create specific, actionable, user-centered error messages.](https://community.kde.org/KDE_Visual_Design_Group/HIG/Messages "KDE Human Interface Guidelines") Users should either perform an action or change their behavior as the result of the message.
 * Use pre-defined or system styles when possible. Don't deviate from familiar.
-* Generally, use two-button alerts (for dialogs). [*(iOS Human Interface Guidelines)*](https://developer.apple.com/ios/human-interface-guidelines/ui-views/alerts/)
-* Express everything in the user’s vocabulary. Use clear language, free from jargon. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/alerts/)
-* Ensure that the default button name corresponds to the action you describe. In particular, it’s a good idea to avoid using OK for the default button. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/alerts/)
+* Generally, [use two-button alerts](https://developer.apple.com/ios/human-interface-guidelines/ui-views/alerts/ "iOS Human Interface Guidelines") (for dialogs). 
+* [Express everything in the user’s vocabulary.](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/alerts/ "macOS Human Interface Guidelines") Use clear language, free from jargon. 
+* [The default button name should correspond to the action you describe.](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/alerts/ "macOS Human Interface Guidelines") In particular, it’s a good idea to avoid using OK for the default button. 
 * They should be easy to dismiss when appropriate (e.g., responding to Escape key or the Close button in a dialog, in addition to an explicit dismiss button or link).
 * Refer to your existing style and tone guide if you have one ([you can find some inspiration here](http://voiceandtoneguides.webflow.io/), if you don't). As an example, the [Microsoft Windows Style and Tone guidelines](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742477.aspx) writes this about using "please" and "sorry":
 	* "Use please whenever its absence would be considered curt"
@@ -77,4 +77,3 @@ As shown above, alerts vary by operating system and platform. Most software plat
 ## Related Controls
 
 * [Validation](../validation/)
-* Notifications

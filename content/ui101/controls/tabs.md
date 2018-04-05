@@ -24,8 +24,8 @@ There are a few considerations to keep in mind when using tabs, however. Such as
 
 * Only use tabs when there is a limited number of navigation options available ([up to five on mobile](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar), [less than seven  on desktop](https://community.kde.org/KDE_Visual_Design_Group/HIG/TabControl)).
 * Tab width is usually determined by the text in each tab, so consider the impact of localization and font size adjustments.
-* Only use tabs "to present closely related peer areas of content." Content separated by tabs should be related in some way and exist at the same level in a hierarchy. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/tab-views/)
-* Avoid using tabs for sequential tasks or "wizards" - tabs should be able to be used independently from each other. [*(Microsoft Windows Desktop Guidelines)*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx)
+* Only use tabs ["to present closely related peer areas of content."](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/tab-views/ "macOS Human Interface Guidelines") Content separated by tabs should be related in some way and exist at the same level in a hierarchy.
+* Avoid using tabs for sequential tasks or "wizards" - [tabs should be able to be used independently from each other](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx "Microsoft Windows Desktop Guidelines").
 
 
 
@@ -36,8 +36,8 @@ There are a few considerations to keep in mind when using tabs, however. Such as
 * Avoid using multiple sets of tabs.
  * If you do, make sure to visually distinguish the second set from the first (see [variations below](#variations))
 * Put the most important content in the first tab.
-* Make sure the controls within a pane only affect content in the same pane. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/tab-views/)
-* You should never have only one tab. [*(Microsoft Windows Desktop Guidelines)*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx)
+* [Make sure the controls within a pane only affect content in the same pane.](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/tab-views/ "macOS Human Interface Guidelines")
+* [You should never have only one tab.](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx "Microsoft Windows Desktop Guidelines")
 * Don't wrap tabs to a new line. If the tabs won't fit, consider using scrolling or drop-down tabs, as shown in the variations below.
 * Be wary of using icons alone for tabs on mobile. Adding text above or below is recommended. In ["Basic Patterns For Mobile Navigation: Pros And Cons"](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/), the author writes: "for most icons, text labels are necessary to communicate meaning and reduce ambiguity."
 [![](https://www.smashingmagazine.com/wp-content/uploads/2017/05/bottom-navigation-icons-780w-opt.png)](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar)

@@ -32,10 +32,10 @@ The [U.S. Web Design Standards](https://standards.usa.gov/components/form-contro
 
 
 * The text that the user types inside the text field should be sized appropriately so that it can be read legibly inside the control (it usually matches the size of the corresponding label, if present).
-* Ensure that the length of a text input field comfortably accommodates the length of the expected input. [^macOS Human Interface Guidelines]
-* Text fields should indicate their state – whether enabled or disabled, empty or filled, valid or invalid – with clear label, input, and assistive text. [^Google Material Design guidelines]
+* Ensure that the [length of a text input field comfortably accommodates the length of the expected input](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/text-fields/ "macOS Human Interface Guidelines").
+* Text fields should indicate their state – whether enabled or disabled, empty or filled, valid or invalid – with a [clear label, input, and assistive text](https://material.io/guidelines/components/text-fields.html#text-fields-principles "Google Material Design guidelines").
 * Placeholder text (also called hint text) can be used inside the input field (see the "Website" field below), but it shouldn't take the place of a label in a form, since it should disappear when the user starts typing. (Also see [this note about accessibility of placeholder text](https://standards.usa.gov/components/form-controls/#text-input-docs).)
-* Avoid breaking numbers with distinct sections (such as phone numbers, Social Security Numbers, or credit card numbers) into separate input fields. [^U.S. Web Design Standards] \(Try using [Input masks](https://www.lukew.com/ff/entry.asp?756) or [flexible inputs](https://www.lukew.com/ff/entry.asp?755) instead\)
+* [Avoid breaking numbers with distinct sections (such as phone numbers, Social Security Numbers, or credit card numbers) into separate input fields.](https://standards.usa.gov/components/form-controls/#text-input "U.S. Web Design Standards") \(Try using [Input masks](https://www.lukew.com/ff/entry.asp?756) or [flexible inputs](https://www.lukew.com/ff/entry.asp?755) instead\)
 * For longer text, use a text area control (also called multi-line entry field), rather than a single line control.
 
 For reference, the [Bootstrap](http://getbootstrap.com/) documentation has some good [examples of different layouts and types of text input fields](http://getbootstrap.com/css/#forms-example).
@@ -67,6 +67,4 @@ Also see ["forgiving format"](http://ui-patterns.com/patterns/ForgivingFormat).
 * [Dropdown Menu (Combo Box)](../dropdown/)
 
 
-[^macOS Human Interface Guidelines]: [macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/text-fields/)
-[^Google Material Design guidelines]: [Google Material Design guidelines](https://material.io/guidelines/components/text-fields.html#text-fields-principles)
-[^U.S. Web Design Standards]: [U.S. Web Design Standards](https://standards.usa.gov/components/form-controls/#text-input)
+

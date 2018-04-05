@@ -17,7 +17,7 @@ They only require a small amount of space and are very familiar to most users. T
 
 ## When to Use Breadcrumbs
 
-As stated above, breadcrumbs are considered *secondary* navigation, meaning that they **shouldn't be provided as the only way for users to navigate** [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Breadcrumbs). This is because they are not as obvious or noticeable as other navigation methods, such as [Tabs](../tabs/).
+As stated above, breadcrumbs are considered *secondary* navigation, meaning that they [**shouldn't be provided as the only way for users to navigate**](https://community.kde.org/KDE_Visual_Design_Group/HIG/Breadcrumbs "KDE Human Interface Guidelines"). This is because they are not as obvious or noticeable as other navigation methods, such as [Tabs](../tabs/).
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/dbc-breadcrumbs.png)
 
@@ -30,11 +30,11 @@ Breadcrumbs can be preferable to other hierarchical navigation controls when spa
 
 ## How to Use Breadcrumbs
 
-* Include the name of the current page as the last item in the breadcrumb, but don't link it. It is generally good practice not to include links to the current page. [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/breadcrumb-navigation-useful/)
+* Include the [name of the current page as the last item in the breadcrumb, but don't link it](https://www.nngroup.com/articles/breadcrumb-navigation-useful/ "Nielsen Norman Group"). It is generally good practice not to include links to the current page. 
 * Even though the title of the page may be indicated in the breadcrumb, it is good practice to repeat it below, as the breadcrumb itself is often small.
 * Use a single character to separate the links. The most common separators for breadcrumbs are the ">" and "/" characters.
-* There is some debate about whether breadcrumbs should show the site/application hierarchy or the path that the user has taken (i.e., more akin to the [origin of the name "breadcrumb"](https://en.wikipedia.org/wiki/Hansel_and_Gretel)). However, most guidelines recommend the former, where the links show the site hierarchy, rather than user's path. [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/breadcrumb-navigation-useful/)
-* Place breadcrumbs above the content, but *not* above any primary navigation (such as a horizontal or header menu). [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Breadcrumbs)
+* There is some debate about whether breadcrumbs should show the site/application hierarchy or the path that the user has taken (i.e., more akin to the [origin of the name "breadcrumb"](https://en.wikipedia.org/wiki/Hansel_and_Gretel)). However, most guidelines recommend the former, where the [links show the site hierarchy, rather than user's path](https://www.nngroup.com/articles/breadcrumb-navigation-useful/ "Nielsen Norman Group").
+* Place breadcrumbs above the content, but [*not* above any primary navigation](https://community.kde.org/KDE_Visual_Design_Group/HIG/Breadcrumbs "KDE Human Interface Guidelines") (such as a horizontal or header menu). 
 * Avoid using multiple sets of breadcrumbs on one page.
 
 

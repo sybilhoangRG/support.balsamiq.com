@@ -45,9 +45,9 @@ The [KDE Human Interface Guidelines](https://community.kde.org/KDE_Visual_Design
 
 Here are a few other recommended best practices:
 
-* Follow conventions. Don't create new metaphors when familiar ones exist. [*(GNOME Human Interface Guidelines)*](https://developer.gnome.org/hig/stable/icons-and-artwork.html.en)
-* Always accompany icons with text labels unless the icon metaphors are nearly universally recognized (e.g., home, print, search), which is rare. [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/icon-usability/), [*(Axess Lab)*](https://axesslab.com/icons-ruining-interfaces/)
-* Don't use icons that are commonly associated with a different meaning. [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/bad-icons/)
+* Follow conventions. [Don't create new metaphors when familiar ones exist.](https://developer.gnome.org/hig/stable/icons-and-artwork.html.en "GNOME Human Interface Guidelines")
+* [Always accompany icons with text labels](https://www.nngroup.com/articles/icon-usability/ "Nielsen Norman Group") unless the icon metaphors are nearly universally recognized (e.g., home, print, search), which is rare. 
+* [Don't use icons that are commonly associated with a different meaning.](https://www.nngroup.com/articles/bad-icons/ "Nielsen Norman Group")
 * Establish color and design rules for icons and apply them consistently. See the [Google Material Design guidelines](https://material.io/guidelines/style/icons.html) for a good example.
 * Apply [tooltips](../tooltips/) for additional information or when labels aren't used.
 

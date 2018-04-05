@@ -22,7 +22,7 @@ The [Microsoft UWP Guidelines](https://docs.microsoft.com/en-us/windows/uwp/cont
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/tooltips-whentouse.png)
 
-Here is a typical tooltip example *([source](https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/tooltips#example))*:
+[Here](https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/tooltips#example) is a typical tooltip example:
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/bing-tooltips.png)
 
@@ -34,17 +34,17 @@ Finally, tooltips are often not shown on mobile devices, so don't rely on them o
 
 ## How to Use Tooltips
 
-* Display tooltips only as the result of user interaction, never display them on their own. [*(Microsoft UWP Guidelines)*](https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/tooltips)
-* Only show plain text in a tooltip. Avoid formatted text or pictures. [*(Google Material Design guidelines)*](https://material.io/guidelines/components/tooltips.html)
+* Display tooltips only as the result of user interaction, [never display them on their own](https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/tooltips "Microsoft UWP Guidelines"). 
+* [Only show plain text in a tooltip.](https://material.io/guidelines/components/tooltips.html "Google Material Design guidelines") Avoid formatted text or pictures. 
 * Don't use the HTML ["alt" attribute](https://www.w3schools.com/tags/att_alt.asp) for tooltips. This should only be used as alternative text for accessibility purposes. Use the ["title" attribute](https://www.w3schools.com/tags/att_title.asp) instead.
-* Focus on the action a control initiates. Start with a verb to tell users what will happen when they click. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/user-interaction/help/)
+* Focus on the action a control initiates. [Start with a verb](https://developer.apple.com/macos/human-interface-guidelines/user-interaction/help/ "macOS Human Interface Guidelines") to tell users what will happen when they click.
 * Keep them short. The [macOS Human Interface Guidelines](https://developer.apple.com/macos/human-interface-guidelines/user-interaction/help/) suggest a maximum of 60-75 characters.
-* Tooltips should be placed near the object being hovered, but should never be placed in a way that interferes with what the user is doing by obscuring the object of interest. [*(UX Planet)*](https://uxplanet.org/tooltips-in-ui-design-f63e117aa3d1)
-* If you want them to be available on mobile, consider adding small informational buttons for touch screen use (see [variations below](#variations)). [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Tooltip)
+* Tooltips should be placed near the object being hovered, but should [never be placed in a way that interferes with what the user is doing](https://uxplanet.org/tooltips-in-ui-design-f63e117aa3d1 "UX Planet") by obscuring the object of interest.
+* If you want them to be available on mobile, [consider adding small informational buttons for touch screen use](https://community.kde.org/KDE_Visual_Design_Group/HIG/Tooltip "KDE Human Interface Guidelines") (see [variations below](#variations)). 
 * Timing is critical. If you have control over it, follow these guidelines:
-	* Delay the start of the tooltip so that they aren't constantly popping up as the user moves their mouse across the screen. Wait until the user has stopped moving their cursor for about a second. [*("About Face: The Essentials of Interaction Design")*](https://www.amazon.com/dp/1118766571/)
-	* Show the tooltip for about 10 seconds or until the pointer moves away from the control. [*(macOS Human Interface Guidelines)*](https://developer.apple.com/macos/human-interface-guidelines/user-interaction/help/)
-	* Fade tooltips in and out over ~150ms. [*(Google Material Design guidelines)*](https://material.io/guidelines/components/tooltips.html)
+	* Delay the start of the tooltip so that they aren't constantly popping up as the user moves their mouse across the screen. [Wait until the user has stopped moving their cursor for about a second.](https://www.amazon.com/dp/1118766571/ "About Face: The Essentials of Interaction Design")
+	* Show the tooltip for [about 10 seconds or until the pointer moves away from the control] (https://developer.apple.com/macos/human-interface-guidelines/user-interaction/help/ "macOS Human Interface Guidelines").
+	* [Fade tooltips in and out over ~150ms.](https://material.io/guidelines/components/tooltips.html "Google Material Design guidelines")
 * Most operating systems and platforms have built-in tooltip controls; use them rather than defining your own.
 
 

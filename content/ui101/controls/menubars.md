@@ -24,7 +24,7 @@ The main advantage of menu bars is their persistence, i.e., the fact that they a
 
 > Well-designed Web sites make careful use of persistent objects that remain constant throughout the shopping experience, especially the top-level navigation bar along the top of the page. Not only do these areas provide clear navigational options, but their consistent presence and layout also help orient customers.
 
-Menu bars can contain sub-menus (as shown above), but going any deeper than one level should be avoided if possible because it pushes users' mental models, whereas "organizing things into a single layer of groups is extremely common and can be found everywhere in your home and office." [*(About Face)*](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/)
+Menu bars can contain sub-menus (as shown above), but going any deeper than one level should be avoided if possible because it pushes users' mental models, whereas ["organizing things into a single layer of groups is extremely common and can be found everywhere in your home and office."](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ "About Face")
 
 ---
 
@@ -46,14 +46,14 @@ The [macOS Human Interface Guidelines](https://developer.apple.com/macos/human-i
 
 Other important menu bar guidelines:
 
-* Don’t model your navigation after your agency’s org structure (or your application's architectural model). Instead, **structure it according to the tasks and information your users most frequently need to access**. [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/headers/)
-* Include skip navigation links to allow users with screen readers to bypass long navigation lists. [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/headers/)
-* Consider using a "mega menu" if you have more than six links or menu items within a menu. (See the [variations](#variations) below for more on mega menus.) [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/headers/)
-* Use nine or fewer top-level categories. [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Menu_Bar)
+* [Don’t model your navigation after your agency’s org structure](https://standards.usa.gov/components/headers/ "U.S. Web Design Standards") (or your application's architectural model). Instead, **structure it according to the tasks and information your users most frequently need to access**.
+* [Include skip navigation links](https://standards.usa.gov/components/headers/ "U.S. Web Design Standards") to allow users with screen readers to bypass long navigation lists. 
+* Consider using a ["mega menu"](https://standards.usa.gov/components/headers/ "U.S. Web Design Standards") if you have more than six links or menu items within a menu. (See the [variations](#variations) below for more on mega menus.) 
+* Use [nine or fewer top-level categories.](https://community.kde.org/KDE_Visual_Design_Group/HIG/Menu_Bar "KDE Human Interface Guidelines")
 * For mobile sites and applications, menu bars can be collapsed to a slide-out or expandable "hamburger" menu.
-* Make sure that the menu items look interactive and have enough visual weight. They should invite action. [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/menu-design/)
-* Make menu links big enough to be easily tapped or clicked. Provide enough padding and spacing around them so that users don't accidentally click the wrong one. [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/menu-design/)
-* Choose consistency over "wow" factor. Deviate from standards at your own risk. [*(Nielsen Norman Group)*](https://www.nngroup.com/articles/menu-design/)
+* Make sure that the [menu items look interactive and have enough visual weight](https://www.nngroup.com/articles/menu-design/ "Nielsen Norman Group"). They should invite action. 
+* [Make menu links big enough to be easily tapped or clicked.](https://www.nngroup.com/articles/menu-design/ "Nielsen Norman Group") Provide enough padding and spacing around them so that users don't accidentally click the wrong one. 
+* [Choose consistency over "wow" factor.](https://www.nngroup.com/articles/menu-design/ "Nielsen Norman Group") Deviate from standards at your own risk. 
 
 
 ### Basic Usage

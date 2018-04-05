@@ -46,14 +46,14 @@ In all cases, avoid horizontal accordions (where panels are "stacked" horizontal
 
 The following are general guidelines that apply to most cases.
 
-* When one panel is clicked it is expanded, while other panels are collapsed. Only one panel should be open at a time. [*(UI Patterns)*](http://ui-patterns.com/patterns/AccordionMenu)
-* Don't open accordion containers on hover. Use click or touch behavior instead. [*("Designing Web Interfaces")*](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions/dp/0596516258/)
-* Allow users to click anywhere in the header area to expand or collapse the content; a larger target is easier to manipulate. [*(U.S. Web Design Standards)*](https://standards.usa.gov/components/accordions/)
+* When one panel is clicked it is expanded, while other panels are collapsed. [Only one panel should be open at a time.](http://ui-patterns.com/patterns/AccordionMenu "UI Patterns")
+* [Don't open accordion containers on hover.](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions/dp/0596516258/ "Designing Web Interfaces") Use click or touch behavior instead. 
+* [Allow users to click anywhere in the header area](https://standards.usa.gov/components/accordions/ "U.S. Web Design Standards") to expand or collapse the content; a larger target is easier to manipulate. 
 * Start with the first section open. Don't default all to closed.
-* Highlight the current panel so the user can distinguish open panel headers form closed panel headers. [*(Welie.com)*](http://www.welie.com/patterns/showPattern.php?patternID=accordion)
-* If animating panels, "the animation should be subtle which means that it should last no more than 250ms." [*(Welie.com)*](http://www.welie.com/patterns/showPattern.php?patternID=accordion)
-* Do not mix the accordion with other types of navigation on the same level. [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Accordion)
-* If the content of a section won't fit on the page vertically, scroll within the panel rather than scrolling the entire control. [*(KDE Human Interface Guidelines)*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Accordion)
+* [Highlight the current panel](http://www.welie.com/patterns/showPattern.php?patternID=accordion "Welie.com") so the user can distinguish open panel headers form closed panel headers. 
+* If animating panels, ["the animation should be subtle which means that it should last no more than 250ms."](http://www.welie.com/patterns/showPattern.php?patternID=accordion "Welie.com")
+* [Do not mix the accordion with other types of navigation on the same level.](https://community.kde.org/KDE_Visual_Design_Group/HIG/Accordion "KDE Human Interface Guidelines")
+* If the content of a section won't fit on the page vertically, [scroll within the panel rather than scrolling the entire control.](https://community.kde.org/KDE_Visual_Design_Group/HIG/Accordion "KDE Human Interface Guidelines")
 
 ### Basic Usage
 
@@ -74,7 +74,7 @@ Variations should be minimized in order to keep consistent with standards. One c
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/accordions-variations.png)
 
-The icon states should tell the user what will happen when they click, i.e., the plus or expand icon should be shown on collapsed panels rather than indicating that an open panel has been expanded [*(Smashing Magazine)*](https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/).
+[The icon states should tell the user what will happen when they click](https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/ "Smashing Magazine"), i.e., the plus or expand icon should be shown on collapsed panels rather than indicating that an open panel has been expanded.
 
 ---
 
