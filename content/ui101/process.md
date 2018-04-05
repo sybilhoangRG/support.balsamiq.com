@@ -20,7 +20,7 @@ We'll highlight those differences along the way.
 
 So it happened: an idea for a new product or feature landed on your lap and you have to design a solution for it.
 
-Ideas come from all over the place: if you work for a product company, they often come via the support or sales teams because of customer requests. Other times they are deemed strategically important by _the powers that be_ (PMs, executives, marketing...). Some other times, the development and design team came up with them! If you're a solo founder, you're doing all of this idea gathering and prioritizing yourself! ![(smile)](/wiki/s/198691115/6452/4d4a00afa6a41598cf0f96a15507d1d935df7796/_/images/icons/emoticons/smile.png "(smile)")
+Ideas come from all over the place: if you work for a product company, they often come via the support or sales teams because of customer requests. Other times they are deemed strategically important by _the powers that be_ (PMs, executives, marketing...). Some other times, the development and design team came up with them! If you're a solo founder, you're doing all of this idea gathering and prioritizing yourself! 
 
 If you work for a consulting company, these dynamics often happen within your clients' organizations. They just call you when they're ready to execute on the idea.
 
@@ -50,7 +50,7 @@ Once that's done (ideally in a day or two), you can start shifting towards think
 
 First up, try to avoid the "_if all you have is a hammer, everything looks like a nail_" problem. In other words, don't jump to what's easy for you to do. Try to think more holistically, and **really try to put yourself in the end-user's shoes**.
 
-**Don't limit your thinking to a software solution**, think about the [Whole Product concept](https://en.wikipedia.org/wiki/Whole_product) instead. Maybe the best solution is better documentation, or training, or a process change, or starting a podcast! ![(smile)](/wiki/s/198691115/6452/4d4a00afa6a41598cf0f96a15507d1d935df7796/_/images/icons/emoticons/smile.png "(smile)")
+**Don't limit your thinking to a software solution**, think about the [Whole Product concept](https://en.wikipedia.org/wiki/Whole_product) instead. Maybe the best solution is better documentation, or training, or a process change, or starting a podcast! 
 
 Spend a day or two testing these possible super-high-level ideas with the stakeholders again.
 
@@ -124,13 +124,13 @@ Useful links about sketching user interfaces:
 
 Once you have a few sketches, it's time to go back to the stakeholders for a quick check-in, to see if the direction you've gone in makes sense to everyone.
 
-Make sure you call these sketches "eary, quick drafts" and you tell everyone that "you're not married to any of these ideas". This way they won't hold back honest feedback for fear of hurting your feelings.
+Make sure you call these sketches "early, quick drafts" and you tell everyone that "you're not married to any of these ideas". This way they won't hold back honest feedback for fear of hurting your feelings.
 
 DO NOT email your sketches or otherwise "send them over the wall". They're too rough to be understood. Schedule quick 1-1 chats with each stakeholder, and walk them through each sketch.
 
 Your goal is to gather as much feedback as possible on where each role would like the design to go. This step is important because your sketches - even in their roughness - are very powerful: they allow everyone to visualize the solution in their minds. This will in turn trigger thoughts and concerns that they couldn't have thought about during requirement gathering.
 
-Note that each person might care about different aspects of the solution. Executives or sales people might care more about branding and strategic importance rather than usability. Developers care mostly about implementability, graphic designers generally care about aesthetics. Learning what each stakeholder cares about is an important part of the process! The more you do it, the better your wireframes will be next time: just like in those old cartoons, you will feel like you have each little person on your showlders giving you feedback as you design. ![(smile)](/wiki/s/198691115/6452/4d4a00afa6a41598cf0f96a15507d1d935df7796/_/images/icons/emoticons/smile.png "(smile)")
+Note that each person might care about different aspects of the solution. Executives or sales people might care more about branding and strategic importance rather than usability. Developers care mostly about implementability, graphic designers generally care about aesthetics. Learning what each stakeholder cares about is an important part of the process! The more you do it, the better your wireframes will be next time: just like in those old cartoons, you will feel like you have each little person on your shoulders giving you feedback as you design. 
 
 Make sure to take good notes as you do this round of feedback - put them on your wiki page!
 
@@ -232,7 +232,7 @@ You'll be very popular, and like a proud parent, you'll see your new feature get
 
 It's amazing how many people don't do this, or don't even consider doing this.
 
-In a way it's understandable, it was such a struggle to get from idea to production, most designers are probably exhausted at this point. ![(smile)](/wiki/s/198691115/6452/4d4a00afa6a41598cf0f96a15507d1d935df7796/_/images/icons/emoticons/smile.png "(smile)")
+In a way it's understandable, it was such a struggle to get from idea to production, most designers are probably exhausted at this point. 
 
 But if you don't know if your feature is well received by the end users, how will you get better at designing?
 

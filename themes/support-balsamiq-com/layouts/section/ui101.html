@@ -12,6 +12,7 @@
       <div class="doc-list-header pb10">
         <h1>UI Design 101</h1>
       </div>
+      <div class="container mt0">
 
 {{ .Content }}
 
@@ -19,48 +20,24 @@
 
 {{ else }}
 {{ $.Scratch.Set "counter" 1 }}
-<div class="row">
+<div class="row mb1-5">
   {{ range first 3 (where .Data.Pages.ByWeight ".Params.parent" "=" nil) }}
-  <div class="col-xs-12 col-md-4">
-<div class="list-group">
-      <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://via.placeholder.com/250x175"><br>{{ .Title }}</a></h4>
-<!--             <p>{{ .Summary }}</p> -->
-</div>
+  <div class="col-xs-12 col-md-4 center">
+      <a href="{{ .Permalink }}" class="thumbnail mb10 p10"><img src="https://media.balsamiq.com/img/support/ui101/thumbnails/{{ .File.BaseFileName }}.png"></a><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
   </div>
   {{ $.Scratch.Add "counter" 1 }}
   {{ end }}
 </div>
-<div class="row">
+<div class="row mt1-5">
   {{ range first 3 (after 3 (where .Data.Pages.ByWeight ".Params.parent" "=" nil)) }}
-  <div class="col-xs-12 col-md-4">
-<div class="list-group">
-      <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://via.placeholder.com/250x175"><br>{{ .Title }}</a></h4>
-<!--             <p>{{ .Summary }}</p> -->
-</div>
+  <div class="col-xs-12 col-md-4 center">
+      <a href="{{ .Permalink }}" class="thumbnail mb10 p10"><img src="https://media.balsamiq.com/img/support/ui101/thumbnails/{{ .File.BaseFileName }}.png"></a><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
   </div>
   {{ $.Scratch.Add "counter" 1 }}
   {{ end }}
 </div>
 
 {{ end }}
-
-  {{/* <ul>
-  {{ range .Data.Pages.ByWeight }}
-    <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
-  {{ end }}
-  </ul> */}}
-
-{{/* {{ range .Sections }}
-      <div id="filterlist" class="row gallery">
-      {{ range .Data.Pages.ByWeight }}
-          <div class="fitem col-xs-12 col-sm-6 col-md-3">
-            <div class="gallery-item">
-            <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><p>{{ .Summary | plainify | htmlUnescape }}</p>
-          </div></div>
-      </div>
-      {{ end }}
-      </div>
-{{ end }} */}}
 
     </main>
   </div> <!-- /.doc-overview -->
