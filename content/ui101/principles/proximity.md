@@ -13,11 +13,13 @@ The reverse is also true. Objects that are seen as distant from each other are u
 
 We know how we perceive relatedness from human psychology. This is called the Gestalt principal of grouping. We can use this tour advantage in interface design.
 
-![](//media.balsamiq.com/img/support/ui101/principles/Proximity-Illustration.gif)
+<img src="//media.balsamiq.com/img/support/ui101/principles/Proximity-Illustration.gif" width="350px;>
 
-## When to use Proximity
+---
 
-When you want to use similarity to help the user, Proximity can be helpful. Grouping items that are similiar in function, for instance can help them find related actions.
+## When to Use Proximity
+
+When you want to use similarity to help the user, Proximity can be helpful. Grouping items that are similar in function, for instance can help them find related actions.
 
 This example from an application creates groups of buttons in a toolbar. This is a wireframe of the Keynote toolbar. The first grouping is for document-level actions like view, zoom, and adding new slides, the second grouping is for presentation functions, the third is for inserting content, etc. Grouping them this way helps the user to recall buttons that are similar in function with repeated use.
 
@@ -31,7 +33,9 @@ In the website wireframe below, notice how there is some important information a
 
 Proximity is useful in this case because it gives the user some help. In some cases, as in the testimonial block of the wireframe above, it might help for to make something visible at a glance, but then guide them towards the more substantial chunks of info.
 
-## How to use Proximity
+---
+
+## How to Use Proximity
 
 We've seen in the examples above how the use of proximity can help organize the information in your interface.
 

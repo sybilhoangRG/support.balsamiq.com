@@ -11,9 +11,11 @@ Contrast refers to **the differences between things**.
 
 There are various ways to achieve contrast. A common way of adding contrast is to make things very different in size. Another way is to use contrasting colors.
 
-![](//media.balsamiq.com/img/support/ui101/principles/contrast-illustration.gif)
+<img src="//media.balsamiq.com/img/support/ui101/principles/contrast-illustration.gif" width="350px">
 
-## When to use contrast
+---
+
+## When to Use Contrast
 
 ### **In interface design we use contrast to organize information and direct the eye.**
 
@@ -36,7 +38,7 @@ A red text block, for example, might make a user pause before a destructive acti
 
 ![](//media.balsamiq.com/img/support/ui101/principles/Contrast-3.png)
 
-You'll find examples like this is in application design, as with the warning that the Google Chrome browser shows if you are about to enter a site that conntains malware.
+You'll find examples like this is in application design, as with the warning that the Google Chrome browser shows if you are about to enter a site that contains malware.
 
 Note how well the white text works against the red background. That's because the white also contrasts highly against the red background.
 
@@ -47,7 +49,9 @@ There are some caveats when using color. These are less of a concern when it com
 *   Colors have different meanings in different cultures.
 *   Also be aware that users who have experience color deficiency in their eyesight may also have difficulty recognizing certain colors.
 
-## How to use contrast
+---
+
+## How to Use Contrast
 
 ### **Contrast works best when things are very different from each other.**
 

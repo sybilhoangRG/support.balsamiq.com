@@ -16,14 +16,15 @@ Structural and behavioral features of a pattern are familiar to users. Your team
 
 We're going to start by taking a look at a design pattern, look at a few examples of the pattern in use, and deconstruct their implementation. Then we'll list some common patterns for interface design and you may explore them in depth.
 
+{{% alert info %}}
 
-- - -
+**The Cooking Analogy:**
 
-## Sidebar
-
-In cooking we combine ingredients to prepare a dish. Let's say for instance, we're planning to make a fish taco meal. If you're familiar with this dish, you know that you'll usually prepare it with a flaky fish like Cod perhaps, tortillas, different seasonings, oil, salsa and maybe sliced lime for garnish. There are different ways to add to this dish to make it yours, but the basic combination of ingredients make a fish taco pretty unmistakeable.[^Footnote 1 - Fish Taco Recipe]
+In cooking we combine ingredients to prepare a dish. Let's say for instance, we're planning to make a [fish taco meal](https://www.youtube.com/watch?v=lk94Fe6auDU&index=68). If you're familiar with this dish, you know that you'll usually prepare it with a flaky fish like Cod perhaps, tortillas, different seasonings, oil, salsa and maybe sliced lime for garnish. There are different ways to add to this dish to make it yours, but the basic combination of ingredients make a fish taco pretty unmistakeable.
 
 This is very much like using design patterns. We have a general model for how to create this dish to make it recognizable. We can add or subtract from those ingredients and how they're put together to make it unique.
+
+{{% /alert %}}
 
 - - -
 
@@ -33,6 +34,7 @@ Design Patterns are typically written with a common set of attributes that looks
 
 ### Design Pattern Model
 
+{{% alert warning %}}
 *   **Pattern Name (and description)**
     *   A label that provides a clear way to communicate and reference this pattern, particularly when discussing it with colleagues.
 *   **Problem**
@@ -46,7 +48,7 @@ Design Patterns are typically written with a common set of attributes that looks
     *   Provide further recommendations.
 *   **Examples**
 
-  
+{{% /alert %}}
 
 - - -
 
@@ -57,26 +59,26 @@ Let's explore writing a design pattern for a website Shopping Cart component int
 While you're reading, think about how this compares to other purchasing experiences like a one-click purchase, or how it compares to a similar purchase of a service like a reservation or booking experience. Think about how this might be different on a mobile phone for example.
 
   
-
-#### **Pattern Name**
+{{% alert warning %}}
+**Pattern Name:**
 
 Shopping Cart for Ecommerce Site
 
-#### **Description**
+**Description:**
 
-The Shopping Cart component conists of 1) An "Add to Cart" button to purchase an item and 2) an accompanying cart icon used to indicate that the item is held for purchase and provides a link to view the items and begin checkout.
+The Shopping Cart component consists of 1) An "Add to Cart" button to purchase an item and 2) an accompanying cart icon used to indicate that the item is held for purchase and provides a link to view the items and begin checkout.
 
-#### **Problem**
+**Problem:**
 
 Users want to purchase an item in an ecommerce site.
 
-#### **Context of Use**
+**Context of Use:**
 
 Use this pattern when an online store allows browsing items, has more than a single item to purchase, or requires review of order before completing purchase.
 
 While shopping on an online store the user may select items to purchase, but want to continue browsing, and may want to review and edit what they've selected before beginning checkout. This is similar to holding items in a shopping cart in the physical world.
 
-#### **Solution**
+**Solution:**
 
 ![](//media.balsamiq.com/img/support/ui101/patterns/Shopping-Cart-Pattern.png)
 
@@ -91,16 +93,17 @@ While shopping on an online store the user may select items to purchase, but wan
     2.  Provide actions for editing quantities, removing items.
     3.  Provide an action for "checking out" or completing their purchase.
 
-#### Recommendations
+**Recommendations:**
 
 *   Add to Cart may be presented with options, for example a selector for quantity, selectors for style, etc. Provide conditional logic if the items requires options to be selected, for disable the Add to Cart button if style or size has not been selected.
 *   Consider a one-click option for signed in users, or navigate directly to the checkout process if the store offers a single item for purchase.
 
-#### **Examples**
+**Examples:**
 
 *   Nike
 *   Shopify
 *   Crate and Barrel
+{{% /alert %}}
 
   
 ---
@@ -157,5 +160,4 @@ You'll find many potential solutions for your own design problem in our [Design 
 * ["Elements of a Design Pattern," by Jared Spool](https://articles.uie.com/elements_of_a_design_pattern/)
 
 
-[^Footnote 1 - Fish Taco Recipe]: Recipe for Fish Tacos: [https://www.youtube.com/watch?v=lk94Fe6auDU&index=68](https://www.youtube.com/watch?v=lk94Fe6auDU&index=68)
-[^footnote 2]: Origin of Design Pattern: A design pattern in architecture and computer science is a formal way of documenting a solution to a design problem in a particular field of expertise. The idea was introduced by the architect Christopher Alexander in the field of architecture, and has been adapted for various other disciplines, including computer science. An organized collection of design patterns that relate to a particular field is called a pattern language.
+[^footnote 2]: More about the origins of design patterns: A design pattern in architecture and computer science is a formal way of documenting a solution to a design problem in a particular field of expertise. The idea was introduced by the architect Christopher Alexander in the field of architecture, and has been adapted for various other disciplines, including computer science. An organized collection of design patterns that relate to a particular field is called a pattern language.

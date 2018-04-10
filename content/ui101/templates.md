@@ -8,7 +8,7 @@ product: "UI Design 101"
 
 You've probably used file templates before. A common type is an office document template, like a cover letter template in a text editing application.
 
-Templates can be great because they provide a starting point for a document with some preset attributes. They help you go faster by starting your project form ready-made screeens that you can edit.
+Templates can be great because they provide a starting point for a document with some preset attributes. They help you go faster by starting your project form ready-made screens that you can edit.
 
 There are a few types of templates for interface design that you might use:
 
@@ -21,8 +21,6 @@ There are a few types of templates for interface design that you might use:
 
 Let's start by seeing how to modify a template. By the end of this section, you should be able to create your own.
 
-  
-
 - - -
 
 ## Importing Templates
@@ -30,69 +28,100 @@ Let's start by seeing how to modify a template. By the end of this section, you 
 In Balsamiq, a Template is simply a starter project file that you import. If you're using Balsamiq Cloud, add a template via the menu _Project > Import Controls From Wireframes to Go..._ Browse for templates use the import button to add it into your own projects.
 
 ![](//media.balsamiq.com/img/support/ui101/templates/Import%20From%20WTG.png)
-  
 
 - - -
 
 ## Selecting the screens you need
 
-Continuing our example of an online shop, le's use an [E-Commerce Template](https://wireframestogo.com/3cf8-E-Commerce-Template/) to design more of the shopping experience. Obviously, we'll want to flesh out our shopping cart flow all the way through confirming the transaction.
+Continuing our example of an online shop, let's use an [E-Commerce template](https://wireframestogo.com/3cf8-E-Commerce-Template/) to design more of the shopping experience. Obviously, we'll want to flesh out our shopping cart flow all the way through confirming the transaction.
 
-Below is an overview of the screens that come in this template. Your solution may not require all of them. You'll likely have unique user expactations to consider and business rules to meet, so you'll modify the experience as necessary, pick out the ones you need and discard the rest.
+Below is an overview of the screens that come in this template. Your solution may not require all of them. You'll likely have unique user expectations to consider and business rules to meet, so you'll modify the experience as necessary, pick out the ones you need and discard the rest.
 
 For our example, let's say we want to flesh out the the pre-purchase experience on screens like the landing pages. Let's use the template to create a landing page for a fictional smartphone app.
 
-![](//media.balsamiq.com/img/support/ui101/templates/Home%20Page.png)
+<div id="filterlist" class="row gallery">
 
-![](//media.balsamiq.com/img/support/ui101/templates/Landing%20Page.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<a href="//media.balsamiq.com/img/support/ui101/templates/Home%20Page.png"><img src="//media.balsamiq.com/img/support/ui101/templates/Home%20Page.png"></a>
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Product%20Page.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Landing%20Page.png">
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Product%20Page%20-%20Add%20To%20Cart.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Product%20Page.png">
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Cart.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Product%20Page%20-%20Add%20To%20Cart.png">
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Customer%20Info.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Cart.png">
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Shipping.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Customer%20Info.png">
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Payment.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Shipping.png">
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Success.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Payment.png">
+</div></div>
 
-![](//media.balsamiq.com/img/support/ui101/templates/Email%20Confirmation.png)
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Checkout%20-%20Success.png">
+</div></div>
+
+<div class="fitem col-xs-12 col-sm-6 col-md-4">
+<div class="gallery-item">
+	<img src="//media.balsamiq.com/img/support/ui101/templates/Email%20Confirmation.png">
+</div></div>
+
+</div>
 
 
 - - -
 
 ## Modifying Pre-Made Screens
 
-For this example, we'll convert editin the generic Landing Page template using our own copy and add some elements for our fictional smartphone app.
+For this example, we'll modify the generic Landing Page template using our own copy and add some elements for our fictional smartphone app.
 
 When you open a template you'll probably see some placeholder copy as in the example on the left below. Simply select and edit each of the place holders.
 
 In the wireframe on the right, we've modified the text, we added some wireframed elements to illustrate our product, and using our new knowledge of design principles we laid out some of the parts to fit better with our new illustrations and copy.
 
-  
-
-**Template with starting suggestions to design a landing page.**
-
-**Edit placeholders to customize the screen.**
-
-![](//media.balsamiq.com/img/support/ui101/templates/Landing%20Page%20-%20Blank.png)
-
-![](//media.balsamiq.com/img/support/ui101/templates/Landing%20Page%20-%20Modified.png)
-
+<table>
+<tr>
+<th>Template with starting suggestions to design a landing page</th>
+<th>Edit placeholders to customize the screen.</th>
+</tr>
+<tr>
+<td><img src="//media.balsamiq.com/img/support/ui101/templates/Landing%20Page%20-%20Blank.png"></td>
+<td><img src="//media.balsamiq.com/img/support/ui101/templates/Landing%20Page%20-%20Modified.png"></td>
+</tr>
+</table>
 
 Pretty simple! Hopefully, editing a template should seem much faster than laying out all of the components from scratch. You'll want to tweak it to suit your needs, but it's a good way to start the design discussion with your team.
 
 ### A note about Symbols Libraries
 
-Some Templates may also contain Symbols Libraries. Our E-Commerce Template has Symbols for the components used on the screens above.
+Some templates may also contain Symbols Libraries. Our E-Commerce template has Symbols for the components used on the screens above.
 
-The idea behind using Symbols is that you can easily drop in these re-usable components that are made specifically for this type of project. You can find out more about Symbols in the Balsamiq docs.
-
-  
+The idea behind using Symbols is that you can easily drop in these re-usable components that are made specifically for this type of project. You can find out more about Symbols in the [Balsamiq docs](https://docs.balsamiq.com/).
 
 - - -
 
@@ -100,13 +129,17 @@ The idea behind using Symbols is that you can easily drop in these re-usable com
 
 Like design patterns, templates serve as a starting point and are usually built on an understanding of what typically works well for a common problem. Templates differ from design patterns in that they usually propose a plan for solving a broader scope of problem.
 
-Interface designers are known for building systems to make their work efficient. Templates are one example of that. Once you've become adept at working with templates you can start to set up your own systems to make your work go faster. If you work in-house on a product team, create templates that reflect your organizational style. If you work in agency or design/development shop, create templates for the repeatable types of client projects you work on.
+Interface designers are known for building systems to make their work efficient. Templates are one example of that. Once you've become adept at working with templates you can start to set up your own systems to make your work go faster. If you work in-house on a product team, create templates that reflect your organizational style. If you work in an agency or design/development shop, create templates for the repeatable types of client projects you work on.
 
-Let's step back for a moment and put Templates under the lens of our cooking analogy. In cooking, the orchestration of dishes that work well together create a meal—a complete culinary experience. Templates are like that. pieces of user interface often go well together to create an entire experience.
+{{% alert info %}}
+
+**The Cooking Analogy:**
+
+Let's step back for a moment and put templates under the lens of our cooking analogy. In cooking, the orchestration of dishes that work well together create a meal—a complete culinary experience. Templates are like that. Pieces of user interface often go well together to create an entire experience.
 
 As you explore your users and problem more deeply, you'll begin to see what parts of the template work for your needs and swap out what doesn't, just as you would deviate from a recipe to make it your own.
 
-  
+{{% /alert %}}  
 
 - - -
 

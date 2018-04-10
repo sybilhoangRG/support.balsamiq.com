@@ -42,21 +42,19 @@
               {{ range where .Site.Pages "Section" "ui101" }}
               {{ if eq .File.Dir "ui101/controls/" }}
                 {{ .Render "li"}}
-                         {{/* <div class="fitem col-xs-12 col-sm-6 col-md-4">
-                           <div class="gallery-item">
-                           <a href="{{ .Permalink }}"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"></a><div class="meta"><strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong><p>{{ .Summary | plainify | htmlUnescape }}</p>
-                         </div></div>
-                     </div> */}}
               {{ end }}
               {{ end }}
               </ul>
               </div>
-              {{ else if eq .File.TranslationBaseName "principles"}}
-                {{/* {{ range where .Site.Pages "Section" "ui101" }}
-                {{ if eq .File.Dir "ui101/principles/" }}
-                  {{ .Render "li"}}
+              {{ else if eq .File.TranslationBaseName "process"}}
+              <div class="doc-overview">
+                {{ range where .Site.Pages "Section" "ui101" }}
+                {{ if eq .File.Dir "ui101/process/" }}
+                  <p class="mb10"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
                 {{ end }}
-                {{ end }} */}}
+                {{ end }}
+                </div>
+            {{ else }}
             {{ end }}
           </div>
 

@@ -11,9 +11,11 @@ The Alignment principle is about making it easier for users to process informati
 
 When users can scan through information that has a clear line or path for their eyes to travel, they intuitively know where to look to take the next action. Think of how hard it would be to read a book where all of the text is centered. Blocks of texts in books are left aligned so that your eyes automatically return to the beginning of the next line effortlessly. We can use alignment this way with more than just text in our interfaces.
 
-![](//media.balsamiq.com/img/support/ui101/principles/Alignment-Illustration.gif)
+<img src="//media.balsamiq.com/img/support/ui101/principles/Alignment-Illustration.gif" width="350px">
 
-## When to use Alignment
+---
+
+## When to Use Alignment
 
 Alignment can and should be used whenever you lay out a screen with information to process. Using alignment, you can ensure that nothing is placed arbitrarily on the screen.
 
@@ -31,23 +33,25 @@ When you need to make the path clear to information, you can use alignment. This
 
 When you start to think that everything should be aligned to something on your screen, information becomes more clear and easier to use and your interfaces will begin to feel more cohesive.
 
-## How to use Alignment
+---
+
+## How to Use Alignment
 
 To use alignment, we look at everything on our interface and think about how each item relates to the related items around it. One exercise you can do is to try to see if each object can align with something else.
 
-Let's take one last look at our Cusrtomer Information Screeen. We did a good job at adding contrast and using white space to put related items next to each other. But take a look at the screen overlayed with blue and red lines below.
+Let's take one last look at our Customer Information Screen. We did a good job at adding contrast and using white space to put related items next to each other. But take a look at the screen overlaid with blue and red lines below.
 
 ![](//media.balsamiq.com/img/support/ui101/principles/Alignment-HowTo-1.png)
 
-The blue lines show obects that have a strong left alignment to other objects. But the Red lines show how some of the objects don't align to other objjects, particularly on the right of the form. The form inputs are sized so that they create a ragged right edge that makes the eye jump around on the right, compared to the strong left alignment.
+The blue lines show objects that have a strong left alignment to other objects. But the Red lines show how some of the objects don't align to other objects, particularly on the right of the form. The form inputs are sized so that they create a ragged right edge that makes the eye jump around on the right, compared to the strong left alignment.
 
-We can create a more solid feeling layout that directs the eye down through the form by resizing and laying out obects so that each one aligns with something else.
+We can create a more solid feeling layout that directs the eye down through the form by resizing and laying out objects so that each one aligns with something else.
 
 ![](//media.balsamiq.com/img/support/ui101/principles/Alignment-HowTo-2.png)
 
 Notice the blue lines now. All of the objects has a strong left alignment, and most of the objects also have an object they align with on the right side. Adding a light hairline in our white space between chunks of the form also helps to create this sense of solid alignment.
 
-We even re-inforced the sense of movement by using the natural direction our eyes take when reading (down and to the right with Left To Right languages) by moving the submit button to the bottom right of the layout.
+We even reinforced the sense of movement by using the natural direction our eyes take when reading (down and to the right with Left To Right languages) by moving the submit button to the bottom right of the layout.
 
 Here's what our form looks like without the alignment lines.
 

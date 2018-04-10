@@ -6,7 +6,15 @@ weight: 401
 product: "UI Design 101"
 ---
 
-## Sidebar
+## What are Design Principles?
+
+Design principles are foundational rules that work well for communicating information so that the user can do something with it, whether it's making a decision, taking action, or just making sense of what's being conveyed. Like patterns, they emerge because they have proven to be optimal attributes for the purpose they serve, in this case for communicating effectively.
+
+Until you familiarize yourself with them, these principles may seem new to you. By labeling and understanding what they are, they become under your control so you can use them. With practice using them will be second nature, and they'll be part of the language you use to communicate information in your interfaces. You won't be able to look around without thinking about them.
+
+{{% alert info %}}
+
+**The Cooking Analogy:**
 
 Let's continue with our food obsession to talk about foundational techniques.
 
@@ -16,19 +24,14 @@ Separate ingredients don't usually make an interesting dish by themselves. The s
 
 In design we have something like that too, and it's based on somewhat **universal principles that make communication with design effective**.
 
-- - -
+{{% /alert %}}
 
-## What are Design Principles?
-
-Design principles are foundational rules that work well for communicating information so that the user can do something with it, whether it's making a decision, taking action, or just making sense of what's being conveyed. Like patterns, they emerge because they have proven to be optimal attributes for the purpose they serve, in this case for communicating effectively.
-
-Until you familiarize yourself with them, these principles may seem new to you. By labeling and understanding what they are, they become under your control so you can use them. With practice using them will be second nature, and they'll be part of the language you use to communicate information in your interfaces. You won't be able to look around without thinking about them.
 
 ---
 
 ## Why use Design Principles?
 
-The use of these principles may be unnoticeable at first, when we're looking at screens or pages in the world. You may, however, start to notice when some of these design principles have not been applied. The next time you find it hard to make it through a big form or can't find a button among a sea of controls in a cluttered application, think about how applying these design principles might have helped.
+The use of design principles may be unnoticeable at first, when we're looking at screens or pages in the world. You may, however, start to notice when some of these design principles have not been applied. The next time you find it hard to make it through a big form or can't find a button among a sea of controls in a cluttered application, think about how applying these design principles might have helped.
 
 Well considered design tends to disappear when it serves its purpose in optimizing communication or use. It gets out of the way and gets users to goals faster.
 
@@ -55,6 +58,6 @@ Now let's look at each principle and learn when and how to use them to communica
 
 ## Further Reading
 
-*   Robin Williams' "Non-Designer's Design Book," written for those new to graphic design, describes how to use a set of 4 core principles when communicating with design. The idea of beginning to internalize principles in the beginning of this section comes from her.
-*   Universal Principles of Design
+*   [Robin Williams' "Non-Designer's Design Book,"](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151/) written for those new to graphic design, describes how to use a set of 4 core principles when communicating with design. The idea of beginning to internalize principles in the beginning of this section comes from her.
+*   [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879)
 *   _Note this differs from individual and organizational design principles. Dieter Rams' 10 Principles for Good Design is one example. You can find more about those at the [principles.design](https://principles.design/examples/) website._

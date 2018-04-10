@@ -11,13 +11,15 @@ Hierarchy refers to a group of things where **items are rank ordered by importan
 
 There are various ways to display hierarchy in a system. Typical examples may orient information from most important to least important visually, as in this top-down display of a hierarchical tree. You see this often in Organizational Charts or Site Maps.
 
-![](//media.balsamiq.com/img/support/ui101/principles/Hierarchy-Illustration.gif)
+<img src="//media.balsamiq.com/img/support/ui101/principles/Hierarchy-Illustration.gif" width="350px;">"
 
-## When to use hierarchy
+---
+
+## When to Use Hierarchy
 
 ### **We use Hierarchy to organize information in a system.**
 
-Sitemaps like the tree representation below are typical of how we use hiearchy when organizing screens in website or application design.
+Sitemaps like the tree representation below are typical of how we use hierarchy when organizing screens in website or application design.
 
 ![](//media.balsamiq.com/img/support/ui101/principles/Hierarchy-1.png)
 
@@ -34,23 +36,21 @@ When we create menus with nested flyout sub-menus as in the example blow, we're 
 
 ![](//media.balsamiq.com/img/support/ui101/principles/Hierarchy-2A.png)
 
-  
-
 We're also using hierarchy when we're showing expanded lists of categories and their children as in the next example. This might be the type of interface you would show in a shopping site, for instance and there are various ways of showing hierarchy in menus.
 
 ![](//media.balsamiq.com/img/support/ui101/principles/Hierarchy-2B.png)
 
 You'll find examples of hierarchy in software controls like the flyout Menus in your Windows or Mac operating system, in the collapsible lists in Windows Explorer or the Mac Finder that look like stairs when expanded and in Breadcrumb menus where parent-child relationships are indicated. Hierarchy is everywhere!
 
-## How to use hierarchy
+---
+
+## How to Use Hierarchy
 
 The common way to achieve hierarchy is by visually containing or nesting groups of child information within a parent container.
 
 Here's an example of a set of pages in a web site, arranged alphabetically. There's no sense of relationship between the pages. They all appear to be equal in this flat hierarchy.
 
 ![](//media.balsamiq.com/img/support/ui101/principles/Hierarchy-HowTo-1.png)
-
-  
 
 By grouping the information into parent-child relationships, we can create the menu for the web site below.
 
