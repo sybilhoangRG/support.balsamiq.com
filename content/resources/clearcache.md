@@ -6,13 +6,13 @@ menu: "menuresources"
 draft: ''
 product: "Resources"
 ---
-Modern web browsers save a lot of data locally because it helps save time and battery life. Unfortunately, this data may not alays be up-to-date, and that can cause problems in web apps like [Balsamiq Cloud](https://balsamiq.cloud).
+Modern web browsers save a lot of data locally because it helps save time and battery life. Unfortunately, this data may not always be up-to-date, and that can cause problems in web apps like [Balsamiq Cloud](https://balsamiq.cloud).
 
 This page should help you clear your cache in most modern web browsers. If we don't have your browser listed, please [reach out](mailto:support@balsamiq.com), and we will do our best to add it!
 
 ## Apple Safari
 
-To reset the cache in Apple Safari, you first need to enable the **Developer Menu**. To do that, go into Safari's preferences (**Safari Menu > Preferences**) and select the **Advanced Tab**.
+To clear the cache in Apple Safari, you first need to enable the **Developer Menu**. To do that, go into Safari's preferences (**Safari Menu > Preferences**) and select the **Advanced Tab**.
 
 ![](//media.balsamiq.com/img/support/resources/safari_preferences.png)
 
@@ -30,11 +30,11 @@ Here is a gif of the entire process:
 
 ## Google Chrome
 
-To option to reset the cache in Google Chrome lives in Chrome's Advanced Preferences. To open that, click on the hamburger menu in the upper-right-hand corner of the browser and select **Settings**.
+To option to clear the cache in Google Chrome lives in Chrome's Advanced Preferences. To open that, click on the hamburger menu in the upper-right-hand corner of the browser and select **Settings**.
 
 ![](//media.balsamiq.com/img/support/resources/chrome_settings.png)
 
-{{% alert info %}}**Note:** On macOS, you can also select **Chrome > Preferences** from the menu.
+{{% alert info %}}**Note:** On macOS, you can also select **Chrome > Clear Browsing Data...** from the menu and skip all the way to the end of this tutorial.
  {{% /alert %}}
 
 Once on the settings page, scroll down to the bottom of the page where you'll find an "**Advanced**" option, click it to reveal more Settings.
@@ -45,7 +45,7 @@ Look for the **Privacy and Security** settings. At the bottom of that, you will 
 
 ![](//media.balsamiq.com/img/support/resources/chrome_browsing_data.png)
 
-It is in this little menu that you will find the option to clear out your cache. For our purposes, you only need to make sure that **Cached Images and Files** and **Hosted App Data** are checked. Once those are selected, click on the **Clear Data** button.
+It is in this little menu that you will find the option to clear out your cache. Click on the **Advanced Tab**. For our purposes, you only need to make sure that **Cached Images and Files** and **Hosted App Data** are checked. Once those are selected, click on the **Clear Data** button.
 
 ![](//media.balsamiq.com/img/support/resources/chrome_clear_cache.png)
 
@@ -57,7 +57,7 @@ Here is a gif of the entire process (on macOS):
 
 ## Microsoft Edge
 
-Microsoft Edge has it's Cache options in the Settings menu. To access it, click on the three dots in the upper right hand corner of the browser, and scroll down to **Settings**.
+Microsoft Edge has it's cache options in the Settings menu. To access it, click on the three dots in the upper right hand corner of the browser, and scroll down to **Settings**.
 
 ![](//media.balsamiq.com/img/support/resources/edge_settings.png)
 
