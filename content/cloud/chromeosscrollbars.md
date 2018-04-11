@@ -1,5 +1,5 @@
 ---
-title: Is there a problem with scrollbars on ChromeOS?
+title: Is There A Problem With Scrollbars On ChromeOS?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 30
 menu: menucloud
@@ -12,7 +12,7 @@ Yes! But there are workarounds.
 
 ## The problem
 
-An update to ChromeOS in August last year changed the default behavior of scrollbars. The new behavior is to hide them by default and expand them only when the mouse moves over them or when scrolling using the mouse wheel or two-finger scrolling on devices with a trackpad.
+An update to ChromeOS in August last year changed the default behavior of scrollbars. The new behavior is to hide them by default and expand them only when the mouse moves over them, when scrolling using the mouse wheel, or two-finger scrolling on devices with a trackpad.
 
 The problem is made worse by reports of different behavior on different hardware. You can read the full background of the issue in this discussion: [My scroll bar disappears](https://bugs.chromium.org/p/chromium/issues/detail?id=761237).
 
@@ -26,7 +26,7 @@ The Google product forums have provided some help and 4 methods to workaround th
 
 2. Via the keyboard
 
-	![keys for scrolling](https://lh6.googleusercontent.com/56ZwJV4LeUot2Wu-Fj1S7oshCC14sFLafYdaGN-MqA0XcPbvUU5PW9ERdVT_307QRPJP7fpBxiZZtLvWV9iEK0t2FH5e081dZANq7BEQC7ceqYSbFyTW0IXcUYOkC4H9oh-9mvUv)
+	![keys for scrolling](http://media.balsamiq.com/img/support/prodfaqs/scrollkeys.png)
 
 3. Change scrollbar behavior using an extension: [chrome webstore search: scrollbars](https://chrome.google.com/webstore/search/scrollbars?_category=extensions)
 
