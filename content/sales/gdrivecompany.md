@@ -1,5 +1,5 @@
 ---
-title: Can I buy Balsamiq for Google Drive for my company or someone else?
+title: Can I Buy Balsamiq for Google Drive for my Company or Someone Else?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 620
 menu:
@@ -9,8 +9,8 @@ draft: ''
 
 ---
 
-Unfortunately, we do not yet offer company-wide subscriptions for Balsamiq for Google Drive. Each user will need to purchase a subscription individually for either $5/month or $50/year. Invoices can only be sent to the individual subscriber, though they are easy to [forward to a billing department](/sales/gdrivesubscription/#finding-past-invoices). Full details on signing up for an individual subscription are [here](/sales/gdrivesubscription/#signing-up-for-a-subscription).
+Yes! With the latest version of Balsamiq Wireframes for Google Drive, you have the ability to purchase a subscription for multiple people (we call these _Editors_).
 
-However, if you are looking for a tool for your entire company, you might consider our web application, Balsamiq Cloud. It offers unlimited users, and has additional collaborative features for teams working together. You can start a free 30-day trial [here](https://balsamiq.cloud/).
+After subscribing to the selected plan, you will be able to add the Google email addresses of the people you wish to pay for. They will be able to create and edit wireframes, thanks to your subscription.
 
-Plans [start](http://balsamiq.com/buy/#cloud) as low as $9/month.
+More info on detailed steps to come.
