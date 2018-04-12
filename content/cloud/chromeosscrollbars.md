@@ -8,7 +8,6 @@ draft: ''
 ---
 
 Yes! But there are workarounds.
-* * *
 
 ## The problem
 
@@ -35,7 +34,5 @@ The Google product forums have provided some help and 4 methods to workaround th
 	Paste `chrome://flags/#overlay-scrollbars` into the Chrome address bar. Set to ‘Disable’ and then click ‘Restart Now’.
 	
 	Note this approach is not recommended as the flag in question may be removed at any time, making this an unreliable option.
-
-* * *
 
 We hope that these tips will resolve any issues you are having with scrollbars while using Cloud. However, don't hesitate to reach out to us via [support@balsamiq.com](mailto:support@balsamiq.com) if needed. We're here to help! :)
