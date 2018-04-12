@@ -43,13 +43,13 @@ When choosing a plan as described above, you will notice that you can select mul
 
 The first step is merely selecting the **number** of editors you need.
 
-[billing page image with multiple plans]
+![](https://media.balsamiq.com/img/support/sales/bwgd/full_plans_dropdown.png)
 
 You can select to pay on a monthly or yearly basis, and you can always upgrade or downgrade your plan as you see fit.
 
 After you have selected and paid for your team plan, your billing page will contain a section titled **Balsamiq Wireframes Editors**. You will see a text box where you can enter your colleagues' email addresses. Just make sure that you select "Save" after adding or removing people.
 
-[text box screenshot?]
+![](https://media.balsamiq.com/img/support/sales/bwgd/editor_list.png)
 
 After you add their email addresses, your colleagues will be able to create and edit wireframes. If they haven't installed the plugin already, you can send them the link to do so. You can add and remove editors at any time.
 
@@ -129,11 +129,11 @@ If you purchased the subscription for the wrong Google ID or user, not to worry!
 
 ## Pin Payments Subscribers
 
-If you signed up for a subscription before April 29, 2015, and you haven't made changes to your billing info since then, it's possible you're still on our old payment processor's system. As a result, you have not been migrated to Stripe, or current processor.
+If you signed up for a subscription before April 29, 2015, and you haven't made changes to your billing info since then, it's possible you're still on our old payment processor's system. As a result, you have not been migrated to Stripe, our current processor.
 
-To migrate, all you need to do is update your credit card information that is on file. From there on, your credit card will be managed securely by [Stripe](/sales/safe/)
+To migrate, all you need to do is update your credit card information on file. From there on, your credit card will be managed securely by [Stripe](/sales/safe/)
 
-A new subscription period will start when you do so. Any unused time on your current subscription period and any subscription credit will be transferred to our new system.
+A new subscription period will start when you do so. Any unused time on your current subscription period, as well as any subscription credit, will be transferred to our new system.
 
 After you have migrated, you will have better invoices, and you will also gain access to our [newest team plans](#choosing-and-managing-a-team-plan).
 

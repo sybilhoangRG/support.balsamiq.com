@@ -40,7 +40,7 @@ Space Owners or Billing-Only Administrators can upgrade or downgrade plans at an
 
 ### Balsamiq for Google Drive
 
-Balsamiq for Google Drive is a single user subscription.  There is no volume purchasing or company-wide subscriptions for this product.
+Balsamiq for Google Drive is priced per user, which we refer to as _Editors_. They have the capability of creating and editing wireframes. There can be up to two administrators on a particular subscription, and either admin can [downgrade or upgrade](/sales/gdrivesubscription/#changing-your-plan) the plan as they see fit. When doing so, subscriptions will automatically receive credit for any time remaining on the old plan level. 
 
 ### Wireframes for Confluence Server or Jira Server
 
