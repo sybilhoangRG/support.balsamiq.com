@@ -13,7 +13,7 @@ The reverse is also true. Objects that are seen as distant from each other are u
 
 We know how we perceive relatedness from human psychology. This is called the Gestalt principal of grouping. We can use this tour advantage in interface design.
 
-<img src="//media.balsamiq.com/img/support/ui101/principles/Proximity-Illustration.gif" width="350px;>
+<img src="//media.balsamiq.com/img/support/ui101/principles/Proximity-Illustration.gif" width="350px;">
 
 ---
 

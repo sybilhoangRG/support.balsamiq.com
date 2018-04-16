@@ -39,6 +39,7 @@ Below is an overview of the screens that come in this template. Your solution ma
 
 For our example, let's say we want to flesh out the the pre-purchase experience on screens like the landing pages. Let's use the template to create a landing page for a fictional smartphone app.
 
+<div style="background-color: #eee; padding:5px 15px;">
 <div id="filterlist" class="row gallery">
 
 <div class="fitem col-xs-12 col-sm-6 col-md-4">
@@ -91,6 +92,7 @@ For our example, let's say we want to flesh out the the pre-purchase experience 
 	<img src="//media.balsamiq.com/img/support/ui101/templates/Email%20Confirmation.png">
 </div></div>
 
+</div>
 </div>
 
 
