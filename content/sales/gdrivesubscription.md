@@ -45,19 +45,35 @@ The first step is merely selecting the **number** of editors you need.
 
 ![](https://media.balsamiq.com/img/support/sales/bwgd/full_plans_dropdown.png)
 
-You can select to pay on a monthly or yearly basis, and you can always upgrade or downgrade your plan as you see fit.
+You can select to pay on a monthly or yearly basis, and you can always [upgrade or downgrade](#changing-your-plan) your plan as you see fit.
 
-After you have selected and paid for your team plan, your billing page will contain a section titled **Balsamiq Wireframes Editors**. You will see a text box where you can enter your colleagues' email addresses. Just make sure that you select "Save" after adding or removing people.
+After you have selected and paid for your team plan, your billing page will contain a section titled **Balsamiq Wireframes Editors**. You will see a text box where you can enter your colleagues' email addresses.
 
 ![](https://media.balsamiq.com/img/support/sales/bwgd/editor_list.png)
+
+{{% alert info %}}**Note:** Make sure that you select **"Save"** after adding or removing people.{{% /alert %}}
 
 After you add their email addresses, your colleagues will be able to create and edit wireframes. If they haven't installed the plugin already, you can send them the link to do so. You can add and remove editors at any time.
 
 ### Additional Administrator
 
-A new option introduced with the team plans is the capability of designating an **Additional Administrator**. This means you can designate another user to manage the subscription with you. This can be particularly useful for bigger teams, or to simply have a backup admin that can step in when you're not around.
+A new option introduced with the team plans is the capability of designating an **Additional Administrator**. This means you can designate another user to manage the subscription with you. This can be particularly useful for bigger teams, or to simply have a backup admin that can step in when you're not around. You will find this option directly on your billing page, which you can access by opening a project, and then selecting Help > Manage your Subscription.
+
+![](https://media.balsamiq.com/img/support/sales/bwgd/add_admin.png)
 
 Both administrators will have equal rights, and both can sign up, change, and cancel a plan. Like so, the Additional Administrator will be able to add and remove users from the list of editors, and they will also have the ability of **removing you from the subscription**.
+
+{{% alert info %}}If you're seeing an error when trying to add someone as an administrator, this FAQ might be helpful: ["I'm Getting an Error Designating Someone as an Additional Administrator of my Balsamiq for Google Drive Subscription. How Can I Proceed?"](/sales/gdriveadmin/#i-m-getting-a-we-re-sorry-error-message){{% /alert %}}
+
+### Removing Yourself as Administrator
+
+If you no longer need to manage a particular subscription, you can remove yourself at any time. Bear in mind that this option will only appear if there is another admin on the account, or if your subscription is no longer active.
+
+The "Remove me as Administrator" option will show up underneath your credit card and payment info, as shown below:
+
+![](https://media.balsamiq.com/img/support/sales/bwgd/remove_me_admin.png)
+
+Clicking the button will prompt a dialog for you to confirm the action. Once you have confirmed the removal, the action will immediately take effect, without an option to revert it. If you have removed yourself by mistake, you can choose to [subscribe](#signing-up-for-a-subscription) to a new plan, or contact the remaining administrator so they can [designate you as an admin](#additional-administrator) once again.
 
 * * *
 
