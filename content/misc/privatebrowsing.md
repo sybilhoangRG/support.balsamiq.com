@@ -1,11 +1,12 @@
 ---
 title: Finding Your Browser's Private Browsing Mode
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 16
-menu: "menuresources"
+weight: 120
+menu: menumisc
+product: "Miscellaneous FAQs"
 draft: ''
-product: "Resources"
 ---
+
 This page is for folks who don't want to [clear their browser's cache](../clearcache), but still want to experience a "clean" browser. This can also be helpful for folks having login issues with [Balsamiq Cloud](https://balsamiq.cloud).
 
 ## Apple Safari

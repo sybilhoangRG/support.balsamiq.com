@@ -5,7 +5,6 @@ weight: 30
 menu: menumisc
 product: "Miscellaneous FAQs"
 draft: ''
-
 ---
 No, it's not. But there are a number of tools that allow you to easily convert web pages to PDF files. You can use them to generate individual PDFs of our documentation pages.
 

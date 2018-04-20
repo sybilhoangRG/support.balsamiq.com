@@ -5,7 +5,6 @@ weight: 80
 menu: menumisc
 product: "Miscellaneous FAQs"
 draft: ''
-
 ---
 For a long time, Adobe's Flex Framework (Flash and Air) gave us a ton of flexibility. We could write the code once, and then build it on any browser and OS we wanted. However, given the restrictions that Flex imposes on us, and the rise of native web technologies, it's time for us to move on.
 
