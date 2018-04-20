@@ -5,7 +5,6 @@ weight: 40
 menu: menumisc
 product: "Miscellaneous FAQs"
 draft: ''
-
 ---
 If you found a clone of Balsamiq somewhere on the web, this page is for you.
 
@@ -13,7 +12,7 @@ The first time a clone of our product came to the market, our founder Peldi was 
 
 First of all, these clones do not impact our bottom line, at all. Our revenue continues to grow. In fact, the more clones, the more we grow. Every time one of these products gets a press mention, it gets compared to our tool. Free marketing! :)
 
-Jason Calacanis says it best in [this old article](http://www.businessinsider.com/2008/8/jason-calacanis-on-how-to-get-pr-for-your-startup-fire-your-pr-company): 
+Jason Calacanis says it best in [this old article](http://www.businessinsider.com/2008/8/jason-calacanis-on-how-to-get-pr-for-your-startup-fire-your-pr-company):
 
 > Welcome your competitors to the race, because no-one is going to tune into a one-horse race.
 

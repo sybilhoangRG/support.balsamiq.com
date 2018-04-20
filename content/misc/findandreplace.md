@@ -5,7 +5,6 @@ weight: 70
 menu: menumisc
 product: "Miscellaneous FAQs"
 draft: ''
-
 ---
 We totally understand how useful it would be to have a find and replace feature in Balsamiq. Truth is, we have tried to implement it in the past, but it caused too much instability to our code structure, so we decided to postpone it.
 
