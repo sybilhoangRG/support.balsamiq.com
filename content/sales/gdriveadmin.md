@@ -1,5 +1,5 @@
 ---
-title: I'm Getting an Error Designating Someone as an Additional Administrator of my Balsamiq for Google Drive Subscription. How Can I Proceed?
+title: I'm Getting an Error Designating Someone as an Additional Administrator of my Balsamiq Wireframes for Google Drive Subscription. How Can I Proceed?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 500
 menu:

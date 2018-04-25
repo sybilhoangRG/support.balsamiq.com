@@ -1,5 +1,5 @@
 ---
-title: Can I Buy Balsamiq for Google Drive for my Company or Someone Else?
+title: Can I Buy Balsamiq Wireframes for Google Drive for my Company or Someone Else?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 620
 menu:

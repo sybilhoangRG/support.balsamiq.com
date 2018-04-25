@@ -1,5 +1,5 @@
 ---
-title: '"Maximum Number of Pinned Revisions Exceeded" Error in Balsamiq for Google
+title: '"Maximum Number of Pinned Revisions Exceeded" Error in Balsamiq Wireframes for Google
   Drive'
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 140
@@ -10,7 +10,7 @@ draft: ''
 
 ---
 
-Are you getting the following error message when trying to save your file in Balsamiq for Google Drive?
+Are you getting the following error message when trying to save your file in Balsamiq Wireframes for Google Drive?
 
 ![](https://media.balsamiq.com/img/support/prodfaqs/revisions.png)
 

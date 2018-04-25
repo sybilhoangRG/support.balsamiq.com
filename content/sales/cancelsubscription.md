@@ -13,7 +13,7 @@ Need to take a break? No problem! Follow the steps below to cancel your subscrip
 
 * To cancel your **myBalsamiq** subscription, please [click here](/sales/mybsubscriptions/#stopping-your-subscription) for complete steps. _Note: If you wish to cancel and move to [Balsamiq Cloud](https://balsamiq.cloud/), please review [this FAQ](/sales/mybtocloud/)._
 
-* To cancel your **Balsamiq for Google Drive** subscription, please [click here](/sales/gdrivesubscription/#stopping-your-subscription) for complete steps.
+* To cancel your **Balsamiq Wireframes for Google Drive** subscription, please [click here](/sales/gdrivesubscription/#stopping-your-subscription) for complete steps.
 
 * To cancel your **Balsamiq Cloud** subscription, please [click here](/sales/cloudsubscriptions/#stopping-your-subscription) for complete steps.
 

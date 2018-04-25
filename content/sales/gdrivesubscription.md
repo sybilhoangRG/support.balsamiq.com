@@ -1,5 +1,5 @@
 ---
-title: Managing Your Balsamiq for Google Drive Subscription
+title: Managing Your Balsamiq Wireframes for Google Drive Subscription
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 620
 menu:
@@ -11,25 +11,25 @@ draft: ''
 
 {{% alert warning %}}**Note:** We released **Balsamiq Wireframes for Google Drive** in September 2017. If you have an existing Mockups 3 for Google Drive subscription, please read our [transition guide](http://docs.balsamiq.com/google-drive/wireframes/transition/). Your subscription and billing information will remain the same.{{% /alert %}}
 
-This page describes how you can purchase a Balsamiq for Google Drive subscription, cancel your plan, and make changes to your billing information.
+This page describes how you can purchase a Balsamiq Wireframes for Google Drive subscription, cancel your plan, and make changes to your billing information.
 
-Subscriptions for Balsamiq for Google Drive are tied to your Google ID (email address). You can choose to [purchase a team subscription](#choosing-and-managing-a-team-plan) to include others, and pay for them.
+Subscriptions for Balsamiq Wireframes for Google Drive are tied to your Google ID (email address). You can choose to [purchase a team subscription](#choosing-and-managing-a-team-plan) to include others, and pay for them.
 
-The Balsamiq for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/wireframes/).
+The Balsamiq Wireframes for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/wireframes/).
 
 * * *
 
 ## Signing up for a Subscription
 
-Before signing up for a subscription, you must first [install](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) Balsamiq for Google Drive.
+Before signing up for a subscription, you must first [install](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) Balsamiq Wireframes for Google Drive.
 
-As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Balsamiq for Google Drive.
+As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Balsamiq Wireframes for Google Drive.
 
 At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you will still be able to view and comment on your existing wireframes, but you will not be able to edit or create new wireframes unless you sign up for a paid plan.
 
-Balsamiq for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
+Balsamiq Wireframes for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
 
-To sign up for a plan, open Balsamiq for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
+To sign up for a plan, open Balsamiq Wireframes for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
 
 ![](//media.balsamiq.com/img/support/sales/bwgd/help_signup.png)
 
@@ -61,9 +61,9 @@ A new option introduced with the team plans is the capability of designating an 
 
 ![](https://media.balsamiq.com/img/support/sales/bwgd/add_admin.png)
 
-Both administrators will have equal rights, and both can sign up, change, and cancel a plan. Like so, the Additional Administrator will be able to add and remove users from the list of editors, and they will also have the ability of **removing you from the subscription**.
+Both administrators will have equal rights, and both can change and cancel a plan. Like so, the Additional Administrator will be able to add and remove users from the list of editors, and they will also have the ability of **removing you from the subscription**. A copy of the monthly or yearly invoice will also be emailed to both administrators.
 
-{{% alert info %}}If you're seeing an error when trying to add someone as an administrator, this FAQ might be helpful: ["I'm Getting an Error Designating Someone as an Additional Administrator of my Balsamiq for Google Drive Subscription. How Can I Proceed?"](/sales/gdriveadmin/#i-m-getting-a-we-re-sorry-error-message){{% /alert %}}
+{{% alert info %}}If you're seeing an error when trying to add someone as an administrator, this FAQ might be helpful: ["I'm Getting an Error Designating Someone as an Additional Administrator of my Balsamiq Wireframes for Google Drive Subscription. How Can I Proceed?"](/sales/gdriveadmin/#i-m-getting-a-we-re-sorry-error-message){{% /alert %}}
 
 ### Removing Yourself as Administrator
 
@@ -113,7 +113,7 @@ The invoice notification email is always delivered to the email address associat
 
 ## Stopping Your Subscription
 
-You can cancel Balsamiq for Google Drive at any time.
+You can cancel Balsamiq Wireframes for Google Drive at any time.
 
 First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page.
 
@@ -135,9 +135,9 @@ You'll need to enter your credit card to complete the re-activation.
 
 ## Changing Your Google ID
 
-Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Balsamiq for Google Drive.
+Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Balsamiq Wireframes for Google Drive.
 
-If you wish to change your subscription to use Balsamiq for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](#stopping-your-subscription) and [re-sign up](#signing-up-for-a-subscription) when logged in with the Google ID you prefer to use.
+If you wish to change your subscription to use Balsamiq Wireframes for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](#stopping-your-subscription) and [re-sign up](#signing-up-for-a-subscription) when logged in with the Google ID you prefer to use.
 
 If you purchased the subscription for the wrong Google ID or user, not to worry! We have a very generous [refund](/sales/refunds/) policy to get you back on track.
 
