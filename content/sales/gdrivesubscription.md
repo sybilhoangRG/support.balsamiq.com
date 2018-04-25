@@ -9,8 +9,6 @@ draft: ''
 
 ---
 
-{{% alert warning %}}**Note:** We released **Balsamiq Wireframes for Google Drive** in September 2017. If you have an existing Mockups 3 for Google Drive subscription, please read our [transition guide](http://docs.balsamiq.com/google-drive/wireframes/transition/). Your subscription and billing information will remain the same.{{% /alert %}}
-
 This page describes how you can purchase a Balsamiq Wireframes for Google Drive subscription, cancel your plan, and make changes to your billing information.
 
 Subscriptions for Balsamiq Wireframes for Google Drive are tied to your Google ID (email address). You can choose to [purchase a team subscription](#choosing-and-managing-a-team-plan) to include others, and pay for them.
