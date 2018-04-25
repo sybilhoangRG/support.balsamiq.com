@@ -11,28 +11,25 @@ Yes! But there are workarounds.
 
 ## The problem
 
-An update to ChromeOS in August last year changed the default behavior of scrollbars. The new behavior is to hide them by default and expand them only when the mouse moves over them, when scrolling using the mouse wheel, or two-finger scrolling on devices with a trackpad.
+An update to ChromeOS in August last year changed the default behavior of scrollbars. The new behavior is to hide them by default and expand them only when the mouse moves over them, when:
 
-The problem is made worse by reports of different behavior on different hardware. You can read the full background of the issue in this discussion: [My scroll bar disappears](https://bugs.chromium.org/p/chromium/issues/detail?id=761237).
+* scrolling using the mouse wheel
+* scrolling using two-finger scrolling on devices with a trackpad.
+
+You can read the full background of the issue in [this discussion](https://bugs.chromium.org/p/chromium/issues/detail?id=761237).
 
 * * *
 
 ## Solutions and workarounds
 
-The Google product forums have provided some help and 4 methods to workaround the issue. The full document is: [New Scrollbars in Version 60](New Scrollbars in Version 60)
+The Google product forums have provided some help and 3 methods to workaround the issue in [this document](https://productforums.google.com/forum/#!topic/chromebook-central/KLMQVJ8MrA8).
 
-1. Switch to using a touchpad rather than an external mouse. This may be an impractical option at best for some users. Two-finger scrolling in both Mac OSX and Windows involves swiping up and down the pad with two fingers instead of the usual one to move the mouse cursor.
+1. Switch to using a touchpad rather than an external mouse. Two-finger scrolling in both Mac OSX and Windows involves swiping up and down the pad with two fingers instead of the usual one to move the mouse cursor.
 
 2. Via the keyboard
 
 	![keys for scrolling](http://media.balsamiq.com/img/support/prodfaqs/scrollkeys.png)
 
 3. Change scrollbar behavior using an extension: [chrome webstore search: scrollbars](https://chrome.google.com/webstore/search/scrollbars?_category=extensions)
-
-4. Change scrollbar behavior using a flag
-
-	Paste `chrome://flags/#overlay-scrollbars` into the Chrome address bar. Set to ‘Disable’ and then click ‘Restart Now’.
-	
-	Note this approach is not recommended as the flag in question may be removed at any time, making this an unreliable option.
 
 We hope that these tips will resolve any issues you are having with scrollbars while using Cloud. However, don't hesitate to reach out to us via [support@balsamiq.com](mailto:support@balsamiq.com) if needed. We're here to help! :)
