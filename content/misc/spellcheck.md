@@ -5,7 +5,6 @@ weight: 20
 menu: menumisc
 product: "Miscellaneous FAQs"
 draft: ''
-
 ---
 Believe it or not, spellcheck is one of the harder features to implement into an app.
 

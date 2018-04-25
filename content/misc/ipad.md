@@ -5,7 +5,6 @@ weight: 10
 menu: menumisc
 product: "Miscellaneous FAQs"
 draft: ''
-
 ---
 This page addresses some of the frequently asked questions about iPad and iOS apps and controls.
 

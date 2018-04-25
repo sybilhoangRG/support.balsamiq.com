@@ -1,11 +1,12 @@
 ---
 title: How to Clear Your Browser's Cache
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 15
-menu: "menuresources"
+weight: 110
+menu: menumisc
+product: "Miscellaneous FAQs"
 draft: ''
-product: "Resources"
 ---
+
 Modern web browsers save a lot of data locally because it helps save time and battery life. Unfortunately, this data may not always be up-to-date, and that can cause problems in web apps like [Balsamiq Cloud](https://balsamiq.cloud).
 
 This page should help you clear your cache in most modern web browsers. If we don't have your browser listed, please [reach out](mailto:support@balsamiq.com), and we will do our best to add it!

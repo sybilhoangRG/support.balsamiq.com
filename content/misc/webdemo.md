@@ -5,7 +5,6 @@ weight: 90
 menu: menumisc
 product: "Miscellaneous FAQs"
 draft: ''
-
 ---
 With the launch of our new web version, [Balsamiq Cloud](https://balsamiq.cloud/), we have decided to close down our old web demo. It was based on Adobe Flash, and it was time for us to move on to a **native** editor. :)
 

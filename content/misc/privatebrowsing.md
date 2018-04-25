@@ -1,11 +1,12 @@
 ---
 title: Finding Your Browser's Private Browsing Mode
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 16
-menu: "menuresources"
+weight: 120
+menu: menumisc
+product: "Miscellaneous FAQs"
 draft: ''
-product: "Resources"
 ---
+
 This page is for folks who don't want to [clear their browser's cache](../clearcache), but still want to experience a "clean" browser. This can also be helpful for folks having login issues with [Balsamiq Cloud](https://balsamiq.cloud).
 
 ## Apple Safari
@@ -19,7 +20,7 @@ To open a Private Browser window in Safari, go up to the **File Menu** and selec
 
 ## Google Chrome
 
-{{% alert warning %}}**Alert:** Google calls their Private Browsing Mode "Incognito"{{% /alert %}}
+{{% alert warning %}}**Heads Up:** Google calls their Private Browsing Mode "Incognito"{{% /alert %}}
 
 To open an Incognito Window in Chrome, open the **Chrome Menu** in the upper-right-hand corner of the browser window and select **New Incognito Window**. You can also use the shortcut **Shift + ⌘ + N** (on macOS), or **Shift + CTRL + N** (on Windows).
 
@@ -31,7 +32,7 @@ To open an Incognito Window in Chrome, open the **Chrome Menu** in the upper-rig
 
 ## Microsoft Edge
 
-{{% alert warning %}}**Alert:** Microsoft calls their Private Browsing Mode "InPrivate"{{% /alert %}}
+{{% alert warning %}}**Heads Up:** Microsoft calls their Private Browsing Mode "InPrivate"{{% /alert %}}
 
 To open an InPrivate Window in Microsoft Edge, open the **Edge Menu** in the upper-right-hand corner of the browser window and select **New InPrivate window**. You can also use the shortcut **Shift + CTRL + P**.
 
@@ -41,7 +42,7 @@ To open an InPrivate Window in Microsoft Edge, open the **Edge Menu** in the upp
 
 ## Microsoft Internet Explorer
 
-{{% alert warning %}}**Alert:** Microsoft calls their Private Browsing Mode "InPrivate"{{% /alert %}}
+{{% alert warning %}}**Heads Up:** Microsoft calls their Private Browsing Mode "InPrivate"{{% /alert %}}
 
 To open an InPrivate Window in Microsoft Internet Explorer, click on the **Gear Menu** in the upper-right-hand corner of the browser, select **Safety** and then select **InPrivate Browsing**. You can also use the shortcut **Shift + CTRL + P**.
 
