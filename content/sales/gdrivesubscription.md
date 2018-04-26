@@ -19,7 +19,7 @@ The Balsamiq Wireframes for Google Drive documentation is [here](https://docs.ba
 
 ## Signing up for a Subscription
 
-Before signing up for a subscription, you must first [install](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) Balsamiq Wireframes for Google Drive.
+Before signing up for a subscription, you must first [install](https://docs.balsamiq.com/google-drive/wireframes/installing/) Balsamiq Wireframes for Google Drive.
 
 As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Balsamiq Wireframes for Google Drive.
 
@@ -55,7 +55,7 @@ After you add their email addresses, your colleagues will be able to create and 
 
 ### Additional Administrator
 
-A new option introduced with the team plans is the capability of designating an **Additional Administrator**. This means you can designate another user to manage the subscription with you. This can be particularly useful for bigger teams, or to simply have a backup admin that can step in when you're not around. You will find this option directly on your billing page, which you can access by opening a project, and then selecting Help > Manage your Subscription.
+A new option introduced with the team plans is the capability of designating an **Additional Administrator**. This means you can designate another user to manage the subscription with you. This can be particularly useful for bigger teams, or to simply have a backup admin that can step in when you're not around. You will find this option directly on your billing page, which you can access by opening a project, and then selecting Help > Manage Your Subscription.
 
 ![](https://media.balsamiq.com/img/support/sales/bwgd/add_admin.png)
 
@@ -67,7 +67,7 @@ Both administrators will have equal rights, and both can change and cancel a pla
 
 If you no longer need to manage a particular subscription, you can remove yourself at any time. Bear in mind that this option will only appear if there is another admin on the account, or if your subscription is no longer active.
 
-The "Remove me as Administrator" option will show up underneath your credit card and payment info, as shown below:
+The "Remove me as Administrator" option will show up underneath the credit card and payment info, as shown below:
 
 ![](https://media.balsamiq.com/img/support/sales/bwgd/remove_me_admin.png)
 
@@ -77,9 +77,9 @@ Clicking the button will prompt a dialog for you to confirm the action. Once you
 
 ## Updating Your Credit Card or Invoice Information
 
-If you're the administrator of a subscription, first, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
+If you're the administrator of a subscription, first, select **"Manage Your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
 
-[new screenshot of billing page]
+![](https://media.balsamiq.com/img/support/sales/bwgd/new_billing_page.png)
 
 Select "Update Credit Card" to update the credit card and billing address for future renewals. If you only wish to update the billing address on future invoices, select "Show Address", and then "Update Address." 
 
@@ -113,7 +113,7 @@ The invoice notification email is always delivered to the email address associat
 
 You can cancel Balsamiq Wireframes for Google Drive at any time.
 
-First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page.
+First, select **"Manage Your Subscription"** from the Help menu. This will bring you to your billing page.
 
 Select "Cancel Subscription" and then confirm the cancelation. By selecting "Cancel Subscription", you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
 
