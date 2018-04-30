@@ -91,29 +91,29 @@ The [invoice notification email](#finding-past-invoices) is always delivered to 
 
 ## Changing Your Plan
 
-You can switch your billing frequency between a monthly plan and an annual plan at any time.
+As an administrator, you can upgrade and downgrade plans, and change plan frequency (monthly to yearly or vice versa) at any time.
 
 First go to your billing page, as described [above](#updating-your-credit-card-or-invoice-information). Then select "Change Plan", verify that the correct plan is chosen, and then tick the option for "Monthly" or "Yearly". Select "Change Plan" and then "Confirm Plan".
 
 You will automatically receive credit for any time remaining on your old plan. If additional money is required, your credit card will be charged for the remainder due. If there is any unused credit, it will be applied toward future renewals.
 
-You will not be required to re-enter your credit card number and your new subscription period will start immediately.
+You will not be required to re-enter a credit card number, and your new subscription period will start immediately.
 
 * * *
 
 ## Finding Past Invoices
 
-We send invoice notifications to your subscription email address following your automatic credit card payment. A link to your invoice, as well as to your billing page is included in this email.
+Invoice notifications are sent automatically following an automatic credit card payment. A link to the invoice, as well as to your billing page is included in this email. If there are two administrators, then **both** of them will receive the email and invoice.
 
-The invoice notification email is always delivered to the email address associated with the subscriber's Google ID; we do not offer delivery of invoices to a second email address.  However, if you need to share invoices with your financial department, you can easily forward the email notifications. Although you must be logged in with the correct Google ID to view your billing page, the link to your invoice can be viewed and downloaded by your finance team without logging in. 
+Outside the administrators, we do not offer delivery of invoices to any other email addresses.  However, if you need to share invoices with your financial department, you can easily forward the email notifications. Keep in mind that you must be logged in with the correct Google ID to view your billing page, the link to your invoice can be viewed and downloaded by your finance team without logging in.
 
 * * *
 
 ## Stopping Your Subscription
 
-You can cancel Balsamiq Wireframes for Google Drive at any time.
+As an administrator, you can cancel Balsamiq Wireframes for Google Drive at any time.
 
-First, select **"Manage Your Subscription"** from the Help menu. This will bring you to your billing page.
+First, select **"Manage Your Subscription"** from the Help menu within the editor. This will bring you to your billing page.
 
 Select "Cancel Subscription" and then confirm the cancelation. By selecting "Cancel Subscription", you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
 

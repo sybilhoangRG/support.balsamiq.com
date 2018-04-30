@@ -11,6 +11,6 @@ draft: ''
 
 Yes! With the latest version of Balsamiq Wireframes for Google Drive, you have the ability to purchase a subscription for multiple people (we call these _Editors_).
 
-After subscribing to the selected plan, you will be able to add the Google email addresses of the people you wish to pay for. They will be able to create and edit wireframes, thanks to your subscription.
+After subscribing to the desired plan, there will be a section called **Balsamiq Wireframes Editors** on your billing page. That's where you will be able to add the Google email addresses of the people you wish to pay for. By adding them to your subscription, you are providing them with the ability to create and edit wireframes with the Balsamiq Wireframes for Google Drive plugin.
 
-More info on detailed steps to come.
+More details here: [Choosing and Managing a Team Plan](/sales/gdrivesubscription/#choosing-and-managing-a-team-plan)
