@@ -61,7 +61,7 @@ A new option introduced with the team plans is the capability of designating an 
 
 Both administrators will have equal rights, and both can change and cancel a plan. Like so, the Additional Administrator will be able to add and remove users from the list of editors, and they will also have the ability of **removing you from the subscription**. A copy of the monthly or yearly invoice will also be emailed to both administrators.
 
-{{% alert info %}}If you're seeing an error when trying to add someone as an administrator, this FAQ might be helpful: ["I'm Getting an Error Designating Someone as an Additional Administrator of my Balsamiq Wireframes for Google Drive Subscription. How Can I Proceed?"](/sales/gdriveadmin/#i-m-getting-a-we-re-sorry-error-message){{% /alert %}}
+{{% alert info %}}If you're seeing an error when trying to add someone as an administrator, this FAQ might be helpful: ["I'm Getting an Error Designating Someone as an Additional Administrator of my Balsamiq Wireframes for Google Drive Subscription. How Can I Proceed?"](/sales/gdriveadmin/#troubleshooting-the-error-message){{% /alert %}}
 
 ### Removing Yourself as Administrator
 

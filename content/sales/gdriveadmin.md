@@ -24,7 +24,7 @@ It's possible that this person either has their own subscription that they have 
 * Have that person [cancel their subscription](/sales/gdrivesubscription/#stopping-your-subscription)
   * After that is done, have that person remove themselves from their canceled subscription, as shown below. If they believe they are owed a refund, they can reach us directly at [sales@balsamiq.com](mailto:sales@balsamiq.com).
 
-![gif](//media.balsamiq.com/img/support/sales/bwgd/gdrive_cancel_and_remove.png)
+![gif](//media.balsamiq.com/img/support/sales/bwgd/cancelremove.png)
 
 * If that person is the administrator of a subscription that currently has two admins, they can remove themselves **without canceling the subscription** first. By removing themselves, they become available to be added as an admin of another subscription.
 
