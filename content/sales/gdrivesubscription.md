@@ -119,6 +119,8 @@ Select "Cancel Subscription" and then confirm the cancelation. By selecting "Can
 
 After your subscription ends, you will be able to view existing wireframes in your Google Drive account. However, you will no longer be able to edit or create new wireframes.
 
+The option to [remove yourself](#removing-yourself-as-administrator) will become available after canceling your subscription. You do not need to remove yourself, unless someone else is trying to add you as an [additional administrator](/sales/gdrivesubscription/#additional-administrator) on a _different_ subscription.
+
 * * *
 
 ## Restarting Your Subscription
@@ -127,7 +129,9 @@ If you wish to restart your subscription, simply select "Restart Subscription" f
 
 You can access the billing page for your inactive subscription by trying to [create a new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
 
-You'll need to enter your credit card to complete the re-activation.
+If you had [removed yourself](#removing-yourself-as-administrator) from your canceled subscription, you will simply see the option to [start a new subscription](/#signing-up-for-a-subscription) from scratch.
+
+You'll need to enter your credit card to complete the re-activation, or to start a new subscription.
 
 * * *
 
