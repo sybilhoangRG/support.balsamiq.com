@@ -33,7 +33,7 @@ Academic discounts are not available for the following products:
 
 *   Mockups 3 for Desktop (but we do [offer extended trials for classroom use](https://balsamiq.com/free))
 *   Balsamiq Cloud
-*   Balsamiq for Google Drive
+*   Balsamiq Wireframes for Google Drive
 *   myBalsamiq
 *   Wireframes for Confluence Cloud
 *   Wireframes for Jira Cloud
