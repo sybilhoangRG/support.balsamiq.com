@@ -37,4 +37,28 @@ Once you have copied the link, please open the other Confluence page and **inser
 
 * * *
 
+## Including a Page Containing a Wireframe in Another Page
+
+There are two ways to do this, both using Confluence macros:  
+
+* [Include Page Macro](https://confluence.atlassian.com/doc/include-page-macro-139514.html)  
+* [Excerpt Include Macro](https://confluence.atlassian.com/doc/excerpt-include-macro-148067.html)  
+* [Excerpt Macro](https://confluence.atlassian.com/doc/excerpt-macro-148062.html)
+
+### 1. Including the Full Page
+
+To include a full page containing a Balsamiq Wireframe within another page, use the `Include Page Macro`:
+
+![](//media.balsamiq.com/img/support/prodfaqs/include-page-macro.png)  
+![](//media.balsamiq.com/img/support/prodfaqs/full-page-include.png)
+
+### 2. Including Only Part of the Page
+
+To include part of a page containing a Balsamiq Wireframe withing in another page, first define the partial page using the `Excerpt Macro` then use the `Excerpt Include Macro`:
+
+![](//media.balsamiq.com/img/support/prodfaqs/excerpt-include-macro.png)  
+![](//media.balsamiq.com/img/support/prodfaqs/partial-include.png)
+
+***
+
 We hope this is helpful but please [get in touch](https://balsamiq.com/company/contact/#/t/m4c) if you need any further help to set it up. We're here to help! :)
