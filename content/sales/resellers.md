@@ -13,7 +13,7 @@ draft: ''
 
 Other than [Atlassian Marketplace](/sales/marketplace/), we have no contracted agreements with software resellers, however we understand it is often easier for companies to purchase from a reseller with whom they already have an agreement.
 
-Though we do not have approved resellers, we do allow resellers to purchase our license products on behalf of their customers. Due to payment and management restrictions, we do not recommend that resellers purchase our subscription products Balsamiq for Google Drive and myBalsamiq.
+Though we do not have approved resellers, we do allow resellers to purchase our license products on behalf of their customers. Due to payment and management restrictions, we do not recommend that resellers purchase our subscription products Balsamiq Wireframes for Google Drive and myBalsamiq.
 
 If you are looking to purchase Mockups 3 for Desktop, Wireframes for Confluence Server, or Wireframes for Jira Server and would prefer to purchase via your reseller, simply send them a link to this page to help them complete the purchase.
 
@@ -43,7 +43,7 @@ The receipt and License Information will be sent to the email address provided, 
 
 There are additional payment options for [license orders over $300](/sales/ordering/#licenses).
 
-We do not recommend that resellers pay for [**Balsamiq for Google Drive**](/sales/gdrivesubscription/#stopping-your-subscription), since the purchase must be done by the end user directly (subscriptions are tied to individual Google IDs).
+We do not recommend that resellers pay for [**Balsamiq Wireframes for Google Drive**](/sales/gdrivesubscription/#stopping-your-subscription), since the purchase must be done by the end user directly (subscriptions are tied to individual Google IDs).
 
 Balsamiq Cloud does offer the role of a [Billing-Only Administrator](https://docs.balsamiq.com/cloud/spaces/#making-someone-a-billing-only-administrator), which allows a third person to manage billing aspects of a Space. The Billing-Only Administrator will not have access to projects, wireframes or any other settings that are not related to billing. This role might be useful for resellers, or members of a purchasing team. Note that the Space Owner(s) must first designate the Billing-Only Administrator before that person has access to billing, as explained [here](/sales/cloudreseller).
 

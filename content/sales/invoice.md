@@ -11,7 +11,7 @@ draft: ''
 
 The answer depends on the version of Balsamiq:
 
-*   [Subscriptions](#subscriptions) - Balsamiq Cloud, Balsamiq for Google Drive, myBalsamiq, Balsamiq Wireframes for Confluence Cloud, and Balsamiq Wireframes for Jira Cloud
+*   [Subscriptions](#subscriptions) - Balsamiq Cloud, Balsamiq Wireframes for Google Drive, myBalsamiq, Balsamiq Wireframes for Confluence Cloud, and Balsamiq Wireframes for Jira Cloud
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server
 
 * * *
@@ -23,7 +23,7 @@ Balsamiq Wireframes for Confluence Cloud and Balsamiq Wireframes for Jira Cloud 
 For our other subscription products, we send monthly invoices following your automatic credit card payment to the email address specified with your credit card billing information.
 
 *   myBalsamiq site owners and [secondary billing administrators](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can see their past invoices under ”Manage your billing” in your site’s [Payment Information Settings page](/sales/mybsubscriptions/#finding-past-invoices).
-*   Balsamiq for Google Drive customers can see past invoices under [Manage your Subscription.](/sales/gdrivesubscription/#finding-past-invoices)
+*   Balsamiq Wireframes for Google Drive customers can see past invoices under [Manage your Subscription.](/sales/gdrivesubscription/#finding-past-invoices)
 *   Balsamiq Cloud Space Owners and [Billing-Only Administrators](https://docs.balsamiq.com/cloud/spaces/#making-someone-a-billing-only-administrator) can see their past invoices under "Billing Information" found under your [Space's Settings](/sales/cloudsubscriptions/#finding-past-invoices).
 
 * * *
