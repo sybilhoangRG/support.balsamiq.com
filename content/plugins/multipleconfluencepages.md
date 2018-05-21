@@ -49,13 +49,13 @@ There are two ways to do this, both using Confluence macros:
 
 You can use the `Include Page` macro to display the content of a Confluence page in another page. Any changes to the original page are automatically reflected wherever it is included.
 
-![](//media.balsamiq.com/img/support/docs/confluence/faqs/include-page-macro.gif)
+![gif](//media.balsamiq.com/img/support/docs/confluence/faqs/include-page-macro.png)
 
 ### 2. Including Only Part of the Page
 
 To include only a subset of a page inside other confluence pages you can use the `Excerpt` macro (on the source) and the `Include Excerpt` macro (on the destination).
 
-![](//media.balsamiq.com/img/support/docs/confluence/faqs/excerpt-include-macro.gif)  
+![gif](//media.balsamiq.com/img/support/docs/confluence/faqs/excerpt-include-macro.png)  
 
 ***
 
