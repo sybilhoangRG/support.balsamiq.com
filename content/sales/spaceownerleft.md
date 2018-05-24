@@ -39,7 +39,7 @@ If the Space Owner has already left, but they used a company email address for t
 
 ## What If I Don't Have Access to Their Email? Can Balsamiq Make the Change for Me?
 
-Unfortunately, **no**. Per our [Terms of Service](https://balsamiq.com/legal/privacy/#passwords), we cannot change ownership of Balsamiq Cloud Spaces ourselves. If the person that set up your Space was an external contractor, or if they used a non-company email address, you will need to contact them directly and ask them to please assign the ownership of the Space to one of your company's current staff members.
+Unfortunately, **no**. Per our [Privacy Policy](https://balsamiq.com/legal/privacy/#passwords), we cannot change ownership of Balsamiq Cloud Spaces ourselves. If the person that set up your Space was an external contractor, or if they used a non-company email address, you will need to contact them directly and ask them to please assign the ownership of the Space to one of your company's current staff members.
 
 If for some reason they cannot do that, you can instead ask them to [download](https://docs.balsamiq.com/cloud/projects/#cloning-downloading-and-deleting-projects) and send you the project files directly, and you can then upload them into a new Cloud Space that is owned by a current staff member.
 
