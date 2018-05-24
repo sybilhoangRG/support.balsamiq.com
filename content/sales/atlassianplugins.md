@@ -65,7 +65,7 @@ This section covers the most frequently asked questions related to the licensing
 
 ## End User License Agreement
 
-*   [Balsamiq Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
+*   [Balsamiq Terms of Service and Privacy Policy](https://balsamiq.com/legal/)
 *   [Our legal department would like to make some changes to your End User License Agreement (EULA). Is that ok?](/sales/customeula/)
 *   [Your EULA refers to the grant of publicity rights to Balsamiq. What does that mean? Can we change that?](/sales/publicityrights/)
 *   [The EULA is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)

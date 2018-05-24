@@ -21,7 +21,7 @@ If you are looking to purchase Mockups 3 for Desktop, Wireframes for Confluence 
 
 Balsamiq does not offer any reseller discounts, so there is no application or agreement to complete.
 
-Our standard [EULA and Terms of Service](https://balsamiq.com/eulas/) apply to purchases made by resellers.
+Our standard [EULA and Terms of Service](https://balsamiq.com/legal/terms/) apply to purchases made by resellers.
 
 For our license products Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server it's easy to purchase for your end user. See instructions [below](#how-can-i-buy-balsamiq-mockups-for-my-customers).
 
@@ -57,7 +57,7 @@ It is your responsibility to make sure the License Information and registration 
 
 ## Can I Purchase in Bulk to Later Resell or Distribute to Another Reseller?
 
-We require that purchases are made in the End User’s name. Licensees are restricted from transferring and sub-licensing their licenses. For this reason, a reseller should not purchase a license in another reseller’s name, but rather in the intended end user’s name. Additional details can be found in our [EULA](https://balsamiq.com/eulas/desktopandserverplugins/#10).
+We require that purchases are made in the End User’s name. Licensees are restricted from transferring and sub-licensing their licenses. For this reason, a reseller should not purchase a license in another reseller’s name, but rather in the intended end user’s name. Additional details can be found in our [EULA](https://balsamiq.com/legal/terms/eula/#10).
 
 ## How Is the Software Distributed? Will I Receive a CD-ROM or Shrink-Wrapped Product?
 
