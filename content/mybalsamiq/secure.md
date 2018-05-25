@@ -7,7 +7,7 @@ product: "myBalsamiq FAQs"
 draft: ''
 ---
 
-Our [**myBalsamiq Terms of Use and Privacy Policy**](https://docs.balsamiq.com/mybalsamiq/tos/) document contains all the information related to security of myBalsamiq sites and servers. The section called [Access to Your Data](https://docs.balsamiq.com/mybalsamiq/tos/#access-to-your-data) pertains specifically to security and privacy.
+Our [**Terms of Service and Privacy Policy**](https://balsamiq.com/legal/) document contains all the information related to security of myBalsamiq sites and servers. The section called [Access to Your Data](https://balsamiq.com/legal/privacy/#access) pertains specifically to security and privacy.
 
 If you are wondering what information each type of role has access to in a myBalsamiq site, refer to our [Access Control Matrix](https://docs.balsamiq.com/mybalsamiq/accesscontrolmatrix/).
 

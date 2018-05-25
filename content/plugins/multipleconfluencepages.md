@@ -37,4 +37,26 @@ Once you have copied the link, please open the other Confluence page and **inser
 
 * * *
 
+## Including a Page Containing a Wireframe in Another Page
+
+There are two ways to do this, both using Confluence macros:  
+
+* [Include Page Macro](https://confluence.atlassian.com/doc/include-page-macro-139514.html)  
+* [Excerpt Include Macro](https://confluence.atlassian.com/doc/excerpt-include-macro-148067.html)  
+* [Excerpt Macro](https://confluence.atlassian.com/doc/excerpt-macro-148062.html)
+
+### 1. Including the Full Page
+
+You can use the `Include Page` macro to display the content of a Confluence page in another page. Any changes to the original page are automatically reflected wherever it is included.
+
+![gif](//media.balsamiq.com/img/support/docs/confluence/faqs/include-page-macro.png)
+
+### 2. Including Only Part of the Page
+
+To include only a subset of a page inside other confluence pages you can use the `Excerpt` macro (on the source) and the `Include Excerpt` macro (on the destination).
+
+![gif](//media.balsamiq.com/img/support/docs/confluence/faqs/excerpt-include-macro.png)  
+
+***
+
 We hope this is helpful but please [get in touch](https://balsamiq.com/company/contact/#/t/m4c) if you need any further help to set it up. We're here to help! :)

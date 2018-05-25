@@ -12,7 +12,7 @@ draft: ''
 
 One of the reasons Balsamiq can keep costs down on our products is because we standardize everything. Thus, no need for legal teams.
 
-We have made an effort to make our [EULA and Terms of Service](https://balsamiq.com/eulas) as fair as possible, and never negotiate it.
+We have made an effort to make our [EULA and Terms of Service](https://balsamiq.com/legal/terms/) as fair as possible, and never negotiate it.
 
 For this same reason, we also do not sign additional agreements, including Non-Disclosure Agreements (NDAs).
 

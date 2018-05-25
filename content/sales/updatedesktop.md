@@ -17,7 +17,7 @@ Details about how to update are found [here](https://docs.balsamiq.com/desktop/i
 
 Major-version updates will have an additional cost. As updates are not required, you will be able to continue to use version 3 if you don't wish to purchase a major version update.
 
-We will continue to offer [support](/sales/support/) for version 3 for at least 12 months after Wireframes for Desktop is released. However, historically we have continued to support versions for much longer than the minimum time noted in our [EULA](https://balsamiq.com/eulas/). We are currently still supporting customers who have chosen to keep using version 2, even though version 3 was released in March 2015.
+We will continue to offer [support](/sales/support/) for version 3 for at least 12 months after Wireframes for Desktop is released. However, historically we have continued to support versions for much longer than the minimum time noted in our [EULA](https://balsamiq.com/legal/terms/eula/). We are currently still supporting customers who have chosen to keep using version 2, even though version 3 was released in March 2015.
 
 There's no exact date available for the release of Balsamiq Wireframes for Desktop, however it's planned for sometime in 2018 as shared on [our blog post](https://blog.balsamiq.com/balsamiq-wireframes/). Exact costs of the new version will be available when we are closer to the release date.
 
