@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Like most software companies, at Balsamiq we have implemented some changes in order to follow guidelines established by the European Union's data privacy law **General Data Processing Regulation** or GDPR, which came into effect May 25, 2018.
+Like most software companies, at Balsamiq we have implemented changes to follow guidelines established by the European Union's data privacy law **General Data Processing Regulation** or GDPR, which came into effect May 25, 2018.
 
 After reading the legislation, we were pleased to find it is in alignment with our company philosophies related to data, privacy, and transparency with our users. A lot of work was put into this effort, but we know we still have more we can do to protect our community's privacy.
 
@@ -19,7 +19,7 @@ After reading the legislation, we were pleased to find it is in alignment with o
 
 As our newly updated Privacy Policy states: "Our business model is a very traditional one: we provide products and services, and customers pay us for them. In other words, you are the customer, NOT the product."
 
-So most of the work we have done is related to making it very clear that we do not sell or rent your data, ever.  And we only keep what is required to provide you with those products and services.
+So most of the work we have done was making it very clear that we do not sell or rent your data, ever.  And we only keep what is required to provide you with those products and services.
 
 Briefly, here are steps we have taken as of May 2018:
 
