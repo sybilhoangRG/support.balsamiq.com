@@ -124,9 +124,9 @@ Are you looking for **best practices** or inspiration while working on your wire
     </div>
     <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="gallery-item">
-            <a href="http://patterntap.com/"><img src="//media.balsamiq.com/img/support/uigalleries/patterntap.jpg" alt="screenshot" /></a>
+            <a href="https://zurb.com/library/"><img src="//media.balsamiq.com/img/support/uigalleries/patterntap.jpg" alt="screenshot" /></a>
             <div class="meta">
-                <h4><a href="http://patterntap.com/">Pattern Tap</a></h4>
+                <h4><a href="https://zurb.com/library/">Pattern Tap</a></h4>
             </div>
         </div>
     </div>
@@ -313,7 +313,23 @@ $('ul#filter a').click(function() {
 });
 </script>
 <style>
+.gallery-item {
+  min-height: 360px;
+  width: 100%;
+}
+.gallery-item img {
+  max-height: 180px;
+  width: auto;
+  /* padding: 10px; */
+}
+@media (min-width: 1200px) {
+  .gallery-item img {
+    max-height: 300px;
+    width: 100%;
+  }
+}
 .meta h4 {
   font-weight: normal;
+  margin-bottom: 0;
 }
 </style>

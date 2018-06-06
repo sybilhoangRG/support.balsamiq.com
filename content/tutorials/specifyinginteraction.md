@@ -16,7 +16,7 @@ product: "Tutorials & Videos"
 
 Designers, filmmakers, and animators have used low fidelity, static representations of content for communicating motion and interaction for years. Many of those techniques have been borrowed by software designers designing for the screen, and there are well-known practices for communicating interaction in static documents. This tutorial provides some tips for designing interaction in Balsamiq using these techniques.
 
-The tutorial starts with a brief explanation of why these techniques are used, but if you like you can [skip to the examples](#specifying-interaction-the-mockups-way).
+The tutorial starts with a brief explanation of why these techniques are used, but if you like you can [skip to the examples](#specifying-interaction-the-balsamiq-way).
 
 * * *
 
@@ -61,7 +61,7 @@ Thanks to Andrey Savchenko for the use of the [WordPress Query Functions flowcha
 
 ### 2\. Sketchboards
 
-The sketchboard technique is a low-fi sketching practice for creating many sketches quickly and iteratively. You typically review with a team, and refinie as you go. We use a technique of collaborative [sketchboarding with Balsamiq](http://konigi.com/notebook/creating-sketchboards-mockups) using thumbnail interface sketches created with a special Sketch symbols library. We then iterate over the sketches in our web app, myBalsamiq.
+The sketchboard technique is a low-fi sketching practice for creating many sketches quickly and iteratively. You typically review with a team, and refinie as you go. We use a technique of collaborative [sketchboarding with Balsamiq](https://blog.balsamiq.com/sketching-in-mockups/) using thumbnail interface sketches created with a special Sketch symbols library. We then iterate over the sketches in our web app, myBalsamiq.
 
 The idea with thumbnail sketching is to draw a smallish representation of your design, roughing out boxes and greeking lines of text to get an idea of what your interface will look like. You actually don't even need text to sketch the interface, just scribbled lines. You can use text captions to describe what's happening in the story.
 
@@ -87,15 +87,11 @@ Our technique ends up looking like a hybrid of wireframe, [page description diag
 
 <a class="fb" rel="gallery" title="Wireframe with Flow" href="https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png"><img src="https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png"></a>
 
-<small class="center">[[Download the Balsamiq BMML file above](https://support.mybalsamiq.com/projects/spec-ix/Single+Project+Grid+View.bmml).]</small>
-
 One neat trick you might try is to utilize the [Markup toggling feature](https://docs.balsamiq.com/desktop/markup/#markup-toggling-with-keyboard-shortcuts) in fullscreen/presentation mode. You can Group and right-click the annotations and flow storyboards in the margins, select Treat as Markup, and they'll be hidden. When you're viewing in fullscreen mode, you can show the wireframes, and then toggle annotation visibility to show the flow storyboards.
 
 When our needs are modest, we just combine words with arrows and broken-out illustrations, as in the wireframe below.
 
 <a class="fb" rel="gallery" title="Wireframe with Flow" href="https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-flow.png"><img src="https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-flow.png" /></a>
-
-<small class="center">[[Download the Balsamiq BMML file above](https://support.mybalsamiq.com/projects/spec-ix/Suspended+For+Payment+Site+Pages.bmml).]</small>
 
 ### 5\. Storyboards
 
@@ -112,7 +108,7 @@ Creating a click-through prototype is like animating a storyboard. You create a 
 
 The first thing to be aware of is that files must be saved before you can link them. Once you have saved files, you can create links between wireframes using any of the components that support linking, for example, link, button, buttonbar, tabs, etc.
 
-Please refer to the [linking section of the help documentation](https://docs.balsamiq.com/desktop/linking/). It shows how to use the property inspector to create links between saved files. 
+Please refer to the [linking section of the help documentation](https://docs.balsamiq.com/desktop/linking/). It shows how to use the property inspector to create links between saved files.
 
 Once you've linked together your Balsamiq, you can use fullscreen/presentation mode to demonstrate the click-through prototype. If you export the project to PDF, you can also present the click through prototype in a PDF reader on any desktop computer, readily available and free.
 

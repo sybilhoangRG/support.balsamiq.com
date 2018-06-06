@@ -1,5 +1,5 @@
 ---
-title: Balsamiq for Google Drive Purchasing Table of Contents
+title: Balsamiq Wireframes for Google Drive Purchasing Table of Contents
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
 menu:
@@ -9,11 +9,9 @@ draft: ''
 
 ---
 
-{{% alert warning %}}**Note:** We have recently released **Balsamiq Wireframes for Google Drive**. If you have an existing Mockups 3 for Google Drive subscription, please read our [transition guide](http://docs.balsamiq.com/google-drive/wireframes/transition/). Your subscription and billing information will remain the same.{{% /alert %}}
+This section covers the most frequently asked questions related to the licensing and purchasing of Balsamiq Wireframes for Google Drive. Other useful Balsamiq Wireframes for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-wireframes-free/imbfadckkgblfbkinjejdeobpfbcopgb) and the [Balsamiq Wireframes for Google Drive Documentation](https://docs.balsamiq.com/google-drive/wireframes/).
 
-This section covers the most frequently asked questions related to the licensing and purchasing of Balsamiq for Google Drive. Other useful Balsamiq for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-wireframes-free/imbfadckkgblfbkinjejdeobpfbcopgb) and the [Balsamiq for Google Drive Documentation](https://docs.balsamiq.com/google-drive/wireframes/).
-
-**Main article:** [How can I purchase, manage or cancel a Balsamiq for Google Drive subscription?](/sales/gdrivesubscription/)
+**Main article:** [How can I purchase, manage or cancel a Balsamiq Wireframes for Google Drive subscription?](/sales/gdrivesubscription/)
 
 ## Evaluating
 
@@ -25,22 +23,22 @@ You can compare our products <a href="https://balsamiq.com/products/">here</a>.
 
 *   [Pricing and plan levels](https://balsamiq.com/buy/#gd)
 *   [How are users counted?](/sales/userscounted/)
-*   [Can I transfer my Mockups 3 for Desktop license to Balsamiq for Google Drive?](/sales/desktoptogdrive/)
+*   [Can I transfer my Mockups 3 for Desktop license to Balsamiq Wireframes for Google Drive?](/sales/desktoptogdrive/)
 *   [Do you offer any discounts?](/sales/discounts/)
-*   Can I get Balsamiq for Google Drive for free?  No, but we have a [program](https://balsamiq.com/free) for other versions of our software.
+*   Can I get Balsamiq Wireframes for Google Drive for free?  No, but we have a [program](https://balsamiq.com/free) for other versions of our software.
 *   [Are there any applicable taxes?](/sales/taxes/)
 
 ## Ordering and Payments
 
-*   [Can I request a quote?](/sales/quote/) Estimates are not available for Balsamiq for Google Drive.
-*   **[How can I purchase, manage or cancel a Balsamiq for Google Drive subscription?](/sales/gdrivesubscription/)**
+*   [Can I request a quote?](/sales/quote/) Estimates are not available for Balsamiq Wireframes for Google Drive.
+*   **[How can I purchase, manage or cancel a Balsamiq Wireframes for Google Drive subscription?](/sales/gdrivesubscription/)**
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
-*   [Can I buy Balsamiq for Google Drive for my company or someone else?](/sales/gdrivecompany)
+*   [Can I buy Balsamiq Wireframes for Google Drive for my company or someone else?](/sales/gdrivecompany)
 
 ## Terms of Service
 
-*   [Balsamiq Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
+*   [Balsamiq Terms of Service and Privacy Policy](https://balsamiq.com/legal/)
 *   [Our legal department would like to make some changes to your Terms of Service. Is that ok?](/sales/customeula/)
 *   [The Terms of Service is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
 *   [Are your products Open Source software applications?](/sales/opensource/)

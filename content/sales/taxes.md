@@ -15,4 +15,4 @@ Balsamiq Studios LLC only has US sales tax nexus in California and Illinois. Cal
 
 If you live elsewhere, please consult with your tax advisers regarding the need to self-assess the use tax on your purchase.
 
-You can find a copy of our W9 and other tax-related documents [here](https://balsamiq.com/eulas/).
+You can find a copy of our W9 and other tax-related documents [here](https://balsamiq.com/legal/).

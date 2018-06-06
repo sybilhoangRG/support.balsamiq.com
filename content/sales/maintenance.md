@@ -15,13 +15,13 @@ Software maintenance covers access to any [relevant support](/sales/support/) an
 
 We release often—[about every 1-2 months](https://blog.balsamiq.com/category/release-notes/)—to get bug fixes and new features in your hands as fast as possible. Then we follow up each release with [fanatical customer support](https://balsamiq.com/company/#who).
 
-For additional details check our [End User Licensing Agreement and Terms of Service](https://balsamiq.com/eulas).
+For additional details check our [End User Licensing Agreement and Terms of Service](https://balsamiq.com/legal/terms/).
 
 ## When Does My Maintenance Start and End?
 
 **Mockups 3 for Desktop** has no maintenance or renewal costs for the license. [Minor-version (3.x) updates](/sales/updatedesktop/) are free to all Desktop license holders, and we publish [new releases](https://balsamiq.com/download/) frequently. Support is provided via Balsamiq forums: [https://forums.balsamiq.com/](https://forums.balsamiq.com/)
 
-**Balsamiq for Google Drive**, **myBalsamiq**, **Balsamiq Wireframes for Confluence Cloud** and **Balsamiq Wireframes for Jira Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
+**Balsamiq Wireframes for Google Drive**, **myBalsamiq**, **Balsamiq Wireframes for Confluence Cloud** and **Balsamiq Wireframes for Jira Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
 
 Software maintenance for our plugins **Wireframes for Confluence Server** and **Wireframes for Jira Server** is sold for periods of 12 months at a time. The start date of the maintenance period depends on the type of purchase you are making:
 

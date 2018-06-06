@@ -11,14 +11,14 @@ draft: ''
 
 The answer depends on the version of Balsamiq:
 
-*   [Subscriptions](#subscriptions) - Balsamiq Cloud, Balsamiq for Google Drive, Wireframes for Confluence Cloud and Wireframes for Jira Cloud.
+*   [Subscriptions](#subscriptions) - Balsamiq Cloud, Balsamiq Wireframes for Google Drive, Wireframes for Confluence Cloud and Wireframes for Jira Cloud.
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server.
 
 * * *
 
 ## Subscriptions
 
-We only accept [automatic credit card payments](/sales/ordering/) for Balsamiq Cloud and Balsamiq for Google Drive plans. We do not accept other forms of payment for these subscription-based services.
+We only accept [automatic credit card payments](/sales/ordering/) for Balsamiq Cloud and Balsamiq Wireframes for Google Drive plans. We do not accept other forms of payment for these subscription-based services.
 
 Wireframes for Confluence Cloud and Wireframes Jira Cloud are sold via [Atlassian Marketplace](/sales/marketplace/).
 

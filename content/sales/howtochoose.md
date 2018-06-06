@@ -111,7 +111,6 @@ _Balsamiq: twitter search for ["balsamiq mockups" OR "mybalsamiq" OR "balsamiq"]
 These sort of lists become outdated very quickly, but here are a few that seem to be well-maintained.
 
 *   [http://socialcompare.com/en/comparison/mockup-wireframing-design-tools](http://socialcompare.com/en/comparison/mockup-wireframing-design-tools)
-*   [http://protomoto.com/](http://protomoto.com/)
 *   [http://konigi.com/wiki/wireframes](http://konigi.com/wiki/wireframes)
 
 ---

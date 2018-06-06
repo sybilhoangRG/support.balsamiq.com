@@ -2,7 +2,7 @@
 title: Tooltips
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 38
+weight: 70
 product: "UI Design 101"
 ---
 Tooltips are a common form of contextual help that leverage the "details on demand" UX pattern.<!--more-->
@@ -23,7 +23,7 @@ Here is a typical tooltip example *([source](https://docs.microsoft.com/en-us/wi
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/bing-tooltips.png)
 
-Tooltips are also useful when a longer explanation can be useful, but is impractical for space reasons. Another simple heuristic for using tooltips is when a control "benefits from a supplemental description or further information" ([*UX Planet*](https://uxplanet.org/tooltips-in-ui-design-f63e117aa3d1)). However, tooltips should never be used a fallback for unclear icons or labels. Tooltips are supplementary information and should not be treated as a primary means of helping users understand the system.
+Tooltips are also useful when a longer explanation can be useful, but is impractical for space reasons. Another simple heuristic for using tooltips is when a control "benefits from a supplemental description or further information" [*(UX Planet)*](https://uxplanet.org/tooltips-in-ui-design-f63e117aa3d1). However, tooltips should never be used a fallback for unclear icons or labels. Tooltips are supplementary information and should not be treated as a primary means of helping users understand the system.
 
 Finally, tooltips are often not shown on mobile devices, so don't rely on them or assume that your user will read them.
 

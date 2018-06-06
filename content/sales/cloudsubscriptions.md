@@ -17,7 +17,9 @@ This page will describe how [Space Owners](https://docs.balsamiq.com/cloud/peopl
 
 Before signing up for a subscription, you must first [create](https://docs.balsamiq.com/cloud/intro/#quick-start-guide) and confirm your Balsamiq Cloud account.
 
-The Space Owners or the [Billing-Only Administrator](https://docs.balsamiq.com/cloud/spaces/#making-someone-a-billing-only-administrator) can sign up for a plan in the Settings under the Billing Information section. This section can be reached by selecting "Settings" in the center navigation menu within your space.
+The Space Owners or the [Billing-Only Administrator](https://docs.balsamiq.com/cloud/spaces/#making-someone-a-billing-only-administrator) can sign up for a plan in the **Space Settings** under the Billing Information section. This section can be reached by selecting "Settings" in the center navigation menu within your Space.
+
+![](https://media.balsamiq.com/img/support/sales/cloud/space_settings.png)
 
 To sign up for a paid subscription, simply pick a plan and select the Subscribe button:
 
@@ -33,7 +35,7 @@ If you happen to subscribe to a plan **before** your initial 30-day trial is ove
 
 {{% alert info %}}**Note:** If you have a Billing-Only Administrator assigned, the Space Owner(s) will be required to re-enter the credit card on file to make plan changes. Otherwise, contact your Billing-Only Admin to make the change.{{% /alert %}}
 
-The Space Owners or the Billing-Only Administrator can change the plan at any time in the Settings under the Billing Information section. This section can be reached by selecting "Settings" in the center navigation menu within your space.
+The Space Owners or the Billing-Only Administrator can change the plan at any time in the **Space Settings** under the Billing Information section. This section can be reached by selecting "Settings" in the center navigation menu within your Space.
 
 Simply select the appropriate button next to the desired plan:
 
@@ -49,13 +51,13 @@ Your billing renewal date will remain the same if you are only changing the numb
 
 We send invoice notifications via email following your automatic credit card payment to the email address of the Space Owner(s). The email will also be sent to the Billing-Only Administrator if one is assigned.
 
-A link to your downloadable invoice is included in this notification email. You can also view all past invoices directly under the Billing History section of your Settings.
+A link to your downloadable invoice is included in this notification email. You can also view all past invoices directly under the Billing History section of your **Space Settings**.
 
 ![](https://media.balsamiq.com/img/support/sales/cloud/billing_history.png)
 
 If you need to share invoices with someone other than the Space Owners or Billing-Only Administrator, you can easily forward the email notifications. Although you must be logged in to Balsamiq Cloud to view your Billing Information, the link to your invoice can be viewed and downloaded by your finance team without logging in.
 
-If the Space Owners or Billing-Only Administrator need to change their registered email address, this change must be done within the corresponding [User Settings](https://docs.balsamiq.com/cloud/user-settings/).
+If the Space Owners or Billing-Only Administrator need to change their registered email address, this change must be done within the corresponding [User Settings](https://docs.balsamiq.com/cloud/account-management/#user-settings).
 
 * * *
 
@@ -63,7 +65,7 @@ If the Space Owners or Billing-Only Administrator need to change their registere
 
 {{% alert info %}}**Note:** If you have a Billing-Only Administrator assigned, the Space Owner(s) will be required to re-enter the credit card on file to make billing changes. Otherwise, contact your Billing-Only Admin to make the change.{{% /alert %}}
 
-To update your credit card or invoice information, the Space Owners or Billing-Only Administrator should [log in](https://balsamiq.cloud/login) to the Balsamiq Cloud Space, and go to Billing Information found in the Settings section - which can be reached by selecting "Settings" in the center navigation menu within your Space.
+To update your credit card or invoice information, the Space Owners or Billing-Only Administrator should [log in](https://balsamiq.cloud/) to the Balsamiq Cloud Space, and go to Billing Information found in the **Space Settings** section - which can be reached by selecting "Settings" in the center navigation menu within your Space.
 
 Here is an example of what you will see when you are on the Billing Information page of your Balsamiq Cloud Space:
 
@@ -77,7 +79,7 @@ To edit the address shown on a previous invoice, select the specific invoice in 
 
 ## Stopping Your Subscription
 
-The Space Owners or the Billing-Only Administrator can stop your subscription at any time in the Billing Information section, under Settings. This section can be reached by selecting "Settings" in the center navigation menu within your Space.
+The Space Owners or the Billing-Only Administrator can stop your subscription at any time in the Billing Information section, under **Space Settings**. This section can be reached by selecting "Settings" in the center navigation menu within your Space.
 
 To stop the auto-renew of your subscription select "Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your Balsamiq Cloud Space will end at the conclusion of the current billing period.
 
@@ -89,7 +91,7 @@ Please review details of your options before canceling your subscription to make
 
 After your subscription ends, due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your Space will be suspended for **30 days**. During this time, your Space will be in **read-only mode**, which means the projects will still be viewable to Space Owners and staff members, but they will not be editable.
 
-While the Space is in read-only mode, Space Owners will still be able to download projects, permanently delete the Space or restart the subscription. If a Billing-Only Administrator has been assigned, that person will also be able to login to restart the subscription. To do so, visit the Billing Information section within your Space, found under Settings.
+While the Space is in read-only mode, Space Owners will still be able to download projects, permanently delete the Space or restart the subscription. If a Billing-Only Administrator has been assigned, that person will also be able to login to restart the subscription. To do so, visit the Billing Information section within your Space, found under **Space Settings**.
 
 If you choose not to restart the subscription, **your Space data will be deleted permanently after 30 days.**
 

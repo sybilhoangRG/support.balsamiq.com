@@ -9,7 +9,7 @@ draft: ''
 ---
 **Note:** This article applies to Mockups 3 for Desktop. Registration instructions for our other products can be found on the following pages:
 
-*   [Balsamiq for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
+*   [Balsamiq Wireframes for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
 *   [Balsamiq for Confluence Server](https://docs.balsamiq.com/confluence/)
 *   [Balsamiq for Jira Server](https://docs.balsamiq.com/jira/)
 *   [Balsamiq Cloud](/sales/cloudsubscriptions/#signing-up-for-a-subscription)

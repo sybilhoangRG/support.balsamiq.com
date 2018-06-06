@@ -44,7 +44,7 @@
         <ul>
           <li><a href="https://docs.balsamiq.com/desktop/">Mockups 3 for Desktop</a></li>
           <li><a href="https://docs.balsamiq.com/cloud/">Balsamiq Cloud</a></li>
-          <li><a href="https://docs.balsamiq.com/google-drive/">Balsamiq for Google Drive</a></li>
+          <li><a href="https://docs.balsamiq.com/google-drive/">Balsamiq Wireframes for Google Drive</a></li>
           <li><a href="https://docs.balsamiq.com/confluence/">Balsamiq for Confluence</a></li>
           <li><a href="https://docs.balsamiq.com/jira/">Balsamiq for Jira</a></li>
           <li><a href="https://docs.balsamiq.com/myBalsamiq/">myBalsamiq</a></li>
@@ -181,7 +181,7 @@
   urls["portal/articles/1144377"] = "/sales/gdrive/";
   urls["portal/articles/1550556"] = "/sales/gdrivesubscription/";
   urls["portal/articles/309235"] = "/sales/hibernate/";
-  urls["portal/articles/479049"] = "/sales/hostedpluginstos/";
+  urls["portal/articles/479049"] = "https://balsamiq.com/legal/terms/eula/";
   urls["portal/articles/1339732"] = "/sales/howtochoose/";
   urls["portal/articles/131245"] = "/sales/invoice/";
   urls["portal/articles/325975"] = "/sales/ipownership/";
@@ -306,7 +306,6 @@
     redirects["111756"] = "desktop/fullscreen/";
     redirects["110445"] = "desktop/shortcuts/";
     redirects["127531"] = "mybalsamiq/";
-    redirects["174898"] = "mybalsamiq/tos/";
     redirects["112380"] = "mybalsamiq/intro/";
     redirects["112398"] = "mybalsamiq/home/";
     redirects["112399"] = "mybalsamiq/project/";
@@ -350,6 +349,11 @@
   if (document.location.href.indexOf("/articles/1290036") != -1)
   {
     document.location.href = "https://balsamiq.com/company/sponsorships/apply/";
+  }
+
+  if (document.location.href.indexOf("/articles/174898") != -1)
+  {
+    document.location.href = "https://balsamiq.com/legal/terms/tos/";
   }
 
   // START - GTM / GA 404 Code

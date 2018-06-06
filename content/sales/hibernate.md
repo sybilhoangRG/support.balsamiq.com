@@ -10,7 +10,7 @@ draft: ''
 
 ---
 
-We do not support hibernating and reactivating myBalsamiq sites. We keep sites with inactive subscriptions for a minimum of [1 month](https://docs.balsamiq.com/mybalsamiq/tos/#how-can-i-access-or-correct-my-information). After 1 month, the site data may be deleted.
+We do not support hibernating and reactivating myBalsamiq sites. We keep sites with inactive subscriptions for a minimum of 1 month. After 1 month, the site data may be deleted.
 
 If you won't be using myBalsamiq anymore, you can [download all your projects](https://docs.balsamiq.com/mybalsamiq/project/#uploading-and-downloading-projects) to your machine. Make sure you save them somewhere safe in case you need to come back in the future. These projects can be [uploaded](https://docs.balsamiq.com/cloud/importing/#importing-from-mybalsamiq) to Balsamiq Cloud if desired.
 

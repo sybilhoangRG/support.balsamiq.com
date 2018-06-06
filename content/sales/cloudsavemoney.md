@@ -15,7 +15,7 @@ We've compiled a few tips that might help keep your Balsamiq Cloud costs down.
 
 ## Setting Your Space to Auto-Hibernate
 
-Balsamiq Cloud offers a nifty new feature called Auto-Hibernation. The way it works is that if your Space remains **empty** for a full billing cycle, we won't charge you for that month! This feature is only available in the 2-project plan when billed monthly. Head over to the [Auto-Hibernation FAQ](/cloud/cloudsubscriptions/#auto-hibernation) to learn more.
+Balsamiq Cloud offers a nifty new feature called Auto-Hibernation. The way it works is that if your Space remains **empty** for a full billing cycle, we won't charge you for that month! This feature is only available in the 2-project plan when billed monthly. Head over to the [Auto-Hibernation FAQ](/sales/cloudsubscriptions/#auto-hibernation) to learn more.
 
 ## Combining Projects
 
@@ -44,7 +44,7 @@ There might be times when you don't necessarily need to work on multiple project
 
 For example, let's assume you're on the 2-project plan, and you are working on Project A. You already started Project B, but it won't need to be touched until next month, and you need to get started with Project C. In that case, you can **download** Project B to your computer, then **delete** it from your Space. That frees up a slot for you to get started with Project C.
 
-You can find complete steps here: [What's The Best Way To Manage My Project Count In Balsamiq Cloud?](/cloud/manageprojects/)
+You can find more info here: [Managing Project Count](https://docs.balsamiq.com/cloud/projects/#managing-project-count)
 
 * * *
 
@@ -54,7 +54,7 @@ If the 2-project plan is not enough, but the 20-project plan is too much, there 
 
 For example, let's say you really need to work on 4 projects at a time, but do not wish to pay for the 20-project plan. What you can do in that instance is create **two different Spaces**, and then subscribe each one to the 2-project plan at $9/mo each (total of $18/mo).
 
-The downside is that you will have two separate Spaces to manage, each with its own subscription (which might be billed on a different date, depending on when you sign up), and its own list of people. That means you will receive a separate invoice for each Space, and if the same staff members need access to different Spaces, they will need to be [invited](https://docs.balsamiq.com/cloud/sites/#managing-users) to each one of them.
+The downside is that you will have two separate Spaces to manage, each with its own subscription (which might be billed on a different date, depending on when you sign up), and its own list of people. That means you will receive a separate invoice for each Space, and if the same staff members need access to different Spaces, they will need to be [invited](https://docs.balsamiq.com/cloud/spaces/#managing-users) to each one of them.
 
 You can subscribe 5 different Spaces to the $9/mo plan each before the savings stop. If you were to subscribe 6 Spaces ($9 x 6 = $54/mo), then you'd already be paying more than what the 20-project costs ($49/mo).
 

@@ -19,7 +19,7 @@ You also **don't** need a Balsamiq login or password for:
 
 *   [Balsamiq Wireframes for Confluence](https://docs.balsamiq.com/confluence/) - log in using your Confluence account 
 *   [Balsamiq Wireframes for Jira](https://docs.balsamiq.com/jira/) - log in using your Jira account
-*   [Balsamiq for Google Drive](https://docs.balsamiq.com/google-drive/wireframes/intro/) - log in using your Google or Gmail account
+*   [Balsamiq Wireframes for Google Drive](https://docs.balsamiq.com/google-drive/wireframes/intro/) - log in using your Google or Gmail account
 
 The two Balsamiq products you will need a login and password for are [Balsamiq Cloud](https://balsamiq.cloud/) and myBalsamiq - online versions that we also host. You can reset your password using the links below:
 
