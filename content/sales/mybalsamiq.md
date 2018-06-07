@@ -21,7 +21,7 @@ You can compare our products <a href="https://balsamiq.com/products/">here</a>.
 
 {{% sales_evaluating %}}
 
-You can find the Balsamiq Terms of Service <a href="https://balsamiq.com/terms/tos/">here</a>.
+You can find the Balsamiq Terms of Service [here](https://balsamiq.com/legal/terms/tos/).
 
 ## Pricing and Discounts
 
