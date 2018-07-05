@@ -46,7 +46,7 @@ After we have received your request and have verified your eligibility, we will 
 
 ## I'm Using Atlassian Cloud. Can I Migrate to Marketplace Now?
 
-All purchasing for our add-ons for Atlassian Cloud has been moved to Atlassian Marketplace. If you had a Balsamiq-issued license you were using in Confluence Cloud or Jira Cloud which had active or recently active maintenance, your license was transferred to Marketplace with a free legacy plan. If you had expired maintenance, you can simply start a new subscription directly in Marketplace for [Balsamiq for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Balsamiq for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
+All purchasing for our add-ons for Atlassian Cloud has been moved to Atlassian Marketplace. If you had a Balsamiq-issued license you were using in Confluence Cloud or Jira Cloud which had active or recently active maintenance, your license was transferred to Marketplace with a free legacy plan. If you had expired maintenance, you can simply start a new subscription directly in Marketplace for [Balsamiq for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud) or [Balsamiq for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud).
 
 Please check our Transition Guides for additional information:
 

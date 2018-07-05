@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview), [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) and [Wireframes for Jira Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups).
+This section covers the most frequently asked questions related to the licensing and purchasing of [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud), [Wireframes for Confluence Server](https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-confluence-server), [Wireframes for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud) and [Wireframes for Jira Server](https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira-server).
 
 ## Plugin Documentation
 
