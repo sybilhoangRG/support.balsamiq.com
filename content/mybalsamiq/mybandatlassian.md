@@ -7,7 +7,7 @@ product: "myBalsamiq FAQs"
 draft: ''
 ---
 
-We sell plugins for Atlassian [Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud), [Confluence Server](https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-confluence-server/server/overview), [Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud) and [Jira Server](https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira-server/server/overview), however you may already use and like our web application [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq).
+We sell plugins for Atlassian [Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud), [Confluence Server](https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-confluence-server), [Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud) and [Jira Server](https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira-server), however you may already use and like our web application [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq).
 
 While we don't have a specific integration between Confluence or Jira and myBalsamiq, you will be able to add links to your wireframes in myBalsamiq to Confluence pages or Jira issues.
 
