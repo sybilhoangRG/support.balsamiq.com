@@ -67,7 +67,7 @@ Tooltip styles vary greatly, although functional variations should be limited, s
 Some simple variations include:
 
 * Adding a directional arrow pointing to the object the tooltip is describing.
-* Using light formatting or visual elements for additional information (anything beyond this makes it an [overlay control](http://patternry.com/p=overlay/) with different rules for behavior).
+* Using light formatting or visual elements for additional information (anything beyond this makes it an overlay control with different rules for behavior).
 * Adding an explicit tooltip icon or button. This can be helpful for complex or novel interfaces where you expect users to need help, or for adding touch behavior on mobile.
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/tooltips-variations.png)

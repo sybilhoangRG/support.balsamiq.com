@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview), [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) and [Wireframes for Jira Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups).
+This section covers the most frequently asked questions related to the licensing and purchasing of [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud), [Wireframes for Confluence Server](https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-confluence-server), [Wireframes for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud) and [Wireframes for Jira Server](https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira-server).
 
 ## Plugin Documentation
 
@@ -65,7 +65,7 @@ This section covers the most frequently asked questions related to the licensing
 
 ## End User License Agreement
 
-*   [Balsamiq Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
+*   [Balsamiq Terms of Service and Privacy Policy](https://balsamiq.com/legal/)
 *   [Our legal department would like to make some changes to your End User License Agreement (EULA). Is that ok?](/sales/customeula/)
 *   [Your EULA refers to the grant of publicity rights to Balsamiq. What does that mean? Can we change that?](/sales/publicityrights/)
 *   [The EULA is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)

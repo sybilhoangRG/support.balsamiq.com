@@ -14,7 +14,7 @@ One of our customers, Sean of Shogantech, has also written [an excellent article
 
 ## A Note about Licensing
 
-You are responsible for complying with our [End User License Agreement](https://balsamiq.com/eulas) and only install Mockups for Desktop for the appropriate number of end-users allowed by the license you purchased.
+You are responsible for complying with our [End User License Agreement](https://balsamiq.com/legal/terms/eula/) and only install Mockups for Desktop for the appropriate number of end-users allowed by the license you purchased.
 
 * * *
 

@@ -38,7 +38,7 @@ There are a few considerations to keep in mind when using tabs, however. Such as
 * You should never have only one tab. [*(Microsoft Windows Desktop Guidelines)*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx)
 * Don't wrap tabs to a new line. If the tabs won't fit, consider using scrolling or drop-down tabs, as shown in the variations below.
 * Be wary of using icons alone for tabs on mobile. Adding text above or below is recommended. In ["Basic Patterns For Mobile Navigation: Pros And Cons"](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/), the author writes: "for most icons, text labels are necessary to communicate meaning and reduce ambiguity."
-[![](https://www.smashingmagazine.com/wp-content/uploads/2017/05/bottom-navigation-icons-780w-opt.png)](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar)
+[![](https://media.balsamiq.com/img/support/tutorials/ui101/tab-bar-preview-opt.png)](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar)
 * Consider vertical tabs when the number of horizontal tabs would be too many (or use a different kind of navigation entirely).
 
 ### Basic Usage

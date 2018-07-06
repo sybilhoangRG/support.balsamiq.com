@@ -21,7 +21,7 @@ If you are looking to purchase Mockups 3 for Desktop, Wireframes for Confluence 
 
 Balsamiq does not offer any reseller discounts, so there is no application or agreement to complete.
 
-Our standard [EULA and Terms of Service](https://balsamiq.com/eulas/) apply to purchases made by resellers.
+Our standard [EULA and Terms of Service](https://balsamiq.com/legal/terms/) apply to purchases made by resellers.
 
 For our license products Mockups 3 for Desktop, Wireframes for Confluence Server, and Wireframes for Jira Server it's easy to purchase for your end user. See instructions [below](#how-can-i-buy-balsamiq-mockups-for-my-customers).
 
@@ -47,7 +47,7 @@ We do not recommend that resellers pay for [**Balsamiq Wireframes for Google Dri
 
 Balsamiq Cloud does offer the role of a [Billing-Only Administrator](https://docs.balsamiq.com/cloud/spaces/#making-someone-a-billing-only-administrator), which allows a third person to manage billing aspects of a Space. The Billing-Only Administrator will not have access to projects, wireframes or any other settings that are not related to billing. This role might be useful for resellers, or members of a purchasing team. Note that the Space Owner(s) must first designate the Billing-Only Administrator before that person has access to billing, as explained [here](/sales/cloudreseller).
 
-**[Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)** and **[Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)** are subscription products, sold by Atlassian. Please refer to [this FAQ for Resellers](https://www.atlassian.com/licensing/resellers/) for info.
+**[Wireframes for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud)** and **[Wireframes for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud)** are subscription products, sold by Atlassian. Please refer to [this FAQ for Resellers](https://www.atlassian.com/licensing/resellers/) for info.
 
 ## Will You Send the License to Our Customer?
 
@@ -57,7 +57,7 @@ It is your responsibility to make sure the License Information and registration 
 
 ## Can I Purchase in Bulk to Later Resell or Distribute to Another Reseller?
 
-We require that purchases are made in the End User’s name. Licensees are restricted from transferring and sub-licensing their licenses. For this reason, a reseller should not purchase a license in another reseller’s name, but rather in the intended end user’s name. Additional details can be found in our [EULA](https://balsamiq.com/eulas/desktopandserverplugins/#10).
+We require that purchases are made in the End User’s name. Licensees are restricted from transferring and sub-licensing their licenses. For this reason, a reseller should not purchase a license in another reseller’s name, but rather in the intended end user’s name. Additional details can be found in our [EULA](https://balsamiq.com/legal/terms/eula/#10).
 
 ## How Is the Software Distributed? Will I Receive a CD-ROM or Shrink-Wrapped Product?
 
