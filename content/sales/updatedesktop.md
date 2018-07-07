@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Updating from any version of Mockups 3 for Desktop to Mockups 3 for Desktop is free.  Minor-version updates are also free (so 3.2, 3.3, etc.). There are [no maintenance](/sales/maintenance/#when-does-my-maintenance-start-and-end) or renewal costs in order to keep using the software.
+Updating from any version of Mockups for Desktop to Mockups 3 for Desktop is free.  Minor-version updates are also free (so 3.2, 3.3, etc.). There are [no maintenance](/sales/maintenance/#when-does-my-maintenance-start-and-end) or renewal costs in order to keep using the software.
 
 Details about how to update are found [here](https://docs.balsamiq.com/desktop/intro/#how-to-update). If you are currently using a version older than 3.0, we suggest you check out our [Transition Guide](https://docs.balsamiq.com/desktop/transition/) as the file format we use has changed.
 

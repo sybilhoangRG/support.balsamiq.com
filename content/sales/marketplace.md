@@ -19,16 +19,16 @@ Learn more about Atlassian Marketplace [here](http://www.atlassian.com/licensing
 
 Yes. Direct links below:
 
-*   [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)
+*   [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud)
 *   [Wireframes for Confluence Server](https://plugins.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
-*   [Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
+*   [Wireframes for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud)
 *   [Wireframes for Jira Server](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
 ## Who Should I Buy the Plugin From?
 
-**New Atlassian Confluence Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview). Existing Balsamiq for Confluence customers on Cloud should consult our [Balsamiq Wireframes for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/wireframes/transition-guide/).
+**New Atlassian Confluence Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud). Existing Balsamiq for Confluence customers on Cloud should consult our [Balsamiq Wireframes for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/wireframes/transition-guide/).
 
-**New Atlassian Jira Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview). Existing Mockups for Jira customers on Cloud should consult our [Balsamiq Wireframes for Jira Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/wireframes/transition-guide/).
+**New Atlassian Jira Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud). Existing Mockups for Jira customers on Cloud should consult our [Balsamiq Wireframes for Jira Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/wireframes/transition-guide/).
 
 **Altassian Server users**: although we may eventually need to transition all of our plugin customers to Marketplace, at the moment you have a choice. You can either buy from Marketplace or buy from us directly.
 
