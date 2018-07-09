@@ -43,7 +43,7 @@ The first step is merely selecting the **number** of editors you need.
 
 ![](https://media.balsamiq.com/img/support/sales/bwgd/full_plans_dropdown.png)
 
-You can select to pay on a monthly or yearly basis, and you can always [upgrade or downgrade](#changing-your-plan) your plan as you see fit.
+You can select to pay on a monthly or yearly basis, and you can always [upgrade or downgrade](#changing-your-plan) your plan as you see fit. This includes changing the number of editors on your plan (e.g. moving from 5 editors to 7).
 
 After you have selected and paid for your team plan, your billing page will contain a section titled **Balsamiq Wireframes Editors**. You will see a text box where you can enter your colleagues' email addresses.
 
@@ -51,7 +51,7 @@ After you have selected and paid for your team plan, your billing page will cont
 
 {{% alert info %}}**Note:** Make sure that you select **"Save"** after adding or removing people.{{% /alert %}}
 
-After you add their email addresses, your colleagues will be able to create and edit wireframes. If they haven't installed the plugin already, you can send them the link to do so. You can add and remove editors at any time.
+After you add their email addresses, your colleagues will be able to create and edit wireframes. If they haven't installed the plugin already, you can send them the link to do so. You can add and remove editors from your list at any time.
 
 ### Additional Administrator
 
@@ -91,9 +91,9 @@ The [invoice notification email](#finding-past-invoices) is always delivered to 
 
 ## Changing Your Plan
 
-As an administrator, you can upgrade and downgrade plans, and change plan frequency (monthly to yearly or vice versa) at any time.
+As an administrator, you can upgrade to a plan that includes a higher number of editors, or downgrade to one that includes a lower number of editors. You may also change the plan frequency (monthly to yearly or vice versa) at any time.
 
-First go to your billing page, as described [above](#updating-your-credit-card-or-invoice-information). Then select "Change Plan", verify that the correct plan is chosen, and then tick the option for "Monthly" or "Yearly". Select "Change Plan" and then "Confirm Plan".
+To make the changes, you will need to go your billing page, as described [above](#updating-your-credit-card-or-invoice-information). Then select "Change Plan", verify that the correct **new** plan is chosen (e.g. if you are on the 5-editor plan, but wish to upgrade to 7 editors, you will select the 7-editor plan from the list), and then tick the option for "Monthly" or "Yearly". Select "Change Plan" and then "Confirm Plan".
 
 You will automatically receive credit for any time remaining on your old plan. If additional money is required, your credit card will be charged for the remainder due. If there is any unused credit, it will be applied toward future renewals.
 
