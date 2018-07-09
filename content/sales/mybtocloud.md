@@ -11,7 +11,7 @@ draft: ''
 
 Fantastic news! Before we get started, bear in mind that myBalsamiq and Balsamiq Cloud are two different products, and moving things around will require a bit of work.
 
-These steps assume that you already have an existing Balsamiq Cloud account and space. If you don't already have one, make sure to check out the [Quick Start Guide](https://docs.balsamiq.com/cloud/intro/#quick-start-guide) to get started on your project. Once that's done, come back here to complete the steps below.
+These steps assume that you already have an existing Balsamiq Cloud account and Space. If you don't already have one, make sure to check out the [Quick Start Guide](https://docs.balsamiq.com/cloud/intro/#quick-start-guide) to get started on your project. Once that's done, come back here to complete the steps below.
 
 1. Prior to canceling or making any changes to your subscription, you will want to move your projects from myBalsamiq to Balsamiq Cloud. The steps to do so can be found in the [Importing from myBalsamiq](https://docs.balsamiq.com/cloud/importing/#importing-from-mybalsamiq) section of the docs. If you run into any issues, please reach out to our [Tech Support team](mailto:support@balsamiq.com?subject=I need help moving my projects from myBalsamiq to Cloud) with details on the problem you've encountered.
 
@@ -19,7 +19,7 @@ These steps assume that you already have an existing Balsamiq Cloud account and 
 
 3. Now that your myBalsamiq subscription has been canceled, you can [sign up](/sales/cloudsubscriptions/#signing-up-for-a-subscription) for the Balsamiq Cloud plan that best suits your needs. The plans are offered on a monthly or yearly basis, just like myBalsamiq, and you can cancel at any time - [Managing Your Balsamiq Cloud Subscription](/sales/cloudsubscriptions/).
 
-If you have credit accumulated in your myBalsamiq subscription, please make sure to [let us know](mailto:sales@balsamiq.com) as well. We'll be happy to move the credit over once you have signed up for a Balsamiq Cloud subscription. *Note: Credit can only be applied to Cloud spaces that are already on a paid plan.*
+If you have credit accumulated in your myBalsamiq subscription, please make sure to [let us know](mailto:sales@balsamiq.com) as well. We'll be happy to move the credit over once you have signed up for a Balsamiq Cloud subscription. *Note: Credit can only be applied to Cloud Spaces that are already on a paid plan.*
 
 One last thing, since myBalsamiq and Balsamiq Cloud are separate, **you will need to invite your staff members again**. Unfortunately, it is not possible to migrate them from one service to the other.
 
