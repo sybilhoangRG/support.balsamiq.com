@@ -15,10 +15,10 @@ This is a question we get a lot and this FAQ should assist you in making the rig
 
 Perhaps the easiest route for you and your team would be to license one of our Atlassian plugins.
 
-* [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)
-* [Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
-* [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
-* [Wireframes for Jira Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
+* [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud)
+* [Wireframes for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud)
+* [Wireframes for Confluence Server](https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-confluence-server)
+* [Wireframes for Jira Server](https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira-server)
 
 These plugins will allow your team to attach wireframes directly to your Confluence pages or Jira issues, without any fuss. Everything is built in, so your team never has to leave your Confluence/Jira instance. It's the easiest way to mockup in Atlassian.
 
@@ -30,9 +30,9 @@ If you use Confluence Server or Jira Server you have [two purchasing options](/s
 
 Mockups 3 for Desktop allows your designers to have complete control of their projects. When they are ready to share with the rest of your team, they can attach an [exported PDF or PNG](https://docs.balsamiq.com/desktop/exporting/) to a Confluence page or Jira issue.
 
-If you have [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) installed, you can easily import a project (BMPR file) created in the Desktop version by creating a new project and using the “**Project > Import > Import from BMPR..**” option.
+If you have [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud) or [Wireframes for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud) installed, you can easily import a project (BMPR file) created in the Desktop version by creating a new project and using the “**Project > Import > Import from BMPR..**” option.
 
-The same option is also available in [Wireframes for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) and [Wireframes for Jira Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups).
+The same option is also available in [Wireframes for Confluence Server](https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-confluence-server) and [Wireframes for Jira Server](https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira-server).
 
 ## myBalsamiq
 

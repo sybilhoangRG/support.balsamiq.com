@@ -47,7 +47,7 @@ We do not recommend that resellers pay for [**Balsamiq Wireframes for Google Dri
 
 Balsamiq Cloud does offer the role of a [Billing-Only Administrator](https://docs.balsamiq.com/cloud/spaces/#making-someone-a-billing-only-administrator), which allows a third person to manage billing aspects of a Space. The Billing-Only Administrator will not have access to projects, wireframes or any other settings that are not related to billing. This role might be useful for resellers, or members of a purchasing team. Note that the Space Owner(s) must first designate the Billing-Only Administrator before that person has access to billing, as explained [here](/sales/cloudreseller).
 
-**[Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)** and **[Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)** are subscription products, sold by Atlassian. Please refer to [this FAQ for Resellers](https://www.atlassian.com/licensing/resellers/) for info.
+**[Wireframes for Confluence Cloud](https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud)** and **[Wireframes for Jira Cloud](https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud)** are subscription products, sold by Atlassian. Please refer to [this FAQ for Resellers](https://www.atlassian.com/licensing/resellers/) for info.
 
 ## Will You Send the License to Our Customer?
 

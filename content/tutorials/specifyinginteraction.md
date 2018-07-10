@@ -83,7 +83,7 @@ Sometimes words alone cannot communicate a behavior. When a picture is required,
 
 Our typical technique for illustrating flow starts with creating a wireframe, and then we identify elements in the wireframe with the interactive behaviors we need to communicate.
 
-Our technique ends up looking like a hybrid of wireframe, [page description diagram](http://konigi.com/wiki/page-description-diagrams), and storyboard. In the margins of the wireframe we illustrate interaction, showing flow and state changes for parts of the view.
+Our technique ends up looking like a hybrid of wireframe, [page description diagram](http://konigi.com/uiref/page-description-diagrams/), and storyboard. In the margins of the wireframe we illustrate interaction, showing flow and state changes for parts of the view.
 
 <a class="fb" rel="gallery" title="Wireframe with Flow" href="https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png"><img src="https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png"></a>
 
