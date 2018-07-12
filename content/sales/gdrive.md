@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of Balsamiq Wireframes for Google Drive. Other useful Balsamiq Wireframes for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-wireframes-free/imbfadckkgblfbkinjejdeobpfbcopgb) and the [Balsamiq Wireframes for Google Drive Documentation](https://docs.balsamiq.com/google-drive/wireframes/).
+This section covers the most frequently asked questions related to the licensing and purchasing of Balsamiq Wireframes for Google Drive. Other useful Balsamiq Wireframes for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-wireframes-free/imbfadckkgblfbkinjejdeobpfbcopgb), the [G Suite Marketplace listing](https://gsuite.google.com/marketplace/app/balsamiq_wireframes/551218684071) (suitable for G Suite admins to install domain-wide), and the [Balsamiq Wireframes for Google Drive Documentation](https://docs.balsamiq.com/google-drive/wireframes/).
 
 **Main article:** [How can I purchase, manage or cancel a Balsamiq Wireframes for Google Drive subscription?](/sales/gdrivesubscription/)
 
