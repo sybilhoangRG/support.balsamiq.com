@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-The short answer is yes, but you will need to install **[Balsamiq Wireframes for Google Drive](https://chrome.google.com/webstore/detail/balsamiq-wireframes-free/imbfadckkgblfbkinjejdeobpfbcopgb)** first.
+The short answer is yes, but you will need to install **[Balsamiq Wireframes for Google Drive](https://balsamiq.com/products/mockups/plugins/)** first.
 
 Once you've done that, you can install and use our G-Suite add-ons:
 

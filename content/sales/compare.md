@@ -15,7 +15,7 @@ This page will cover the differences in editor versions. Check out our [Products
 
 We currently have three different versions of our editor (the part of our application where you create and edit wireframes).
 
-First, there is the [Balsamiq Wireframes](https://docs.balsamiq.com/cloud/intro/) editor, which made its debut with [Balsamiq Wireframes for Google Drive](https://chrome.google.com/webstore/detail/balsamiq-wireframes-free/imbfadckkgblfbkinjejdeobpfbcopgb). It is our state of the art native editor. That means it's super fast and doesn't require the installation of 3rd party frameworks or plugins.
+First, there is the [Balsamiq Wireframes](https://docs.balsamiq.com/cloud/intro/) editor, which made its debut with [Balsamiq Wireframes for Google Drive](https://balsamiq.com/products/mockups/plugins/). It is our state of the art native editor. That means it's super fast and doesn't require the installation of 3rd party frameworks or plugins.
 
 Next, there is [Version 3 Editor](https://docs.balsamiq.com/desktop/intro/), which we debuted with [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/). It was the perfect bridge release between our Version 2 Editor, and the Balsamiq Wireframes editor.
 
