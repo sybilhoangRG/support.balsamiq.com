@@ -83,7 +83,7 @@ The Space Owners or the Billing-Only Administrator can stop your subscription at
 
 To stop the auto-renew of your subscription select "Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your Balsamiq Cloud Space will end at the conclusion of the current billing period.
 
-Please review details of your options before canceling your subscription to make sure your team [downloads](https://docs.balsamiq.com/cloud/projects/#cloning-downloading-and-deleting-projects) any work they would like to keep.
+Please review details of your options before canceling your subscription to make sure your team [downloads](https://docs.balsamiq.com/cloud/projects/#downloading-projects) any work they would like to keep.
 
 * * *
 
