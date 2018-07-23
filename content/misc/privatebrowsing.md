@@ -7,7 +7,7 @@ product: "Miscellaneous FAQs"
 draft: ''
 ---
 
-This page is for folks who don't want to [clear their browser's cache](../clearcache), but still want to experience a "clean" browser. This can also be helpful for folks having login issues with [Balsamiq Cloud](https://balsamiq.cloud).
+This page is for folks who don't want to [clear their browser's cache](../clearcache), but still want to experience a "clean" browser. This can also be helpful if you're having login issues with [Balsamiq Cloud](https://balsamiq.cloud).
 
 ## Apple Safari
 
@@ -22,7 +22,7 @@ To open a Private Browser window in Safari, go up to the **File Menu** and selec
 
 {{% alert warning %}}**Heads Up:** Google calls their Private Browsing Mode "Incognito"{{% /alert %}}
 
-To open an Incognito Window in Chrome, open the **Chrome Menu** in the upper-right-hand corner of the browser window and select **New Incognito Window**. You can also use the shortcut **Shift + ⌘ + N** (on macOS), or **Shift + CTRL + N** (on Windows).
+To open an Incognito Window in Chrome, open the **Chrome Menu** in the upper-right-hand corner of the browser window and select **New Incognito Window**. You can also use the shortcut **Shift + ⌘ + N** (on macOS), or **Shift + CTRL + N** (on Windows/Linux).
 
 ![](//media.balsamiq.com/img/support/resources/chrome_private.png)
 
@@ -52,7 +52,7 @@ To open an InPrivate Window in Microsoft Internet Explorer, click on the **Gear 
 
 ## Mozilla Firefox
 
-To open a Private Browser Window in Firefox, click on the **Firefox Menu** in the upper-right-hand corner of the browser and select **New Private Window**. You can also use the shortcut **Shift + ⌘ + P** (on macOS) or **Shift + CTRL + P** (on Windows).
+To open a Private Browser Window in Firefox, click on the **Firefox Menu** in the upper-right-hand corner of the browser and select **New Private Window**. You can also use the shortcut **Shift + ⌘ + P** (on macOS) or **Shift + CTRL + P** (on Windows/Linux).
 
 ![](//media.balsamiq.com/img/support/resources/firefox_private.png)
 
