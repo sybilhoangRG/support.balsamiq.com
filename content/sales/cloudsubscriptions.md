@@ -47,7 +47,7 @@ Your billing renewal date will remain the same if you are only changing the numb
 
 * * *
 
-## Finding past Invoices
+## Finding Past Invoices
 
 We send invoice notifications via email following your automatic credit card payment to the email address of the Space Owner(s). The email will also be sent to the Billing-Only Administrator if one is assigned.
 
@@ -103,9 +103,13 @@ If you need to temporarily walk away from your subscription, but do not wish to 
 
 Auto-hibernation will automatically kick in for those paid subscriptions that meet the following criteria:
 
-* Are on the $9/monthly plan
-* The Space remains empty for a full billing cycle (learn how to [Manage Your Projects](https://docs.balsamiq.com/cloud/projects/))
+* They are on the $9/month plan
+* The Space has remained empty for a full billing period (learn how to [Manage Your Projects](https://docs.balsamiq.com/cloud/projects/))
 
-If these two requirements are met, our system will do its magic behind the scenes and will know not to charge your card for that month. Your Space will remain active, along with any staff members or Space Owners you may have invited to join you. You will still receive an invoice for that billing cycle, which will show that you were charged $0.
+If these two requirements are met, our system will do its magic behind the scenes and will place your Space "IN HIBERNATION". If you are not sure when your billing period begins and ends, just take a look at [your invoices](#finding-past-invoices). You can find them in the Billing History section of your Space's Settings, and the period is defined in each invoice.
 
-If your Space is currently on a different plan, and you know you won't be making use of it, you can always [change your plan](#changing-your-plan) to the $9/month one. Remember, the Space must remain empty for a full billing cycle in order for auto-hibernation to take place.
+After your Space enters auto-hibernation, it will remain active, along with any Staff Members or Space Owners you may have invited to join you. You will still receive invoices for subsequent billing periods, but they will total $0 due to the auto-hibernation credit.
+
+Note that your Space will automatically exit auto-hibernation whenever you create or upload a project. You can then expect your renewal charges to resume.
+
+If your Space is currently on a different plan, and you know you won't be making use of it, you can always [change your plan](#changing-your-plan) to the $9/month one. **Remember, the Space must remain empty for a full billing period before you see a credit for auto-hibernation.**
