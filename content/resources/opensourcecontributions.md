@@ -9,6 +9,6 @@ product: "Resources"
 
 At Balsamiq we are big fans of open source software. We use a lot of it to power our business and our infrastructure, and we try to give back to the open source community whenever we can:
 
-We open source parts of our code and tools, usually with MIT licensing. Visit [http://github.com/balsamiq](http://github.com/balsamiq) to find out more.
+We open source parts of our code and tools, usually with MIT licensing. Visit [https://github.com/balsamiq](https://github.com/balsamiq) to find out more.
 
-[![](https://media.balsamiq.com/img/support/resources/githubbalsamiq.png)](http://github.com/balsamiq)
+[![](https://media.balsamiq.com/img/support/resources/githubbalsamiq.png)](https://github.com/balsamiq)

@@ -20,7 +20,7 @@ An **update** is when you download and install the newest version of Balsamiq. F
 Current upgrade pricing information is always available online:
 
 *   [Mockups 3 for Desktop](https://balsamiq.com/buy/desktopupgrades/)
-*   [Balsamiq Cloud](http://balsamiq.com/buy/#cloud)
+*   [Balsamiq Cloud](https://balsamiq.com/buy/#cloud)
 *   [Wireframes for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/pricing) (sold by Atlassian)
 *   [Wireframes for Confluence Server](https://balsamiq.com/buy/#cu)
 *   [Wireframes for Jira Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)

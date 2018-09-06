@@ -16,4 +16,4 @@ Because our apps were built on top of Adobe technology (and not the frameworks n
 
 It's definitely something we want to add, (we have been known to misspell a word or two) and it is something that will be a lot easier now that our apps are running on native frameworks. While there is a lot of work ahead of us, spellcheck is near the top of our list of things to explore once we move completely native.
 
-Stay tuned to our [blog](http://blogs.balsamiq.com/product/) for more news. As soon as we have spellcheck, we will announce it there!
+Stay tuned to our [blog](https://blog.balsamiq.com/category/products/) for more news. As soon as we have spellcheck, we will announce it there!

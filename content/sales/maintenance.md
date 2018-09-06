@@ -63,7 +63,7 @@ Maintenance renewals for licenses purchased directly from Balsamiq can be purcha
 
 We have [additional payment options](/sales/paymentmethods/#licenses) for orders over $300, and customers using Wireframes for Confluence Server or Wireframes for Jira Server on their own servers have an option to [migrate to Atlassian Marketplace](/sales/atlassianmigrating/) before renewing.
 
-Licenses purchased through [Atlassian Marketplace](/sales/marketplace/) can be renewed through [my.atlassian.com](http://my.atlassian.com).
+Licenses purchased through [Atlassian Marketplace](/sales/marketplace/) can be renewed through [my.atlassian.com](https://my.atlassian.com).
 
 Other Balsamiq products do not have separate [maintenance](#when-does-my-maintenance-start-and-end) costs.
 

@@ -12,7 +12,7 @@ the [free Balsamiq 3 for Desktop for classroom use offer](https://balsamiq.com/f
 to your teaching arsenal.
 
 This guide helps instructors who plan on using Balsamiq 3 for Desktop in their class. We also provide
-[UX Apprentice](http://www.uxapprentice.com/), a free resource for students new to user experience design.
+[UX Apprentice](https://www.uxapprentice.com/), a free resource for students new to user experience design.
 The site helps students learn the basics of UX Design with easy steps to follow, and pointers for learning more.
 
 This document is always evolving, and we would love to hear about your experience in order to improve it.

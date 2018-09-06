@@ -15,6 +15,6 @@ This introductory video provides overview of how to work with [Balsamiq Cloud](h
 
 ## New to UX Design?
 
-[![](https://media.balsamiq.com/img/support/resources/uxapprentice.png)](http://www.uxapprentice.com)
+[![](https://media.balsamiq.com/img/support/resources/uxapprentice.png)](https://www.uxapprentice.com)
 
-It's easy to make wireframes, but creating products that are easy to use is actually quite hard! Information architecture, interaction design, and copywriting are just a few of the elements involved. We created [UX Apprentice](http://www.uxapprentice.com) to help you learn the basics of UX Design with easy steps to follow, and pointers for learning more. [Start learning now!](http://www.uxapprentice.com)
+It's easy to make wireframes, but creating products that are easy to use is actually quite hard! Information architecture, interaction design, and copywriting are just a few of the elements involved. We created [UX Apprentice](https://www.uxapprentice.com) to help you learn the basics of UX Design with easy steps to follow, and pointers for learning more. [Start learning now!](https://www.uxapprentice.com)
