@@ -13,7 +13,7 @@ draft: ''
 
 Launched at Atlassian Summit 2012, [Atlassian Marketplace](https://plugins.atlassian.com/) is Atlassian's _app store_ for plugins and extensions. Marketplace is the preferred way to purchase plugins and extensions. You buy from Atlassian directly, and Atlassian shares the revenue with the maker of the plugin.
 
-Learn more about Atlassian Marketplace [here](http://www.atlassian.com/licensing/marketplace).
+Learn more about Atlassian Marketplace [here](https://www.atlassian.com/licensing/marketplace).
 
 ## Are Balsamiq Plugins Available on Atlassian Marketplace?
 

@@ -11,9 +11,9 @@ We [do not offer professional services ourselves](/sales/training/) and we don't
 
 ## Job Announcements on Twitter
 
-*   [@freelanceux](http://twitter.com/freelanceux)
-*   [@IA_UXJOBS](http://twitter.com/IA_uxjobs)
-*   [@uxdesignjobs](http://twitter.com/uxdesignjobs)
+*   [@freelanceux](https://twitter.com/freelanceux)
+*   [@IA_UXJOBS](https://twitter.com/IA_uxjobs)
+*   [@uxdesignjobs](https://twitter.com/uxdesignjobs)
 
 ## Professional Association Job Listings
 

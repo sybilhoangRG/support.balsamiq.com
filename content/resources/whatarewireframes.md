@@ -53,7 +53,7 @@ With great power comes great responsibility. Just because Balsamiq makes it easy
 
 Human Computer Interaction / User Experience Design is an art and science, and lots of people study a lifetime to become experts at it.
 
-Wireframes are only part of the process. You might also want to use personas, site maps, prototypes, usability tests, and many more design techniques. We created [UX Apprentice](http://www.uxapprentice.com/) as a resource for learning how to make tools and techniques like these part of your process. Be sure to [check it out](http://www.uxapprentice.com/) if UX Design is new to you.
+Wireframes are only part of the process. You might also want to use personas, site maps, prototypes, usability tests, and many more design techniques. We created [UX Apprentice](https://www.uxapprentice.com/) as a resource for learning how to make tools and techniques like these part of your process. Be sure to [check it out](https://www.uxapprentice.com/) if UX Design is new to you.
 
 A good dose of common sense will go a long way, but is no substitute for working with an experienced UX professional.
 
