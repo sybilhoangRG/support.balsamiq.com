@@ -27,7 +27,7 @@ At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you
 
 Balsamiq Wireframes for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
 
-To sign up for a plan, open Balsamiq Wireframes for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
+To sign up for a plan, open Balsamiq Wireframes for Google Drive by creating a [new project](https://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
 
 ![](//media.balsamiq.com/img/support/sales/bwgd/help_signup.png)
 
@@ -127,7 +127,7 @@ The option to [remove yourself](#removing-yourself-as-administrator) will become
 
 If you wish to restart your subscription, simply select "Restart Subscription" from your billing page.
 
-You can access the billing page for your inactive subscription by trying to [create a new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
+You can access the billing page for your inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
 
 If you had [removed yourself](#removing-yourself-as-administrator) from your canceled subscription, you will simply see the option to [start a new subscription](/#signing-up-for-a-subscription) from scratch.
 

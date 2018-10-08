@@ -28,7 +28,7 @@ The Google product forums have provided some help and 3 methods to workaround th
 
 2. Via the keyboard
 
-	![keys for scrolling](http://media.balsamiq.com/img/support/prodfaqs/scrollkeys.png)
+	![keys for scrolling](https://media.balsamiq.com/img/support/prodfaqs/scrollkeys.png)
 
 3. Change scrollbar behavior using an extension: [chrome webstore search: scrollbars](https://chrome.google.com/webstore/search/scrollbars?_category=extensions)
 

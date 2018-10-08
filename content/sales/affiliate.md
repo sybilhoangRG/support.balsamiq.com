@@ -13,4 +13,4 @@ No, we do not. And at this time, there are no plans of starting one.
 
 If you're interested in reselling our products, please have a look at our [Software Resellers FAQ](/sales/resellers/).
 
-We also have a Free Program through which we give licenses away. You can view the requirements and apply [here](https://balsamiq.com/free/).
+We also have a Free Program through which we give licenses away. You can view the requirements and apply [here](https://balsamiq.com/givingback/free/).

@@ -23,7 +23,7 @@ If you're coming from one of our other products, chances are you're already fami
 
 The easiest way to combine two (or more) projects is to follow these steps:
 
-1. [Download locally the project(s)](https://docs.balsamiq.com/cloud/projects/#cloning-downloading-and-deleting-projects) you want to combine to another one.
+1. [Download locally the project(s)](https://docs.balsamiq.com/cloud/projects/#downloading-projects) you want to combine to another one.
 ![](//media.balsamiq.com/img/support/sales/cloud/download_project.png)
 
 2. [Import the project(s)](https://docs.balsamiq.com/cloud/importing/#importing-from-other-versions-of-balsamiq) to the desired one using the "Import BMPR" option from the Project menu.
@@ -62,4 +62,4 @@ You can subscribe 5 different Spaces to the $9/mo plan each before the savings s
 
 ## Balsamiq Software Donation Program
 
-Although Balsamiq Cloud is not offered through our Software Donation Program, we do offer licenses for some of our other products, like Mockups 3 for Desktop. We are more than happy to donate licenses to those that qualify, such as non-profits, universities (classroom use), and plain do-gooders. If you'd like to apply, or know someone that should, head over to our [application form](https://balsamiq.com/free/) and send in your request.
+Although Balsamiq Cloud is not offered through our Software Donation Program, we do offer licenses for some of our other products, like Mockups 3 for Desktop. We are more than happy to donate licenses to those that qualify, such as non-profits, universities (classroom use), and plain do-gooders. If you'd like to apply, or know someone that should, head over to our [application form](https://balsamiq.com/givingback/free/) and send in your request.

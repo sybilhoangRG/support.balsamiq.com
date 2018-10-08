@@ -19,7 +19,7 @@ In the case of BMPR files that content contains everthing there is to know about
 
 ### Getting a BMPR File
 
-If you want to get your hands on a BMPR file, create a new wireframe using Balsamiq app and save the file somewhere. That's a BMPR file. Or <a href="http://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
+If you want to get your hands on a BMPR file, create a new wireframe using Balsamiq app and save the file somewhere. That's a BMPR file. Or <a href="https://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
 
 The BMPR format isn't the first format we've used for Balsamiq. For example, in the past we've used <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version">BMML</a>. A Mockups 2 project requires multiple BMML files making them a little more cumbersome to manage. A single BMPR file contains everything for a project. This single file approach makes sharing projects much easier.
 
@@ -45,7 +45,7 @@ A BMPR file is a humble SQLite database file that stores both scalar values (sin
 
 Here's what a BMPR file looks like when opened using the free <a href="https://github.com/sqlitebrowser/sqlitebrowser">DB Browser for SQLite</a> app:
 
-[![](http://media.balsamiq.com/img/support/docs/bmpr/tables.png)](http://media.balsamiq.com/img/support/docs/bmpr/tables.png)
+[![](https://media.balsamiq.com/img/support/docs/bmpr/tables.png)](https://media.balsamiq.com/img/support/docs/bmpr/tables.png)
 
 There are 4 tables in a BMPR file:
 
@@ -356,7 +356,7 @@ The branches table contains records for each branch in a project. A typical proj
     <div class="row">
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_1_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_1.png)
+          [![](https://media.balsamiq.com/img/support/docs/bmpr/alternate_1_thumbnail.png)](https://media.balsamiq.com/img/support/docs/bmpr/alternate_1.png)
           <div class="caption">
             This is the "master" alternate. Its ID in the <em>BRANCHES</em> table is "master", but it has no "branchName" key or value in the ATTRIBUTES column. That's because the master branch name can't be changed. Balsamiq will always refer to it as "Official Version".
           </div>
@@ -364,7 +364,7 @@ The branches table contains records for each branch in a project. A typical proj
       </div>
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_2_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_2.png)
+          [![](https://media.balsamiq.com/img/support/docs/bmpr/alternate_2_thumbnail.png)](https://media.balsamiq.com/img/support/docs/bmpr/alternate_2.png)
           <div class="caption">
             This an alternate of the official version. Its ID is an automatically generated UUID and its "branchName" in the ATTRIBUTES column is "Unofficial Version" - its name is editable since it's not the master branch.
           </div>
@@ -372,7 +372,7 @@ The branches table contains records for each branch in a project. A typical proj
       </div>
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_3_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_3.png)
+          [![](https://media.balsamiq.com/img/support/docs/bmpr/alternate_3_thumbnail.png)](https://media.balsamiq.com/img/support/docs/bmpr/alternate_3.png)
           <div class="caption">
             This is another alternate. Its ID is an automatically generated UUID and its "branchName" in the ATTRIBUTES column is "Work in Progress Version".
           </div>
@@ -383,7 +383,7 @@ The branches table contains records for each branch in a project. A typical proj
     <div class="row">
       <div class="col-sm-6 col-md-6">
         <div class="thumbnail">
-          [![](http://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes.png)
+          [![](https://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes_thumbnail.png)](https://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes.png)
           <div class="caption">
             In this screenshot of Balsamiq we're picking a new font and changing the link colors to red on one alternate.
           </div>
@@ -391,7 +391,7 @@ The branches table contains records for each branch in a project. A typical proj
       </div>
       <div class="col-sm-6 col-md-6">
         <div class="thumbnail">
-          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_showing_font_changes_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_showing_font_changes.png)
+          [![](https://media.balsamiq.com/img/support/docs/bmpr/alternate_showing_font_changes_thumbnail.png)](https://media.balsamiq.com/img/support/docs/bmpr/alternate_showing_font_changes.png)
           <div class="caption">
             Those font changes apply to both the original alternate as well as all other alternates.
           </div>
@@ -399,9 +399,9 @@ The branches table contains records for each branch in a project. A typical proj
       </div>
     </div>
     <p>Here what the data looks like when the font is changed for an alternate:</p>
-    <img src="http://media.balsamiq.com/img/support/docs/bmpr/sqlite_master_branch_attributes_highlighted.png" />
+    <img src="https://media.balsamiq.com/img/support/docs/bmpr/sqlite_master_branch_attributes_highlighted.png" />
     <p>That font setting is applied to the master branch, as seen here:</p>
-    <img src="http://media.balsamiq.com/img/support/docs/bmpr/sqlite_branches_table.png" />
+    <img src="https://media.balsamiq.com/img/support/docs/bmpr/sqlite_branches_table.png" />
   </div>
 </div>
 

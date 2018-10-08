@@ -63,4 +63,4 @@ We require that purchases are made in the End User’s name. Licensees are restr
 
 Balsamiq has adopted the Electronic Software Distribution (ESD) model. Consequently, software is available only via HTTP download. Balsamiq does not distribute any software on CD, DVD, or as a shrink wrapped product.
 
-You can download Balsamiq's software [here](https://www.balsamiq.com/download).
+You can download Balsamiq's software [here](https://balsamiq.com/download/).

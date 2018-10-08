@@ -13,7 +13,7 @@ Here is the Wireframe that you will create in this tutorial:
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-final_mockup.png)
 
-​If you're new to the idea of wireframes, you may want to check out [UX Apprentice](http://www.uxapprentice.com/) to start with an overview of what wireframes are, and where they fit into a UX Design process. 
+​If you're new to the idea of wireframes, you may want to check out [UX Apprentice](https://www.uxapprentice.com/) to start with an overview of what wireframes are, and where they fit into a UX Design process. 
 
 * * *
 

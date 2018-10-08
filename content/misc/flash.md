@@ -16,7 +16,7 @@ These versions are all completely **native** (no Flash). We've fully rebuilt our
 
 We are hard at work at bringing the native code to our Desktop version and the plugins that don't yet have it. We are going to work on mobile versions too!
 
-Stay tuned to our [blog](http://blogs.balsamiq.com/product/). As soon as we have more news to share, we will announce it there!
+Stay tuned to our [blog](https://blog.balsamiq.com/category/products/). As soon as we have more news to share, we will announce it there!
 
 ---
 
