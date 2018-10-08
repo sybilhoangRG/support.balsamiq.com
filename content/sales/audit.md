@@ -1,5 +1,5 @@
 ---
-title: Can I Get an Audit of Our past Purchases?
+title: Can I Get an Audit of Our Past Purchases?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 430
 menu:
