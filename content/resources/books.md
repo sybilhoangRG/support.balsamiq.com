@@ -9,9 +9,9 @@ product: "Resources"
 
 Yes!
 
-There is an awesome [eBook of Balsamiq Interviews](https://balsamiq.com/products/mockups/interviews/) by Bob Walsh that includes interviews with nine different Balsamiq users. Each interviewee contributes an interesting perspective on using Balsamiq and its advantages and limitations.
+There is an awesome [eBook of Balsamiq Interviews](https://balsamiq.com/learn/inspiration/interviews/) by Bob Walsh that includes interviews with nine different Balsamiq users. Each interviewee contributes an interesting perspective on using Balsamiq and its advantages and limitations.
 
-[![](https://media.balsamiq.com/img/ebook-cover-interviews.jpg)](https://balsamiq.com/products/mockups/interviews)
+[![](https://media.balsamiq.com/img/ebook-cover-interviews.jpg)](https://balsamiq.com/learn/inspiration/interviews)
 
 It's a great complement to our [Case Studies on our blog](https://blog.balsamiq.com/category/case-studies/). Also, **it's free!** [Get it here](https://balsamiq.com/products/mockups/interviews/).
 
